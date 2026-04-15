@@ -13,24 +13,9 @@ body {
 /* LAYOUT */
 .container {
   max-width: 900px;
-  margin: 60px auto;
+  margin: 0px auto;
   padding: 0 20px;
 }
-
-@media (max-width: 768px) {
-  .nav {
-    display: none;
-  }
-
-  .burger {
-    display: flex;
-  }
-
-  .mobile-menu.active {
-    display: flex;
-  }
-}
-
 
 /* HEADER */
 .header {
@@ -270,3 +255,17 @@ ul {
   height: 10px;
 }
 
+
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+  }
+
+  .burger {
+    display: flex;
+  }
+
+  .mobile-menu.active {
+    display: flex;
+  }
+}
