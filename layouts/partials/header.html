@@ -1,12 +1,4 @@
 <header class="header" id="header">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="canonical" href="{{ .Permalink }}">
-  {{ range .AllTranslations }}
-    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
-  {{ end }}
-
-  <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
-
   <div class="header-inner">
   <div class="logo">
     <a href="{{ .Site.Home.RelPermalink }}">
@@ -16,14 +8,14 @@
   </div>
 
   <!-- DESKTOP NAV -->
-<nav class="nav">
-  {{ $lang := .Site.Language.Lang }}
-  {{ $menu := index .Site.Data.menu $lang }}
+  <nav class="nav">
+    {{ $lang := .Site.Language.Lang }}
+    {{ $menu := index .Site.Data.menu $lang }}
 
-  {{ range $menu }}
-    <a href="{{ .url }}">{{ .name }}</a>
-  {{ end }}
-</nav>
+    {{ range $menu }}
+      <a href="{{ .url }}">{{ .name }}</a>
+    {{ end }}
+  </nav>
 
   <!-- RIGHT SIDE -->
   <div class="header-right">
@@ -40,28 +32,9 @@
 
   <!-- MOBILE MENU -->
   <div class="mobile-menu" id="mobileMenu">
-    <a href="{{ "map" | relLangURL }}">Map</a>
+    {{ range $menu }}
+    <a href="{{ .url }}">{{ .name }}</a>
+  	{{ end }}
   </div>
-
-
-<script>
-  const header = document.getElementById('header');
-  const burger = document.getElementById('burger');
-  const menu = document.getElementById('mobileMenu');
-
-  // scroll эффект
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 10) {
-      header.classList.add('scrolled');
-    } else {
-      header.classList.remove('scrolled');
-    }
-  });
-
-  // мобильное меню
-  burger.addEventListener('click', () => {
-    menu.classList.toggle('active');
-  });
-</script>
 
 </header>

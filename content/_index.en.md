@@ -55,3 +55,5 @@ Follow us to get the latest guides, tools, and opportunities in crypto.
 ---
 
 > ⚠️ Disclaimer: This content is for informational purposes only and is not financial advice. Always do your own research (DYOR).
+
+{{< btn url="/en/map/" >}}Open Map{{< /btn >}}

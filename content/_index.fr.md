@@ -56,3 +56,4 @@ Suivez-nous pour recevoir les derniers guides, outils et opportunités dans la c
 
 > ⚠️ Avertissement : ce contenu est fourni à titre informatif uniquement et ne constitue pas un conseil financier. Faites toujours vos propres recherches (DYOR).
 
+{{< btn url="/fr/map/" >}}Carte{{< /btn >}}

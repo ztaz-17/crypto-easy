@@ -1,0 +1,36 @@
+@media (max-width: 768px) {
+  .nav {
+    display: none;
+  }
+
+  .burger {
+    display: flex;
+  }
+
+  .mobile-menu.active {
+    display: flex;
+  }
+
+  .logo img {
+    height: 60px;
+    width: 60px;
+    border-radius: 60px;
+  }
+
+  .header-right {
+    gap: 8px;
+  }
+
+  .header-inner {
+    padding: 6px 12px;
+  }
+
+  .header.scrolled .header-inner {
+    padding: 4px 10px;
+  }
+
+  .logo a {
+    font-size: 16px;
+  }
+ 
+}

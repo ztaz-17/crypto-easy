@@ -2,9 +2,25 @@
 <html lang="{{ .Site.Language.Lang }}">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   {{ partial "seo.html" . }}
   <title>{{ .Title }}</title>
-  <link rel="stylesheet" href="/css/styles.css?v={{ now.Unix }}">
+  {{ $ver := now.Unix }}
+  <link rel="stylesheet" href="/css/base.css?v={{ $ver }}">
+  <link rel="stylesheet" href="/css/header.css?v={{ $ver }}">
+  <link rel="stylesheet" href="/css/typography.css?v={{ $ver }}">
+  <link rel="stylesheet" href="/css/responsive.css?v={{ $ver }}">
+ 
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{ end }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
 </head>
 <body>
 
@@ -15,6 +31,26 @@
   </main>
 
   {{ partial "footer.html" . }}
+
+<script>
+  const header = document.getElementById('header');
+  const burger = document.getElementById('burger');
+  const menu = document.getElementById('mobileMenu');
+
+  // scroll эффект
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 10) {
+      header.classList.add('scrolled');
+    } else {
+      header.classList.remove('scrolled');
+    }
+  });
+
+  // мобильное меню
+  burger.addEventListener('click', () => {
+    menu.classList.toggle('active');
+  });
+</script>
 
 </body>
 </html>
