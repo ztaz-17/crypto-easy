@@ -1,0 +1,12 @@
+<title>
+  {{ if .Title }}{{ .Title }} | {{ end }}Crypto Easy
+</title>
+{{ $desc := .Params.description | default "Learn crypto, blockchain and Web3 simply." }}
+<meta name="description" content="{{ .Params.description }}">
+
+{{ if .Params.keywords }}
+  <meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
+{{ end }}
+
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:url" content="{{ .Permalink }}">

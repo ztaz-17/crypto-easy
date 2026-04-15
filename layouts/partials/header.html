@@ -1,13 +1,61 @@
-<header class="header">
+<header class="header" id="header">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Lang }}" href="{{ .Permalink }}">
+  {{ end }}
+
+  <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
+
+  <div class="header-inner">
 
   <div class="logo">
-    <a href="{{ .Site.Home.RelPermalink }}">CryptoEasy</a>
+    <a href="{{ .Site.Home.RelPermalink }}">
+      <img src="/logo.jpg" alt="Crypto Easy logo">
+      <span>Crypto is Easy!</span>
+    </a>
   </div>
 
+  <!-- DESKTOP NAV -->
   <nav class="nav">
     <a href="{{ "map" | relLangURL }}">Map</a>
   </nav>
 
-  {{ partial "language-switcher.html" . }}
+  <!-- RIGHT SIDE -->
+  <div class="header-right">
+    {{ partial "language-switcher.html" . }}
+
+  <!-- BURGER -->
+  <button class="burger" id="burger">
+    <span></span>
+    <span></span>
+  </button>
+  </div>
+  </div>
+
+  <!-- MOBILE MENU -->
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="{{ "map" | relLangURL }}">Map</a>
+  </div>
+
+
+<script>
+  const header = document.getElementById('header');
+  const burger = document.getElementById('burger');
+  const menu = document.getElementById('mobileMenu');
+
+  // scroll эффект
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 10) {
+      header.classList.add('scrolled');
+    } else {
+      header.classList.remove('scrolled');
+    }
+  });
+
+  // мобильное меню
+  burger.addEventListener('click', () => {
+    menu.classList.toggle('active');
+  });
+</script>
 
 </header>
