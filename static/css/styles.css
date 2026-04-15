@@ -268,4 +268,23 @@ ul {
   .mobile-menu.active {
     display: flex;
   }
+
+  .logo img {
+    height: 40px;
+    width: auto;
+    border-radius: 40px;
+  }
+
+  .header-inner {
+    padding: 6px 12px;
+  }
+
+  .header.scrolled .header-inner {
+    padding: 4px 10px;
+  }
+
+  .logo a {
+    font-size: 16px;
+  }
+ 
 }
