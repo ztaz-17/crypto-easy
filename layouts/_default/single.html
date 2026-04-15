@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ if .Content }}
+  {{ .Content }}
+{{ else }}
+  {{/* fallback на EN контент */}}
+  {{ $en := .Site.GetPage (printf "/en%s" .RelPermalink) }}
+
+  {{ if $en }}
+    {{ $en.Content }}
+  {{ else }}
+    <p>Content coming soon</p>
+  {{ end }}
+{{ end }}
+
+{{ end }}

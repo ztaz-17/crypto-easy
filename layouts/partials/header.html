@@ -1,0 +1,13 @@
+<header class="header">
+
+  <div class="logo">
+    <a href="{{ .Site.Home.RelPermalink }}">CryptoEasy</a>
+  </div>
+
+  <nav class="nav">
+    <a href="{{ "map" | relLangURL }}">Map</a>
+  </nav>
+
+  {{ partial "language-switcher.html" . }}
+
+</header>

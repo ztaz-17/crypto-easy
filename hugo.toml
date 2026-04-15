@@ -1,3 +1,22 @@
-baseURL = 'https://crypto-easy.org/'
-locale = 'en-us'
-title = 'Crypto is Easy!'
+baseURL = "https://crypto-easy.org/"
+languageCode = "en"
+title = "Crypto Easy"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    weight = 1
+    languageName = "EN"
+
+  [languages.ru]
+    weight = 2
+    languageName = "RU"
+
+  [languages.fr]
+    weight = 3
+    languageName = "FR"
+
+[params]
+  description = "Crypto is Easy"

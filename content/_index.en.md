@@ -42,9 +42,9 @@ If you're new to crypto, start here:
 
 To make crypto accessible to everyone.
 
-No complicated terms.
-No fluff.
-Only practical knowledge.
+No complicated terms.  
+No fluff.  
+Only practical knowledge.  
 
 ---
 

@@ -1,0 +1,30 @@
+<div class="lang-dropdown">
+  <button class="lang-btn">
+    {{ .Site.Language.Lang | upper }}
+  </button>
+
+  <div class="lang-menu">
+    {{ $current := . }}
+
+    {{ range .Site.Languages }}
+      {{ $lang := .Lang }}
+
+      {{ $translation := index (where $current.Translations "Lang" $lang) 0 }}
+
+      {{ if $translation }}
+        <!-- есть перевод -->
+        <a href="{{ $translation.RelPermalink }}">
+          {{ .LanguageName }}
+        </a>
+
+      {{ else }}
+        {{ $cleanPath := replace $current.RelPermalink (printf "/%s/" $current.Lang) "/" }}
+
+        <a href="{{ printf "/%s%s" $lang $cleanPath | relURL }}">
+          {{ .LanguageName }}
+        </a>
+
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
