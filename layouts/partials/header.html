@@ -16,9 +16,14 @@
   </div>
 
   <!-- DESKTOP NAV -->
-  <nav class="nav">
-    <a href="{{ "map" | relLangURL }}">Map</a>
-  </nav>
+<nav class="nav">
+  {{ $lang := .Site.Language.Lang }}
+  {{ $menu := index .Site.Data.menu $lang }}
+
+  {{ range $menu }}
+    <a href="{{ .url }}">{{ .name }}</a>
+  {{ end }}
+</nav>
 
   <!-- RIGHT SIDE -->
   <div class="header-right">

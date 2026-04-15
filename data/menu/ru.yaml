@@ -1,0 +1,5 @@
+- name: Карта
+  url: /ru/map/
+
+- name: Статьи
+  url: /ru/posts/

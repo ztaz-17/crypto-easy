@@ -32,7 +32,7 @@ keywords: ["криптовалюта", "биткоин", "блокчейн", "De
 
 ## 🔥 Популярные гайды
 
-* 💸 [Как зарабатывать на крипте в 2026](/posts/how-to-make-money-crypto/)
+* 💸 [Как зарабатывать на крипте в {{< year >}}](/posts/how-to-make-money-crypto/)
 * ⚠️ [Ошибки новичков](/posts/beginner-mistakes/)
 * 🏦 [Лучшие криптобиржи](/posts/best-crypto-exchanges/)
 

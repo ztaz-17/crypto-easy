@@ -1,0 +1,5 @@
+- name: Carte
+  url: /fr/map/
+
+- name: Articles
+  url: /fr/posts/
