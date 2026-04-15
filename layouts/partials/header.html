@@ -8,7 +8,6 @@
   <link rel="alternate" hreflang="x-default" href="{{ .Site.BaseURL }}">
 
   <div class="header-inner">
-
   <div class="logo">
     <a href="{{ .Site.Home.RelPermalink }}">
       <img src="/logo.jpg" alt="Crypto Easy logo">
@@ -23,13 +22,14 @@
 
   <!-- RIGHT SIDE -->
   <div class="header-right">
-    {{ partial "language-switcher.html" . }}
+    <!-- BURGER -->
+    <button class="burger" id="burger">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
 
-  <!-- BURGER -->
-  <button class="burger" id="burger">
-    <span></span>
-    <span></span>
-  </button>
+    {{ partial "language-switcher.html" . }}
   </div>
   </div>
 

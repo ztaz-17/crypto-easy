@@ -39,6 +39,12 @@ body {
   backdrop-filter: blur(12px);
 }
 
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
 /* при скролле */
 .header.scrolled .header-inner {
   padding: 10px 20px;
@@ -120,7 +126,7 @@ body {
 }
 
 .burger span {
-  width: 18px;
+  width: 20px;
   height: 2px;
   background: #111;
   display: block;
@@ -133,13 +139,13 @@ body {
   max-width: 900px;
   margin: 0 auto;
 
-  padding: 10px 20px;
+  padding: 0px 20px;
   background: white;
   border-top: 1px solid #eee;
 }
 
 .mobile-menu a {
-  padding: 10px 0;
+  padding: 3px 0;
   text-decoration: none;
   color: #333;
 }
@@ -173,6 +179,13 @@ h2 {
 
 p {
   color: #555;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #ccc, transparent);
+  margin: 8px 0;
 }
 
 /* CARD (для map) */
@@ -273,6 +286,10 @@ ul {
     height: 60px;
     width: 60px;
     border-radius: 60px;
+  }
+
+  .header-right {
+    gap: 8px;
   }
 
   .header-inner {

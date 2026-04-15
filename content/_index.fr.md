@@ -24,9 +24,9 @@ keywords: ["cryptomonnaie", "bitcoin", "blockchain", "DeFi", "crypto pour début
 
 Si vous débutez en crypto, commencez ici :
 
-👉 [Qu’est-ce que la cryptomonnaie ?](/posts/what-is-cryptocurrency/)
-👉 [Comment acheter de la crypto](/posts/how-to-buy-crypto/)
-👉 [Comment choisir un portefeuille](/posts/how-to-choose-wallet/)
+👉 [Qu’est-ce que la cryptomonnaie ?](/posts/what-is-cryptocurrency/)  
+👉 [Comment acheter de la crypto](/posts/how-to-buy-crypto/)  
+👉 [Comment choisir un portefeuille](/posts/how-to-choose-wallet/)  
 
 ---
 
@@ -42,9 +42,9 @@ Si vous débutez en crypto, commencez ici :
 
 Rendre la crypto accessible à tous.
 
-Pas de termes compliqués.  
-Pas de blabla inutile.  
-Seulement des connaissances pratiques.
+* Pas de termes compliqués.  
+* Pas de blabla inutile.  
+* Seulement des connaissances pratiques.
 
 ---
 
