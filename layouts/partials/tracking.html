@@ -1,0 +1,13 @@
+<script>
+function trackEvent(name, params = {}) {
+  // Google Analytics 4
+  if (typeof gtag !== "undefined") {
+    gtag('event', name, params);
+  }
+
+  // Yandex Metrica
+  if (typeof ym !== "undefined") {
+    ym({{ site.Params.analytics.yandexMetrica }}, 'reachGoal', name);
+  }
+}
+</script>
