@@ -20,3 +20,39 @@ defaultContentLanguageInSubdir = true
 
 [params]
   description = "Crypto is Easy"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "learn"
+    url = "/learn/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tools"
+    url = "/tools/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "make_money"
+    url = "/make-money/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "security"
+    url = "/security/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "reviews"
+    url = "/reviews/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "glossary"
+    url = "/glossary/"
+    weight = 6
+
+[params.analytics]
+ga4 = "G-YBDQ33HB6Z"
+yandexMetrica = "12345678"

@@ -1,1 +1,25 @@
-<br>
+<footer class="site-footer">
+  <hr>
+  <!-- LINKS -->
+  <div class="footer-links">
+    <a href="{{ "/learn/" | relLangURL }}">{{ i18n "learn" }}</a>
+    <a href="{{ "/tools/" | relLangURL }}">{{ i18n "tools" }}</a>
+    <a href="{{ "/security/" | relLangURL }}">{{ i18n "security" }}</a>
+	<a href="{{ "/reviews/" | relLangURL }}">{{ i18n "reviews" }}</a>
+  </div>
+
+  <hr>
+
+  <!-- COPYRIGHT -->
+  <div class="footer-copy">
+	<p>
+		&copy; {{ now.Year }}
+		<a href="{{ "/" | relLangURL }}">Crypto Easy</a>.
+		{{ i18n "all_rights" }}
+	</p>
+	<p class="disclaimer">
+		{{ i18n "disclaimer" }}
+	</p>
+  </div>
+
+</footer>

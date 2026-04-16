@@ -1,59 +1,67 @@
 ---
-
 title: "Crypto Easy — Crypto Made Simple"
 heading: "🚀 Crypto Easy"
-description: "Learn cryptocurrency, blockchain, DeFi, and how to make money with crypto. Simple guides for beginners and advanced users."
-keywords: ["cryptocurrency", "bitcoin", "blockchain", "DeFi", "crypto for beginners", "how to make money with crypto"]
-----------------------------------------------------------------------------------------------------------------------
+description: "Learn cryptocurrency, blockchain, DeFi, and how to safely make money with crypto. Simple guides for beginners and advanced users."
+keywords:
+  - cryptocurrency
+  - bitcoin
+  - blockchain
+  - DeFi
+  - crypto for beginners
+  - how to make money with crypto
+---
 
-**Crypto doesn’t have to be complicated. People just explain it that way. We make it simple.**
+**Crypto doesn’t have to be complicated. Most people just explain it badly. We make it simple.**
 
 ---
 
-## 💡 What You’ll Find Here
+## 💡 What you’ll find here
 
-* 📘 Simple explanations of crypto and blockchain
-* 💰 How to start making money with crypto
-* 🔐 Security and wallet guides
-* 📊 Reviews of exchanges, wallets, and tools
-* 🧠 Insights into trends and opportunities
-
----
-
-## 🧭 Where to Start
-
-If you're new to crypto, start here:
-
-👉 [What is Cryptocurrency?](/posts/what-is-cryptocurrency/)  
-👉 [How to Buy Crypto](/posts/how-to-buy-crypto/)  
-👉 [How to Choose a Wallet](/posts/how-to-choose-wallet/)  
+- 📘 Simple crypto explanations
+- 💰 Ways to earn with crypto safely
+- 🔐 Security & scam protection guides
+- 🧰 Tools, wallets & exchanges reviews
+- 📚 Glossary of crypto terms
 
 ---
 
-## 🔥 Popular Guides
+## 🧭 Start here
 
-* 💸 [How to Make Money with Crypto in 2026](/posts/how-to-make-money-crypto/)
-* ⚠️ [Beginner Mistakes](/posts/beginner-mistakes/)
-* 🏦 [Best Crypto Exchanges](/posts/best-crypto-exchanges/)
+If you're new to crypto:
 
----
-
-## 🎯 Our Mission
-
-To make crypto accessible to everyone.
-
-* No complicated terms.  
-* No fluff.  
-* Only practical knowledge.  
+👉 [What is Crypto](/en/learn/what-is-crypto/)  
+👉 [How to Buy Crypto](/en/learn/how-to-buy-crypto/)  
+👉 [Best Crypto Exchanges](/en/tools/best-crypto-exchanges/)  
+👉 [Crypto Wallet Guide](/en/security/how-to-store-crypto/)  
 
 ---
 
-## 📬 Stay Updated
+## 🔥 Popular guides
 
-Follow us to get the latest guides, tools, and opportunities in crypto.
+👉 [How to Make Money with Crypto](/en/make-money/)  
+👉 [Beginner Mistakes to Avoid](/en/security/scams/)  
+👉 [Best Crypto Platforms](/en/reviews/)  
 
 ---
 
-> ⚠️ Disclaimer: This content is for informational purposes only and is not financial advice. Always do your own research (DYOR).
+## 🎯 Mission
 
-{{< btn url="/en/map/" >}}Open Map{{< /btn >}}
+Make crypto understandable and usable for everyone.
+
+- no jargon  
+- no hype  
+- only real, practical knowledge  
+
+---
+
+## 📬 Stay updated
+
+Follow our Telegram for short updates and guides:
+👉 (link later)
+
+---
+
+> ⚠️ Disclaimer: Educational content only. Not financial advice. DYOR.
+
+---
+

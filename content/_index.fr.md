@@ -1,59 +1,66 @@
 ---
-
-title: "Crypto Easy — La crypto simplement"
+title: "Crypto Easy — crypto simplifiée"
 heading: "🚀 Crypto Easy"
-description: "Apprenez la cryptomonnaie, la blockchain, la DeFi et comment gagner de l’argent avec la crypto. Guides simples pour débutants et utilisateurs avancés."
-keywords: ["cryptomonnaie", "bitcoin", "blockchain", "DeFi", "crypto pour débutants", "comment gagner de l'argent avec la crypto"]
-----------------------------------------------------------------------------------------------------------------------
+description: "Apprenez la crypto-monnaie, la blockchain, la DeFi et comment gagner de l'argent avec la crypto. Guides simples pour débutants et avancés."
+keywords:
+  - crypto
+  - bitcoin
+  - blockchain
+  - DeFi
+  - gagner de l'argent avec crypto
+  - crypto pour débutants
+---
 
-**La crypto n’a pas besoin d’être compliquée. Les gens l’expliquent simplement comme ça. Nous la rendons simple.**
+**La crypto n’est pas compliquée. Elle est juste souvent mal expliquée. Nous la rendons simple.**
 
 ---
 
 ## 💡 Ce que vous trouverez ici
 
-* 📘 Explications simples de la crypto et de la blockchain  
-* 💰 Comment commencer à gagner de l’argent avec la crypto  
-* 🔐 Guides sur la sécurité et les portefeuilles  
-* 📊 Avis sur les plateformes d’échange, wallets et outils  
-* 🧠 Analyses des tendances et opportunités  
+- 📘 Explications simples de la crypto
+- 💰 Comment gagner de l’argent avec la crypto
+- 🔐 Sécurité et protection contre les arnaques
+- 🧰 Avis sur les exchanges et outils
+- 📚 Glossaire des termes crypto
 
 ---
 
 ## 🧭 Par où commencer
 
-Si vous débutez en crypto, commencez ici :
+Si vous débutez :
 
-👉 [Qu’est-ce que la cryptomonnaie ?](/posts/what-is-cryptocurrency/)  
-👉 [Comment acheter de la crypto](/posts/how-to-buy-crypto/)  
-👉 [Comment choisir un portefeuille](/posts/how-to-choose-wallet/)  
+👉 [Qu’est-ce que la crypto](/fr/learn/what-is-crypto/)  
+👉 [Comment acheter de la crypto](/fr/learn/how-to-buy-crypto/)  
+👉 [Meilleurs exchanges crypto](/fr/tools/best-crypto-exchanges/)  
+👉 [Comment stocker sa crypto](/fr/security/how-to-store-crypto/)  
 
 ---
 
 ## 🔥 Guides populaires
 
-* 💸 [Comment gagner de l’argent avec la crypto en 2026](/posts/how-to-make-money-crypto/)
-* ⚠️ [Erreurs des débutants](/posts/beginner-mistakes/)
-* 🏦 [Meilleures plateformes crypto](/posts/best-crypto-exchanges/)
+👉 [Gagner de la crypto en 2026](/fr/make-money/)  
+👉 [Erreurs des débutants](/fr/security/scams/)  
+👉 [Avis sur les plateformes crypto](/fr/reviews/)  
 
 ---
 
 ## 🎯 Notre mission
 
-Rendre la crypto accessible à tous.
+Rendre la crypto simple et accessible à tous.
 
-* Pas de termes compliqués.  
-* Pas de blabla inutile.  
-* Seulement des connaissances pratiques.
+- sans jargon  
+- sans blabla  
+- uniquement du concret  
 
 ---
 
 ## 📬 Restez informé
 
-Suivez-nous pour recevoir les derniers guides, outils et opportunités dans la crypto.
+Rejoignez notre Telegram pour des guides courts et des mises à jour.
 
 ---
 
-> ⚠️ Avertissement : ce contenu est fourni à titre informatif uniquement et ne constitue pas un conseil financier. Faites toujours vos propres recherches (DYOR).
+> ⚠️ Disclaimer: contenu éducatif uniquement. Pas de conseil financier.
 
-{{< btn url="/fr/map/" >}}Carte{{< /btn >}}
+---
+

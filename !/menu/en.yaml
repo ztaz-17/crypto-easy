@@ -1,0 +1,24 @@
+- name: Learn
+  url: /en/learn/
+  weight: 1
+
+- name: Tools
+  url: /en/tools/
+  weight: 2
+
+- name: Make Money
+  url: /en/make-money/
+  weight: 3
+
+- name: Security
+  url: /en/security/
+  weight: 4
+
+- name: Reviews
+  url: /en/reviews/
+  weight: 5
+
+- name: Glossary
+  url: /en/glossary/
+  weight: 6
+

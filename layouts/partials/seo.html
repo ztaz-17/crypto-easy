@@ -1,12 +1,36 @@
-<title>
-  {{ if .Title }}{{ .Title }} | {{ end }}Crypto Easy
-</title>
+{{ $title := .Title | default "Crypto Easy — Crypto Made Simple" }}
 {{ $desc := .Params.description | default "Learn crypto, blockchain and Web3 simply." }}
-<meta name="description" content="{{ .Params.description }}">
 
-{{ if .Params.keywords }}
-  <meta name="keywords" content="{{ delimit .Params.keywords ", " }}">
+<title>{{ $title }} | Crypto Easy</title>
+<meta name="description" content="{{ $desc }}">
+
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $desc }}">
+
+<!-- keywords -->
+{{ $kw := .Params.keywords | default .Site.Params.keywords }}
+{{ with $kw }}
+  {{ if reflect.IsSlice . }}
+    <meta name="keywords" content="{{ delimit . ", " }}">
+  {{ else }}
+    <meta name="keywords" content="{{ . }}">
+  {{ end }}
 {{ end }}
 
-<meta property="og:title" content="{{ .Title }}">
-<meta property="og:url" content="{{ .Permalink }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "{{ if .IsPage }}Article{{ else }}WebSite{{ end }}",
+  "name": "Crypto Easy",
+  "headline": "{{ $title }}",
+  "description": "{{ $desc }}",
+  "url": "{{ .Permalink }}",
+  "inLanguage": "{{ .Lang }}"
+}
+</script>

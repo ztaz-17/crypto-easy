@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+<h1>📍 {{ .Title }}</h1>
+
+{{ $pages := where site.RegularPages "Lang" .Site.Language.Lang }}
+
+{{ range $section, $group := $pages.GroupBy "Section" }}
+
+  <div class="section">
+    <h2>{{ $section | title }}</h2>
+
+    <ul>
+      {{ range $group.Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}">
+            {{ .Title }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+
+  </div>
+
+{{ end }}
+
+{{ end }}

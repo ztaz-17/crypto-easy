@@ -10,10 +10,12 @@
   <!-- DESKTOP NAV -->
   <nav class="nav">
     {{ $lang := .Site.Language.Lang }}
-    {{ $menu := index .Site.Data.menu $lang }}
+    {{ $menu := index hugo.Data.menu $lang }}
 
-    {{ range $menu }}
-      <a href="{{ .url }}">{{ .name }}</a>
+    {{ range .Site.Menus.main }}
+      <a href="{{ .URL | relLangURL }}">
+        {{ i18n .Identifier }}
+      </a>
     {{ end }}
   </nav>
 
@@ -25,15 +27,14 @@
       <span></span>
       <span></span>
     </button>
-
     {{ partial "language-switcher.html" . }}
   </div>
   </div>
 
   <!-- MOBILE MENU -->
   <div class="mobile-menu" id="mobileMenu">
-    {{ range $menu }}
-    <a href="{{ .url }}">{{ .name }}</a>
+    {{ range .Site.Menus.main }}
+    <a href="{{ .URL | relLangURL }}">{{ i18n .Identifier }}</a>
   	{{ end }}
   </div>
 
