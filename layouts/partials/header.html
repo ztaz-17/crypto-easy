@@ -10,7 +10,7 @@
   <!-- DESKTOP NAV -->
   <nav class="nav">
     {{ $lang := .Site.Language.Lang }}
-    {{ $menu := index hugo.Data.menu $lang }}
+    {{ $menu := index .Site.Data.menu $lang }}
 
     {{ range .Site.Menus.main }}
       <a href="{{ .URL | relLangURL }}">
