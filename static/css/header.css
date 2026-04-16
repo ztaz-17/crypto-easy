@@ -56,7 +56,7 @@
 
 /* hover эффект */
 .logo a:hover img {
-  transform: scale(1.1) rotate(-4deg);
+  transform: scale(1.2) rotate(-4deg);
   box-shadow: 0 6px 14px rgba(0,0,0,0.12);
 }
 
