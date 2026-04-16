@@ -11,9 +11,8 @@
 
   display: flex;
   align-items: center;
-  justify-content: space-between;
 
-  padding: 14px 20px;
+  padding: 10px 6px;
   transition: all 0.25s ease;
 
   background: #fff;
@@ -22,19 +21,20 @@
 
 .header-right {
   display: flex;
-  align-items: center;
-  gap: 10px;
 }
 
 /* при скролле */
 .header.scrolled .header-inner {
-  padding: 10px 20px;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
   background: rgba(255, 255, 255, 0.95);
 }
 
 
 /* LOGO */
+.logo {
+  margin-right: auto;
+}
+
 .logo a {
   display: flex;
   align-items: center;
@@ -69,10 +69,13 @@
 /* NAV */
 .nav {
   display: flex;
+  gap: 10px;
+  padding: 10px;
+  
 }
 
 .nav a {
-  margin-right: 16px;
+  smargin-right: 16px;
   text-decoration: none;
   color: #555;
   font-size: 14px;

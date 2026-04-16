@@ -4,19 +4,20 @@ title = "Crypto Easy"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
+enableRobotsTXT = true
 
 [languages]
   [languages.en]
     weight = 1
-    languageName = "EN"
+    languageName = "English"
 
   [languages.ru]
     weight = 2
-    languageName = "RU"
+    languageName = "Русский"
 
   [languages.fr]
     weight = 3
-    languageName = "FR"
+    languageName = "Français"
 
 [params]
   description = "Crypto is Easy"
@@ -54,5 +55,5 @@ defaultContentLanguageInSubdir = true
     weight = 6
 
 [params.analytics]
-ga4 = "G-YBDQ33HB6Z"
-yandexMetrica = "108580611"
+  ga4 = "G-YBDQ33HB6Z"
+  yandexMetrica = "108580611"
