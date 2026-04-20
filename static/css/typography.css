@@ -4,6 +4,7 @@ h1, h2, h3 {
   letter-spacing: -0.02em;
   line-height: 1.2;
   margin: 0 0 12px;
+  scroll-margin-top: 110px;
 }
 h1 { font-size: 32px; }
 h2 { font-size: 26px; }
@@ -34,8 +35,12 @@ li {
 }
 
 /* LINKS */
+.container ul li a {
+  color: #11b !important;
+}
+
 .container a:not(.btn) {
-  color: #2563eb;
+  color: #1553db;
   text-decoration: none;
   transition: 0.2s;
   position: relative;
@@ -79,4 +84,56 @@ li {
 
 .btn:hover {
   background: #69f;
+}
+
+.container table {
+  min-width:600px;
+  width:100%;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 24px 0;
+  font-size: 15px;
+  line-height: 1.5;
+}
+.container th {
+  padding:12px;
+  text-align: left;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  background: lightgray;
+}
+.container td {
+  padding:10px;
+  border-top:1px solid #eee;
+  background:#fff;
+}
+
+.container tr:nth-child(even) {
+  background: #fafbfe;
+}
+.container tr:hover {
+  background: #f1f5ff;
+}
+.container {
+  overflow-x:auto;
+}
+.container td:first-child {
+  font-weight: bold;
+  color: black;
+}
+
+.container th:first-child {
+#  border-top-left-radius: 10px;
+}
+
+.container th:last-child {
+#  border-top-right-radius: 10px;
+}
+
+.post-nav {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  margin: 2rem 0;
 }
