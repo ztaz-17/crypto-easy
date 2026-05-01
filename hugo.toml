@@ -1,7 +1,6 @@
 baseURL = "https://crypto-easy.org/"
 languageCode = "en"
 title = "Crypto Easy"
-hugoVersion = "0.159.1"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
