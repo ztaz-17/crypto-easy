@@ -76,9 +76,21 @@ category: "learn"
 - [Чем отличаются](/ru/learn/basis/chto-takoe-stabilcoiny/#осторожно-не-все-стейблкоины-одинаковы)
 - [Риски](/ru/learn/basis/chto-takoe-stabilcoiny/#стейблкоины-это-надёжно)
 
-### [Другие сети: Solana, BNB, DOGE и не только](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
-- [Обзор популярных сетей](/ru/learn/basis/drugie-seti-solana-bnb-doge/#solana-быстрая-альтернатива-ethereum)
-- [Сравнение](/ru/learn/basis/drugie-seti-solana-bnb-doge/#таблица-сравнения)
+### [Другие сети и монеты: обзор топовых криптовалют](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
+- [XRP (Ripple)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#xrp-ripple--для-банковских-переводов)
+- [BNB (Binance Coin)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#binance-coin-bnb--монета-крупнейшей-биржи)
+- [Solana (SOL)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#solana-sol--самая-быстрая-l1)
+- [TRON (TRX)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#tron-trx--стейблкоины-и-развлечения)
+- [Dogecoin (DOGE)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#dogecoin-doge--первая-мем-монета)
+- [Hyperliquid (HYPE)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#hyperliquid-hype--децентрализованная-биржа)
+- [LEO Token](/ru/learn/basis/drugie-seti-solana-bnb-doge/#leo-token-unus-sed-leo--токен-bitfinex)
+- [Bitcoin Cash (BCH)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#bitcoin-cash-bch--биткоин-для-платежей)
+- [Cardano (ADA)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#cardano-ada--научный-подход-к-блокчейну)
+- [Monero (XMR)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#monero-xmr--король-анонимности)
+- [Sui (SUI)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#sui-sui--новый-l1-на-move)
+- [Avalanche (AVAX)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#avalanche-avax--сеть-для-корпоративных-подсетей)
+- [Toncoin (TON)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#toncoin-ton--крипта-внутри-telegram)
+- [Таблица сравнения](/ru/learn/basis/drugie-seti-solana-bnb-doge/#таблица-сравнения)
 
 ---
 
