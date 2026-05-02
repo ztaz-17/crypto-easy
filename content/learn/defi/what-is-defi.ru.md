@@ -6,7 +6,7 @@ category: "defi"
 translationKey: "what-is-defi"
 slug: "chto-takoe-defi"
 keywords: ["DeFi", "decentralized finance", "Uniswap", "Aave", "MakerDAO", "smart contracts", "financial inclusion"]
-prev: "" 
+prev: "/ru/learn/market/investirovanie-vs-treiding" 
 next: "/ru/learn/defi/chto-takoe-tvl"
 ---
 

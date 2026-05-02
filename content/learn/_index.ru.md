@@ -17,7 +17,7 @@ category: "learn"
 
 ### [Почему вы теряете деньги, даже если копите](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)
 - [Инфляция vs депозит](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/#инфляция-vs-депозит)
-- [Почему «+5% годовых» — это минус](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/#почему-5-годовых-это-минус)
+- [Почему «+5% годовых» — это минус](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/#почему-5-годовых--это-минус)
 - [Простая математика потерь](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/#простая-математика-потерь)
 
 ### [Как люди спасают деньги через крипту (реальные кейсы)](/ru/learn/skeptic/kak-ludi-spasaut-dengi-cherez-kriptu/)
@@ -28,15 +28,19 @@ category: "learn"
 - [Почему крипта становится альтернативой](/ru/learn/skeptic/kak-ludi-spasaut-dengi-cherez-kriptu/#почему-крипта-становится-альтернативой)
 
 ### [Почему государства не любят крипту (и не могут её запретить)](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/)
-- [Контроль денег](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#контроль-денег-основа-власти-государства)
-- [Налоги](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#налоги-главная-боль-государства)
-- [FATF и рекомендации](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#fatf-и-глобальные-рекомендации) для всех стран
+- [Контроль денег](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#контроль-денег--основа-власти-государства)
+- [Налоги](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#налоги--главная-боль-государства)
+- [FATF и рекомендации для всех стран](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#fatf-и-глобальные-рекомендации)
 - [Ограничения vs запреты](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#ограничения-vs-полные-запреты)
+- [Почему государства не могут запретить крипту](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/#почему-государства-не-могут-запретить-крипту-целиком)
 
 ### [Главные мифы о крипте, в которые верят новички](/ru/learn/skeptic/glavnye-mify-o-kripte/)
 - [Анонимность](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-1-крипта-полностью-анонимна)
 - [Крипта для преступников](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-2-крипта-нужна-только-преступникам)
-- [Пузырь](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-3-крипта-это-пузырь-который-лопнет)
+- [Пузырь](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-3-крипта--это-пузырь-который-лопнет)
+- [Сложно и только для программистов](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-4-крипта--это-сложно-и-только-для-программистов)
+- [Казино](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-5-крипта--это-казино-где-все-теряют-деньги)
+- [Пустышка](/ru/learn/skeptic/glavnye-mify-o-kripte/#миф-6-крипта-ничем-не-обеспечена--значит-ничего-не-стоит)
 
 ---
 
@@ -47,22 +51,27 @@ category: "learn"
 - [Деньги как записи](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/#деньги-как-записи)
 - [Роль банков](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/#роль-банков)
 - [Кто контролирует систему](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/#кто-контролирует-систему)
+- [Почему это всё — просто доверие](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/#почему-это-всё--просто-доверие)
 
 ### [Блокчейн за 1 минуту (самое простое объяснение)](/ru/learn/basis/blockchain-za-1-minutu/)
 - [Общая тетрадь](/ru/learn/basis/blockchain-za-1-minutu/#общая-тетрадь-ledger)
 - [Почему нельзя переписать](/ru/learn/basis/blockchain-za-1-minutu/#почему-нельзя-переписать)
 - [Почему это работает](/ru/learn/basis/blockchain-za-1-minutu/#почему-это-работает)
+- [Что блокчейн НЕ делает](/ru/learn/basis/blockchain-za-1-minutu/#что-блокчейн-не-делает)
 
 ### [Децентрализация без сложных слов](/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov/)
 - [Нет центра](/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov/#нет-центра)
-- [Плюсы и минусы](/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov/#плюсы-децентрализации)
+- [Плюсы](/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov/#плюсы-децентрализации)
+- [Минусы](/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov/#минусы-децентрализации)
 
 ### [Биткоин и Ethereum (и почему их нельзя путать)](/ru/learn/basis/bitcoin-i-ethereum/)
-- [Биткоин (цифровое золото)](/ru/learn/basis/bitcoin-i-ethereum/#биткоин-цифровое-золото)
-- [Ethereum (цифровая нефть)](/ru/learn/basis/bitcoin-i-ethereum/#ethereum-цифровая-нефть-мировой-компьютер)
+- [Биткоин (цифровое золото)](/ru/learn/basis/bitcoin-i-ethereum/#биткоин--цифровое-золото)
+- [Ethereum (цифровая нефть)](/ru/learn/basis/bitcoin-i-ethereum/#ethereum--цифровая-нефть-мировой-компьютер)
 - [Главная разница](/ru/learn/basis/bitcoin-i-ethereum/#главная-разница)
+- [Что выбрать?](/ru/learn/basis/bitcoin-i-ethereum/#что-выбрать-для-чего)
 
 ### [Стейблкоины: что такое USDT, USDC и как они работают](/ru/learn/basis/chto-takoe-stabilcoiny/)
+- [Зачем нужны стейблкоины](/ru/learn/basis/chto-takoe-stabilcoiny/#зачем-нужны-стейблкоины)
 - [Типы стейблкоинов](/ru/learn/basis/chto-takoe-stabilcoiny/#виды-стейблкоинов-сравнение)
 - [Чем отличаются](/ru/learn/basis/chto-takoe-stabilcoiny/#осторожно-не-все-стейблкоины-одинаковы)
 - [Риски](/ru/learn/basis/chto-takoe-stabilcoiny/#стейблкоины-это-надёжно)

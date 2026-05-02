@@ -6,8 +6,8 @@ category: "regulation"
 translationKey: "how-governments-treat-crypto"
 slug: "kak-gosudarstva-otnosyatsya-k-kripte"
 keywords: ["crypto regulation", "crypto legal", "USA crypto", "EU MiCA", "China crypto ban", "Singapore crypto"]
-prev: ""
-next: ""
+prev: "/ru/learn/defi/mosty-mezhdu-setyami"
+next: "/ru/learn/regulation/nalogi-na-kriptu"
 ---
 
 ## Как государства относятся к крипте в разных странах
