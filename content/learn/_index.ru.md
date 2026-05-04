@@ -9,6 +9,7 @@ keywords:
   - блокчейн для новичков
   - что такое криптовалюта
   - курс криптовалют
+menu: main
 ---
 
 ---
@@ -125,6 +126,4 @@ keywords:
 - [Низкая комиссия](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#низкая-комиссия)
 - [Перегруз сети](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#перегруз-сети)
 - [Как ускорить / отменить](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#как-ускорить-отменить)
-
----
 

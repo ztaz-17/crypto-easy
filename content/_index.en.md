@@ -1,4 +1,7 @@
 ---
+category: "home"
+translationKey: "home"
+slug: "home"
 title: "Crypto Easy — Crypto Made Simple"
 heading: "🚀 Crypto Easy"
 description: "Learn cryptocurrency, blockchain, DeFi, and how to safely make money with crypto. Simple guides for beginners and advanced users."

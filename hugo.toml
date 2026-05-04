@@ -54,11 +54,6 @@ enableRobotsTXT = true
     url = "/bonus/"
     weight = 6
 
-  [[menu.main]]
-    identifier = "glossary"
-    url = "/glossary/"
-    weight = 6
-
 [params.analytics]
   ga4 = "G-YBDQ33HB6Z"
   yandexMetrica = "108580611"

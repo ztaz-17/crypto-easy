@@ -5,9 +5,10 @@
   <!-- CONTENT -->
   <section class="post-content">
     {{ .Content }}
+    {{ if or .Params.prev .Params.next }}
+    <hr>
+    {{ end }}
   </section>
-
-  <hr>
 
   <nav class="post-nav">
   {{ if .Params.prev }}

@@ -1,4 +1,7 @@
 ---
+category: "home"
+translationKey: "home"
+slug: "home"
 title: "Crypto Easy — crypto simplifiée"
 heading: "🚀 Crypto Easy"
 description: "Apprenez la crypto-monnaie, la blockchain, la DeFi et comment gagner de l'argent avec la crypto. Guides simples pour débutants et avancés."

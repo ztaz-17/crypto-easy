@@ -10,6 +10,7 @@ keywords:
   - мемкоины
   - airdrop
   - стейкинг
+menu: main
 ---
 
 ## Бонус
