@@ -1,7 +1,7 @@
----
-title: "Map"
-layout: "map"
-url: "/fr/map"
----
-
-## Map
+---
+title: "Map"
+layout: "map"
+url: "/fr/map"
+---
+
+## Map

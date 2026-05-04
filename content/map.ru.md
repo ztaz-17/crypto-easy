@@ -1,7 +1,7 @@
----
-title: "Карта сайта"
-layout: "map"
-url: "/ru/map"
----
-
-## Карта
+---
+title: "Карта сайта"
+layout: "map"
+url: "/ru/map"
+---
+
+## Карта
