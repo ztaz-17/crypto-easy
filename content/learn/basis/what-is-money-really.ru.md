@@ -5,7 +5,14 @@ description: "Разбираемся, что такое деньги на сам
 category: "basis"
 translationKey: "what-is-money-really"
 slug: "chto-takoe-dengi-na-samom-dele"
-keywords: ["what is money", "fiat money", "banking system", "money is records", "central banks", "monetary system", "money creation"]
+keywords:
+  - what is money
+  - fiat money
+  - banking system
+  - money is records
+  - central banks
+  - monetary system
+  - money creation
 prev: "/ru/learn/skeptic/glavnye-mify-o-kripte"
 next: "/ru/learn/basis/blockchain-za-1-minutu"
 ---

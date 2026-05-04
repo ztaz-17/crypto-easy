@@ -5,7 +5,15 @@ description: "Что такое стейблкоины — USDT, USDC, DAI. Ка
 category: "basis"
 translationKey: "what-are-stablecoins"
 slug: "chto-takoe-stabilcoiny"
-keywords: ["stablecoins", "USDT", "USDC", "DAI", "Tether", "pegged currency", "crypto basics", "digital dollar"]
+keywords:
+  - stablecoins
+  - USDT
+  - USDC
+  - DAI
+  - Tether
+  - pegged currency
+  - crypto basics
+  - digital dollar
 prev: "/ru/learn/basis/bitcoin-i-ethereum"
 next: "/ru/learn/basis/drugie-seti-solana-bnb-doge"
 ---

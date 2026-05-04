@@ -5,9 +5,16 @@ description: "Главная ошибка новичков — отправка 
 category: "how-it-works"
 translationKey: "different-networks-erc20-trc20-bsc"
 slug: "raznye-seti-erc20-trc20-bsc"
-keywords: ["ERC20", "TRC20", "BSC", "network mismatch", "wrong network", "crypto loss", "token standard"]
+keywords:
+  - ERC20
+  - TRC20
+  - BSC
+  - network mismatch
+  - wrong network
+  - crypto loss
+  - token standard
 prev: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
-next: "/ru/learn/practice/kak-sozdat-koshelek-za-5-minut"
+next: "/ru/practice/kak-sozdat-koshelek-za-5-minut"
 ---
 
 ## Отправил USDT — деньги исчезли. Как такое возможно?

@@ -5,7 +5,18 @@ description: "Обзор крупнейших криптовалют по кап
 category: "basis"
 translationKey: "other-networks"
 slug: "drugie-seti-solana-bnb-doge"
-keywords: ["XRP", "BNB", "Solana", "TRON", "Dogecoin", "Cardano", "Monero", "Avalanche", "crypto networks", "Layer 1", "altcoins"]
+keywords:
+  - XRP
+  - BNB
+  - Solana
+  - TRON
+  - Dogecoin
+  - Cardano
+  - Monero
+  - Avalanche
+  - crypto networks
+  - Layer 1
+  - altcoins
 prev: "/ru/learn/basis/chto-takoe-stabilcoiny"
 next: "/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu"
 ---

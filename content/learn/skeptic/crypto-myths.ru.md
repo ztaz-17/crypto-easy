@@ -5,7 +5,14 @@ description: "Разбираем главные мифы о криптовалю
 category: "skeptic"
 translationKey: "crypto-myths"
 slug: "glavnye-mify-o-kripte"
-keywords: ["crypto myths", "crypto anonymity", "crypto for criminals", "crypto bubble", "crypto scam", "beginner mistakes", "misconceptions"]
+keywords:
+  - crypto myths
+  - crypto anonymity
+  - crypto for criminals
+  - crypto bubble
+  - crypto scam
+  - beginner mistakes
+  - misconceptions
 prev: "/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu"
 next: "/ru/learn/basis/chto-takoe-dengi-na-samom-dele"
 ---

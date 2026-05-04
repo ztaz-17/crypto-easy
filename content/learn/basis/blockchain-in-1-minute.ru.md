@@ -5,7 +5,13 @@ description: "Блокчейн для новичков: что такое общ
 category: "basis"
 translationKey: "blockchain-in-1-minute"
 slug: "blockchain-za-1-minutu"
-keywords: ["blockchain explained", "distributed ledger", "how blockchain works", "immutable ledger", "blockchain for beginners", "cryptocurrency technology"]
+keywords:
+  - blockchain explained
+  - distributed ledger
+  - how blockchain works
+  - immutable ledger
+  - blockchain for beginners
+  - cryptocurrency technology
 prev: "/ru/learn/basis/chto-takoe-dengi-na-samom-dele"
 next: "/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov"
 ---

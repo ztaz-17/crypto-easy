@@ -1,13 +1,19 @@
 ---
+category: "learn"
+translationKey: "learn"
+slug: "learn"
 title: "Обучение"
 description: "Изучайте крипту шаг за шагом"
-category: "learn"
+keywords:
+  - крипта обучение
+  - блокчейн для новичков
+  - что такое криптовалюта
+  - курс криптовалют
 ---
 
 ---
 
 ## Крипта для скептика
-Цель: сломать недоверие и зацепить вниманием
 
 ### [Почему банк может заблокировать ваши деньги — и вы ничего не сделаете](/ru/learn/skeptic/bank-zamorozil-dengi/)
 - [Что значит «деньги в банке — не ваши»](/ru/learn/skeptic/bank-zamorozil-dengi/#что-значит-деньги-в-банке--не-ваши)
@@ -45,7 +51,6 @@ category: "learn"
 ---
 
 ## База (фундамент)
-Цель: дать понимание без перегруза
 
 ### [Что такое деньги на самом деле (и почему это просто цифры)](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
 - [Деньги как записи](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/#деньги-как-записи)
@@ -92,8 +97,11 @@ category: "learn"
 - [Toncoin (TON)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#toncoin-ton--крипта-внутри-telegram)
 - [Таблица сравнения](/ru/learn/basis/drugie-seti-solana-bnb-doge/#таблица-сравнения)
 
----
+### [Приватный ключ: почему это важнее пароля](/ru/learn/basis/privatnyj-klyuch/)
+- [Приватный ключ vs пароль](/ru/learn/basis/privatnyj-klyuch/#приватный-ключ-vs-пароль--в-чём-разница)
+- [Как хранить](/ru/learn/basis/privatnyj-klyuch/#как-хранить-приватный-ключ)
 
+---
 ## Как это работает
 
 ### [Что происходит, когда ты отправляешь крипту](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
@@ -118,137 +126,5 @@ category: "learn"
 - [Перегруз сети](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#перегруз-сети)
 - [Как ускорить / отменить](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#как-ускорить-отменить)
 
-### [Как платить за переводы в 10 раз меньше](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/)
-- [Выбор сети](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#выбор-сети)
-- [L2 решения](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#l2-решения)
-- [Тайминг](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#тайминг)
-
-### [Как НЕ потерять? Разные сети (ERC20, TRC20, BSC)](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/)
-- [Главная ошибка новичков](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#главная-ошибка-новичков)
-- [Почему можно потерять деньги](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#почему-можно-потерять-деньги)
-- [Как проверять](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#как-проверять)
-
 ---
-## Практика
 
-### [Как создать крипто-кошелёк за 5 минут](/ru/learn/practice/kak-sozdat-koshelek-za-5-minut/)
-- [Что выбрать (MetaMask / Trust)](/ru/learn/practice/kak-sozdat-koshelek-za-5-minut/#что-выбрать-metamask-trust)
-- [Установка](/ru/learn/practice/kak-sozdat-koshelek-za-5-minut/#установка)
-- [Проверка](/ru/learn/practice/kak-sozdat-koshelek-za-5-minut/#проверка)
-
-### [Сид-фраза: момент, где теряют деньги](/ru/learn/practice/seed-phrase-moment-gde-teryaut-dengi/)
-- [Как хранить](/ru/learn/practice/seed-phrase-moment-gde-teryaut-dengi/#как-хранить)
-- [Где нельзя хранить](/ru/learn/practice/seed-phrase-moment-gde-teryaut-dengi/#где-нельзя-хранить)
-- [Ошибки](/ru/learn/practice/seed-phrase-moment-gde-teryaut-dengi/#ошибки)
-
-### [Демо режим в крипте. Тестовая сеть](/ru/learn/practice/demo-rezhim-testovaya-set/)
-- [Где взять тестовый ETH (faucet)](/ru/learn/practice/demo-rezhim-testovaya-set/#где-взять-тестовый-eth-faucet)
-- [Почему это безопасно](/ru/learn/practice/demo-rezhim-testovaya-set/#почему-это-безопасно)
-
-### [Как купить первую крипту](/ru/learn/practice/kak-kupit-pervuyu-kriptu/)
-- [Биржа](/ru/learn/practice/kak-kupit-pervuyu-kriptu/#биржа)
-- [KYC](/ru/learn/practice/kak-kupit-pervuyu-kriptu/#kyc)
-- [P2P](/ru/learn/practice/kak-kupit-pervuyu-kriptu/#p2p)
-- [Обменники](/ru/learn/practice/kak-kupit-pervuyu-kriptu/#обменники)
-- [Риски](/ru/learn/practice/kak-kupit-pervuyu-kriptu/#риски)
-
-### [Первая транзакция без ошибок](/ru/learn/practice/pervaya-tranzakciya-bez-oshibok/)
-- [Как отправить $1 кому угодно в мире за 10 минут](/ru/learn/practice/pervaya-tranzakciya-bez-oshibok/#как-отправить-1-кому-угодно-в-мире-за-10-минут)
-- [Проверка адреса](/ru/learn/practice/pervaya-tranzakciya-bez-oshibok/#проверка-адреса)
-- [Проверка сети](/ru/learn/practice/pervaya-tranzakciya-bez-oshibok/#проверка-сети)
-
-### [Как проверить транзакцию](/ru/learn/practice/kak-proverit-tranzakciyu/)
-- [Etherscan / аналоги](/ru/learn/practice/kak-proverit-tranzakciyu/#etherscan-аналоги)
-- [Что смотреть](/ru/learn/practice/kak-proverit-tranzakciyu/#что-смотреть)
-
-|---
-## Деньги и рынок
-
-### [Почему цена растёт и падает](/ru/learn/market/pochemu-cena-rastet-i-padaet/)
-- [Спрос и предложение](/ru/learn/market/pochemu-cena-rastet-i-padaet/#спрос-и-предложение)
-- [Новости](/ru/learn/market/pochemu-cena-rastet-i-padaet/#новости)
-- [Спекуляции](/ru/learn/market/pochemu-cena-rastet-i-padaet/#спекуляции)
-
-### [Что такое ликвидность и почему она важна для цены](/ru/learn/market/chto-takoe-likvidnost/)
-- [Глубина рынка](/ru/learn/market/chto-takoe-likvidnost/#глубина-рынка)
-- [Проскальзывание (slippage)](/ru/learn/market/chto-takoe-likvidnost/#проскальзывание-slippage)
-- [Чем опасна низкая ликвидность](/ru/learn/market/chto-takoe-likvidnost/#чем-опасна-низкая-ликвидность)
-
-### [Почему ты покупаешь на хаях и продаёшь в минус](/ru/learn/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/)
-- [Психология](/ru/learn/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/#психология)
-- [FOMO](/ru/learn/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/#fomo)
-- [Паника](/ru/learn/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/#паника)
-
-### [Инвестирование vs трейдинг](/ru/learn/market/investirovanie-vs-treiding/)
-- [Разница](/ru/learn/market/investirovanie-vs-treiding/#разница)
-- [Риски](/ru/learn/market/investirovanie-vs-treiding/#риски)
-- [Подходы](/ru/learn/market/investirovanie-vs-treiding/#подходы)
-- [DCA (усреднение) как стратегия для новичков](/ru/learn/market/investirovanie-vs-treiding/#dca-усреднение-как-стратегия-для-новичков)
-- [Как читать график свечей (скриншоты на TradingView)](/ru/learn/market/investirovanie-vs-treiding/#как-читать-график-свечей-скриншоты-на-tradingview)
-
----
-## DeFi
-
-### [Что такое DeFi](/ru/learn/defi/chto-takoe-defi/)
-- [Основная идея](/ru/learn/defi/chto-takoe-defi/#основная-идея)
-- [Примеры](/ru/learn/defi/chto-takoe-defi/#примеры)
-
-### [Что такое TVL и как его читать](/ru/learn/defi/chto-takoe-tvl/)
-- [Как проверить TVL перед вложением](/ru/learn/defi/chto-takoe-tvl/#как-проверить-tvl-перед-вложением)
-- [Резкие падения TVL как красный флаг](/ru/learn/defi/chto-takoe-tvl/#резкие-падения-tvl-как-красный-флаг)
-
-### [Кредиты без банка](/ru/learn/defi/kredity-bez-banka/)
-- [Как это работает](/ru/learn/defi/kredity-bez-banka/#как-это-работает)
-- [Риски](/ru/learn/defi/kredity-bez-banka/#риски)
-
-### [Фарминг](/ru/learn/defi/chto-takoe-farming/)
-- [Доходность](/ru/learn/defi/chto-takoe-farming/#доходность)
-- [Откуда берётся доход](/ru/learn/defi/chto-takoe-farming/#откуда-берётся-доход)
-
-### [Риски DeFi](/ru/learn/defi/riski-defi/)
-- [Rug pull](/ru/learn/defi/riski-defi/#rug-pull)
-- [Ошибки кода](/ru/learn/defi/riski-defi/#ошибки-кода)
-- [Риск непостоянных потерь (impermanent loss)](/ru/learn/defi/riski-defi/#риск-непостоянных-потерь-impermanent-loss)
-- [Потери](/ru/learn/defi/riski-defi/#потери)
-
-### [Мосты между сетями](/ru/learn/defi/mosty-mezhdu-setyami/)
-- [Как работают](/ru/learn/defi/mosty-mezhdu-setyami/#как-работают)
-- [Основные риски](/ru/learn/defi/mosty-mezhdu-setyami/#основные-риски)
-- [Когда использовать](/ru/learn/defi/mosty-mezhdu-setyami/#когда-использовать)
-
----
-## Государство и налоги
-
-### [Как государства относятся к крипте](/ru/learn/regulation/kak-gosudarstva-otnosyatsya-k-kripte/)
-- [Разные подходы](/ru/learn/regulation/kak-gosudarstva-otnosyatsya-k-kripte/#разные-подходы)
-
-### [Налоги на криптовалюту](/ru/learn/regulation/nalogi-na-kriptu/)
-- [Общие принципы](/ru/learn/regulation/nalogi-na-kriptu/#общие-принципы)
-- [Где платятся](/ru/learn/regulation/nalogi-na-kriptu/#где-платятся)
-
----
-## Бонус
-
-### [Что такое DAO](/ru/learn/bonus/chto-takoe-dao/)
-- [Управление](/ru/learn/bonus/chto-takoe-dao/#управление)
-- [Как голосуют токенами (пример: MakerDAO, Uniswap)](/ru/learn/bonus/chto-takoe-dao/#как-голосуют-токенами-пример-makerdao-uniswap)
-
-### [Оракулы](/ru/learn/bonus/chto-takoe-orakuly/)
-- [Откуда смарт-контракты узнают реальную цену биткоина (Chainlink)](/ru/learn/bonus/chto-takoe-orakuly/#откуда-смарт-контракты-узнают-реальную-цену-биткоина-chainlink)
-
-### [Стейкинг vs фарминг](/ru/learn/bonus/steiking-vs-farming/)
-- [Разница в рисках и доходности (таблица сравнения)](/ru/learn/bonus/steiking-vs-farming/#разница-в-рисках-и-доходности-таблица-сравнения)
-
-### [Airdrop](/ru/learn/bonus/chto-takoe-airdrop/)
-- [Что такое Airdrop и как не попасть в скам](/ru/learn/bonus/chto-takoe-airdrop/#что-такое-airdrop-и-как-не-попасть-в-скам)
-
-### [Meme-коины](/ru/learn/bonus/chto-takoe-meme-coiny/)
-- [Doge, Shiba — почему они растут и почему это казино](/ru/learn/bonus/chto-takoe-meme-coiny/#doge-shiba-почему-они-растут-и-почему-это-казино)
-
-### [NFT](/ru/learn/bonus/chto-takoe-nft/)
-- [Что такое NFT и зачем они (кроме картинок)](/ru/learn/bonus/chto-takoe-nft/#что-такое-nft-и-зачем-они-кроме-картинок)
-
-### [P2P-торговля](/ru/learn/bonus/p2p-torgovlya/)
-- [Схемы обмана (фейковый перевод, chargeback)](/ru/learn/bonus/p2p-torgovlya/#схемы-обмана-фейковый-перевод-chargeback)
-
----

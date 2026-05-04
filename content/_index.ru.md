@@ -1,4 +1,7 @@
 ---
+category: "home"
+translationKey: "home"
+slug: "home"
 title: "Crypto Easy — крипта простым языком"
 heading: "🚀 Crypto Easy"
 description: "Изучите криптовалюту, блокчейн, DeFi и способы заработка на крипте. Простые и понятные гайды для новичков и продвинутых."
@@ -38,8 +41,8 @@ keywords:
 
 ## 🔥 Популярные статьи
 
-👉 [Как создать крипто-кошелёк за 5 минут](/ru/learn/practice/kak-sozdat-koshelek-za-5-minut/)  
-👉 [Сид-фраза: момент, где теряют деньги](/ru/learn/practice/seed-phrase-moment-gde-teryaut-dengi/)  
+👉 [Как создать крипто-кошелёк за 5 минут](/ru/practice/kak-sozdat-koshelek-za-5-minut/)  
+👉 [Сид-фраза: момент, где теряют деньги](/ru/practice/seed-phrase-moment-gde-teryaut-dengi/)  
 👉 [Почему государства не любят крипту](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/)  
 👉 [Что такое DeFi](/ru/learn/defi/chto-takoe-defi/)  
 👉 [Блокчейн за 1 минуту](/ru/learn/basis/blockchain-za-1-minutu/)

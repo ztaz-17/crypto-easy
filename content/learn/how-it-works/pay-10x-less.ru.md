@@ -5,7 +5,15 @@ description: "Как сэкономить на комиссиях: выбор с
 category: "how-it-works"
 translationKey: "pay-10x-less"
 slug: "kak-platit-v-10-raz-menshe"
-keywords: ["crypto fee saving", "Layer 2", "L2 scaling", "network selection", "Optimism", "Arbitrum", "Polygon", "Lightning Network"]
+keywords:
+  - crypto fee saving
+  - Layer 2
+  - L2 scaling
+  - network selection
+  - Optimism
+  - Arbitrum
+  - Polygon
+  - Lightning Network
 prev: "/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut"
 next: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
 ---

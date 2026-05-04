@@ -5,7 +5,13 @@ description: "Экстренные действия при взломе крип
 category: "security"
 translationKey: "hacked-what-to-do"
 slug: "chto-delat-pri-vzlome"
-keywords: ["wallet hacked", "crypto theft", "emergency response", "stolen crypto", "revoke access", "move funds"]
+keywords:
+  - wallet hacked
+  - crypto theft
+  - emergency response
+  - stolen crypto
+  - revoke access
+  - move funds
 prev: "/ru/security/razresheniya-tokenov"
 next: "/ru/security/oshibki-novichka"
 ---

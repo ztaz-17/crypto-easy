@@ -5,7 +5,14 @@ description: "Чем отличаются Bitcoin и Ethereum: цифровое 
 category: "basis"
 translationKey: "bitcoin-vs-ethereum"
 slug: "bitcoin-i-ethereum"
-keywords: ["Bitcoin vs Ethereum", "digital gold", "digital oil", "smart contracts", "crypto comparison", "blockchain platforms", "proof of work vs proof of stake"]
+keywords:
+  - Bitcoin vs Ethereum
+  - digital gold
+  - digital oil
+  - smart contracts
+  - crypto comparison
+  - blockchain platforms
+  - proof of work vs proof of stake
 prev: "/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov"
 next: "/ru/learn/basis/chto-takoe-stabilcoiny"
 ---

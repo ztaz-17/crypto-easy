@@ -5,7 +5,13 @@ description: "Что такое децентрализация простыми 
 category: "basis"
 translationKey: "decentralization-simply"
 slug: "decentralizaciya-bez-slozhnyh-slov"
-keywords: ["decentralization", "centralized vs decentralized", "distributed network", "peer to peer", "single point of failure", "crypto basics"]
+keywords:
+  - decentralization
+  - centralized vs decentralized
+  - distributed network
+  - peer to peer
+  - single point of failure
+  - crypto basics
 prev: "/ru/learn/basis/blockchain-za-1-minutu"
 next: "/ru/learn/basis/bitcoin-i-ethereum"
 ---

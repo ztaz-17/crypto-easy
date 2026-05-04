@@ -5,7 +5,13 @@ description: "Inflation silently eats your savings. Learn why bank deposits aren
 slug: "why-youre-losing-money-even-if-saving"
 translationKey: "inflation-illusion"
 category: "skeptic"
-keywords: ["inflation", "savings", "deposit", "purchasing power", "real return", "fiat money"]
+keywords:
+  - inflation
+  - savings
+  - deposit
+  - purchasing power
+  - real return
+  - fiat money
 ---
 
 # Why you’re losing money even if you’re saving

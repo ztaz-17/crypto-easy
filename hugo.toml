@@ -35,19 +35,24 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "security"
-    url = "/security/"
+    identifier = "practice"
+    url = "/practice/"
     weight = 3
 
   [[menu.main]]
-    identifier = "reviews"
-    url = "/reviews/"
+    identifier = "security"
+    url = "/security/"
     weight = 4
 
   [[menu.main]]
-    identifier = "reviews"
-    url = "/reviews/"
+    identifier = "market"
+    url = "/market/"
     weight = 5
+
+  [[menu.main]]
+    identifier = "bonus"
+    url = "/bonus/"
+    weight = 6
 
   [[menu.main]]
     identifier = "glossary"

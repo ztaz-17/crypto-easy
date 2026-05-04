@@ -5,7 +5,13 @@ description: "Что такое token allowance, почему опасно да�
 category: "security"
 translationKey: "token-allowances"
 slug: "razresheniya-tokenov"
-keywords: ["token allowance", "token approval", "revoke approval", "smart contract risk", "Ethereum approval", "ERC20 approval"]
+keywords:
+  - token allowance
+  - token approval
+  - revoke approval
+  - smart contract risk
+  - Ethereum approval
+  - ERC20 approval
 prev: "/ru/security/osnovnye-vidy-skama"
 next: "/ru/security/chto-delat-pri-vzlome"
 ---

@@ -5,7 +5,19 @@ description: "Почему банк может заблокировать ваш
 category: "skeptic"
 translationKey: "banks-freeze-money"
 slug: "bank-zamorozil-dengi"
-keywords: ["account freeze", "bank account blocked", "financial freedom", "cash vs cashless", "control over money", "cryptocurrency alternative", "non-custodial wallet", "fiat banking risks", "custodial risk", "AML restrictions", "bank refusal", "money ownership"]
+keywords:
+  - account freeze
+  - bank account blocked
+  - financial freedom
+  - cash vs cashless
+  - control over money
+  - cryptocurrency alternative
+  - non-custodial wallet
+  - fiat banking risks
+  - custodial risk
+  - AML restrictions
+  - bank refusal
+  - money ownership
 prev: 
 next: "/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite"
 ---
@@ -13,8 +25,6 @@ next: "/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite"
 ## Почему банк может заблокировать ваши деньги? И вы ничего не сделаете!
 
 ---
-
-
 
 Представьте: вы открываете банковское приложение, чтобы отправить деньги родителям, и видите сообщение:  
 **«Операция отклонена»**.
