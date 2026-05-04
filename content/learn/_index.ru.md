@@ -161,38 +161,7 @@ category: "learn"
 - [Etherscan / аналоги](/ru/learn/practice/kak-proverit-tranzakciyu/#etherscan-аналоги)
 - [Что смотреть](/ru/learn/practice/kak-proverit-tranzakciyu/#что-смотреть)
 
----
-## Безопасность
-
-### [Горячие vs холодные кошельки](/ru/learn/security/goryachie-vs-holodnye-koshelki/)
-- [Разница](/ru/learn/security/goryachie-vs-holodnye-koshelki/#разница)
-- [Когда использовать](/ru/learn/security/goryachie-vs-holodnye-koshelki/#когда-использовать)
-- [Ledger, Trezor](/ru/learn/security/goryachie-vs-holodnye-koshelki/#ledger-trezor)
-
-### [Основные виды скама](/ru/learn/security/osnovnye-vidy-skama/)
-- [Фишинг](/ru/learn/security/osnovnye-vidy-skama/#фишинг)
-- [Фейковые сайты](/ru/learn/security/osnovnye-vidy-skama/#фейковые-сайты)
-- [Airdrop-ловушки](/ru/learn/security/osnovnye-vidy-skama/#airdrop-ловушки)
-- [Фейковая поддержка в Telegram/Discord](/ru/learn/security/osnovnye-vidy-skama/#фейковая-поддержка-в-telegramdiscord)
-- [Скримеры (экранные захваты)](/ru/learn/security/osnovnye-vidy-skama/#скримеры-экранные-захваты)
-- [Как проверять реальные ссылки на соцсети проекта](/ru/learn/security/osnovnye-vidy-skama/#как-проверять-реальные-ссылки-на-соцсети-проекта)
-
-### [Разрешения токенов](/ru/learn/security/razresheniya-tokenov/)
-- [Что это такое](/ru/learn/security/razresheniya-tokenov/#что-это-такое)
-- [Почему опасно](/ru/learn/security/razresheniya-tokenov/#почему-опасно)
-- [Как отзывать](/ru/learn/security/razresheniya-tokenov/#как-отзывать)
-
-### [Что делать при взломе](/ru/learn/security/chto-delat-pri-vzlome/)
-- [Первые действия](/ru/learn/security/chto-delat-pri-vzlome/#первые-действия)
-- [Как спасать активы](/ru/learn/security/chto-delat-pri-vzlome/#как-спасать-активы)
-
-### [ОШИБКИ НОВИЧКА](/ru/learn/security/oshibki-novichka/)
-- [Я отправил не в ту сеть — что делать](/ru/learn/security/oshibki-novichka/#я-отправил-не-в-ту-сеть-что-делать)
-- [Я потерял сид-фразу — что дальше](/ru/learn/security/oshibki-novichka/#я-потерял-сид-фразу-что-дальше)
-- [Я дал доступ контракту — как спасти деньги](/ru/learn/security/oshibki-novichka/#я-дал-доступ-контракту-как-спасти-деньги)
-- [Я повёлся на скам — разбор](/ru/learn/security/oshibki-novichka/#я-повёлся-на-скам-разбор)
-
----
+|---
 ## Деньги и рынок
 
 ### [Почему цена растёт и падает](/ru/learn/market/pochemu-cena-rastet-i-padaet/)

@@ -6,8 +6,8 @@ category: "security"
 translationKey: "scam-types"
 slug: "osnovnye-vidy-skama"
 keywords: ["crypto scam", "phishing", "fake website", "airdop scam", "support scam", "crypto security"]
-prev: "/ru/learn/security/goryachie-vs-holodnye-koshelki"
-next: "/ru/learn/security/razresheniya-tokenov"
+prev: "/ru/security/goryachie-vs-holodnye-koshelki"
+next: "/ru/security/razresheniya-tokenov"
 ---
 
 ## Основные виды скама в крипте

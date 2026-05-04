@@ -6,7 +6,7 @@ category: "security"
 translationKey: "common-mistakes"
 slug: "oshibki-novichka"
 keywords: ["crypto mistakes", "wrong network", "lost seed phrase", "scam", "beginner errors", "recovery"]
-prev: "/ru/learn/security/chto-delat-pri-vzlome"
+prev: "/ru/security/chto-delat-pri-vzlome"
 next: "/ru/learn/market/pochemu-cena-rastet-i-padaet"
 ---
 
@@ -138,7 +138,7 @@ next: "/ru/learn/market/pochemu-cena-rastet-i-padaet"
 
 ### Почему это произошло
 
-Подробно этот механизм разобран в статье о **[разрешениях токенов](/ru/learn/security/token-allowances/)**. Если коротко:
+Подробно этот механизм разобран в статье о **[разрешениях токенов](/ru/security/token-allowances/)**. Если коротко:
 
 - при подключении к dApp вы подписываете `approve` — разрешаете контракту тратить ваши токены;
 - большинство проектов запрашивают **бесконечный лимит** (MAX_UINT_256) для удобства;

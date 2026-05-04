@@ -6,8 +6,8 @@ category: "security"
 translationKey: "hacked-what-to-do"
 slug: "chto-delat-pri-vzlome"
 keywords: ["wallet hacked", "crypto theft", "emergency response", "stolen crypto", "revoke access", "move funds"]
-prev: "/ru/learn/security/razresheniya-tokenov"
-next: "/ru/learn/security/oshibki-novichka"
+prev: "/ru/security/razresheniya-tokenov"
+next: "/ru/security/oshibki-novichka"
 ---
 
 ## Что делать при взломе крипто-кошелька

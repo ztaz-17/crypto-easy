@@ -6,7 +6,7 @@ category: "market"
 translationKey: "why-price-goes-up-and-down"
 slug: "pochemu-cena-rastet-i-padaet"
 keywords: ["crypto price", "supply and demand", "market news", "speculation", "crypto market", "price drivers"]
-prev: "/ru/learn/security/oshibki-novichka"
+prev: "/ru/security/oshibki-novichka"
 next: "/ru/learn/market/chto-takoe-likvidnost"
 ---
 

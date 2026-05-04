@@ -6,8 +6,8 @@ category: "security"
 translationKey: "token-allowances"
 slug: "razresheniya-tokenov"
 keywords: ["token allowance", "token approval", "revoke approval", "smart contract risk", "Ethereum approval", "ERC20 approval"]
-prev: "/ru/learn/security/osnovnye-vidy-skama"
-next: "/ru/learn/security/chto-delat-pri-vzlome"
+prev: "/ru/security/osnovnye-vidy-skama"
+next: "/ru/security/chto-delat-pri-vzlome"
 ---
 
 ## Разрешения токенов: что это и почему опасно

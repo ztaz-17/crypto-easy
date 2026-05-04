@@ -7,7 +7,7 @@ translationKey: "hot-vs-cold-wallets"
 slug: "goryachie-vs-holodnye-koshelki"
 keywords: ["hot wallet", "cold wallet", "hardware wallet", "Ledger", "Trezor", "crypto storage", "security"]
 prev: "/ru/learn/practice/kak-proverit-tranzakciyu"
-next: "/ru/learn/security/osnovnye-vidy-skama"
+next: "/ru/security/osnovnye-vidy-skama"
 ---
 
 ## Горячие vs холодные кошельки: что выбрать

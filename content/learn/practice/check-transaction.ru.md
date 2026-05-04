@@ -7,7 +7,7 @@ translationKey: "check-transaction"
 slug: "kak-proverit-tranzakciyu"
 keywords: ["Etherscan", "blockchain explorer", "check transaction", "transaction status", "TxID", "wallet tracking"]
 prev: "/ru/learn/practice/pervaya-tranzakciya-bez-oshibok"
-next: "/ru/learn/security/goryachie-vs-holodnye-koshelki"
+next: "/ru/security/goryachie-vs-holodnye-koshelki"
 ---
 
 ## Как проверить транзакцию в блокчейне: всё, что нужно знать

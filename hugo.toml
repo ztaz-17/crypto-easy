@@ -35,13 +35,13 @@ enableRobotsTXT = true
     weight = 2
 
   [[menu.main]]
-    identifier = "make_money"
-    url = "/make-money/"
+    identifier = "security"
+    url = "/security/"
     weight = 3
 
   [[menu.main]]
-    identifier = "security"
-    url = "/security/"
+    identifier = "reviews"
+    url = "/reviews/"
     weight = 4
 
   [[menu.main]]
