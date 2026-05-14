@@ -48,3 +48,4 @@ menu: main
 ### [Как проверить транзакцию](/ru/practice/kak-proverit-tranzakciyu/)
 - [Etherscan / аналоги](/ru/practice/kak-proverit-tranzakciyu/#etherscan-аналоги)
 - [Что смотреть](/ru/practice/kak-proverit-tranzakciyu/#что-смотреть)
+
