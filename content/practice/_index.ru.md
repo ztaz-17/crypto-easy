@@ -38,7 +38,7 @@ menu: main
 - [KYC](/ru/practice/kak-kupit-pervuyu-kriptu/#что-такое-kyc-и-стоит-ли-его-проходить)
 - [P2P](/ru/practice/kak-kupit-pervuyu-kriptu/#способ-2-p2p-площадки-покупка-у-людей)
 - [Обменники](/ru/practice/kak-kupit-pervuyu-kriptu/#способ-3-обменники)
-- [Риски ](/ru/practice/kak-kupit-pervuyu-kriptu/#риски-о-которых-нужно-знать)
+- [Риски](/ru/practice/kak-kupit-pervuyu-kriptu/#риски-о-которых-нужно-знать)
 
 ### [Первая транзакция без ошибок](/ru/practice/pervaya-tranzakciya-bez-oshibok/)
 - [Шаг 1. Скопировать адрес получателя](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-1-скопировать-адрес-получателя)
