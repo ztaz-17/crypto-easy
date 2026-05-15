@@ -22,12 +22,12 @@ keywords:
 
 Блокчейн, биткоин, DeFi — простыми словами.
 
-- [Блокчейн за 1 минуту](/ru/learn/blockchain-za-1-minutu/)
-- [Биткоин и Ethereum](/ru/learn/bitcoin-i-ethereum/)
-- [Что такое деньги на самом деле](/ru/learn/chto-takoe-dengi-na-samom-dele/)
-- [Почему государства не любят крипту](/ru/learn/pochemu-gosudarstva-ne-lubiat-kriptu/)
-- [Почему перевод стоит 30$](/ru/learn/pochemu-perevod-stoit-30-dollarov/)
-- [Главные мифы о крипте](/ru/learn/glavnye-mify-o-kripte/)
+- [Блокчейн за 1 минуту](/ru/learn/basis/blockchain-za-1-minutu/)
+- [Биткоин и Ethereum](/ru/learn/basis/bitcoin-i-ethereum/)
+- [Что такое деньги на самом деле](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
+- [Почему государства не любят крипту](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/)
+- [Почему перевод стоит 30$](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
+- [Главные мифы о крипте](/ru/learn/skeptic/glavnye-mify-o-kripte/)
 - [Все статьи](/ru/learn/)
 
 ---
@@ -48,11 +48,11 @@ keywords:
 
 Крипторынок, DeFi, налоги и регулирование.
 
-- [Что такое DeFi](/ru/market/chto-takoe-defi/)
-- [Почему цена растёт и падает](/ru/market/pochemu-cena-rastet-i-padaet/)
-- [Инвестирование vs трейдинг](/ru/market/investirovanie-vs-treiding/)
-- [Кредиты без банка](/ru/market/kredity-bez-banka/)
-- [Налоги на крипту](/ru/market/nalogi-na-kriptu/)
+- [Что такое DeFi](/ru/market/defi/chto-takoe-defi/)
+- [Почему цена растёт и падает](/ru/market/market/pochemu-cena-rastet-i-padaet/)
+- [Инвестирование vs трейдинг](/ru/market/market/investirovanie-vs-treiding/)
+- [Кредиты без банка](/ru/market/defi/kredity-bez-banka/)
+- [Налоги на крипту](/ru/market/regulation/nalogi-na-kriptu/)
 - [Все о рынке](/ru/market/)
 
 ---
