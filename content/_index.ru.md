@@ -18,34 +18,73 @@ keywords:
 
 ---
 
-## 💡 Что вы найдёте здесь
+## 📘 Обучение
 
-- 📘 Простые объяснения криптовалют — от «что такое блокчейн» до DeFi и налогов
-- 💰 Способы заработка на крипте — стейкинг, фарминг, инвестиции
-- 🔐 Безопасность и защита от мошенников — как не потерять деньги
-- 🧰 Обзоры бирж, кошельков и сервисов
-- 📚 [Словарь крипто терминов](/ru/glossary/) — 39 понятий простым языком
+Блокчейн, биткоин, DeFi — простыми словами.
 
----
-
-## 🧭 С чего начать
-
-Если вы новичок:
-
-👉 **[Раздел «База»](/ru/learn/#база-фундамент)** — блокчейн за минуту, биткоин vs Ethereum, стейблкоины  
-👉 **[Практика](/ru/learn/#практика)** — создать кошелёк, купить первую крипту, отправить перевод  
-👉 **[Безопасность](/ru/learn/#безопасность)** — скамы, сид-фразы, холодные кошельки  
-👉 **[Глоссарий](/ru/glossary/)** — если встретили незнакомый термин
+- [Блокчейн за 1 минуту](/ru/learn/blockchain-za-1-minutu/)
+- [Биткоин и Ethereum](/ru/learn/bitcoin-i-ethereum/)
+- [Что такое деньги на самом деле](/ru/learn/chto-takoe-dengi-na-samom-dele/)
+- [Почему государства не любят крипту](/ru/learn/pochemu-gosudarstva-ne-lubiat-kriptu/)
+- [Почему перевод стоит 30$](/ru/learn/pochemu-perevod-stoit-30-dollarov/)
+- [Главные мифы о крипте](/ru/learn/glavnye-mify-o-kripte/)
+- [Все статьи](/ru/learn/)
 
 ---
 
-## 🔥 Популярные статьи
+## 🛠 Практика
 
-👉 [Как создать крипто-кошелёк за 5 минут](/ru/practice/kak-sozdat-koshelek-za-5-minut/)  
-👉 [Сид-фраза: момент, где теряют деньги](/ru/practice/seed-phrase-moment-gde-teryaut-dengi/)  
-👉 [Почему государства не любят крипту](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/)  
-👉 [Что такое DeFi](/ru/learn/defi/chto-takoe-defi/)  
-👉 [Блокчейн за 1 минуту](/ru/learn/basis/blockchain-za-1-minutu/)
+Пошаговые инструкции для первых шагов.
+
+- [Как создать крипто-кошелёк за 5 минут](/ru/practice/kak-sozdat-koshelek-za-5-minut/)
+- [Сид-фраза: момент, где теряют деньги](/ru/practice/seed-phrase-moment-gde-teryaut-dengi/)
+- [Первая транзакция без ошибок](/ru/practice/pervaya-tranzakciya-bez-oshibok/)
+- [Как проверить транзакцию](/ru/practice/kak-proverit-tranzakciyu/)
+- [Все инструкции](/ru/practice/)
+
+---
+
+## 📈 Рынок
+
+Крипторынок, DeFi, налоги и регулирование.
+
+- [Что такое DeFi](/ru/market/chto-takoe-defi/)
+- [Почему цена растёт и падает](/ru/market/pochemu-cena-rastet-i-padaet/)
+- [Инвестирование vs трейдинг](/ru/market/investirovanie-vs-treiding/)
+- [Кредиты без банка](/ru/market/kredity-bez-banka/)
+- [Налоги на крипту](/ru/market/nalogi-na-kriptu/)
+- [Все о рынке](/ru/market/)
+
+---
+
+## 🔐 Безопасность
+
+Как защитить деньги и не попасться мошенникам.
+
+- [Основные виды скама](/ru/security/osnovnye-vidy-skama/)
+- [Горячие vs холодные кошельки](/ru/security/goryachie-vs-holodnye-koshelki/)
+- [Разрешения токенов](/ru/security/razresheniya-tokenov/)
+- [Что делать при взломе](/ru/security/chto-delat-pri-vzlome/)
+- [Ошибки новичка](/ru/security/oshibki-novichka/)
+- [Все по безопасности](/ru/security/)
+
+---
+
+## 🎁 Бонус
+
+NFT, DAO, мем-коины, стейкинг и другие темы.
+
+- [Что такое NFT](/ru/bonus/chto-takoe-nft/)
+- [Что такое DAO](/ru/bonus/chto-takoe-dao/)
+- [Стейкинг vs фарминг](/ru/bonus/steiking-vs-farming/)
+- [Что такое Airdrop](/ru/bonus/chto-takoe-airdrop/)
+- [Все бонусы](/ru/bonus/)
+
+---
+
+## 📚 Глоссарий
+
+[Словарь крипто-терминов](/ru/glossary/) — 50+ понятий простым языком.
 
 ---
 
@@ -54,17 +93,9 @@ keywords:
 Сделать крипту понятной и доступной для всех.
 
 - без сложных терминов
-- без "воды"
+- без «воды»
 - только практика
 
 ---
 
-## 📬 Будьте в курсе
-
-Подпишитесь на Telegram с короткими обновлениями и гайдами.
-
----
-
 > ⚠️ Дисклеймер: материал носит информационный характер и не является финансовой рекомендацией.
-
----
