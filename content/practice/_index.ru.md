@@ -41,11 +41,17 @@ menu: main
 - [Риски](/ru/practice/kak-kupit-pervuyu-kriptu/#риски-о-которых-нужно-знать)
 
 ### [Первая транзакция без ошибок](/ru/practice/pervaya-tranzakciya-bez-oshibok/)
-- [Как отправить $1 кому угодно в мире за 10 минут](/ru/practice/pervaya-tranzakciya-bez-oshibok/#как-отправить-1-кому-угодно-в-мире-за-10-минут)
-- [Проверка адреса](/ru/practice/pervaya-tranzakciya-bez-oshibok/#проверка-адреса)
-- [Проверка сети](/ru/practice/pervaya-tranzakciya-bez-oshibok/#проверка-сети)
+- [Шаг 1. Скопировать адрес получателя](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-1-скопировать-адрес-получателя)
+- [Шаг 2. Проверить адрес](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-2-проверить-адрес-первые-последние-и-часть-в-середине)
+- [Шаг 3. Выбрать правильную сеть](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-3-выбрать-правильную-сеть-главная-ошибка-новичков)
+- [Шаг 4. Тестовый перевод](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-4-отправить-малую-сумму-для-теста)
+- [Шаг 5. Проверить транзакцию](/ru/practice/pervaya-tranzakciya-bez-oshibok/#шаг-5-проверить-транзакцию-в-эксплорере)
 
-### [Как проверить транзакцию](/ru/practice/kak-proverit-tranzakciyu/)
-- [Etherscan / аналоги](/ru/practice/kak-proverit-tranzakciyu/#etherscan-аналоги)
-- [Что смотреть](/ru/practice/kak-proverit-tranzakciyu/#что-смотреть)
+### [Как проверить транзакцию в блокчейне](/ru/practice/kak-proverit-tranzakciyu/)
+- [Что такое эксплорер и зачем](/ru/practice/kak-proverit-tranzakciyu/#что-такое-блокчейн-эксплорер-и-зачем-он-нужен)
+- [Etherscan — главный эксплорер Ethereum](/ru/practice/kak-proverit-tranzakciyu/#etherscan-главный-эксплорер-ethereum)
+- [Эксплореры для разных сетей](/ru/practice/kak-proverit-tranzakciyu/#эксплореры-список)
+- [Мониторинг кошелька](/ru/practice/kak-proverit-tranzakciyu/#как-мониторить-кошелёк-алерты-и-уведомления)
+- [Транзакции на бирже (CEX)](/ru/practice/kak-proverit-tranzakciyu/#как-проверить-транзакцию-на-бирже-cex)
+- [Что делать, если зависла](/ru/practice/kak-proverit-tranzakciyu/#что-делать-если-транзакция-зависла)
 
