@@ -68,7 +68,15 @@ Follow our Telegram for short updates and guides:
 
 ---
 
+## 🎁 Free Guide
+
+[📥 Download "5 Beginner Mistakes in Crypto" →](/en/free-guide/)
+
+---
+
 > ⚠️ Disclaimer: Educational content only. Not financial advice. DYOR.
+
+---
 
 ---
 
