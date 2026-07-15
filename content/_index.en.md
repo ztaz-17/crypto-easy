@@ -60,7 +60,11 @@ Make crypto understandable and usable for everyone.
 ## 📬 Stay updated
 
 Follow our Telegram for short updates and guides:
-👉 (link later)
+
+👉 🇬🇧 [@crypto_easy_en](https://t.me/crypto_easy_en)
+👉 🇷🇺 [@crypto_easy_ru](https://t.me/crypto_easy_ru)
+👉 🇪🇸 [@crypto_easy_es](https://t.me/crypto_easy_es)
+👉 🇩🇪 [@crypto_easy_de](https://t.me/crypto_easy_de)
 
 ---
 
