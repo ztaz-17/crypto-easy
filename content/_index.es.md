@@ -28,6 +28,14 @@ keywords:
 
 ---
 
+## 🏆 Exchange Recomendado
+
+Comienza tu viaje crypto en **Bybit** — un exchange confiable usado por millones.
+
+👉 [Regístrate y recibe un bono de hasta **6,135 USDT** →](https://www.bybit.com/invite?ref=DVPQELB)
+
+---
+
 ## 📬 Mantente al día
 
 Guías cortas y noticias en nuestro Telegram:

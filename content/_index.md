@@ -65,6 +65,14 @@ Follow our Telegram for short updates and guides:
 
 ---
 
+## 🏆 Recommended Exchange
+
+Start your crypto journey on **Bybit** — a trusted global exchange used by millions.
+
+👉 [Sign up and get up to **6,135 USDT** bonus →](https://www.bybit.com/invite?ref=DVPQELB)
+
+---
+
 ## 🎁 Free Guide
 
 [📥 Download "5 Beginner Mistakes in Crypto" →](/en/free-guide/)
