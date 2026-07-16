@@ -15,9 +15,13 @@ enableRobotsTXT = true
     weight = 2
     languageName = "Русский"
 
-  [languages.fr]
+  [languages.es]
     weight = 3
-    languageName = "Français"
+    languageName = "Español"
+
+  [languages.de]
+    weight = 4
+    languageName = "Deutsch"
 
 [params]
   description = "Crypto is Easy"
