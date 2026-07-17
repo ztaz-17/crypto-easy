@@ -12,6 +12,8 @@ keywords:
 menu: main
 ---
 
+---
+
 ## Crypto for skeptics
 
 ### [Why banks can freeze your money — and you can't do anything](/en/learn/skeptic/banks-freeze-money/)
@@ -47,9 +49,15 @@ menu: main
 - [Casino myth](/en/learn/skeptic/crypto-myths/#casino-myth)
 - [Nothing backing it](/en/learn/skeptic/crypto-myths/#nothing-backing-it)
 
+<!-- EN translation exists: inflation-illusion.en.md -->
+> 🔄 *[The inflation illusion — why you lose money even when saving](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)* — English version available, link coming soon
+
 ---
 
 ## Basics (Foundation)
+
+### [What is money really (and why it's just numbers)](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
+> 🔄 Translation in progress
 
 ### [Blockchain explained in 1 minute](/en/learn/basis/blockchain-in-1-minute/)
 - [The shared ledger](/en/learn/basis/blockchain-in-1-minute/#shared-ledger)
@@ -77,10 +85,23 @@ menu: main
 - [Private key vs password](/en/learn/basis/private-key/#private-key-vs-password)
 - [How to store it](/en/learn/basis/private-key/#how-to-store)
 
-### Coming next (translation in progress):
-- What is money really — how banking works
-- Other networks and coins (Solana, BNB, Doge, etc.)
+### [Other networks and coins: top crypto overview](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
+> 🔄 Translation in progress
 
 ---
+
+## How it works
+
+### [What happens when you send crypto](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
+> 🔄 Translation in progress
+
+### [Why a transfer can cost $30](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
+> 🔄 Translation in progress
+
+### [Block confirmations explained](/ru/learn/how-it-works/chto-takoe-podtverzhdeniya/)
+> 🔄 Translation in progress
+
+### [Why transactions get stuck](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/)
+> 🔄 Translation in progress
 
 > 📖 More topics being translated — check back soon!

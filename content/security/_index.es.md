@@ -12,20 +12,26 @@ keywords:
 menu: main
 ---
 
-## 🔐 Seguridad Crypto
+## Seguridad
 
-Mantente seguro en el mundo crypto. Aprende a reconocer estafas, proteger tus fondos y evitar errores de principiante.
+### [Wallets Calientes vs Fríos: Cuál Elegir](/en/security/hot-vs-cold-wallets/)
+- [Wallets calientes: siempre en línea](/en/security/hot-vs-cold-wallets/#hot-wallets-always-online)
+- [Wallets fríos: seguridad offline](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
+- [Tabla comparativa](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison)
+- [Cuándo usar cada uno](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
-### Guías disponibles:
+### [Estafas Crypto Comunes: Qué Vigilar](/ru/security/osnovnye-vidy-skama/)
+> 🔄 Traducción en curso
 
-- [Errores de Principiante en Crypto: Casos Reales y Soluciones](/en/security/common-mistakes/) — los 4 errores más comunes y cómo solucionarlos
-- [Wallets Calientes vs Fríos: Cuál Elegir](/en/security/hot-vs-cold-wallets/) — comparación de seguridad y conveniencia de diferentes tipos de wallet
+### [Permisos de Tokens: Qué Son y Por Qué Son Peligrosos](/ru/security/razresheniya-tokenov/)
+> 🔄 Traducción en curso
 
-### Próximamente (traducción en curso):
-- Estafas crypto comunes que debes evitar
-- Qué hacer si te han hackeado
-- Permisos de tokens y cómo revocarlos
+### [Qué Hacer Si Hackean Tu Wallet](/ru/security/chto-delat-pri-vzlome/)
+> 🔄 Traducción en curso
 
----
-
-> Más guías de seguridad en camino.
+### [Errores de Principiante en Crypto: Casos Reales](/en/security/common-mistakes/)
+- [Envié a la red equivocada](/en/security/common-mistakes/#sent-to-wrong-network)
+- [Perdí mi frase semilla](/en/security/common-mistakes/#lost-seed-phrase)
+- [Di aprobación infinita de tokens](/en/security/common-mistakes/#gave-infinite-approval)
+- [Caí en una estafa](/en/security/common-mistakes/#fell-for-scam)
+- [Principios clave de seguridad](/en/security/common-mistakes/#key-principles)
