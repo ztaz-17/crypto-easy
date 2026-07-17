@@ -15,23 +15,19 @@ menu: main
 ## Security
 
 ### [Hot vs Cold Wallets: Which One to Choose](/en/security/hot-vs-cold-wallets/)
-- [Hot wallets: always online](/en/security/hot-vs-cold-wallets/#hot-wallets-always-online)
+- [Hot wallets: always connected](/en/security/hot-vs-cold-wallets/#hot-wallets-always-connected)
 - [Cold wallets: offline security](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
-- [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison)
-- [When to use which](/en/security/hot-vs-cold-wallets/#when-to-use-which)
+- [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
+- [When to use what](/en/security/hot-vs-cold-wallets/#when-to-use-what)
 
 ### [Common Crypto Scams: What to Watch For](/ru/security/osnovnye-vidy-skama/)
-> 🔄 Translation in progress
 
 ### [Token Allowances: What They Are and Why They're Dangerous](/ru/security/razresheniya-tokenov/)
-> 🔄 Translation in progress
 
 ### [What to Do If Your Wallet Is Hacked](/ru/security/chto-delat-pri-vzlome/)
-> 🔄 Translation in progress
 
 ### [Beginner Mistakes in Crypto: Real-Life Cases](/en/security/common-mistakes/)
-- [Sent to wrong network](/en/security/common-mistakes/#sent-to-wrong-network)
-- [Lost seed phrase](/en/security/common-mistakes/#lost-seed-phrase)
-- [Gave infinite token approval](/en/security/common-mistakes/#gave-infinite-approval)
-- [Fell for a scam](/en/security/common-mistakes/#fell-for-scam)
-- [Key security principles](/en/security/common-mistakes/#key-principles)
+- [I sent to the wrong network](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
+- [I lost my seed phrase](/en/security/common-mistakes/#2-i-lost-my-seed-phrase)
+- [I gave unlimited token approval](/en/security/common-mistakes/#3-i-gave-unlimited-token-approval-to-a-contract)
+- [I fell for a scam](/en/security/common-mistakes/#4-i-fell-for-a-scam)

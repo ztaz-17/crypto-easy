@@ -15,33 +15,24 @@ menu: main
 ## Practice
 
 ### [Create a Crypto Wallet in 5 Minutes](/en/practice/create-wallet-in-5-minutes/)
-- [Which wallet to choose (MetaMask / Trust Wallet)](/en/practice/create-wallet-in-5-minutes/#which-wallet-to-choose)
-- [Installing MetaMask](/en/practice/create-wallet-in-5-minutes/#installing-metamask)
-- [Installing Trust Wallet](/en/practice/create-wallet-in-5-minutes/#installing-trust-wallet)
-- [Verification](/en/practice/create-wallet-in-5-minutes/#verification)
+- [Which wallet to choose (MetaMask / Trust Wallet)](/en/practice/create-wallet-in-5-minutes/#which-wallet-to-choose-metamask-or-trust-wallet)
+- [Installing MetaMask](/en/practice/create-wallet-in-5-minutes/#installing-metamask-browser)
+- [Installing Trust Wallet](/en/practice/create-wallet-in-5-minutes/#installing-trust-wallet-mobile)
+- [What should be on screen](/en/practice/create-wallet-in-5-minutes/#check-what-should-be-on-screen)
 
 ### [Seed Phrase Mistakes: Where People Lose Money](/en/practice/seed-phrase-mistakes/)
-- [What is a seed phrase](/en/practice/seed-phrase-mistakes/#what-is-a-seed-phrase)
-- [How to store it safely](/en/practice/seed-phrase-mistakes/#how-to-store-safely)
-- [Where NOT to store it](/en/practice/seed-phrase-mistakes/#where-not-to-store)
-- [Common mistakes](/en/practice/seed-phrase-mistakes/#common-mistakes)
+- [What is a seed phrase and why it is your money](/en/practice/seed-phrase-mistakes/#what-is-a-seed-phrase-and-why-it-is-your-money)
+- [How to properly store your seed phrase](/en/practice/seed-phrase-mistakes/#how-to-properly-store-your-seed-phrase)
+- [Where NOT to store your seed phrase](/en/practice/seed-phrase-mistakes/#where-not-to-store-your-seed-phrase)
 
 ### [Testnet Demo: Practice Without Real Money](/ru/practice/demo-rezhim-testovaya-set/)
-> 🔄 Translation in progress
 
 ### [How to Buy Your First Crypto](/en/practice/buy-first-crypto/)
-- [Exchange](/en/practice/buy-first-crypto/#exchange)
-- [KYC explained](/en/practice/buy-first-crypto/#kyc-explained)
-- [P2P platforms](/en/practice/buy-first-crypto/#p2p-platforms)
-- [Exchange services](/en/practice/buy-first-crypto/#exchange-services)
-- [Risks to know](/en/practice/buy-first-crypto/#risks-to-know)
+- [Method 1: Crypto exchange](/en/practice/buy-first-crypto/#method-1-crypto-exchange)
+- [What is KYC](/en/practice/buy-first-crypto/#what-is-kyc)
+- [Method 2: P2P peer-to-peer](/en/practice/buy-first-crypto/#method-2-p2p-peer-to-peer)
+- [Method 3: Instant swap services](/en/practice/buy-first-crypto/#method-3-instant-swap-services)
 
 ### [Your First Transaction Without Mistakes](/en/practice/first-transaction/)
-- [Step 1: Copy the recipient address](/en/practice/first-transaction/#step-1-copy-address)
-- [Step 2: Verify the address](/en/practice/first-transaction/#step-2-verify-address)
-- [Step 3: Choose the right network](/en/practice/first-transaction/#step-3-choose-network)
-- [Step 4: Test transfer](/en/practice/first-transaction/#step-4-test-transfer)
-- [Step 5: Check the transaction](/en/practice/first-transaction/#step-5-check-transaction)
 
 ### [How to Check a Transaction in Blockchain](/ru/practice/kak-proverit-tranzakciyu/)
-> 🔄 Translation in progress
