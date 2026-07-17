@@ -3,27 +3,28 @@ category: "bonus"
 translationKey: "bonus"
 slug: "bonus"
 title: "Bonus"
-description: "Bonus crypto topics — DAOs, airdrops, NFTs, staking, and more explained simply"
+description: "Extra crypto topics — NFTs, DAOs, oracles, meme coins, P2P trading, staking"
 keywords:
-  - crypto bonus
-  - what is a DAO
-  - crypto airdrops
-  - staking explained
+  - NFT
+  - DAO
+  - meme coins
+  - airdrop
+  - staking
 menu: main
 ---
 
-## 🎁 Bonus Topics
+## Bonus
 
-Extra crypto topics that don't fit into the main categories — but are still worth knowing.
+### What is a DAO
 
-### Coming soon:
+### Oracles explained
 
-- What is a DAO?
-- Staking vs Farming — what's the difference?
-- What are airdrops?
-- NFTs explained simply
-- What are meme coins?
-- What are oracles?
-- P2P trading scams
+### Staking vs farming
 
-> More bonus topics on the way!
+### Airdrops: what they are and how to avoid scams
+
+### Meme coins
+
+### What are NFTs
+
+### P2P trading scams

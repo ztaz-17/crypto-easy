@@ -3,25 +3,47 @@ category: "market"
 translationKey: "market"
 slug: "market"
 title: "Markets"
-description: "Crypto markets, DeFi, regulation, and taxes — explained simply"
+description: "Crypto markets, DeFi, regulation and taxes"
 keywords:
   - crypto market
   - DeFi
-  - crypto investing
+  - cryptocurrency investing
   - crypto taxes
 menu: main
 ---
 
-## 📊 Markets & Prices
+## Markets & Prices
 
-Understanding how crypto markets work is key to making informed decisions. This section explains market dynamics, DeFi, and regulation in plain language.
+### Why price goes up and down
 
-### What you'll find here (coming soon in English):
+### What is liquidity and why it matters for price
 
-- **Market Basics** — why prices go up and down, liquidity, trading vs investing
-- **DeFi Explained** — what is DeFi, yield farming, DEX vs CEX, risks, bridges
-- **Regulation & Taxes** — how governments treat crypto, tax obligations
+### Why you buy high and sell low
 
-> 🇷🇺 Russian versions are available now — switch to Русский for the full content.
-> 🇪🇸 Versión en español próximamente.
-> 🇩🇪 Deutsche Version folgt in Kürze.
+### Investing vs trading
+
+---
+
+## DeFi
+
+### What is DeFi
+
+### What is TVL and how to read it
+
+### Loans without banks
+
+### Yield farming
+
+### DeFi risks
+
+### Cross-chain bridges
+
+### DEX vs CEX — which to choose
+
+---
+
+## Government & Taxes
+
+### How governments treat crypto
+
+### Crypto taxes explained

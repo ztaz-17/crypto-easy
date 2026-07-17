@@ -3,24 +3,27 @@ category: "tools"
 translationKey: "tools"
 slug: "tools"
 title: "Herramientas"
-description: "Reseñas de herramientas crypto, wallets y exchanges — comparativas honestas para principiantes"
+description: "Los mejores servicios y herramientas crypto — exchanges, wallets, rastreadores"
 keywords:
   - herramientas crypto
-  - mejores exchanges crypto
-  - review wallets crypto
-  - plataformas de trading
+  - calculadora bitcoin
+  - wallet crypto
+  - exchanges
 menu: main
 ---
 
-## 🔧 Herramientas y Reseñas
+## Herramientas
 
-Reseñas honestas y sin rodeos de herramientas, wallets y exchanges.
+Los mejores exchanges crypto, wallets y servicios — todo en un solo lugar.
 
 ### Próximamente:
 
-- Comparativa de los mejores exchanges crypto
-- Reviews de wallets: frío vs caliente
-- Rastreadores de portfolio y herramientas de análisis
-- Calculadoras de impuestos crypto
+- Los mejores exchanges comparados
+- Los mejores wallets para principiantes
+- Rastreadores de cartera
+- Calculadoras de impuestos
+- Y más...
 
-> Más reseñas en camino. ¡Vuelve pronto!
+---
+
+> La sección de herramientas está en preparación

@@ -3,24 +3,27 @@ category: "tools"
 translationKey: "tools"
 slug: "tools"
 title: "Werkzeuge"
-description: "Bewertungen von Crypto-Tools, Wallets und Börsen — ehrliche Vergleiche für Anfänger"
+description: "Die besten Crypto-Dienste und Tools — Börsen, Wallets, Tracker"
 keywords:
   - Crypto Tools
-  - beste Crypto Börsen
-  - Wallet Test
-  - Trading Plattformen
+  - Bitcoin Rechner
+  - Crypto Wallet
+  - Börsen
 menu: main
 ---
 
-## 🔧 Crypto Tools & Bewertungen
+## Werkzeuge
 
-Ehrliche Bewertungen von Tools, Wallets und Börsen — ohne Fachjargon.
+Die besten Crypto-Börsen, Wallets und Dienste — alles an einem Ort.
 
 ### Demnächst:
 
-- Vergleich der besten Crypto-Börsen
-- Wallet-Tests: heiß vs kalt
-- Portfolio-Tracker und Analyse-Tools
-- Steuerrechner für Crypto
+- Top Crypto-Börsen im Vergleich
+- Beste Wallets für Anfänger
+- Portfolio-Tracker
+- Steuerrechner
+- Und mehr...
 
-> Weitere Bewertungen folgen. Schau bald wieder vorbei!
+---
+
+> Der Werkzeugbereich ist in Vorbereitung

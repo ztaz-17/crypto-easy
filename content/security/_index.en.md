@@ -12,18 +12,22 @@ keywords:
 menu: main
 ---
 
-## 🔐 Crypto Security
+## Security
 
-Stay safe in the crypto world. Learn how to recognize scams, protect your funds, and avoid beginner mistakes.
+### [Hot vs Cold Wallets: Which One to Choose](/en/security/hot-vs-cold-wallets/)
+- [Hot wallets: always connected](/en/security/hot-vs-cold-wallets/#hot-wallets-always-connected)
+- [Cold wallets: offline security](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
+- [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
+- [When to use what](/en/security/hot-vs-cold-wallets/#when-to-use-what)
 
-### Available guides:
+### Common Crypto Scams: What to Watch For
 
-- [Beginner Mistakes in Crypto: Real-Life Cases and Solutions](/en/security/common-mistakes/) — the 4 most common mistakes and how to fix them
+### Token Allowances: What They Are and Why They're Dangerous
 
-### Coming next:
+### What to Do If Your Wallet Is Hacked
 
-- How to store crypto safely (hot vs cold wallets)
-- Common crypto scams to avoid
-- Two-factor authentication guide
-- What to do if you've been hacked
-- Token allowances and how to revoke them
+### [Beginner Mistakes in Crypto: Real-Life Cases](/en/security/common-mistakes/)
+- [I sent to the wrong network](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
+- [I lost my seed phrase](/en/security/common-mistakes/#2-i-lost-my-seed-phrase)
+- [I gave unlimited token approval](/en/security/common-mistakes/#3-i-gave-unlimited-token-approval-to-a-contract)
+- [I fell for a scam](/en/security/common-mistakes/#4-i-fell-for-a-scam)

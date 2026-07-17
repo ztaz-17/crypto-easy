@@ -12,15 +12,22 @@ keywords:
 menu: main
 ---
 
-## 🔐 Crypto-Sicherheit
+## Sicherheit
 
-Bleib sicher in der Crypto-Welt. Erfahre, wie du Betrug erkennst, deine Gelder schützt und Anfängerfehler vermeidest.
+### [Hot vs Cold Wallets: Welche Solltest Du Wählen](/de/security/hot-vs-cold-wallets/)
+- [Hot Wallets: immer verbunden](/de/security/hot-vs-cold-wallets/#hot-wallets-immer-in-verbindung)
+- [Cold Wallets: Offline-Sicherheit](/de/security/hot-vs-cold-wallets/#cold-wallets-offline-sicherheit)
+- [Hot vs Cold: Vergleichstabelle](/de/security/hot-vs-cold-wallets/#hot-vs-cold-vergleichstabelle)
+- [Wann du was verwenden solltest](/de/security/hot-vs-cold-wallets/#wann-du-was-verwenden-solltest)
 
-### Demnächst:
+### Häufige Crypto-Betrugsarten
 
-- [So bewahrst du Crypto sicher auf](/en/security/how-to-store-crypto/)
-- [Häufige Crypto-Betrugsmaschen](/en/security/scams/)
-- [Anfängerfehler bei Crypto](/en/security/common-mistakes/)
-- [Zwei-Faktor-Authentifizierung](/en/security/2fa-guide/)
+### Token-Berechtigungen: Was Sie Sind und Warum Sie Gefährlich Sind
 
-> Weitere Sicherheitsleitfäden in Vorbereitung.
+### Was Tun, Wenn Dein Wallet Gehackt Wurde
+
+### [Anfängerfehler: Echte Fälle und Lösungen](/de/security/common-mistakes/)
+- [Ich habe an das falsche Netzwerk gesendet](/de/security/common-mistakes/#1-ich-habe-an-das-falsche-netzwerk-gesendet)
+- [Ich habe meine Seed-Phrase verloren](/de/security/common-mistakes/#2-ich-habe-meine-seed-phrase-verloren)
+- [Ich habe einem Contract unbegrenzte Token-Freigabe erteilt](/de/security/common-mistakes/#3-ich-habe-einem-contract-unbegrenzte-token-freigabe-erteilt)
+- [Ich bin auf einen Betrug hereingefallen](/de/security/common-mistakes/#4-ich-bin-auf-einen-betrug-hereingefallen)
