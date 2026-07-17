@@ -12,20 +12,26 @@ keywords:
 menu: main
 ---
 
-## 🔐 Crypto-Sicherheit
+## Sicherheit
 
-Bleib sicher in der Crypto-Welt. Erfahre, wie du Betrug erkennst, deine Gelder schützt und Anfängerfehler vermeidest.
+### [Heiße vs Kalte Wallets: Welche Solltest du Wählen](/en/security/hot-vs-cold-wallets/)
+- [Heiße Wallets: immer online](/en/security/hot-vs-cold-wallets/#hot-wallets-always-online)
+- [Kalte Wallets: Offline-Sicherheit](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
+- [Vergleichstabelle](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison)
+- [Wann du was verwendest](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
-### Verfügbare Leitfäden:
+### [Häufige Crypto-Betrugsmaschen](/ru/security/osnovnye-vidy-skama/)
+> 🔄 Übersetzung in Arbeit
 
-- [Anfängerfehler bei Crypto: Echte Fälle und Lösungen](/en/security/common-mistakes/) — die 4 häufigsten Fehler und wie man sie behebt
-- [Heiße vs Kalte Wallets: Welche Solltest du Wählen](/en/security/hot-vs-cold-wallets/) — Sicherheits- und Komfortvergleich verschiedener Wallet-Typen
+### [Token-Berechtigungen: Was sie sind und warum sie gefährlich sind](/ru/security/razresheniya-tokenov/)
+> 🔄 Übersetzung in Arbeit
 
-### Demnächst (Übersetzung in Arbeit):
-- Häufige Crypto-Betrugsmaschen
-- Was tun, wenn du gehackt wurdest
-- Token-Berechtigungen und wie du sie widerrufst
+### [Was tun, wenn dein Wallet gehackt wurde](/ru/security/chto-delat-pri-vzlome/)
+> 🔄 Übersetzung in Arbeit
 
----
-
-> Weitere Sicherheitsleitfäden in Vorbereitung.
+### [Anfängerfehler bei Crypto: Echte Fälle](/en/security/common-mistakes/)
+- [Ins falsche Netzwerk gesendet](/en/security/common-mistakes/#sent-to-wrong-network)
+- [Seed-Phrase verloren](/en/security/common-mistakes/#lost-seed-phrase)
+- [Unbegrenzte Token-Genehmigung erteilt](/en/security/common-mistakes/#gave-infinite-approval)
+- [Auf Betrug hereingefallen](/en/security/common-mistakes/#fell-for-scam)
+- [Wichtige Sicherheitsprinzipien](/en/security/common-mistakes/#key-principles)

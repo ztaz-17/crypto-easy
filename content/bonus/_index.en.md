@@ -15,15 +15,23 @@ menu: main
 
 ## Bonus
 
-### Coming next (translation in progress):
-- What is a DAO?
-- What are oracles (Chainlink)?
-- Staking vs farming — what's the difference?
-- Airdrops: free tokens or scams?
-- Meme coins: Doge, Shiba and why they pump
-- What are NFTs
-- P2P trading scams
+### [What is a DAO](/ru/bonus/chto-takoe-dao/)
+> 🔄 Translation in progress
 
----
+### [Oracles explained](/ru/bonus/chto-takoe-orakuly/)
+> 🔄 Translation in progress
 
-> 📖 English content is being translated. Check back soon!
+### [Staking vs farming](/ru/bonus/steiking-vs-farming/)
+> 🔄 Translation in progress
+
+### [Airdrops: what they are and how to avoid scams](/ru/bonus/chto-takoe-airdrop/)
+> 🔄 Translation in progress
+
+### [Meme coins](/ru/bonus/chto-takoe-meme-coiny/)
+> 🔄 Translation in progress
+
+### [What are NFTs](/ru/bonus/chto-takoe-nft/)
+> 🔄 Translation in progress
+
+### [P2P trading scams](/ru/bonus/p2p-torgovlya/)
+> 🔄 Translation in progress

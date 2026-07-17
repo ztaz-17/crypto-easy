@@ -12,20 +12,26 @@ keywords:
 menu: main
 ---
 
-## 🔐 Crypto Security
+## Security
 
-Stay safe in the crypto world. Learn how to recognize scams, protect your funds, and avoid beginner mistakes.
+### [Hot vs Cold Wallets: Which One to Choose](/en/security/hot-vs-cold-wallets/)
+- [Hot wallets: always online](/en/security/hot-vs-cold-wallets/#hot-wallets-always-online)
+- [Cold wallets: offline security](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
+- [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison)
+- [When to use which](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
-### Available guides:
+### [Common Crypto Scams: What to Watch For](/ru/security/osnovnye-vidy-skama/)
+> 🔄 Translation in progress
 
-- [Beginner Mistakes in Crypto: Real-Life Cases and Solutions](/en/security/common-mistakes/) — the 4 most common mistakes and how to fix them
-- [Hot vs Cold Wallets: Which One to Choose](/en/security/hot-vs-cold-wallets/) — comparing security and convenience of different wallet types
+### [Token Allowances: What They Are and Why They're Dangerous](/ru/security/razresheniya-tokenov/)
+> 🔄 Translation in progress
 
-### Coming next (translation in progress):
-- Common crypto scams to avoid
-- What to do if you've been hacked
-- Token allowances and how to revoke them
+### [What to Do If Your Wallet Is Hacked](/ru/security/chto-delat-pri-vzlome/)
+> 🔄 Translation in progress
 
----
-
-> More security guides coming soon!
+### [Beginner Mistakes in Crypto: Real-Life Cases](/en/security/common-mistakes/)
+- [Sent to wrong network](/en/security/common-mistakes/#sent-to-wrong-network)
+- [Lost seed phrase](/en/security/common-mistakes/#lost-seed-phrase)
+- [Gave infinite token approval](/en/security/common-mistakes/#gave-infinite-approval)
+- [Fell for a scam](/en/security/common-mistakes/#fell-for-scam)
+- [Key security principles](/en/security/common-mistakes/#key-principles)

@@ -15,15 +15,23 @@ menu: main
 
 ## Bonus
 
-### Demnächst (Übersetzung in Arbeit):
-- Was ist eine DAO?
-- Was sind Oracles (Chainlink)?
-- Staking vs Farming — was ist der Unterschied?
-- Airdrops: kostenlose Token oder Betrug?
-- Meme-Coins: Doge, Shiba und warum sie pumpen
-- Was sind NFTs?
-- P2P-Handelsbetrug
+### [Was ist eine DAO](/ru/bonus/chto-takoe-dao/)
+> 🔄 Übersetzung in Arbeit
 
----
+### [Oracles erklärt](/ru/bonus/chto-takoe-orakuly/)
+> 🔄 Übersetzung in Arbeit
 
-> 📖 Deutsche Inhalte werden übersetzt. Schau bald wieder vorbei!
+### [Staking vs Farming](/ru/bonus/steiking-vs-farming/)
+> 🔄 Übersetzung in Arbeit
+
+### [Airdrops: was sie sind und wie man Betrug vermeidet](/ru/bonus/chto-takoe-airdrop/)
+> 🔄 Übersetzung in Arbeit
+
+### [Meme-Coins](/ru/bonus/chto-takoe-meme-coiny/)
+> 🔄 Übersetzung in Arbeit
+
+### [Was sind NFTs](/ru/bonus/chto-takoe-nft/)
+> 🔄 Übersetzung in Arbeit
+
+### [P2P-Handelsbetrug](/ru/bonus/p2p-torgovlya/)
+> 🔄 Übersetzung in Arbeit
