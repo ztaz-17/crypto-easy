@@ -14,25 +14,25 @@ menu: main
 
 ## Üben
 
-### [Erstelle ein Crypto-Wallet in 5 Minuten](/en/practice/create-wallet-in-5-minutes/)
-- [Welches Wallet wählen (MetaMask / Trust Wallet)](/en/practice/create-wallet-in-5-minutes/#which-wallet-to-choose-metamask-or-trust-wallet)
-- [MetaMask installieren](/en/practice/create-wallet-in-5-minutes/#installing-metamask-browser)
-- [Trust Wallet installieren](/en/practice/create-wallet-in-5-minutes/#installing-trust-wallet-mobile)
-- [Was sollte auf dem Bildschirm erscheinen](/en/practice/create-wallet-in-5-minutes/#check-what-should-be-on-screen)
+### [Erstelle ein Crypto-Wallet in 5 Minuten](/de/practice/create-wallet-in-5-minutes/)
+- [Welche Wallet wählen (MetaMask / Trust Wallet)](/de/practice/create-wallet-in-5-minutes/#welche-wallet-wählen-metamask-oder-trust-wallet)
+- [MetaMask installieren (Browser)](/de/practice/create-wallet-in-5-minutes/#metamask-installieren-browser)
+- [Trust Wallet installieren (Mobil)](/de/practice/create-wallet-in-5-minutes/#trust-wallet-installieren-mobil)
+- [Überprüfung: Was sollte auf dem Bildschirm zu sehen sein](/de/practice/create-wallet-in-5-minutes/#überprüfung-was-sollte-auf-dem-bildschirm-zu-sehen-sein)
 
-### [Seed-Phrase-Fehler: Wo Menschen Geld Verlieren](/en/practice/seed-phrase-mistakes/)
-- [Was ist eine Seed-Phrase und warum sie dein Geld ist](/en/practice/seed-phrase-mistakes/#what-is-a-seed-phrase-and-why-it-is-your-money)
-- [So bewahrst du deine Seed-Phrase richtig auf](/en/practice/seed-phrase-mistakes/#how-to-properly-store-your-seed-phrase)
-- [Wo du deine Seed-Phrase NICHT aufbewahren solltest](/en/practice/seed-phrase-mistakes/#where-not-to-store-your-seed-phrase)
+### [Seed-Phrase: Der Moment, in dem Leute Geld Verlieren](/de/practice/seed-phrase-mistakes/)
+- [Was ist eine Seed-Phrase und warum sie dein Geld ist](/de/practice/seed-phrase-mistakes/#was-ist-eine-seed-phrase-und-warum-sie-dein-geld-ist)
+- [Wie du die Seed-Phrase richtig aufbewahrst](/de/practice/seed-phrase-mistakes/#wie-du-die-seed-phrase-richtig-aufbewahrst)
+- [Wo du die Seed-Phrase NICHT aufbewahren darfst](/de/practice/seed-phrase-mistakes/#wo-du-die-seed-phrase-nicht-aufbewahren-darfst)
 
-### [Testnet-Demo: Üben Ohne Echtes Geld](/ru/practice/demo-rezhim-testovaya-set/)
+### Testnet-Demo: Übe Ohne Echtes Geld
 
-### [Wie du deine erste Crypto kaufst](/en/practice/buy-first-crypto/)
-- [Methode 1: Crypto-Börse](/en/practice/buy-first-crypto/#method-1-crypto-exchange)
-- [Was ist KYC](/en/practice/buy-first-crypto/#what-is-kyc)
-- [Methode 2: P2P peer-to-peer](/en/practice/buy-first-crypto/#method-2-p2p-peer-to-peer)
-- [Methode 3: Sofortige Swap-Dienste](/en/practice/buy-first-crypto/#method-3-instant-swap-services)
+### [Wie Du Deine Erste Crypto Kaufst](/de/practice/buy-first-crypto/)
+- [Methode 1: Börse](/de/practice/buy-first-crypto/#methode-1-börse)
+- [Was ist KYC?](/de/practice/buy-first-crypto/#was-ist-kyc)
+- [Methode 2: P2P](/de/practice/buy-first-crypto/#methode-2-p2p)
+- [Methode 3: Sofort-Swaps](/de/practice/buy-first-crypto/#methode-3-sofort-swaps)
 
-### [Deine Erste Transaktion Ohne Fehler](/en/practice/first-transaction/)
+### [Erste Transaktion Ohne Fehler](/de/practice/first-transaction/)
 
-### [So prüfst du eine Transaktion in der Blockchain](/ru/practice/kak-proverit-tranzakciyu/)
+### Wie man eine Transaktion in Blockchain Prüft

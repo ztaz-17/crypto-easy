@@ -14,20 +14,20 @@ menu: main
 
 ## Seguridad
 
-### [Wallets Calientes vs Fríos: Cuál Elegir](/en/security/hot-vs-cold-wallets/)
-- [Wallets calientes: siempre conectados](/en/security/hot-vs-cold-wallets/#hot-wallets-always-connected)
-- [Wallets fríos: seguridad offline](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
-- [Tabla comparativa Hot vs Cold](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
-- [Cuándo usar cada uno](/en/security/hot-vs-cold-wallets/#when-to-use-what)
+### [Billeteras Calientes vs Frías: Cuál Elegir](/es/security/hot-vs-cold-wallets/)
+- [Billeteras calientes: siempre conectadas](/es/security/hot-vs-cold-wallets/#billeteras-calientes-siempre-conectadas)
+- [Billeteras frías: seguridad fuera de línea](/es/security/hot-vs-cold-wallets/#billeteras-frías-seguridad-fuera-de-línea)
+- [Caliente vs Fría: tabla comparativa](/es/security/hot-vs-cold-wallets/#caliente-vs-fría-tabla-comparativa)
+- [Cuándo usar cada una](/es/security/hot-vs-cold-wallets/#cuándo-usar-cada-una)
 
-### [Estafas Crypto Comunes: Qué Vigilar](/ru/security/osnovnye-vidy-skama/)
+### Principales Tipos de Estafa en Crypto
 
-### [Permisos de Tokens: Qué Son y Por Qué Son Peligrosos](/ru/security/razresheniya-tokenov/)
+### Permisos de Tokens: Qué Son y Por Qué Son Peligrosos
 
-### [Qué Hacer Si Hackean Tu Wallet](/ru/security/chto-delat-pri-vzlome/)
+### Qué Hacer si Te Hackean el Wallet
 
-### [Errores de Principiante en Crypto: Casos Reales](/en/security/common-mistakes/)
-- [Envié a la red equivocada](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
-- [Perdí mi frase semilla](/en/security/common-mistakes/#2-i-lost-my-seed-phrase)
-- [Di aprobación ilimitada de tokens](/en/security/common-mistakes/#3-i-gave-unlimited-token-approval-to-a-contract)
-- [Caí en una estafa](/en/security/common-mistakes/#4-i-fell-for-a-scam)
+### [Errores de Principiantes: Casos Reales y Soluciones](/es/security/common-mistakes/)
+- [Envié a la red equivocada](/es/security/common-mistakes/#1-envié-a-la-red-equivocada)
+- [Perdí mi frase semilla](/es/security/common-mistakes/#2-perdí-mi-frase-semilla)
+- [Di aprobación ilimitada a un contrato](/es/security/common-mistakes/#3-di-aprobación-ilimitada-de-tokens-a-un-contrato)
+- [Caí en una estafa](/es/security/common-mistakes/#4-caí-en-una-estafa)

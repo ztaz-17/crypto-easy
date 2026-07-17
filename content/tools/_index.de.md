@@ -26,4 +26,4 @@ Die besten Crypto-Börsen, Wallets und Dienste — alles an einem Ort.
 
 ---
 
-> Der Werkzeugbereich ist in Vorbereitung.
+> Der Werkzeugbereich ist in Vorbereitung

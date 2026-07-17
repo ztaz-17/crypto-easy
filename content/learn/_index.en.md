@@ -16,23 +16,21 @@ menu: main
 
 ## Crypto for skeptics
 
-### [Why banks can freeze your money — and you can't do anything](/en/learn/skeptic/banks-freeze-money/)
+### Why banks can freeze your money — and you can't do anything
 
-### [Why you're losing money even when you save](/en/learn/skeptic/why-you-lose-money-saving/)
+### [Why you're losing money even when you save](/en/learn/skeptic/why-youre-losing-money-even-if-saving/)
 
-### [How people save money with crypto (real cases)](/en/learn/skeptic/saving-with-crypto-real-cases/)
+### How people save money with crypto (real cases)
 
-### [Why governments don't like crypto (and can't ban it)](/en/learn/skeptic/why-govs-dont-like-crypto/)
+### Why governments don't like crypto (and can't ban it)
 
-### [Crypto myths beginners believe](/en/learn/skeptic/crypto-myths/)
-
-### [The inflation illusion](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)
+### Crypto myths beginners believe
 
 ---
 
 ## Basics (Foundation)
 
-### [What is money really](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
+### What is money really (and why it's just numbers)
 
 ### [Blockchain explained in 1 minute](/en/learn/basis/blockchain-in-1-minute/)
 - [The shared ledger](/en/learn/basis/blockchain-in-1-minute/#the-shared-ledger)
@@ -60,16 +58,17 @@ menu: main
 - [Private key vs password — the difference](/en/learn/basis/private-key/#private-key-vs-password--the-difference)
 - [How to store a private key](/en/learn/basis/private-key/#how-to-store-a-private-key)
 
-### [Other networks and coins: top crypto overview](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
+### Other networks and coins: top crypto overview
 
 ---
 
 ## How it works
 
-### [What happens when you send crypto](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
+### What happens when you send crypto
 
-### [Why a transfer can cost $30](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
+### Why a transfer can cost $30
 
-### [Block confirmations explained](/ru/learn/how-it-works/chto-takoe-podtverzhdeniya/)
+### Block confirmations explained
 
-### [Why transactions get stuck](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/)
+### Why transactions get stuck
+

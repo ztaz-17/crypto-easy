@@ -18,14 +18,14 @@ menu: main
 - [Which wallet to choose (MetaMask / Trust Wallet)](/en/practice/create-wallet-in-5-minutes/#which-wallet-to-choose-metamask-or-trust-wallet)
 - [Installing MetaMask](/en/practice/create-wallet-in-5-minutes/#installing-metamask-browser)
 - [Installing Trust Wallet](/en/practice/create-wallet-in-5-minutes/#installing-trust-wallet-mobile)
-- [What should be on screen](/en/practice/create-wallet-in-5-minutes/#check-what-should-be-on-screen)
+- [Check what should be on screen](/en/practice/create-wallet-in-5-minutes/#check-what-should-be-on-screen)
 
 ### [Seed Phrase Mistakes: Where People Lose Money](/en/practice/seed-phrase-mistakes/)
 - [What is a seed phrase and why it is your money](/en/practice/seed-phrase-mistakes/#what-is-a-seed-phrase-and-why-it-is-your-money)
 - [How to properly store your seed phrase](/en/practice/seed-phrase-mistakes/#how-to-properly-store-your-seed-phrase)
 - [Where NOT to store your seed phrase](/en/practice/seed-phrase-mistakes/#where-not-to-store-your-seed-phrase)
 
-### [Testnet Demo: Practice Without Real Money](/ru/practice/demo-rezhim-testovaya-set/)
+### Testnet Demo: Practice Without Real Money
 
 ### [How to Buy Your First Crypto](/en/practice/buy-first-crypto/)
 - [Method 1: Crypto exchange](/en/practice/buy-first-crypto/#method-1-crypto-exchange)
@@ -35,4 +35,4 @@ menu: main
 
 ### [Your First Transaction Without Mistakes](/en/practice/first-transaction/)
 
-### [How to Check a Transaction in Blockchain](/ru/practice/kak-proverit-tranzakciyu/)
+### How to Check a Transaction in Blockchain

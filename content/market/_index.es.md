@@ -14,36 +14,36 @@ menu: main
 
 ## Mercados y Precios
 
-### [Por qué el precio sube y baja](/ru/market/market/pochemu-cena-rastet-i-padaet/)
+### Por qué el precio sube y baja
 
-### [Qué es la liquidez y por qué importa](/ru/market/market/chto-takoe-likvidnost/)
+### Qué es la liquidez y por qué importa
 
-### [Por qué compras caro y vendes barato](/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/)
+### Por qué compras caro y vendes barato
 
-### [Inversión vs trading](/ru/market/market/investirovanie-vs-treiding/)
+### Invertir vs hacer trading
 
 ---
 
 ## DeFi
 
-### [Qué es DeFi](/ru/market/defi/chto-takoe-defi/)
+### Qué es DeFi
 
-### [Qué es TVL y cómo leerlo](/ru/market/defi/chto-takoe-tvl/)
+### Qué es TVL y cómo leerlo
 
-### [Préstamos sin bancos](/ru/market/defi/kredity-bez-banka/)
+### Préstamos sin banco
 
-### [Yield farming](/ru/market/defi/chto-takoe-farming/)
+### Farming
 
-### [Riesgos de DeFi](/ru/market/defi/riski-defi/)
+### Riesgos de DeFi
 
-### [Puentes entre cadenas](/ru/market/defi/mosty-mezhdu-setyami/)
+### Puentes entre redes
 
-### [DEX vs CEX — cuál elegir](/ru/market/defi/dex-vs-cex/)
+### DEX vs CEX — cuál elegir
 
 ---
 
 ## Gobierno e Impuestos
 
-### [Cómo los gobiernos tratan a crypto](/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte/)
+### Cómo los gobiernos tratan a crypto
 
-### [Impuestos crypto explicados](/ru/market/regulation/nalogi-na-kriptu/)
+### Impuestos sobre crypto
