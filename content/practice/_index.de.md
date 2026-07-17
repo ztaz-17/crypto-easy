@@ -33,6 +33,6 @@ menu: main
 - [Methode 2: P2P](/de/practice/buy-first-crypto/#methode-2-p2p)
 - [Methode 3: Sofort-Swaps](/de/practice/buy-first-crypto/#methode-3-sofort-swaps)
 
-### [Erste Transaktion Ohne Fehler](/de/practice/first-transaction/)
+### Erste Transaktion Ohne Fehler
 
 ### Wie man eine Transaktion in Blockchain Prüft
