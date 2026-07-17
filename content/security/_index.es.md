@@ -16,11 +16,16 @@ menu: main
 
 Mantente seguro en el mundo crypto. Aprende a reconocer estafas, proteger tus fondos y evitar errores de principiante.
 
-### Próximamente:
+### Guías disponibles:
 
-- [Cómo almacenar crypto de forma segura](/en/security/how-to-store-crypto/)
-- [Estafas crypto comunes que debes evitar](/en/security/scams/)
-- [Errores de principiante en crypto](/en/security/common-mistakes/)
-- [Guía de autenticación de dos factores](/en/security/2fa-guide/)
+- [Errores de Principiante en Crypto: Casos Reales y Soluciones](/en/security/common-mistakes/) — los 4 errores más comunes y cómo solucionarlos
+- [Wallets Calientes vs Fríos: Cuál Elegir](/en/security/hot-vs-cold-wallets/) — comparación de seguridad y conveniencia de diferentes tipos de wallet
+
+### Próximamente (traducción en curso):
+- Estafas crypto comunes que debes evitar
+- Qué hacer si te han hackeado
+- Permisos de tokens y cómo revocarlos
+
+---
 
 > Más guías de seguridad en camino.
