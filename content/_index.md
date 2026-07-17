@@ -14,52 +14,83 @@ keywords:
   - how to make money with crypto
 ---
 
-**Crypto doesn’t have to be complicated. Most people just explain it badly. We make it simple.**
+**Crypto doesn't have to be complicated. Most people just explain it badly. We make it simple.**
 
 ---
 
-## 💡 What you’ll find here
+## 📘 Learn
 
-- 📘 Simple crypto explanations
-- 💰 Ways to earn with crypto safely
-- 🔐 Security & scam protection guides
-- 🧰 Tools, wallets & exchanges reviews
-- 📚 Glossary of crypto terms
+Blockchain, Bitcoin, DeFi — in simple words.
 
----
-
-## 🧭 Start here
-
-If you're new to crypto:
-
-👉 [What is Crypto](/en/learn/what-is-crypto/)  
-👉 [How to Buy Crypto](/en/learn/how-to-buy-crypto/)  
-👉 [Best Crypto Exchanges](/en/tools/best-crypto-exchanges/)  
-👉 [Crypto Wallet Guide](/en/security/how-to-store-crypto/)  
+- [Blockchain in 1 Minute](/en/learn/basis/blockchain-in-1-minute/)
+- [Bitcoin vs Ethereum](/en/learn/basis/bitcoin-vs-ethereum/)
+- What is money really (coming soon)
+- Why governments don't like crypto (coming soon)
+- Why a transfer can cost $30 (coming soon)
+- Crypto myths beginners believe (coming soon)
+- [All articles](/en/learn/)
 
 ---
 
-## 🔥 Popular guides
+## 🛠 Practice
 
-👉 [How to Make Money with Crypto](/en/make-money/)  
-👉 [Beginner Mistakes to Avoid](/en/security/scams/)  
-👉 [Best Crypto Platforms](/en/reviews/)  
+Step-by-step guides for your first moves.
+
+- [Create a Crypto Wallet in 5 Minutes](/en/practice/create-wallet-in-5-minutes/)
+- [Seed Phrase Mistakes](/en/practice/seed-phrase-mistakes/)
+- [Your First Transaction Without Mistakes](/en/practice/first-transaction-without-mistakes/)
+- How to Check a Transaction (coming soon)
+- [All guides](/en/practice/)
 
 ---
 
-## 🎯 Mission
+## 📈 Market
 
-Make crypto understandable and usable for everyone.
+Crypto markets, DeFi, taxes and regulation.
 
-- no jargon  
-- no hype  
-- only real, practical knowledge  
+- What is DeFi (coming soon)
+- Why price goes up and down (coming soon)
+- Investing vs trading (coming soon)
+- Loans without banks (coming soon)
+- Crypto taxes (coming soon)
+- [All about market](/en/market/)
+
+---
+
+## 🔐 Security
+
+How to protect your money and avoid scammers.
+
+- Common crypto scams (coming soon)
+- [Hot vs Cold Wallets](/en/security/hot-vs-cold-wallets/)
+- Token allowances (coming soon)
+- What to do if your wallet is hacked (coming soon)
+- [Beginner Mistakes: Real Cases](/en/security/common-mistakes/)
+- [All about security](/en/security/)
+
+---
+
+## 🎁 Bonus
+
+NFTs, DAOs, meme coins, staking and more.
+
+- What are NFTs (coming soon)
+- What is a DAO (coming soon)
+- Staking vs farming (coming soon)
+- What is an Airdrop (coming soon)
+- [All bonuses](/en/bonus/)
+
+---
+
+## 📚 Glossary
+
+[Crypto dictionary](/en/glossary/) — 50+ terms explained simply.
 
 ---
 
 ## 📬 Stay updated
 
-Follow our Telegram for short updates and guides:
+Follow our Telegram for short guides and news:
 
 👉 [@crypto_easy_en](https://t.me/crypto_easy_en)
 
@@ -67,7 +98,7 @@ Follow our Telegram for short updates and guides:
 
 ## 🏆 Recommended Exchange
 
-Start your crypto journey on **Bybit** — a trusted global exchange used by millions.
+Start your crypto journey on **Bybit** — a trusted exchange used by millions.
 
 👉 [Sign up and get up to **6,135 USDT** bonus →](https://www.bybit.com/invite?ref=DVPQELB)
 
@@ -79,5 +110,14 @@ Start your crypto journey on **Bybit** — a trusted global exchange used by mil
 
 ---
 
-> ⚠️ Disclaimer: Educational content only. Not financial advice. DYOR.
+## 🎯 Our Mission
 
+Make crypto understandable and accessible for everyone.
+
+- no jargon
+- no fluff
+- only real practice
+
+---
+
+> ⚠️ Disclaimer: Educational content only. Not financial advice.
