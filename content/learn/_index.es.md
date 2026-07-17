@@ -49,10 +49,10 @@ menu: main
 - [La diferencia clave](/es/learn/basis/bitcoin-vs-ethereum/#la-diferencia-clave)
 - [Cuál elegir](/es/learn/basis/bitcoin-vs-ethereum/#cuál-elegir)
 
-### [Stablecoins: qué son USDT, USDC y cómo funcionan](/es/learn/basis/what-are-stablecoins/)
-- [Por qué existen las stablecoins](/es/learn/basis/what-are-stablecoins/#por-qué-existen-las-stablecoins)
-- [USDT (Tether)](/es/learn/basis/what-are-stablecoins/#usdt-tether)
-- [USDC (USD Coin)](/es/learn/basis/what-are-stablecoins/#usdc-usd-coin)
+### [Stablecoins: qué son USDT, USDC y cómo funcionan](/es/learn/basis/que-son-stablecoins/)
+- [Por qué existen las stablecoins](/es/learn/basis/que-son-stablecoins/#por-qué-existen-las-stablecoins)
+- [USDT (Tether)](/es/learn/basis/que-son-stablecoins/#usdt-tether)
+- [USDC (USD Coin)](/es/learn/basis/que-son-stablecoins/#usdc-usd-coin)
 
 ### [Clave privada: por qué es más importante que una contraseña](/es/learn/basis/clave-privada/)
 - [Clave privada vs contraseña — la diferencia](/es/learn/basis/clave-privada/#clave-privada-vs-contraseña--la-diferencia)
