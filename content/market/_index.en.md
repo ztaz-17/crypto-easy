@@ -12,10 +12,16 @@ keywords:
 menu: main
 ---
 
-> 📖 Market guides are being translated into English — check back soon!
+## 📊 Markets & Prices
 
-## What you'll find here
+Understanding how crypto markets work is key to making informed decisions. This section explains market dynamics, DeFi, and regulation in plain language.
 
-- **Market basics** — why prices move, liquidity, investing vs trading
-- **DeFi explained** — lending, farming, DEXes, and their risks
-- **Regulation & taxes** — how governments treat crypto worldwide
+### What you'll find here (coming soon in English):
+
+- **Market Basics** — why prices go up and down, liquidity, trading vs investing
+- **DeFi Explained** — what is DeFi, yield farming, DEX vs CEX, risks, bridges
+- **Regulation & Taxes** — how governments treat crypto, tax obligations
+
+> 🇷🇺 Russian versions are available now — switch to Русский for the full content.
+> 🇪🇸 Versión en español próximamente.
+> 🇩🇪 Deutsche Version folgt in Kürze.

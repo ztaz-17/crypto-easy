@@ -3,7 +3,7 @@ category: "market"
 translationKey: "market"
 slug: "market"
 title: "Märkte"
-description: "Kryptomärkte, DeFi, Regulierung und Steuern — einfach erklärt"
+description: "Krypto-Märkte, DeFi, Regulierung und Steuern — einfach erklärt"
 keywords:
   - Kryptomarkt
   - DeFi
@@ -12,10 +12,16 @@ keywords:
 menu: main
 ---
 
-> 📖 Marktführer werden derzeit ins Deutsche übersetzt — schau bald wieder vorbei!
+## 📊 Märkte und Preise
 
-## Was du hier findest
+Zu verstehen, wie Krypto-Märkte funktionieren, ist der Schlüssel zu fundierten Entscheidungen. Dieser Bereich erklärt Marktdynamik, DeFi und Regulierung in einfacher Sprache.
 
-- **Marktgrundlagen** — warum Preise schwanken, Liquidität, Investieren vs Trading
-- **DeFi erklärt** — Kredite, Farming, DEXes und ihre Risiken
-- **Regulierung & Steuern** — wie Regierungen weltweit mit Krypto umgehen
+### Was Sie hier finden (demnächst auf Deutsch):
+
+- **Marktgrundlagen** — warum Preise steigen und fallen, Liquidität, Trading vs Investieren
+- **DeFi Erklärt** — was ist DeFi, Yield Farming, DEX vs CEX, Risiken, Brücken
+- **Regulierung und Steuern** — wie Regierungen mit Krypto umgehen, Steuerpflichten
+
+> 🇷🇺 Russische Versionen sind bereits verfügbar — wechsle zu Русский für den vollständigen Inhalt.
+> 🇬🇧 English version coming soon.
+> 🇪🇸 Versión en español próximamente.

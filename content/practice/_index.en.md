@@ -16,11 +16,13 @@ menu: main
 
 Ready to take the first step? These guides walk you through real actions — buying crypto, setting up a wallet, and more.
 
-### Coming soon:
+### Step-by-step guides:
 
-- [How to buy your first crypto](/en/practice/buy-first-crypto/)
-- [Create a wallet in 5 minutes](/en/practice/create-wallet-5-minutes/)
-- [Try a testnet: practice without real money](/en/practice/testnet-demo/)
-- [How to send crypto to another wallet](/en/practice/send-crypto/)
+- [How to Buy Your First Crypto](/en/practice/buy-first-crypto/) — where and how to buy cryptocurrency as a beginner
+- [Create a Wallet in 5 Minutes](/en/practice/create-wallet-in-5-minutes/) — set up your first crypto wallet (MetaMask or Trust Wallet)
 
-> Hands-on guides coming soon!
+### Coming next:
+
+- Try a testnet: practice without real money
+- How to send crypto to another wallet
+- First transaction & seed phrase safety
