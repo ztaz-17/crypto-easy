@@ -16,11 +16,14 @@ menu: main
 
 Stay safe in the crypto world. Learn how to recognize scams, protect your funds, and avoid beginner mistakes.
 
-### Coming soon:
+### Available guides:
 
-- [How to store crypto safely](/en/security/how-to-store-crypto/)
-- [Common crypto scams to avoid](/en/security/scams/)
-- [Beginner mistakes in crypto](/en/security/common-mistakes/)
-- [Two-factor authentication guide](/en/security/2fa-guide/)
+- [Beginner Mistakes in Crypto: Real-Life Cases and Solutions](/en/security/common-mistakes/) — the 4 most common mistakes and how to fix them
 
-> More security guides coming. Stay tuned!
+### Coming next:
+
+- How to store crypto safely (hot vs cold wallets)
+- Common crypto scams to avoid
+- Two-factor authentication guide
+- What to do if you've been hacked
+- Token allowances and how to revoke them

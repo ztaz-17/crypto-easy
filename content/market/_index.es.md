@@ -12,10 +12,16 @@ keywords:
 menu: main
 ---
 
-> 📖 Las guías de mercado se están traduciendo al español — ¡vuelve pronto!
+## 📊 Mercados y Precios
 
-## Lo que encontrarás aquí
+Entender cómo funcionan los mercados cripto es clave para tomar decisiones informadas. Esta sección explica la dinámica del mercado, DeFi y la regulación en lenguaje sencillo.
 
-- **Fundamentos del mercado** — por qué se mueven los precios, liquidez, inversión vs trading
-- **DeFi explicado** — préstamos, farming, DEXes y sus riesgos
-- **Regulación e impuestos** — cómo los gobiernos tratan a las criptomonedas
+### Lo que encontrarás aquí (próximamente en español):
+
+- **Conceptos básicos del mercado** — por qué suben y bajan los precios, liquidez, trading vs inversión
+- **DeFi Explicado** — qué es DeFi, yield farming, DEX vs CEX, riesgos, puentes
+- **Regulación e Impuestos** — cómo los gobiernos tratan las cripto, obligaciones fiscales
+
+> 🇷🇺 Las versiones en ruso ya están disponibles — cambia a Русский para el contenido completo.
+> 🇬🇧 English version coming soon.
+> 🇩🇪 Deutsche Version folgt in Kürze.
