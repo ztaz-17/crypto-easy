@@ -21,13 +21,10 @@ menu: main
 - [Wann du was verwendest](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
 ### [Häufige Crypto-Betrugsmaschen](/ru/security/osnovnye-vidy-skama/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Token-Berechtigungen: Was sie sind und warum sie gefährlich sind](/ru/security/razresheniya-tokenov/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Was tun, wenn dein Wallet gehackt wurde](/ru/security/chto-delat-pri-vzlome/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Anfängerfehler bei Crypto: Echte Fälle](/en/security/common-mistakes/)
 - [Ins falsche Netzwerk gesendet](/en/security/common-mistakes/#sent-to-wrong-network)

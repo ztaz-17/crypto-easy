@@ -27,7 +27,6 @@ menu: main
 - [Common mistakes](/en/practice/seed-phrase-mistakes/#common-mistakes)
 
 ### [Testnet Demo: Practice Without Real Money](/ru/practice/demo-rezhim-testovaya-set/)
-> 🔄 Translation in progress
 
 ### [How to Buy Your First Crypto](/en/practice/buy-first-crypto/)
 - [Exchange](/en/practice/buy-first-crypto/#exchange)
@@ -44,4 +43,3 @@ menu: main
 - [Step 5: Check the transaction](/en/practice/first-transaction/#step-5-check-transaction)
 
 ### [How to Check a Transaction in Blockchain](/ru/practice/kak-proverit-tranzakciyu/)
-> 🔄 Translation in progress

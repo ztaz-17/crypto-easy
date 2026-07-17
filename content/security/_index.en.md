@@ -21,13 +21,10 @@ menu: main
 - [When to use which](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
 ### [Common Crypto Scams: What to Watch For](/ru/security/osnovnye-vidy-skama/)
-> 🔄 Translation in progress
 
 ### [Token Allowances: What They Are and Why They're Dangerous](/ru/security/razresheniya-tokenov/)
-> 🔄 Translation in progress
 
 ### [What to Do If Your Wallet Is Hacked](/ru/security/chto-delat-pri-vzlome/)
-> 🔄 Translation in progress
 
 ### [Beginner Mistakes in Crypto: Real-Life Cases](/en/security/common-mistakes/)
 - [Sent to wrong network](/en/security/common-mistakes/#sent-to-wrong-network)

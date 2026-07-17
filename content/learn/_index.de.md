@@ -49,14 +49,13 @@ menu: main
 - [Casino-Mythos](/en/learn/skeptic/crypto-myths/#casino-myth)
 - [Nichts dahinter](/en/learn/skeptic/crypto-myths/#nothing-backing-it)
 
-> 🔄 *[Die Inflationsillusion](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)* — Übersetzung in Arbeit
+### [Die Inflationsillusion](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)
 
 ---
 
 ## Grundlagen
 
 ### [Was Geld wirklich ist](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Blockchain in 1 Minute erklärt](/en/learn/basis/blockchain-in-1-minute/)
 - [Das gemeinsame Hauptbuch](/en/learn/basis/blockchain-in-1-minute/#shared-ledger)
@@ -85,22 +84,15 @@ menu: main
 - [Wie du ihn aufbewahrst](/en/learn/basis/private-key/#how-to-store)
 
 ### [Andere Netzwerke und Coins: Übersicht](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
-> 🔄 Übersetzung in Arbeit
 
 ---
 
 ## Wie es funktioniert
 
 ### [Was passiert, wenn du Crypto sendest](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Warum eine Überweisung $30 kosten kann](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Block-Bestätigungen erklärt](/ru/learn/how-it-works/chto-takoe-podtverzhdeniya/)
-> 🔄 Übersetzung in Arbeit
 
 ### [Warum Transaktionen hängen bleiben](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/)
-> 🔄 Übersetzung in Arbeit
-
-> 📖 Weitere Themen werden übersetzt — schau bald wieder vorbei!

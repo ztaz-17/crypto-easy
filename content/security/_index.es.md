@@ -21,13 +21,10 @@ menu: main
 - [Cuándo usar cada uno](/en/security/hot-vs-cold-wallets/#when-to-use-which)
 
 ### [Estafas Crypto Comunes: Qué Vigilar](/ru/security/osnovnye-vidy-skama/)
-> 🔄 Traducción en curso
 
 ### [Permisos de Tokens: Qué Son y Por Qué Son Peligrosos](/ru/security/razresheniya-tokenov/)
-> 🔄 Traducción en curso
 
 ### [Qué Hacer Si Hackean Tu Wallet](/ru/security/chto-delat-pri-vzlome/)
-> 🔄 Traducción en curso
 
 ### [Errores de Principiante en Crypto: Casos Reales](/en/security/common-mistakes/)
 - [Envié a la red equivocada](/en/security/common-mistakes/#sent-to-wrong-network)

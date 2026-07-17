@@ -49,14 +49,13 @@ menu: main
 - [Mito del casino](/en/learn/skeptic/crypto-myths/#casino-myth)
 - [Sin respaldo](/en/learn/skeptic/crypto-myths/#nothing-backing-it)
 
-> 🔄 *[La ilusión de la inflación](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)* — traducción en curso
+### [La ilusión de la inflación](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)
 
 ---
 
 ## Bases (Fundamentos)
 
 ### [¿Qué es realmente el dinero?](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
-> 🔄 Traducción en curso
 
 ### [Blockchain explicado en 1 minuto](/en/learn/basis/blockchain-in-1-minute/)
 - [El libro compartido](/en/learn/basis/blockchain-in-1-minute/#shared-ledger)
@@ -85,22 +84,15 @@ menu: main
 - [Cómo almacenarla](/en/learn/basis/private-key/#how-to-store)
 
 ### [Otras redes y monedas: panorama general](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
-> 🔄 Traducción en curso
 
 ---
 
 ## Cómo funciona
 
 ### [¿Qué ocurre cuando envías crypto?](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
-> 🔄 Traducción en curso
 
 ### [¿Por qué una transferencia puede costar $30?](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
-> 🔄 Traducción en curso
 
 ### [Confirmaciones de bloque explicadas](/ru/learn/how-it-works/chto-takoe-podtverzhdeniya/)
-> 🔄 Traducción en curso
 
 ### [¿Por qué se atascan las transacciones?](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/)
-> 🔄 Traducción en curso
-
-> 📖 Más temas en traducción — ¡vuelve pronto!
