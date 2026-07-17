@@ -22,10 +22,7 @@ menu: main
 - [Why banks can deny transactions](/en/learn/skeptic/banks-freeze-money/#why-banks-can-deny-transactions)
 - [Cash vs electronic money](/en/learn/skeptic/banks-freeze-money/#cash-vs-electronic-money)
 
-### [Why you're losing money even when you save](/en/learn/skeptic/why-you-lose-money-saving/)
-- [Inflation vs deposits](/en/learn/skeptic/why-you-lose-money-saving/#inflation-vs-deposits)
-- [Why "+5% per year" is actually a loss](/en/learn/skeptic/why-you-lose-money-saving/#why-5-percent-is-a-loss)
-- [Simple math of losses](/en/learn/skeptic/why-you-lose-money-saving/#simple-math-of-losses)
+### Why you're losing money even when you save
 
 ### [How people save money with crypto (real cases)](/en/learn/skeptic/saving-with-crypto-real-cases/)
 - [Venezuela: hyperinflation](/en/learn/skeptic/saving-with-crypto-real-cases/#venezuela-hyperinflation)

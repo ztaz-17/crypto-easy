@@ -59,10 +59,10 @@ menu: main
 - [Warum es funktioniert](/en/learn/basis/blockchain-in-1-minute/#why-it-works)
 - [Was Blockchain NICHT tut](/en/learn/basis/blockchain-in-1-minute/#what-blockchain-doesnt-do)
 
-### [Dezentralisierung ohne Fachjargon](/en/learn/basis/decentralization-simply/)
-- [Kein Zentrum](/en/learn/basis/decentralization-simply/#no-center)
-- [Vorteile](/en/learn/basis/decentralization-simply/#pros)
-- [Nachteile](/en/learn/basis/decentralization-simply/#cons)
+### [Dezentralisierung ohne Fachjargon](/de/learn/basis/dezentralisierung-einfach-erklaert/)
+- [Kein Zentrum](/de/learn/basis/dezentralisierung-einfach-erklaert/#no-center)
+- [Vorteile](/de/learn/basis/dezentralisierung-einfach-erklaert/#pros)
+- [Nachteile](/de/learn/basis/dezentralisierung-einfach-erklaert/#cons)
 
 ### [Bitcoin vs Ethereum: verwechsle sie nicht](/en/learn/basis/bitcoin-vs-ethereum/)
 - [Bitcoin (digitales Gold)](/en/learn/basis/bitcoin-vs-ethereum/#bitcoin-digital-gold)
@@ -70,9 +70,9 @@ menu: main
 - [Der Hauptunterschied](/en/learn/basis/bitcoin-vs-ethereum/#key-difference)
 - [Was du wählen solltest](/en/learn/basis/bitcoin-vs-ethereum/#which-to-choose)
 
-### [Privater Schlüssel: warum er wichtiger ist als ein Passwort](/en/learn/basis/private-key/)
-- [Privater Schlüssel vs Passwort](/en/learn/basis/private-key/#private-key-vs-password)
-- [Wie du ihn aufbewahrst](/en/learn/basis/private-key/#how-to-store)
+### [Privater Schlüssel: warum er wichtiger ist als ein Passwort](/de/learn/basis/privater-schluessel/)
+- [Privater Schlüssel vs Passwort](/de/learn/basis/privater-schluessel/#private-key-vs-password)
+- [Wie du ihn aufbewahrst](/de/learn/basis/privater-schluessel/#how-to-store)
 
 ---
 

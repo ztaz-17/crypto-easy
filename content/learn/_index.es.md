@@ -53,16 +53,16 @@ menu: main
 
 ## Bases (Fundamentos)
 
-### [Blockchain explicado en 1 minuto](/en/learn/basis/blockchain-in-1-minute/)
-- [El libro compartido](/en/learn/basis/blockchain-in-1-minute/#shared-ledger)
-- [Por qué no se puede reescribir](/en/learn/basis/blockchain-in-1-minute/#why-cant-rewrite)
-- [Por qué funciona](/en/learn/basis/blockchain-in-1-minute/#why-it-works)
-- [Lo que blockchain NO hace](/en/learn/basis/blockchain-in-1-minute/#what-blockchain-doesnt-do)
+### [Blockchain explicado en 1 minuto](/es/learn/basis/blockchain-en-1-minuto/)
+- [El libro compartido](/es/learn/basis/blockchain-en-1-minuto/#shared-ledger)
+- [Por qué no se puede reescribir](/es/learn/basis/blockchain-en-1-minuto/#why-cant-rewrite)
+- [Por qué funciona](/es/learn/basis/blockchain-en-1-minuto/#why-it-works)
+- [Lo que blockchain NO hace](/es/learn/basis/blockchain-en-1-minuto/#what-blockchain-doesnt-do)
 
-### [Descentralización sin jerga](/en/learn/basis/decentralization-simply/)
-- [Sin centro](/en/learn/basis/decentralization-simply/#no-center)
-- [Pros](/en/learn/basis/decentralization-simply/#pros)
-- [Contras](/en/learn/basis/decentralization-simply/#cons)
+### [Descentralización sin jerga](/es/learn/basis/descentralizacion-explicada-simple/)
+- [Sin centro](/es/learn/basis/descentralizacion-explicada-simple/#no-center)
+- [Pros](/es/learn/basis/descentralizacion-explicada-simple/#pros)
+- [Contras](/es/learn/basis/descentralizacion-explicada-simple/#cons)
 
 ### [Bitcoin vs Ethereum: no los confundas](/en/learn/basis/bitcoin-vs-ethereum/)
 - [Bitcoin (oro digital)](/en/learn/basis/bitcoin-vs-ethereum/#bitcoin-digital-gold)
@@ -70,9 +70,9 @@ menu: main
 - [La diferencia clave](/en/learn/basis/bitcoin-vs-ethereum/#key-difference)
 - [Cuál elegir](/en/learn/basis/bitcoin-vs-ethereum/#which-to-choose)
 
-### [Clave privada: por qué importa más que una contraseña](/en/learn/basis/private-key/)
-- [Clave privada vs contraseña](/en/learn/basis/private-key/#private-key-vs-password)
-- [Cómo almacenarla](/en/learn/basis/private-key/#how-to-store)
+### [Clave privada: por qué importa más que una contraseña](/es/learn/basis/clave-privada/)
+- [Clave privada vs contraseña](/es/learn/basis/clave-privada/#private-key-vs-password)
+- [Cómo almacenarla](/es/learn/basis/clave-privada/#how-to-store)
 
 ---
 
