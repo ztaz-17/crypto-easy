@@ -12,8 +12,6 @@ keywords:
 menu: main
 ---
 
----
-
 ## Crypto für Skeptiker
 
 ### [Warum Banken dein Geld einfrieren können — und du nichts tun kannst](/en/learn/skeptic/banks-freeze-money/)
@@ -70,9 +68,19 @@ menu: main
 - [Der Hauptunterschied](/en/learn/basis/bitcoin-vs-ethereum/#key-difference)
 - [Was du wählen solltest](/en/learn/basis/bitcoin-vs-ethereum/#which-to-choose)
 
+### [Was sind Stablecoins (USDT, USDC) und wie sie funktionieren](/en/learn/basis/what-are-stablecoins/)
+- [Warum Stablecoins existieren](/en/learn/basis/what-are-stablecoins/#why-stablecoins-exist)
+- [Arten von Stablecoins](/en/learn/basis/what-are-stablecoins/#types-of-stablecoins)
+- [Risiken](/en/learn/basis/what-are-stablecoins/#risks)
+
 ### [Privater Schlüssel: warum er wichtiger ist als ein Passwort](/en/learn/basis/private-key/)
 - [Privater Schlüssel vs Passwort](/en/learn/basis/private-key/#private-key-vs-password)
 - [Wie du ihn aufbewahrst](/en/learn/basis/private-key/#how-to-store)
+
+### Demnächst (Übersetzung in Arbeit):
+- Was Geld wirklich ist — wie Banken funktionieren
+- Andere Netzwerke und Coins (Solana, BNB, Doge, etc.)
+- Die Inflationsillusion — warum du Geld verlierst, selbst wenn du sparst
 
 ---
 

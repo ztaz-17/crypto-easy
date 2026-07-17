@@ -16,11 +16,17 @@ menu: main
 
 ¿Listo para dar el primer paso? Estas guías te llevan de la mano — comprar crypto, configurar un wallet y más.
 
-### Próximamente:
+### Guías paso a paso:
 
-- [Cómo comprar tu primera crypto](/en/practice/buy-first-crypto/)
-- [Crea un wallet en 5 minutos](/en/practice/create-wallet-5-minutes/)
-- [Prueba una testnet: practica sin dinero real](/en/practice/testnet-demo/)
-- [Cómo enviar crypto a otro wallet](/en/practice/send-crypto/)
+- [Cómo comprar tu primera crypto](/en/practice/buy-first-crypto/) — dónde y cómo comprar criptomonedas como principiante
+- [Crea un Wallet en 5 Minutos](/en/practice/create-wallet-in-5-minutes/) — configura tu primer wallet crypto (MetaMask o Trust Wallet)
+- [Tu Primera Transacción Sin Errores](/en/practice/first-transaction/) — guía paso a paso para enviar crypto de forma segura
+- [Errores de Frase Semilla: Donde la Gente Pierde Dinero](/en/practice/seed-phrase-mistakes/) — cómo almacenar tu frase semilla correctamente
 
-> Guías prácticas muy pronto.
+### Próximamente (traducción en curso):
+- Cómo verificar una transacción en el explorador de blockchain
+- Demo de testnet: practica sin dinero real
+
+---
+
+> Más guías muy pronto.

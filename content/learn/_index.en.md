@@ -12,8 +12,6 @@ keywords:
 menu: main
 ---
 
----
-
 ## Crypto for skeptics
 
 ### [Why banks can freeze your money — and you can't do anything](/en/learn/skeptic/banks-freeze-money/)
@@ -70,9 +68,18 @@ menu: main
 - [The key difference](/en/learn/basis/bitcoin-vs-ethereum/#key-difference)
 - [Which to choose](/en/learn/basis/bitcoin-vs-ethereum/#which-to-choose)
 
+### [What are stablecoins (USDT, USDC) and how they work](/en/learn/basis/what-are-stablecoins/)
+- [Why stablecoins exist](/en/learn/basis/what-are-stablecoins/#why-stablecoins-exist)
+- [Types of stablecoins](/en/learn/basis/what-are-stablecoins/#types-of-stablecoins)
+- [Risks](/en/learn/basis/what-are-stablecoins/#risks)
+
 ### [Private key: why it matters more than a password](/en/learn/basis/private-key/)
 - [Private key vs password](/en/learn/basis/private-key/#private-key-vs-password)
 - [How to store it](/en/learn/basis/private-key/#how-to-store)
+
+### Coming next (translation in progress):
+- What is money really — how banking works
+- Other networks and coins (Solana, BNB, Doge, etc.)
 
 ---
 

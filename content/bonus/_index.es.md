@@ -3,27 +3,27 @@ category: "bonus"
 translationKey: "bonus"
 slug: "bonus"
 title: "Bonus"
-description: "Temas crypto extra — DAOs, airdrops, NFTs, staking y más, explicados de forma simple"
+description: "Temas extra de crypto — NFTs, DAOs, oráculos, meme coins, trading P2P, staking"
 keywords:
-  - bonus crypto
-  - qué es un DAO
-  - crypto airdrops
-  - staking explicado
+  - NFT
+  - DAO
+  - meme coins
+  - airdrop
+  - staking
 menu: main
 ---
 
-## 🎁 Temas Bonus
+## Bonus
 
-Temas crypto extra que no encajan en las categorías principales — pero que vale la pena conocer.
-
-### Próximamente:
-
-- ¿Qué es un DAO?
-- Staking vs Farming — ¿cuál es la diferencia?
-- ¿Qué son los airdrops?
-- NFTs explicados de forma simple
-- ¿Qué son las meme coins?
-- ¿Qué son los oráculos?
+### Próximamente (traducción en curso):
+- ¿Qué es una DAO?
+- ¿Qué son los oráculos (Chainlink)?
+- Staking vs farming — ¿cuál es la diferencia?
+- Airdrops: ¿tokens gratis o estafas?
+- Meme coins: Doge, Shiba y por qué suben
+- ¿Qué son los NFTs?
 - Estafas en trading P2P
 
-> Más temas bonus en camino.
+---
+
+> 📖 El contenido en español está en traducción. ¡Vuelve pronto!
