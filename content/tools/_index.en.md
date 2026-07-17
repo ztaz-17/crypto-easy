@@ -26,4 +26,4 @@ Best crypto exchanges, wallets, and services — all in one place.
 
 ---
 
-> Tools section is coming soon!
+> Tools section is coming soon

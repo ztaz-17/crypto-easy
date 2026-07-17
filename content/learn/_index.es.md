@@ -16,60 +16,58 @@ menu: main
 
 ## Crypto para escépticos
 
-### [Por qué los bancos pueden congelar tu dinero — y no puedes hacer nada](/en/learn/skeptic/banks-freeze-money/)
+### Por qué los bancos pueden congelar tu dinero — y no puedes hacer nada
 
-### [Por qué pierdes dinero incluso cuando ahorras](/en/learn/skeptic/why-you-lose-money-saving/)
+### Por qué pierdes dinero incluso cuando ahorras
 
-### [Cómo la gente salva su dinero con crypto (casos reales)](/en/learn/skeptic/saving-with-crypto-real-cases/)
+### Cómo la gente salva su dinero con crypto (casos reales)
 
-### [Por qué a los gobiernos no les gusta crypto (y no pueden prohibirla)](/en/learn/skeptic/why-govs-dont-like-crypto/)
+### Por qué a los gobiernos no les gusta crypto (y no pueden prohibirla)
 
-### [Mitos crypto que los principiantes creen](/en/learn/skeptic/crypto-myths/)
-
-### [La ilusión de la inflación](/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite/)
+### Mitos crypto que los principiantes creen
 
 ---
 
 ## Bases (Fundamentos)
 
-### [¿Qué es realmente el dinero?](/ru/learn/basis/chto-takoe-dengi-na-samom-dele/)
+### ¿Qué es realmente el dinero?
 
-### [Blockchain explicado en 1 minuto](/en/learn/basis/blockchain-in-1-minute/)
-- [El libro compartido](/en/learn/basis/blockchain-in-1-minute/#the-shared-ledger)
-- [Por qué no se puede reescribir](/en/learn/basis/blockchain-in-1-minute/#why-you-cant-rewrite-records)
-- [Por qué funciona](/en/learn/basis/blockchain-in-1-minute/#why-it-works)
-- [Lo que blockchain NO hace](/en/learn/basis/blockchain-in-1-minute/#what-blockchain-doesnt-do)
+### [Blockchain en 1 minuto (la explicación más simple)](/es/learn/basis/blockchain-in-1-minute/)
+- [El libro contable compartido](/es/learn/basis/blockchain-in-1-minute/#el-libro-contable-compartido)
+- [Por qué no se pueden reescribir los registros](/es/learn/basis/blockchain-in-1-minute/#por-qué-no-se-pueden-reescribir-los-registros)
+- [Por qué funciona](/es/learn/basis/blockchain-in-1-minute/#por-qué-funciona)
+- [Lo que blockchain NO hace](/es/learn/basis/blockchain-in-1-minute/#lo-que-blockchain-no-hace)
 
-### [Descentralización sin jerga](/en/learn/basis/decentralization-simply/)
-- [Sin centro](/en/learn/basis/decentralization-simply/#no-center)
-- [Ventajas](/en/learn/basis/decentralization-simply/#pros-of-decentralization)
-- [Desventajas](/en/learn/basis/decentralization-simply/#cons-of-decentralization)
+### [Descentralización explicada de forma simple](/es/learn/basis/decentralization-simply/)
+- [Sin centro](/es/learn/basis/decentralization-simply/#sin-centro)
+- [Ventajas de la descentralización](/es/learn/basis/decentralization-simply/#ventajas-de-la-descentralización)
+- [Desventajas de la descentralización](/es/learn/basis/decentralization-simply/#desventajas-de-la-descentralización)
 
-### [Bitcoin vs Ethereum: no los confundas](/en/learn/basis/bitcoin-vs-ethereum/)
-- [Bitcoin — oro digital](/en/learn/basis/bitcoin-vs-ethereum/#bitcoin--digital-gold)
-- [Ethereum — petróleo digital](/en/learn/basis/bitcoin-vs-ethereum/#ethereum--digital-oil)
-- [La diferencia clave](/en/learn/basis/bitcoin-vs-ethereum/#the-key-difference)
-- [Cuál elegir](/en/learn/basis/bitcoin-vs-ethereum/#which-one-to-choose)
+### [Bitcoin vs Ethereum: no los confundas](/es/learn/basis/bitcoin-vs-ethereum/)
+- [Bitcoin — oro digital](/es/learn/basis/bitcoin-vs-ethereum/#bitcoin--oro-digital)
+- [Ethereum — petróleo digital](/es/learn/basis/bitcoin-vs-ethereum/#ethereum--petróleo-digital)
+- [La diferencia clave](/es/learn/basis/bitcoin-vs-ethereum/#la-diferencia-clave)
+- [Cuál elegir](/es/learn/basis/bitcoin-vs-ethereum/#cuál-elegir)
 
-### [Qué son las stablecoins (USDT, USDC) y cómo funcionan](/en/learn/basis/what-are-stablecoins/)
-- [Por qué existen las stablecoins](/en/learn/basis/what-are-stablecoins/#why-stablecoins-exist)
-- [USDT (Tether)](/en/learn/basis/what-are-stablecoins/#usdt-tether)
-- [USDC (USD Coin)](/en/learn/basis/what-are-stablecoins/#usdc-usd-coin)
+### [Stablecoins: qué son USDT, USDC y cómo funcionan](/es/learn/basis/what-are-stablecoins/)
+- [Por qué existen las stablecoins](/es/learn/basis/what-are-stablecoins/#por-qué-existen-las-stablecoins)
+- [USDT (Tether)](/es/learn/basis/what-are-stablecoins/#usdt-tether)
+- [USDC (USD Coin)](/es/learn/basis/what-are-stablecoins/#usdc-usd-coin)
 
-### [Clave privada: por qué importa más que una contraseña](/en/learn/basis/private-key/)
-- [Clave privada vs contraseña — la diferencia](/en/learn/basis/private-key/#private-key-vs-password--the-difference)
-- [Cómo almacenar una clave privada](/en/learn/basis/private-key/#how-to-store-a-private-key)
+### [Clave privada: por qué es más importante que una contraseña](/es/learn/basis/private-key/)
+- [Clave privada vs contraseña — la diferencia](/es/learn/basis/private-key/#clave-privada-vs-contraseña--la-diferencia)
+- [Cómo almacenar una clave privada](/es/learn/basis/private-key/#cómo-almacenar-una-clave-privada)
 
-### [Otras redes y monedas: panorama general](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
+### Otras redes y monedas: panorama general
 
 ---
 
 ## Cómo funciona
 
-### [¿Qué ocurre cuando envías crypto?](/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu/)
+### ¿Qué ocurre cuando envías crypto?
 
-### [¿Por qué una transferencia puede costar $30?](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
+### ¿Por qué una transferencia puede costar $30?
 
-### [Confirmaciones de bloque explicadas](/ru/learn/how-it-works/chto-takoe-podtverzhdeniya/)
+### Confirmaciones de bloque explicadas
 
-### [¿Por qué se atascan las transacciones?](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/)
+### ¿Por qué se atascan las transacciones?

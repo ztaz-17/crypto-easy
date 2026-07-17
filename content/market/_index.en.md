@@ -14,36 +14,36 @@ menu: main
 
 ## Markets & Prices
 
-### [Why price goes up and down](/ru/market/market/pochemu-cena-rastet-i-padaet/)
+### Why price goes up and down
 
-### [What is liquidity and why it matters for price](/ru/market/market/chto-takoe-likvidnost/)
+### What is liquidity and why it matters for price
 
-### [Why you buy high and sell low](/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/)
+### Why you buy high and sell low
 
-### [Investing vs trading](/ru/market/market/investirovanie-vs-treiding/)
+### Investing vs trading
 
 ---
 
 ## DeFi
 
-### [What is DeFi](/ru/market/defi/chto-takoe-defi/)
+### What is DeFi
 
-### [What is TVL and how to read it](/ru/market/defi/chto-takoe-tvl/)
+### What is TVL and how to read it
 
-### [Loans without banks](/ru/market/defi/kredity-bez-banka/)
+### Loans without banks
 
-### [Yield farming](/ru/market/defi/chto-takoe-farming/)
+### Yield farming
 
-### [DeFi risks](/ru/market/defi/riski-defi/)
+### DeFi risks
 
-### [Cross-chain bridges](/ru/market/defi/mosty-mezhdu-setyami/)
+### Cross-chain bridges
 
-### [DEX vs CEX — which to choose](/ru/market/defi/dex-vs-cex/)
+### DEX vs CEX — which to choose
 
 ---
 
 ## Government & Taxes
 
-### [How governments treat crypto](/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte/)
+### How governments treat crypto
 
-### [Crypto taxes explained](/ru/market/regulation/nalogi-na-kriptu/)
+### Crypto taxes explained

@@ -14,20 +14,20 @@ menu: main
 
 ## Sicherheit
 
-### [Heiße vs Kalte Wallets: Welche Solltest du Wählen](/en/security/hot-vs-cold-wallets/)
-- [Heiße Wallets: immer verbunden](/en/security/hot-vs-cold-wallets/#hot-wallets-always-connected)
-- [Kalte Wallets: Offline-Sicherheit](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
-- [Vergleichstabelle Heiß vs Kalt](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
-- [Wann du was verwendest](/en/security/hot-vs-cold-wallets/#when-to-use-what)
+### [Hot vs Cold Wallets: Welche Solltest Du Wählen](/de/security/hot-vs-cold-wallets/)
+- [Hot Wallets: immer verbunden](/de/security/hot-vs-cold-wallets/#hot-wallets-immer-in-verbindung)
+- [Cold Wallets: Offline-Sicherheit](/de/security/hot-vs-cold-wallets/#cold-wallets-offline-sicherheit)
+- [Hot vs Cold: Vergleichstabelle](/de/security/hot-vs-cold-wallets/#hot-vs-cold-vergleichstabelle)
+- [Wann du was verwenden solltest](/de/security/hot-vs-cold-wallets/#wann-du-was-verwenden-solltest)
 
-### [Häufige Crypto-Betrugsmaschen](/ru/security/osnovnye-vidy-skama/)
+### Häufige Crypto-Betrugsarten
 
-### [Token-Berechtigungen: Was sie sind und warum sie gefährlich sind](/ru/security/razresheniya-tokenov/)
+### Token-Berechtigungen: Was Sie Sind und Warum Sie Gefährlich Sind
 
-### [Was tun, wenn dein Wallet gehackt wurde](/ru/security/chto-delat-pri-vzlome/)
+### Was Tun, Wenn Dein Wallet Gehackt Wurde
 
-### [Anfängerfehler bei Crypto: Echte Fälle](/en/security/common-mistakes/)
-- [Ins falsche Netzwerk gesendet](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
-- [Seed-Phrase verloren](/en/security/common-mistakes/#2-i-lost-my-seed-phrase)
-- [Unbegrenzte Token-Genehmigung erteilt](/en/security/common-mistakes/#3-i-gave-unlimited-token-approval-to-a-contract)
-- [Auf Betrug hereingefallen](/en/security/common-mistakes/#4-i-fell-for-a-scam)
+### [Anfängerfehler: Echte Fälle und Lösungen](/de/security/common-mistakes/)
+- [Ich habe an das falsche Netzwerk gesendet](/de/security/common-mistakes/#1-ich-habe-an-das-falsche-netzwerk-gesendet)
+- [Ich habe meine Seed-Phrase verloren](/de/security/common-mistakes/#2-ich-habe-meine-seed-phrase-verloren)
+- [Ich habe einem Contract unbegrenzte Token-Freigabe erteilt](/de/security/common-mistakes/#3-ich-habe-einem-contract-unbegrenzte-token-freigabe-erteilt)
+- [Ich bin auf einen Betrug hereingefallen](/de/security/common-mistakes/#4-ich-bin-auf-einen-betrug-hereingefallen)

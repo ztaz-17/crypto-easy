@@ -18,7 +18,7 @@ Los mejores exchanges crypto, wallets y servicios — todo en un solo lugar.
 
 ### Próximamente:
 
-- Los mejores exchanges crypto comparados
+- Los mejores exchanges comparados
 - Los mejores wallets para principiantes
 - Rastreadores de cartera
 - Calculadoras de impuestos
@@ -26,4 +26,4 @@ Los mejores exchanges crypto, wallets y servicios — todo en un solo lugar.
 
 ---
 
-> La sección de herramientas está en preparación.
+> La sección de herramientas está en preparación

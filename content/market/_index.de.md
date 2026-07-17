@@ -14,36 +14,36 @@ menu: main
 
 ## Märkte und Preise
 
-### [Warum der Preis steigt und fällt](/ru/market/market/pochemu-cena-rastet-i-padaet/)
+### Warum der Preis steigt und fällt
 
-### [Was ist Liquidität und warum ist sie wichtig](/ru/market/market/chto-takoe-likvidnost/)
+### Was ist Liquidität und warum ist sie wichtig
 
-### [Warum du teuer kaufst und billig verkaufst](/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus/)
+### Warum du teuer kaufst und billig verkaufst
 
-### [Investieren vs Trading](/ru/market/market/investirovanie-vs-treiding/)
+### Investieren vs Traden
 
 ---
 
 ## DeFi
 
-### [Was ist DeFi](/ru/market/defi/chto-takoe-defi/)
+### Was ist DeFi
 
-### [Was ist TVL und wie man es liest](/ru/market/defi/chto-takoe-tvl/)
+### Was ist TVL und wie man es liest
 
-### [Kredite ohne Banken](/ru/market/defi/kredity-bez-banka/)
+### Kredite ohne Bank
 
-### [Yield Farming](/ru/market/defi/chto-takoe-farming/)
+### Yield Farming
 
-### [DeFi-Risiken](/ru/market/defi/riski-defi/)
+### DeFi-Risiken
 
-### [Brücken zwischen Netzwerken](/ru/market/defi/mosty-mezhdu-setyami/)
+### Brücken zwischen Netzwerken
 
-### [DEX vs CEX — was du wählen solltest](/ru/market/defi/dex-vs-cex/)
+### DEX vs CEX — was wählen
 
 ---
 
-## Regierung & Steuern
+## Regulierung & Steuern
 
-### [Wie Regierungen mit Crypto umgehen](/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte/)
+### Wie Regierungen mit Crypto umgehen
 
-### [Crypto-Steuern erklärt](/ru/market/regulation/nalogi-na-kriptu/)
+### Crypto-Steuern erklärt

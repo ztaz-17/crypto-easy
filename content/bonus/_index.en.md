@@ -15,16 +15,16 @@ menu: main
 
 ## Bonus
 
-### [What is a DAO](/ru/bonus/chto-takoe-dao/)
+### What is a DAO
 
-### [Oracles explained](/ru/bonus/chto-takoe-orakuly/)
+### Oracles explained
 
-### [Staking vs farming](/ru/bonus/steiking-vs-farming/)
+### Staking vs farming
 
-### [Airdrops: what they are and how to avoid scams](/ru/bonus/chto-takoe-airdrop/)
+### Airdrops: what they are and how to avoid scams
 
-### [Meme coins](/ru/bonus/chto-takoe-meme-coiny/)
+### Meme coins
 
-### [What are NFTs](/ru/bonus/chto-takoe-nft/)
+### What are NFTs
 
-### [P2P trading scams](/ru/bonus/p2p-torgovlya/)
+### P2P trading scams

@@ -20,11 +20,11 @@ menu: main
 - [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
 - [When to use what](/en/security/hot-vs-cold-wallets/#when-to-use-what)
 
-### [Common Crypto Scams: What to Watch For](/ru/security/osnovnye-vidy-skama/)
+### Common Crypto Scams: What to Watch For
 
-### [Token Allowances: What They Are and Why They're Dangerous](/ru/security/razresheniya-tokenov/)
+### Token Allowances: What They Are and Why They're Dangerous
 
-### [What to Do If Your Wallet Is Hacked](/ru/security/chto-delat-pri-vzlome/)
+### What to Do If Your Wallet Is Hacked
 
 ### [Beginner Mistakes in Crypto: Real-Life Cases](/en/security/common-mistakes/)
 - [I sent to the wrong network](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
