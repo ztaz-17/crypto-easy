@@ -18,7 +18,7 @@ menu: main
 
 ### Why banks can freeze your money — and you can't do anything
 
-### [Why you're losing money even when you save](/en/learn/skeptic/why-youre-losing-money-even-if-saving/)
+### Why you're losing money even when you save
 
 ### How people save money with crypto (real cases)
 
@@ -71,4 +71,3 @@ menu: main
 ### Block confirmations explained
 
 ### Why transactions get stuck
-

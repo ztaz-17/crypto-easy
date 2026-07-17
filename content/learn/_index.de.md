@@ -38,10 +38,10 @@ menu: main
 - [Warum es funktioniert](/de/learn/basis/blockchain-in-1-minute/#warum-es-funktioniert)
 - [Was Blockchain nicht tut](/de/learn/basis/blockchain-in-1-minute/#was-blockchain-nicht-tut)
 
-### [Dezentralisierung einfach erklärt](/de/learn/basis/decentralization-simply/)
-- [Kein Zentrum](/de/learn/basis/decentralization-simply/#kein-zentrum)
-- [Vorteile der Dezentralisierung](/de/learn/basis/decentralization-simply/#vorteile-der-dezentralisierung)
-- [Nachteile der Dezentralisierung](/de/learn/basis/decentralization-simply/#nachteile-der-dezentralisierung)
+### [Dezentralisierung einfach erklärt](/de/learn/basis/dezentralisierung-einfach-erklaert/)
+- [Kein Zentrum](/de/learn/basis/dezentralisierung-einfach-erklaert/#kein-zentrum)
+- [Vorteile der Dezentralisierung](/de/learn/basis/dezentralisierung-einfach-erklaert/#vorteile-der-dezentralisierung)
+- [Nachteile der Dezentralisierung](/de/learn/basis/dezentralisierung-einfach-erklaert/#nachteile-der-dezentralisierung)
 
 ### [Bitcoin vs Ethereum: verwechsle sie nicht](/de/learn/basis/bitcoin-vs-ethereum/)
 - [Bitcoin — digitales Gold](/de/learn/basis/bitcoin-vs-ethereum/#bitcoin--digitales-gold)
@@ -54,9 +54,9 @@ menu: main
 - [USDT (Tether)](/de/learn/basis/what-are-stablecoins/#usdt-tether)
 - [USDC (USD Coin)](/de/learn/basis/what-are-stablecoins/#usdc-usd-coin)
 
-### [Private Key: warum er wichtiger ist als ein Passwort](/de/learn/basis/private-key/)
-- [Private Key vs Passwort — der Unterschied](/de/learn/basis/private-key/#private-key-vs-passwort--der-unterschied)
-- [Wie man einen Private Key aufbewahrt](/de/learn/basis/private-key/#wie-man-einen-private-key-aufbewahrt)
+### [Private Key: warum er wichtiger ist als ein Passwort](/de/learn/basis/privater-schluessel/)
+- [Private Key vs Passwort — der Unterschied](/de/learn/basis/privater-schluessel/#private-key-vs-passwort--der-unterschied)
+- [Wie man einen Private Key aufbewahrt](/de/learn/basis/privater-schluessel/#wie-man-einen-private-key-aufbewahrt)
 
 ### Andere Netzwerke und Coins: Übersicht
 
@@ -71,4 +71,3 @@ menu: main
 ### Block-Bestätigungen erklärt
 
 ### Warum Transaktionen hängen bleiben
-
