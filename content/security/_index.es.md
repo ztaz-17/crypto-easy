@@ -15,10 +15,10 @@ menu: main
 ## Seguridad
 
 ### [Wallets Calientes vs Fríos: Cuál Elegir](/en/security/hot-vs-cold-wallets/)
-- [Wallets calientes: siempre en línea](/en/security/hot-vs-cold-wallets/#hot-wallets-always-online)
+- [Wallets calientes: siempre conectados](/en/security/hot-vs-cold-wallets/#hot-wallets-always-connected)
 - [Wallets fríos: seguridad offline](/en/security/hot-vs-cold-wallets/#cold-wallets-offline-security)
-- [Tabla comparativa](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison)
-- [Cuándo usar cada uno](/en/security/hot-vs-cold-wallets/#when-to-use-which)
+- [Tabla comparativa Hot vs Cold](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
+- [Cuándo usar cada uno](/en/security/hot-vs-cold-wallets/#when-to-use-what)
 
 ### [Estafas Crypto Comunes: Qué Vigilar](/ru/security/osnovnye-vidy-skama/)
 
@@ -27,8 +27,7 @@ menu: main
 ### [Qué Hacer Si Hackean Tu Wallet](/ru/security/chto-delat-pri-vzlome/)
 
 ### [Errores de Principiante en Crypto: Casos Reales](/en/security/common-mistakes/)
-- [Envié a la red equivocada](/en/security/common-mistakes/#sent-to-wrong-network)
-- [Perdí mi frase semilla](/en/security/common-mistakes/#lost-seed-phrase)
-- [Di aprobación infinita de tokens](/en/security/common-mistakes/#gave-infinite-approval)
-- [Caí en una estafa](/en/security/common-mistakes/#fell-for-scam)
-- [Principios clave de seguridad](/en/security/common-mistakes/#key-principles)
+- [Envié a la red equivocada](/en/security/common-mistakes/#1-i-sent-to-the-wrong-network)
+- [Perdí mi frase semilla](/en/security/common-mistakes/#2-i-lost-my-seed-phrase)
+- [Di aprobación ilimitada de tokens](/en/security/common-mistakes/#3-i-gave-unlimited-token-approval-to-a-contract)
+- [Caí en una estafa](/en/security/common-mistakes/#4-i-fell-for-a-scam)
