@@ -33,6 +33,6 @@ menu: main
 - [Method 2: P2P peer-to-peer](/en/practice/buy-first-crypto/#method-2-p2p-peer-to-peer)
 - [Method 3: Instant swap services](/en/practice/buy-first-crypto/#method-3-instant-swap-services)
 
-### [Your First Transaction Without Mistakes](/en/practice/first-transaction/)
+### Your First Transaction Without Mistakes
 
 ### How to Check a Transaction in Blockchain

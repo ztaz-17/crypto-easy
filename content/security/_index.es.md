@@ -26,8 +26,8 @@ menu: main
 
 ### Qué Hacer si Te Hackean el Wallet
 
-### [Errores de Principiantes: Casos Reales y Soluciones](/es/security/common-mistakes/)
-- [Envié a la red equivocada](/es/security/common-mistakes/#1-envié-a-la-red-equivocada)
-- [Perdí mi frase semilla](/es/security/common-mistakes/#2-perdí-mi-frase-semilla)
-- [Di aprobación ilimitada a un contrato](/es/security/common-mistakes/#3-di-aprobación-ilimitada-de-tokens-a-un-contrato)
-- [Caí en una estafa](/es/security/common-mistakes/#4-caí-en-una-estafa)
+### [Errores de Principiantes: Casos Reales y Soluciones](/es/security/errores-comunes/)
+- [Envié a la red equivocada](/es/security/errores-comunes/#1-envié-a-la-red-equivocada)
+- [Perdí mi frase semilla](/es/security/errores-comunes/#2-perdí-mi-frase-semilla)
+- [Di aprobación ilimitada a un contrato](/es/security/errores-comunes/#3-di-aprobación-ilimitada-de-tokens-a-un-contrato)
+- [Caí en una estafa](/es/security/errores-comunes/#4-caí-en-una-estafa)

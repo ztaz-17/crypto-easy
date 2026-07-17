@@ -26,8 +26,8 @@ menu: main
 
 ### Was Tun, Wenn Dein Wallet Gehackt Wurde
 
-### [Anfängerfehler: Echte Fälle und Lösungen](/de/security/common-mistakes/)
-- [Ich habe an das falsche Netzwerk gesendet](/de/security/common-mistakes/#1-ich-habe-an-das-falsche-netzwerk-gesendet)
-- [Ich habe meine Seed-Phrase verloren](/de/security/common-mistakes/#2-ich-habe-meine-seed-phrase-verloren)
-- [Ich habe einem Contract unbegrenzte Token-Freigabe erteilt](/de/security/common-mistakes/#3-ich-habe-einem-contract-unbegrenzte-token-freigabe-erteilt)
-- [Ich bin auf einen Betrug hereingefallen](/de/security/common-mistakes/#4-ich-bin-auf-einen-betrug-hereingefallen)
+### [Anfängerfehler: Echte Fälle und Lösungen](/de/security/haeufige-fehler/)
+- [Ich habe an das falsche Netzwerk gesendet](/de/security/haeufige-fehler/#1-ich-habe-an-das-falsche-netzwerk-gesendet)
+- [Ich habe meine Seed-Phrase verloren](/de/security/haeufige-fehler/#2-ich-habe-meine-seed-phrase-verloren)
+- [Ich habe einem Contract unbegrenzte Token-Freigabe erteilt](/de/security/haeufige-fehler/#3-ich-habe-einem-contract-unbegrenzte-token-freigabe-erteilt)
+- [Ich bin auf einen Betrug hereingefallen](/de/security/haeufige-fehler/#4-ich-bin-auf-einen-betrug-hereingefallen)

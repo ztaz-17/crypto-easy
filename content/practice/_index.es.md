@@ -33,6 +33,6 @@ menu: main
 - [Método 2: P2P](/es/practice/buy-first-crypto/#método-2-p2p)
 - [Método 3: Swaps Instantáneos](/es/practice/buy-first-crypto/#método-3-swaps-instantáneos)
 
-### [Primera Transacción Sin Errores](/es/practice/first-transaction/)
+### Primera Transacción Sin Errores
 
 ### Cómo Verificar una Transacción en Blockchain
