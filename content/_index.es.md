@@ -52,4 +52,3 @@ Guías cortas y noticias en nuestro Telegram:
 
 > ⚠️ Aviso: Solo contenido educativo. No es asesoramiento financiero.
 
----
