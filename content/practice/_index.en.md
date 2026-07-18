@@ -56,3 +56,10 @@ next: ""
 - [How to Monitor a Wallet](/en/practice/check-transaction-in-blockchain/#how-to-monitor-a-wallet-alerts-and-notifications)
 - [How to Check a Transaction on an Exchange](/en/practice/check-transaction-in-blockchain/#how-to-check-a-transaction-on-an-exchange-cex)
 - [What to Do If a Transaction Gets Stuck](/en/practice/check-transaction-in-blockchain/#what-to-do-if-a-transaction-gets-stuck)
+
+### [Best Crypto Exchanges 2026: Comparison](/en/practice/exchanges/)
+- [Bybit — Best for Getting Started](/en/practice/exchanges/#bybit--best-for-getting-started)
+- [Kraken — Maximum Security](/en/practice/exchanges/#kraken--maximum-security)
+- [Coinbase — Best UX for Beginners](/en/practice/exchanges/#coinbase--best-ux-for-beginners)
+- [Comparison Table](/en/practice/exchanges/#comparison-table)
+- [Which Exchange Should a Beginner Choose?](/en/practice/exchanges/#which-exchange-should-a-beginner-choose)

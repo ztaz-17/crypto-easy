@@ -4,7 +4,7 @@ translationKey: "home"
 slug: "home"
 title: "Crypto Easy — крипта простым языком"
 heading: "🚀 Crypto Easy"
-description: "Изучите криптовалюту, блокчейн, DeFi и способы заработка на крипте. Простые и понятные гайды для новичков и продвинутых."
+description: "Изучите криптовалюту, блокчейн, DeFi и заработок на крипте с нуля. Пошаговые гайды для начинающих без сложных терминов и воды. Только практика."
 keywords:
   - криптовалюта
   - биткоин
@@ -40,6 +40,7 @@ keywords:
 - [Сид-фраза: момент, где теряют деньги](/ru/practice/seed-phrase-moment-gde-teryaut-dengi/)
 - [Первая транзакция без ошибок](/ru/practice/pervaya-tranzakciya-bez-oshibok/)
 - [Как проверить транзакцию](/ru/practice/kak-proverit-tranzakciyu/)
+- [Лучшие криптобиржи 2026: сравнение и выбор](/ru/practice/exchanges/)
 - [Все инструкции](/ru/practice/)
 
 ---

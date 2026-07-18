@@ -38,6 +38,14 @@ next: ""
 - [DCA (promediación) como estrategia para principiantes](/es/market/market/invertir-vs-trading/#enfoques-dca-para-principiantes)
 - [Cómo leer un gráfico de velas (capturas en TradingView)](/es/market/market/invertir-vs-trading/#cómo-leer-un-gráfico-de-velas)
 
+### [¿Qué es un ETF de Cripto y por qué es Importante la Aprobación del ETF de Solana?](/es/market/market/crypto-etf/)
+- [¿Qué es un ETF en términos simples?](/es/market/market/crypto-etf/#qué-es-un-etf-en-términos-simples)
+- [ETF Spot vs ETF de Futuros](/es/market/market/crypto-etf/#etf-spot-vs-etf-de-futuros-cuál-es-la-diferencia)
+- [Por qué la aprobación Solana ETF importa](/es/market/market/crypto-etf/#por-qué-la-aprobación-del-etf-de-solana-es-importante)
+- [Cómo afecta al precio](/es/market/market/crypto-etf/#cómo-afecta-al-precio-y-más)
+- [Cómo invertir a través de ETF](/es/market/market/crypto-etf/#cómo-puede-invertir-una-persona-común-a-través-de-un-etf)
+- [Riesgos](/es/market/market/crypto-etf/#riesgos-a-conocer)
+
 ---
 
 ## DeFi

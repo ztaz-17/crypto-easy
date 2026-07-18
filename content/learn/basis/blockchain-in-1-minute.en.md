@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Blockchain in 1 Minute (The Simplest Explanation)"
-description: "Blockchain for beginners: what is a shared ledger, why records can't be rewritten, and how it all works — the simplest explanation"
+description: "Blockchain explained in 1 minute for beginners. What is a shared ledger, why records cannot be rewritten, and how it all works. No jargon, just the basics."
 category: "basis"
 translationKey: "blockchain-in-1-minute"
 slug: "blockchain-in-1-minute"
