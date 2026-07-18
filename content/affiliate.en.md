@@ -12,6 +12,8 @@ keywords:
 category: "practice"
 translationKey: "affiliate"
 slug: "exchanges"
+prev: "/en/practice/check-transaction-in-blockchain"
+next: ""
 weight: 100
 ---
 

@@ -13,7 +13,7 @@ keywords:
   - MakerDAO
   - Smart Contracts
   - finanzielle Inklusion
-prev: "/de/market/market/investieren-vs-traden"
+prev: "/de/market/market/was-ist-krypto-etf"
 next: "/de/market/defi/tvl-erklaert"
 ---
 

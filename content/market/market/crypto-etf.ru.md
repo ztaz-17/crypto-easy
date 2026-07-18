@@ -12,6 +12,8 @@ keywords:
 category: "market"
 translationKey: "crypto-etf"
 slug: "chto-takoe-crypto-etf"
+prev: "/ru/market/market/investirovanie-vs-treiding"
+next: "/ru/market/defi/chto-takoe-defi"
 weight: 30
 ---
 

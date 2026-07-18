@@ -12,6 +12,8 @@ keywords:
 category: "practice"
 translationKey: "affiliate"
 slug: "exchanges"
+prev: "/es/practice/como-verificar-transaccion-en-blockchain"
+next: ""
 weight: 100
 ---
 

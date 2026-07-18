@@ -13,7 +13,7 @@ keywords:
   - MakerDAO
   - smart contracts
   - financial inclusion
-prev: "/en/market/market/investing-vs-trading"
+prev: "/en/market/market/what-is-crypto-etf"
 next: "/en/market/defi/tvl-explained"
 ---
 

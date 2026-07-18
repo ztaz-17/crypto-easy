@@ -12,6 +12,8 @@ keywords:
 category: "practice"
 translationKey: "affiliate"
 slug: "exchanges"
+prev: "/de/practice/transaktion-ueberpruefen-blockchain"
+next: ""
 weight: 100
 ---
 
