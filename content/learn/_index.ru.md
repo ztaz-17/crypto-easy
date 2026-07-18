@@ -127,3 +127,22 @@ menu: main
 - [Перегруз сети](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#перегруз-сети)
 - [Как ускорить / отменить](/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut/#как-ускорить-отменить)
 
+### [Как НЕ потерять деньги: разные сети (ERC20, TRC20, BSC)](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/)
+- [Отправил USDT — деньги исчезли](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#отправил-usdt--деньги-исчезли-как-такое-возможно)
+- [Главная ошибка новичков: токены одинаковые — сети разные](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#главная-ошибка-новичков-токены-одинаковые--сети-разные)
+- [Как проверять сеть перед отправкой](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#как-проверять-сеть-перед-отправкой)
+- [Что делать, если уже отправил не туда](/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc/#что-делать-если-уже-отправил-не-туда)
+
+### [Как платить за переводы крипты в 10 раз меньше](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/)
+- [Выбор сети: USDT на TRC20 vs ERC20](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#1-выбор-сети-usdt-на-trc20-vs-erc20)
+- [L2-решения: комиссии в центах](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#2-l2-решения-комиссии-в-центах)
+- [Тайминг: когда отправлять, чтобы платить меньше](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#3-тайминг-когда-отправлять-чтобы-платить-меньше)
+- [Lightning Network для Bitcoin](/ru/learn/how-it-works/kak-platit-v-10-raz-menshe/#4-lightning-network-для-bitcoin)
+
+### [Майнинг vs стейкинг — Proof of Work и Proof of Stake](/ru/learn/how-it-works/pos-vs-pow/)
+- [Proof of Work (PoW) — майнинг](/ru/learn/how-it-works/pos-vs-pow/#proof-of-work-pow--майнинг)
+- [Proof of Stake (PoS) — стейкинг](/ru/learn/how-it-works/pos-vs-pow/#proof-of-stake-pos--стейкинг)
+- [Ключевые отличия](/ru/learn/how-it-works/pos-vs-pow/#ключевые-отличия)
+- [Что лучше для пользователя](/ru/learn/how-it-works/pos-vs-pow/#что-лучше-для-пользователя)
+
+---
