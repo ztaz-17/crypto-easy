@@ -48,11 +48,11 @@ Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 
 Crypto-Märkte, DeFi, Steuern und Regulierung.
 
-- Was ist DeFi (demnächst)
-- Warum der Preis steigt und fällt (demnächst)
-- Investieren vs Traden (demnächst)
-- Kredite ohne Bank (demnächst)
-- Crypto-Steuern (demnächst)
+- [Was ist DeFi](/de/market/defi/was-ist-defi/)
+- [Warum der Preis steigt und fällt](/de/market/market/warum-crypto-preis-steigt-und-fallt/)
+- [Investieren vs Traden](/de/market/market/investieren-vs-traden/)
+- [Kredite ohne Bank](/de/market/defi/kredite-ohne-bank-defi/)
+- [Crypto-Steuern](/de/market/regulation/crypto-steuern/)
 - [Alles über Märkte](/de/market/)
 
 ---
@@ -61,10 +61,10 @@ Crypto-Märkte, DeFi, Steuern und Regulierung.
 
 Wie du dein Geld schützt und Betrug vermeidest.
 
-- Häufige Betrugsarten (demnächst)
+- [Häufige Crypto-Betrugsarten](/de/security/haeufige-crypto-betrugsarten/)
 - [Hot vs Cold Wallets](/de/security/hot-vs-cold-wallets/)
-- Token-Berechtigungen (demnächst)
-- Was tun bei einem Hack (demnächst)
+- [Token-Berechtigungen](/de/security/token-berechtigungen-erklaert/)
+- [Was tun wenn dein Wallet gehackt wurde](/de/security/was-tun-wenn-wallet-gehackt-wurde/)
 - [Anfängerfehler: Echte Fälle](/de/security/haeufige-fehler/)
 - [Alles über Sicherheit](/de/security/)
 
@@ -74,10 +74,10 @@ Wie du dein Geld schützt und Betrug vermeidest.
 
 NFTs, DAOs, Meme-Coins, Staking und mehr.
 
-- Was sind NFTs (demnächst)
-- Was ist eine DAO (demnächst)
-- Staking vs Farming (demnächst)
-- Was ist ein Airdrop (demnächst)
+- [Was sind NFTs](/de/bonus/was-sind-nfts/)
+- [Was ist eine DAO](/de/bonus/was-ist-eine-dao/)
+- [Staking vs Farming](/de/bonus/staking-vs-farming/)
+- [Was ist ein Airdrop](/de/bonus/was-ist-airdrop/)
 - [Alle Boni](/de/bonus/)
 
 ---

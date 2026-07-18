@@ -14,36 +14,36 @@ menu: main
 
 ## Markets & Prices
 
-### Why price goes up and down
+### [Why Crypto Prices Go Up and Down](/market/why-crypto-price-goes-up-and-down/)
 
-### What is liquidity and why it matters for price
+### [What Is Liquidity and Why It Matters for Price](/market/liquidity-and-slippage/)
 
-### Why you buy high and sell low
+### [Why You Buy at the Top and Sell at the Bottom](/market/buy-high-sell-low/)
 
-### Investing vs trading
+### [Investing vs Trading: What Should a Beginner Choose](/market/investing-vs-trading/)
 
 ---
 
 ## DeFi
 
-### What is DeFi
+### [What Is DeFi: Finance Without Banks](/market/what-is-defi/)
 
-### What is TVL and how to read it
+### [What Is TVL and How to Read It](/market/tvl-explained/)
 
-### Loans without banks
+### [Loans Without Banks: How DeFi Lending Works](/market/crypto-loans-without-banks/)
 
-### Yield farming
+### [Yield Farming: How to Earn in DeFi](/market/yield-farming/)
 
-### DeFi risks
+### [DeFi Risks: What You Need to Know Before Jumping In](/market/defi-risks/)
 
-### Cross-chain bridges
+### [Cross-Chain Bridges: How to Move Crypto Between Networks](/market/cross-chain-bridges/)
 
-### DEX vs CEX — which to choose
+### [DEX vs CEX — Which Exchange to Use for Crypto Trading](/market/dex-vs-cex-which-to-choose/)
 
 ---
 
 ## Government & Taxes
 
-### How governments treat crypto
+### [How Governments Treat Crypto Around the World](/market/how-governments-treat-crypto/)
 
-### Crypto taxes explained
+### [Crypto Taxes: General Principles](/market/crypto-taxes/)

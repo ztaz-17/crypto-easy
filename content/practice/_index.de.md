@@ -25,7 +25,12 @@ menu: main
 - [Wie du die Seed-Phrase richtig aufbewahrst](/de/practice/seed-phrase-mistakes/#wie-du-die-seed-phrase-richtig-aufbewahrst)
 - [Wo du die Seed-Phrase NICHT aufbewahren darfst](/de/practice/seed-phrase-mistakes/#wo-du-die-seed-phrase-nicht-aufbewahren-darfst)
 
-### Testnet-Demo: Übe Ohne Echtes Geld
+### [Testnet-Demo: Übe Ohne Echtes Geld](/de/practice/testnet-demo-ohne-risiko-ueben/)
+- [Was ist ein Testnet?](/de/practice/testnet-demo-ohne-risiko-ueben/#was-ist-ein-testnet)
+- [Wo bekommst du Test-Coins: Faucets](/de/practice/testnet-demo-ohne-risiko-ueben/#wo-bekommst-du-test-coins-faucets)
+- [MetaMask für ein Testnet einrichten](/de/practice/testnet-demo-ohne-risiko-ueben/#metamask-für-ein-testnet-einrichten)
+- [Warum es sicher ist](/de/practice/testnet-demo-ohne-risiko-ueben/#warum-es-sicher-ist)
+- [Wie du Testnet und Mainnet nicht verwechselst](/de/practice/testnet-demo-ohne-risiko-ueben/#wie-du-testnet-und-mainnet-nicht-verwechselst)
 
 ### [Wie Du Deine Erste Crypto Kaufst](/de/practice/buy-first-crypto/)
 - [Methode 1: Börse](/de/practice/buy-first-crypto/#methode-1-börse)
@@ -35,4 +40,9 @@ menu: main
 
 ### Erste Transaktion Ohne Fehler
 
-### Wie man eine Transaktion in Blockchain Prüft
+### [Transaktion in der Blockchain überprüfen](/de/practice/transaktion-ueberpruefen-blockchain/)
+- [Was ist ein Blockchain-Explorer?](/de/practice/transaktion-ueberpruefen-blockchain/#was-ist-ein-blockchain-explorer-und-warum-brauchst-du-ihn)
+- [Etherscan: Der wichtigste Ethereum-Explorer](/de/practice/transaktion-ueberpruefen-blockchain/#etherscan-der-wichtigste-ethereum-explorer)
+- [Liste der Explorer](/de/practice/transaktion-ueberpruefen-blockchain/#liste-der-explorer)
+- [Wie überwache ich ein Wallet](/de/practice/transaktion-ueberpruefen-blockchain/#wie-überwache-ich-ein-wallet-benachrichtigungen)
+- [Was tun, wenn eine Transaktion hängt](/de/practice/transaktion-ueberpruefen-blockchain/#was-tun-wenn-eine-transaktion-hängt)
