@@ -12,7 +12,7 @@ keywords:
   - Uniswap
   - Governance-Token
   - Abstimmung
-prev: "/de/bonus/"
+prev: ""
 next: "/de/bonus/oracles-erklaert"
 ---
 

@@ -14,7 +14,7 @@ keywords:
   - 12 palabras
   - almacenamiento en frío
 prev: "/es/practice/create-wallet-in-5-minutes"
-next: ""
+next: "/es/practice/demo-testnet-practicar-sin-riesgo"
 ---
 
 ## Frase Semilla: el Momento en que la Gente Pierde Dinero

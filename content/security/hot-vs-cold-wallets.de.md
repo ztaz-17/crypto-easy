@@ -14,7 +14,7 @@ keywords:
   - Krypto-Aufbewahrung
   - Sicherheit
 prev: ""
-next: "/de/security/common-mistakes"
+next: "/de/security/haeufige-crypto-betrugsarten"
 ---
 
 ## Hot vs Cold Wallets: Welche Solltest Du Wählen

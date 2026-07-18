@@ -12,7 +12,7 @@ keywords:
   - order book
   - low liquidity risk
 prev: "/ru/market/market/pochemu-cena-rastet-i-padaet"
-next: "/ru/market/market/investirovanie-vs-treiding"
+next: "/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus"
 ---
 
 ## Что такое ликвидность и почему она важна для цены

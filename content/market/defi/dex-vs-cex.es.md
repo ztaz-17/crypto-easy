@@ -15,7 +15,7 @@ keywords:
   - AMM
   - libro de órdenes
 prev: "/es/market/defi/puentes-entre-redes"
-next: "/es/market/"
+next: "/es/market/regulation/como-gobiernos-tratan-crypto"
 ---
 
 ## DEX vs CEX — Qué Exchange Usar para Operar Cripto

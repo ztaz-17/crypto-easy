@@ -13,8 +13,8 @@ keywords:
   - MakerDAO
   - contratos inteligentes
   - inclusión financiera
-prev: "/es/market/"
-next: "/es/market/defi/tvl-explained"
+prev: "/es/market/market/invertir-vs-trading"
+next: "/es/market/defi/que-es-tvl"
 ---
 
 ## DeFi: Cómo funcionan las finanzas cuando no necesitas un banco

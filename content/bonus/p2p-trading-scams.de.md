@@ -13,7 +13,7 @@ keywords:
   - Fake-Überweisung
   - Binance P2P
 prev: "/de/bonus/was-sind-nfts"
-next: "/de/bonus/"
+next: ""
 ---
 
 ## P2P-Handel: Betrugsmaschen und wie man sie vermeidet

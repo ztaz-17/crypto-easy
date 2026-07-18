@@ -12,7 +12,7 @@ keywords:
   - staking
   - consensus mechanism
   - PoW vs PoS
-prev: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
+prev: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
 next: ""
 ---
 

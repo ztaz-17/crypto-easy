@@ -13,7 +13,7 @@ keywords:
   - zentralbanken
   - geldsystem
   - geldschöpfung
-prev: "/de/learn/basis/"
+prev: "/de/learn/skeptic/krypto-mythen-an-die-anfaenger-glauben"
 next: "/de/learn/basis/blockchain-in-1-minute"
 ---
 

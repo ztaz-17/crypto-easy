@@ -14,7 +14,7 @@ keywords:
   - errores de principiantes
   - conceptos erróneos
 prev: "/es/learn/skeptic/por-que-gobiernos-no-gusta-crypto"
-next: "/es/learn/skeptic/"
+next: "/es/learn/basis/que-es-el-dinero"
 ---
 
 ## Los Mitos Crypto Que Los Principiantes Siguen Creyendo

@@ -13,7 +13,7 @@ keywords:
   - support scam
   - crypto security
 prev: "/en/security/hot-vs-cold-wallets"
-next: "/en/security/token-allowances"
+next: "/en/security/token-allowances-explained"
 ---
 
 ## Common Types of Crypto Scams

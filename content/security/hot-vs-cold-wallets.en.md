@@ -14,7 +14,7 @@ keywords:
   - crypto storage
   - security
 prev: ""
-next: "/en/security/common-mistakes"
+next: "/en/security/common-crypto-scams"
 ---
 
 ## Hot vs Cold Wallets: Which One to Choose

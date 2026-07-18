@@ -15,7 +15,7 @@ keywords:
   - krypto grundlagen
   - digitaler dollar
 prev: "/de/learn/basis/bitcoin-vs-ethereum"
-next: "/de/learn/basis/other-networks"
+next: "/de/learn/basis/andere-netzwerke-und-coins"
 ---
 
 ## Stablecoins: Was sind USDT, USDC und wie funktionieren sie

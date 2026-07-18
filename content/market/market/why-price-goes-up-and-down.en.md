@@ -12,7 +12,7 @@ keywords:
   - speculation
   - crypto market
   - price drivers
-prev: "/en/market/defi/cross-chain-bridges"
+prev: ""
 next: "/en/market/market/liquidity-and-slippage"
 ---
 

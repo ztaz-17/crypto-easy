@@ -11,8 +11,8 @@ keywords:
   - seed phrase vs private key
   - krypto sicherheit
   - wallet sicherheit
-prev: "/de/learn/basis/other-networks"
-next: ""
+prev: "/de/learn/basis/andere-netzwerke-und-coins"
+next: "/de/learn/how-it-works/was-passiert-wenn-du-crypto-sendest"
 ---
 
 ## Private Key: Warum er wichtiger ist als ein Passwort

@@ -12,7 +12,7 @@ keywords:
   - scam
   - beginner errors
   - recovery
-prev: "/en/security/what-to-do-if-hacked"
+prev: "/en/security/hacked-wallet-what-to-do"
 next: ""
 ---
 

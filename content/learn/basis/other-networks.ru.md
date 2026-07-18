@@ -18,7 +18,7 @@ keywords:
   - Layer 1
   - altcoins
 prev: "/ru/learn/basis/chto-takoe-stabilcoiny"
-next: "/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu"
+next: "/ru/learn/basis/privatnyj-klyuch"
 ---
 
 ## Другие сети и монеты: обзор топовых криптовалют

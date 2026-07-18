@@ -14,7 +14,7 @@ keywords:
   - 12 Wörter
   - Cold Storage
 prev: "/de/practice/create-wallet-in-5-minutes"
-next: ""
+next: "/de/practice/testnet-demo-ohne-risiko-ueben"
 ---
 
 ## Seed-Phrase: Der Moment, in dem Leute Geld Verlieren

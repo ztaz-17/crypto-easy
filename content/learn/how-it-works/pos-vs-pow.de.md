@@ -13,7 +13,7 @@ keywords:
   - konsensmechanismus
   - PoW vs PoS
 prev: "/de/learn/how-it-works/10x-weniger-zahlen"
-next: "/de/learn/how-it-works/"
+next: ""
 ---
 
 ## Mining vs Staking — Wie Proof of Work und Proof of Stake funktionieren

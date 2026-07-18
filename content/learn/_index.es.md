@@ -10,6 +10,8 @@ keywords:
   - qué es criptomoneda
   - curso crypto
 menu: main
+prev: ""
+next: ""
 ---
 
 ---

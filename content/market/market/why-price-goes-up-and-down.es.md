@@ -12,7 +12,7 @@ keywords:
   - especulación
   - mercado cripto
   - factores del precio
-prev: "/es/market/defi/puentes-entre-redes"
+prev: ""
 next: "/es/market/market/liquidez-y-deslizamiento"
 ---
 

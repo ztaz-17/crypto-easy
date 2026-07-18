@@ -15,7 +15,7 @@ keywords:
   - savings protection
   - economic crisis
   - crypto as alternative
-prev: "/en/learn/skeptic/inflation-illusion"
+prev: "/en/learn/skeptic/why-youre-losing-money-even-if-saving"
 next: "/en/learn/skeptic/why-governments-hate-crypto"
 ---
 

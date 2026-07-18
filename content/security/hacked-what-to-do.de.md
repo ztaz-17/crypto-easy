@@ -13,7 +13,7 @@ keywords:
   - Zugriff entziehen
   - Gelder verschieben
 prev: "/de/security/token-berechtigungen-erklaert"
-next: "/de/security/common-mistakes"
+next: "/de/security/haeufige-fehler"
 ---
 
 ## Was tun, wenn dein Crypto-Wallet gehackt wurde

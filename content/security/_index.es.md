@@ -10,6 +10,8 @@ keywords:
   - proteger wallet crypto
   - guía seguridad crypto
 menu: main
+prev: ""
+next: ""
 ---
 
 ## Seguridad

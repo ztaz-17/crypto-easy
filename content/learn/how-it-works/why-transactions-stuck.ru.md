@@ -14,8 +14,7 @@ keywords:
   - Bitcoin stuck
   - Ethereum stuck
 prev: "/ru/learn/how-it-works/chto-takoe-podtverzhdeniya"
-next: 
----
+next: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
 
 ## Почему транзакции зависают и что с этим делать
 

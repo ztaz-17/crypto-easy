@@ -11,8 +11,8 @@ keywords:
   - KYC
   - P2P crypto
   - principiantes
-prev: "/en/practice/testnet-demo"
-next: "/en/practice/first-transaction"
+prev: "/es/practice/demo-testnet-practicar-sin-riesgo"
+next: "/es/practice/first-transaction-without-mistakes"
 ---
 
 ## Cómo Comprar Tu Primera Crypto

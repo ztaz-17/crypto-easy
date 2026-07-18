@@ -11,8 +11,8 @@ keywords:
   - airdrop scam
   - legit airdrop
   - token distribution
-prev: "/en/bonus/staking-vs-farming" 
-next: "/en/bonus/what-are-meme-coins" 
+prev: "/en/bonus/staking-vs-farming"
+next: "/en/bonus/what-are-meme-coins"
 ---
 
 ## What Is an Airdrop: Free Tokens or a Trap?

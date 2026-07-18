@@ -13,8 +13,8 @@ keywords:
   - mining
   - confirmation
   - broadcasting
-prev: "/en/learn/basis/other-networks"
-next: "/en/learn/how-it-works/why-transaction-costs-30"
+prev: "/en/learn/basis/private-key"
+next: "/en/learn/how-it-works/why-a-transfer-can-cost-30"
 ---
 
 ## What Happens When You Send Crypto

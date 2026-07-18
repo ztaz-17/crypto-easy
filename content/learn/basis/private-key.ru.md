@@ -12,7 +12,7 @@ keywords:
   - crypto security
   - wallet security
 prev: "/ru/learn/basis/drugie-seti-solana-bnb-doge"
-next: ""
+next: "/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu"
 ---
 
 ## Приватный ключ: почему это важнее пароля

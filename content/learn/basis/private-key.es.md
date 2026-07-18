@@ -11,8 +11,8 @@ keywords:
   - frase semilla vs clave privada
   - seguridad cripto
   - seguridad de billetera
-prev: "/es/learn/basis/other-networks"
-next: ""
+prev: "/es/learn/basis/otras-redes-y-monedas"
+next: "/es/learn/how-it-works/que-ocurre-cuando-envias-crypto"
 ---
 
 ## Clave privada: por qué es más importante que una contraseña

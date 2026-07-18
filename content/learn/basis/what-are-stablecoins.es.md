@@ -15,7 +15,7 @@ keywords:
   - conceptos básicos de cripto
   - dólar digital
 prev: "/es/learn/basis/bitcoin-vs-ethereum"
-next: "/es/learn/basis/other-networks"
+next: "/es/learn/basis/otras-redes-y-monedas"
 ---
 
 ## Stablecoins: qué son USDT, USDC y cómo funcionan

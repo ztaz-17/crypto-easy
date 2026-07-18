@@ -13,7 +13,7 @@ keywords:
   - MakerDAO
   - smart contracts
   - financial inclusion
-prev: "/ru/market/market/investirovanie-vs-treiding" 
+prev: "/ru/market/market/investirovanie-vs-treiding"
 next: "/ru/market/defi/chto-takoe-tvl"
 ---
 

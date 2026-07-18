@@ -12,7 +12,7 @@ keywords:
   - hack de puente
   - puente de red
 prev: "/es/market/defi/riesgos-defi"
-next: "/es/market/market/por-que-precio-crypto-sube-y-baja"
+next: "/es/market/defi/dex-vs-cex-cual-elegir"
 ---
 
 ## Puentes entre redes: Cómo mover cripto entre blockchains

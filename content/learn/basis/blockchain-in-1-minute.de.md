@@ -10,8 +10,8 @@ keywords:
   - verteiltes Hauptbuch
   - wie Blockchain funktioniert
   - Blockchain für Anfänger
-prev: "/en/learn/basis/what-is-money-really"
-next: "/en/learn/basis/decentralization-simply"
+prev: "/de/learn/basis/was-geld-wirklich-ist"
+next: "/de/learn/basis/dezentralisierung-einfach-erklaert"
 ---
 
 ## Blockchain in 1 Minute erklärt (die einfachste Erklärung)

@@ -13,7 +13,7 @@ keywords:
   - fake transfer
   - Binance P2P
 prev: "/en/bonus/what-are-nfts"
-next: "/en/bonus/"
+next: ""
 ---
 
 ## P2P Trading: Scam Schemes and How to Avoid Them

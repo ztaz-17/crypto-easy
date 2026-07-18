@@ -12,7 +12,7 @@ keywords:
   - Uniswap
   - token de gobernanza
   - votación
-prev: "/es/bonus/"
+prev: ""
 next: "/es/bonus/que-son-oraculos"
 ---
 

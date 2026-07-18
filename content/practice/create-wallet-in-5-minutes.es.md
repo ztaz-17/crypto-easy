@@ -13,7 +13,7 @@ keywords:
   - extensión navegador
   - cartera móvil
 prev: ""
-next: "/es/practice/buy-first-crypto"
+next: "/es/practice/seed-phrase-mistakes"
 ---
 
 ## Cómo Crear una Cartera de Cripto en 5 Minutos — y Hacerlo de Forma Segura

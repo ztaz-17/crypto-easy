@@ -10,8 +10,8 @@ keywords:
   - libro contable distribuido
   - cómo funciona blockchain
   - blockchain para principiantes
-prev: "/en/learn/basis/what-is-money-really"
-next: "/en/learn/basis/decentralization-simply"
+prev: "/es/learn/basis/que-es-el-dinero"
+next: "/es/learn/basis/descentralizacion-explicada-simple"
 ---
 
 ## Blockchain en 1 minuto (la explicación más simple)

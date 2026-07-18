@@ -12,8 +12,8 @@ keywords:
   - EU MiCA
   - China crypto ban
   - Singapore crypto license
-prev: "/en/market/market/investing-vs-trading"
-next: "/en/market/"
+prev: "/en/market/defi/dex-vs-cex-which-to-choose"
+next: "/en/market/regulation/crypto-taxes"
 ---
 
 ## How Governments Treat Crypto Around the World

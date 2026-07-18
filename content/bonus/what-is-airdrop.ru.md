@@ -11,8 +11,8 @@ keywords:
   - airdrop scam
   - legit airdrop
   - token distribution
-prev: "/ru/bonus/steiking-vs-farming" 
-next: "/ru/bonus/chto-takoe-meme-coiny" 
+prev: "/ru/bonus/steiking-vs-farming"
+next: "/ru/bonus/chto-takoe-meme-coiny"
 ---
 
 ## Что такое Airdrop: бесплатные токены или ловушка?
