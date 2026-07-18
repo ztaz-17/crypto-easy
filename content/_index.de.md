@@ -24,10 +24,10 @@ Blockchain, Bitcoin, DeFi — in einfachen Worten.
 
 - [Blockchain in 1 Minute erklärt](/de/learn/basis/blockchain-in-1-minute/)
 - [Bitcoin vs Ethereum](/de/learn/basis/bitcoin-vs-ethereum/)
-- Was Geld wirklich ist (demnächst)
-- Warum Regierungen Crypto nicht mögen (demnächst)
-- Warum eine Überweisung $30 kostet (demnächst)
-- Crypto-Mythen, an die Anfänger glauben (demnächst)
+- [Was Geld wirklich ist](/de/learn/basis/was-geld-wirklich-ist/)
+- [Warum Regierungen Crypto nicht mögen](/de/learn/skeptic/warum-regierungen-crypto-nicht-moegen/)
+- [Warum eine Überweisung $30 kostet](/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann/)
+- [Crypto-Mythen, an die Anfänger glauben](/de/learn/skeptic/krypto-mythen-an-die-anfaenger-glauben/)
 - [Alle Artikel](/de/learn/)
 
 ---
@@ -39,7 +39,7 @@ Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 - [Erstelle ein Crypto-Wallet in 5 Minuten](/de/practice/create-wallet-in-5-minutes/)
 - [Seed-Phrase: Häufige Fehler](/de/practice/seed-phrase-mistakes/)
 - [Erste Transaktion Ohne Fehler](/de/practice/first-transaction-without-mistakes/)
-- Wie man eine Transaktion prüft (demnächst)
+- [Wie man eine Transaktion prüft](/de/practice/transaktion-ueberpruefen-blockchain/)
 - [Alle Anleitungen](/de/practice/)
 
 ---
