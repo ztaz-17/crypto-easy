@@ -9,7 +9,7 @@ keywords:
   - crypto scam
   - phishing
   - fake website
-  - airdop scam
+  - airdrop scam
   - support scam
   - crypto security
 prev: "/ru/security/goryachie-vs-holodnye-koshelki"

@@ -1,12 +1,12 @@
 ---
 weight: 1
 title: "Как создать крипто-кошелёк за 5 минут"
-description: "Пошаговая инструкция по созданию крипто-кошелька: Metamask и Trust Wallet. Установка, настройка, первая проверка"
+description: "Пошаговая инструкция по созданию крипто-кошелька: MetaMask и Trust Wallet. Установка, настройка, первая проверка"
 category: "practice"
 translationKey: "create-wallet-in-5-minutes"
 slug: "kak-sozdat-koshelek-za-5-minut"
 keywords:
-  - Metamask
+  - MetaMask
   - Trust Wallet
   - crypto wallet setup
   - hot wallet
