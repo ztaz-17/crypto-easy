@@ -24,6 +24,7 @@ menu: main
 - [Qué es una frase semilla y por qué ES tu dinero](/es/practice/seed-phrase-mistakes/#qué-es-una-frase-semilla-y-por-qué-es-tu-dinero)
 - [Cómo almacenar correctamente la frase semilla](/es/practice/seed-phrase-mistakes/#cómo-almacenar-correctamente-la-frase-semilla)
 - [Dónde NO se debe almacenar la frase semilla](/es/practice/seed-phrase-mistakes/#dónde-no-se-debe-almacenar-la-frase-semilla)
+- [Errores más comunes](/es/practice/seed-phrase-mistakes/#errores-más-comunes)
 
 ### [Demo en Testnet: Practica Sin Dinero Real](/es/practice/demo-testnet-practicar-sin-riesgo/)
 - [¿Qué es una Testnet?](/es/practice/demo-testnet-practicar-sin-riesgo/#qué-es-una-testnet)
@@ -37,12 +38,19 @@ menu: main
 - [¿Qué es KYC?](/es/practice/buy-first-crypto/#qué-es-kyc)
 - [Método 2: P2P](/es/practice/buy-first-crypto/#método-2-p2p)
 - [Método 3: Swaps Instantáneos](/es/practice/buy-first-crypto/#método-3-swaps-instantáneos)
+- [Riesgos](/es/practice/buy-first-crypto/#riesgos)
 
-### Primera Transacción Sin Errores
+### [Primera Transacción Sin Errores](/es/practice/first-transaction-without-mistakes/)
+- [Paso 1. Copiar la dirección del destinatario](/es/practice/first-transaction-without-mistakes/#paso-1-copiar-la-dirección-del-destinatario)
+- [Paso 2. Verificar la dirección](/es/practice/first-transaction-without-mistakes/#paso-2-verificar-la-dirección-primero-último-y-parte-del-medio)
+- [Paso 3. Elegir la red correcta](/es/practice/first-transaction-without-mistakes/#paso-3-elegir-la-red-correcta-el-error-principal-de-los-principiantes)
+- [Paso 4. Enviar una cantidad de prueba](/es/practice/first-transaction-without-mistakes/#paso-4-enviar-una-cantidad-pequeña-de-prueba)
+- [Paso 5. Verificar la transacción en el explorador](/es/practice/first-transaction-without-mistakes/#paso-5-verificar-la-transacción-en-el-explorador)
 
 ### [Cómo Verificar una Transacción en Blockchain](/es/practice/como-verificar-transaccion-en-blockchain/)
 - [¿Qué Es un Explorador de Blockchain?](/es/practice/como-verificar-transaccion-en-blockchain/#qué-es-un-explorador-de-blockchain-y-para-qué-lo-necesitas)
-- [Etherscan: El Explorador Principal](/es/practice/como-verificar-transaccion-en-blockchain/#etherscan-el-explorador-principal-de-ethereum)
+- [Etherscan: El Explorador Principal de Ethereum](/es/practice/como-verificar-transaccion-en-blockchain/#etherscan-el-explorador-principal-de-ethereum)
 - [Lista de Exploradores](/es/practice/como-verificar-transaccion-en-blockchain/#lista-de-exploradores)
 - [Cómo Monitorear una Wallet](/es/practice/como-verificar-transaccion-en-blockchain/#cómo-monitorear-una-wallet-alertas-y-notificaciones)
+- [Cómo Verificar una Transacción en un Exchange](/es/practice/como-verificar-transaccion-en-blockchain/#cómo-verificar-una-transacción-en-un-exchange-cex)
 - [Qué Hacer Si una Transacción se Atasca](/es/practice/como-verificar-transaccion-en-blockchain/#qué-hacer-si-una-transacción-se-atasca)
