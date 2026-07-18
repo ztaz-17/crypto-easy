@@ -13,7 +13,7 @@ keywords:
   - verificar liquidez
   - DefiLlama
 prev: "/es/market/defi/que-es-defi"
-next: "/es/market/defi/crypto-loans-without-banks"
+next: "/es/market/defi/prestamos-sin-banco-defi"
 ---
 
 ## TVL: cómo saber cuánta confianza tiene un protocolo

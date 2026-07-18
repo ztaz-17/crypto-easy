@@ -12,7 +12,7 @@ keywords:
   - Spekulation
   - Krypto-Markt
   - Preistreiber
-prev: "/de/market/defi/brucken-zwischen-netzwerken"
+prev: ""
 next: "/de/market/market/liquiditat-und-slippage"
 ---
 

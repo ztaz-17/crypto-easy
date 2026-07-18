@@ -11,8 +11,8 @@ keywords:
   - capital gains
   - crypto income
   - tax liability
-prev: "/en/market/market/investing-vs-trading"
-next: "/en/market/"
+prev: "/en/market/regulation/how-governments-treat-crypto"
+next: ""
 ---
 
 ## Crypto Taxes: General Principles

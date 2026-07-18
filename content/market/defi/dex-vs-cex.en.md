@@ -14,8 +14,8 @@ keywords:
   - Binance
   - AMM
   - order book
-prev: "/en/market/defi/defi-risks"
-next: "/en/market/"
+prev: "/en/market/defi/cross-chain-bridges"
+next: "/en/market/regulation/how-governments-treat-crypto"
 ---
 
 ## DEX vs CEX — Which Exchange to Use for Crypto Trading

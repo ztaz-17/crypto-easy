@@ -13,7 +13,7 @@ keywords:
   - gráfico de velas
   - largo plazo vs corto plazo
 prev: "/es/market/market/compras-caro-vendes-barato"
-next: "/es/market/regulation/como-gobiernos-tratan-crypto"
+next: "/es/market/defi/que-es-defi"
 ---
 
 ## Invertir vs Trading: ¿Qué Debe Elegir un Principiante?

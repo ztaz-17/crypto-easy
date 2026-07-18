@@ -12,7 +12,7 @@ keywords:
   - Krypto-Einkommen
   - Steuerpflicht
 prev: "/de/market/regulation/wie-regierungen-mit-crypto-umgehen"
-next: "/de/market/"
+next: ""
 ---
 
 ## Krypto-Steuern: Allgemeine Grundsätze

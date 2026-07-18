@@ -13,7 +13,7 @@ keywords:
   - liquidity check
   - DefiLlama
 prev: "/en/market/defi/what-is-defi"
-next: "/en/market/defi/crypto-loans"
+next: "/en/market/defi/crypto-loans-without-banks"
 ---
 
 ## TVL: How to Tell How Much Money Trusts a Protocol

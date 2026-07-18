@@ -12,7 +12,7 @@ keywords:
   - bridge hack
   - network bridge
 prev: "/en/market/defi/defi-risks"
-next: "/en/market/market/why-price-goes-up-and-down"
+next: "/en/market/defi/dex-vs-cex-which-to-choose"
 ---
 
 ## Cross-Chain Bridges: How to Move Crypto Between Networks
