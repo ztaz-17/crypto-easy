@@ -4,7 +4,7 @@ translationKey: "home"
 slug: "home"
 title: "Crypto Easy — Krypto Einfach Gemacht"
 heading: "🚀 Crypto Easy"
-description: "Lerne Kryptowährungen, Blockchain, DeFi und wie du sicher mit Crypto Geld verdienen kannst. Einfache Anleitungen für Anfänger und Fortgeschrittene."
+description: "Lerne Kryptowährungen, Blockchain, DeFi und wie du mit Crypto Geld verdienst. Schritt-für-Schritt-Anleitungen für Anfänger einfach, praktisch, verständlich."
 keywords:
   - Kryptowährungen
   - Bitcoin
@@ -40,6 +40,7 @@ Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 - [Seed-Phrase: Häufige Fehler](/de/practice/seed-phrase-mistakes/)
 - [Erste Transaktion Ohne Fehler](/de/practice/first-transaction-without-mistakes/)
 - [Wie man eine Transaktion prüft](/de/practice/transaktion-ueberpruefen-blockchain/)
+- [Beste Krypto-Börsen 2026: Vergleich](/de/practice/exchanges/)
 - [Alle Anleitungen](/de/practice/)
 
 ---

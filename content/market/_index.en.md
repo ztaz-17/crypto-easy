@@ -38,6 +38,14 @@ next: ""
 - [DCA (Dollar-Cost Averaging) as a Strategy for Beginners](/en/market/market/investing-vs-trading/#approaches-dca-for-beginners)
 - [How to Read a Candlestick Chart (TradingView Screenshots)](/en/market/market/investing-vs-trading/#how-to-read-a-candlestick-chart)
 
+### [What Is a Crypto ETF and Why Solana ETF Approval Matters](/en/market/market/what-is-crypto-etf/)
+- [What Is an ETF in Simple Terms](/en/market/market/what-is-crypto-etf/#what-is-an-etf-in-simple-terms)
+- [Spot ETF vs Futures ETF](/en/market/market/what-is-crypto-etf/#spot-etf-vs-futures-etf-whats-the-difference)
+- [Why Solana ETF Approval Matters](/en/market/market/what-is-crypto-etf/#why-solana-etf-approval-matters)
+- [How It Affects the Price](/en/market/market/what-is-crypto-etf/#how-it-affects-the-price-and-more)
+- [How a Regular Person Can Invest](/en/market/market/what-is-crypto-etf/#how-a-regular-person-can-invest-through-an-etf)
+- [Risks to Know](/en/market/market/what-is-crypto-etf/#risks-to-know)
+
 ---
 
 ## DeFi

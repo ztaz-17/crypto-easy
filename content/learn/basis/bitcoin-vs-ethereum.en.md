@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Bitcoin vs Ethereum: Don't Confuse Them"
-description: "Bitcoin is digital gold, Ethereum is digital oil. Learn the key differences and which one to choose for what."
+description: "Bitcoin vs Ethereum explained simply for beginners. Digital gold vs digital oil — learn the key differences in purpose, technology, and which crypto to choose."
 category: "basis"
 translationKey: "bitcoin-vs-ethereum"
 slug: "bitcoin-vs-ethereum"

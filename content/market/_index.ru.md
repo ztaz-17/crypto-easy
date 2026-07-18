@@ -38,6 +38,14 @@ next: ""
 - [DCA (усреднение) как стратегия для новичков](/ru/market/market/investirovanie-vs-treiding/#dca-усреднение-как-стратегия-для-новичков)
 - [Как читать график свечей (скриншоты на TradingView)](/ru/market/market/investirovanie-vs-treiding/#как-читать-график-свечей-скриншоты-на-tradingview)
 
+### [Что такое крипто-ETF и почему одобрение Solana ETF — важно](/ru/market/market/crypto-etf/)
+- [Что такое ETF простыми словами](/ru/market/market/crypto-etf/#что-такое-etf-простыми-словами)
+- [Спотовый ETF vs фьючерсный ETF](/ru/market/market/crypto-etf/#спотовый-etf-vs-фьючерсный-etf-в-чём-разница)
+- [Почему одобрение Solana ETF — важно](/ru/market/market/crypto-etf/#почему-одобрение-solana-etf--это-важно)
+- [Как это влияет на цену](/ru/market/market/crypto-etf/#как-это-влияет-на-цену-и-не-только)
+- [Как обычному человеку инвестировать](/ru/market/market/crypto-etf/#как-обычному-человеку-инвестировать-через-etf)
+- [Риски](/ru/market/market/crypto-etf/#риски-о-которых-нужно-знать)
+
 ---
 
 ## DeFi

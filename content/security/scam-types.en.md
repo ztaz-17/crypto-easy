@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Common Types of Crypto Scams"
-description: "How to spot crypto scammers: phishing, fake websites, airdrop traps, fake support, screen sharers. A complete guide to staying safe"
+description: "How to spot crypto scammers: phishing, fake websites, airdrop traps, fake support, and pump-and-dump schemes. A complete safety guide for beginners with real examples."
 category: "security"
 translationKey: "scam-types"
 slug: "common-crypto-scams"
