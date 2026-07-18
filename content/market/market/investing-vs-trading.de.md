@@ -13,7 +13,7 @@ keywords:
   - Kerzenchart
   - langfristig vs kurzfristig
 prev: "/de/market/market/kaufen-hoch-verkaufen-tief"
-next: "/de/market/defi/was-ist-defi"
+next: "/de/market/market/was-ist-krypto-etf"
 ---
 
 ## Investieren vs Traden: Was Sollte ein Anfänger Wählen

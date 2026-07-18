@@ -13,7 +13,7 @@ keywords:
   - TxID
   - wallet tracking
 prev: "/ru/practice/pervaya-tranzakciya-bez-oshibok"
-next: ""
+next: "/ru/exchanges"
 ---
 
 ## Как проверить транзакцию в блокчейне: всё, что нужно знать

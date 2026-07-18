@@ -13,7 +13,7 @@ keywords:
   - MakerDAO
   - contratos inteligentes
   - inclusión financiera
-prev: "/es/market/market/invertir-vs-trading"
+prev: "/es/market/market/que-es-crypto-etf"
 next: "/es/market/defi/que-es-tvl"
 ---
 

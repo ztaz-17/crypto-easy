@@ -13,7 +13,7 @@ keywords:
   - TxID
   - wallet tracking
 prev: "/en/practice/first-transaction-without-mistakes"
-next: ""
+next: "/en/exchanges"
 ---
 
 ## How to Check a Transaction in the Blockchain: Everything You Need to Know

@@ -12,6 +12,8 @@ keywords:
 category: "market"
 translationKey: "crypto-etf"
 slug: "what-is-crypto-etf"
+prev: "/en/market/market/investing-vs-trading"
+next: "/en/market/defi/what-is-defi"
 weight: 30
 ---
 

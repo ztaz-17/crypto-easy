@@ -13,7 +13,7 @@ keywords:
   - candlestick chart
   - long term vs short term
 prev: "/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus"
-next: "/ru/market/defi/chto-takoe-defi"
+next: "/ru/market/market/chto-takoe-crypto-etf"
 ---
 
 ## Инвестирование vs трейдинг: что выбрать новичку

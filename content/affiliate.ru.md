@@ -12,6 +12,8 @@ keywords:
 category: "practice"
 translationKey: "affiliate"
 slug: "exchanges"
+prev: "/ru/practice/kak-proverit-tranzakciyu"
+next: ""
 weight: 100
 ---
 

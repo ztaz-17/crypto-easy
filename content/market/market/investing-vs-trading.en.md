@@ -13,7 +13,7 @@ keywords:
   - candlestick chart
   - long term vs short term
 prev: "/en/market/market/buy-high-sell-low"
-next: "/en/market/defi/what-is-defi"
+next: "/en/market/market/what-is-crypto-etf"
 ---
 
 ## Investing vs Trading: What Should a Beginner Choose
