@@ -40,7 +40,7 @@ keywords:
 - [Сид-фраза: момент, где теряют деньги](/ru/practice/seed-phrase-moment-gde-teryaut-dengi/)
 - [Первая транзакция без ошибок](/ru/practice/pervaya-tranzakciya-bez-oshibok/)
 - [Как проверить транзакцию](/ru/practice/kak-proverit-tranzakciyu/)
-- [Лучшие криптобиржи 2026: сравнение и выбор](/ru/practice/exchanges/)
+- [Лучшие криптобиржи 2026: сравнение и выбор](/ru/exchanges/)
 - [Все инструкции](/ru/practice/)
 
 ---
