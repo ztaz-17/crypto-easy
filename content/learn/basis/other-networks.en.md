@@ -18,7 +18,7 @@ keywords:
   - Layer 1
   - altcoins
 prev: "/en/learn/basis/what-are-stablecoins"
-next: "/en/learn/how-it-works/what-happens-when-you-send-crypto"
+next: "/en/learn/basis/private-key"
 ---
 
 ## Other Networks and Coins: Overview of Top Cryptocurrencies

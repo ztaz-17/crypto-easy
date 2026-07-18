@@ -1,0 +1,333 @@
+====================================================================================================
+ARTICLE METADATA CONSISTENCY REPORT
+Sections: practice/, security/
+Articles analyzed: 13
+====================================================================================================
+
+--- 1. WEIGHT ---
+✅ practice/_index: weight=(none) (all match)
+✅ practice/buy-first-crypto: weight=4 (all match)
+✅ practice/check-transaction: weight=6 (all match)
+✅ practice/create-wallet-in-5-minutes: weight=1 (all match)
+✅ practice/first-transaction: weight=5 (all match)
+✅ practice/seed-phrase-mistakes: weight=2 (all match)
+✅ practice/testnet-demo: weight=3 (all match)
+✅ security/_index: weight=(none) (all match)
+✅ security/common-mistakes: weight=5 (all match)
+✅ security/hacked-what-to-do: weight=4 (all match)
+✅ security/hot-vs-cold-wallets: weight=1 (all match)
+✅ security/scam-types: weight=2 (all match)
+✅ security/token-allowances: weight=3 (all match)
+
+--- 2. CATEGORY ---
+✅ practice/_index: category=practice (all match)
+✅ practice/buy-first-crypto: category=practice (all match)
+✅ practice/check-transaction: category=practice (all match)
+✅ practice/create-wallet-in-5-minutes: category=practice (all match)
+✅ practice/first-transaction: category=practice (all match)
+✅ practice/seed-phrase-mistakes: category=practice (all match)
+✅ practice/testnet-demo: category=practice (all match)
+✅ security/_index: category=security (all match)
+✅ security/common-mistakes: category=security (all match)
+✅ security/hacked-what-to-do: category=security (all match)
+✅ security/hot-vs-cold-wallets: category=security (all match)
+✅ security/scam-types: category=security (all match)
+✅ security/token-allowances: category=security (all match)
+
+--- 3. translationKey ---
+✅ practice/_index: translationKey=practice (all match)
+✅ practice/buy-first-crypto: translationKey=buy-first-crypto (all match)
+✅ practice/check-transaction: translationKey=check-transaction (all match)
+✅ practice/create-wallet-in-5-minutes: translationKey=create-wallet-in-5-minutes (all match)
+✅ practice/first-transaction: translationKey=first-transaction (all match)
+✅ practice/seed-phrase-mistakes: translationKey=seed-phrase-mistakes (all match)
+✅ practice/testnet-demo: translationKey=testnet-demo (all match)
+✅ security/_index: translationKey=security (all match)
+✅ security/common-mistakes: translationKey=common-mistakes (all match)
+✅ security/hacked-what-to-do: translationKey=hacked-what-to-do (all match)
+✅ security/hot-vs-cold-wallets: translationKey=hot-vs-cold-wallets (all match)
+✅ security/scam-types: translationKey=scam-types (all match)
+✅ security/token-allowances: translationKey=token-allowances (all match)
+
+====================================================================================================
+--- 4. KEYWORDS — Detailed differences ---
+====================================================================================================
+
+--- practice/_index ---
+  RU keywords: ['как купить крипту', 'как создать кошелек', 'практика крипты', 'транзакции']
+  EN keywords: ['create crypto wallet', 'crypto practice', 'crypto testnet guide', 'how to buy crypto']
+  ES keywords: ['crear wallet crypto', 'cómo comprar crypto', 'guía testnet crypto', 'práctica crypto']
+  DE keywords: ['Crypto kaufen Anleitung', 'Crypto üben', 'Testnet Anleitung', 'Wallet erstellen']
+  Common across all: []
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Crypto kaufen Anleitung' (present in: de)
+     - 'Crypto üben' (present in: de)
+     - 'Testnet Anleitung' (present in: de)
+     - 'Wallet erstellen' (present in: de)
+     - 'crear wallet crypto' (present in: es)
+     - 'create crypto wallet' (present in: en)
+     - 'crypto practice' (present in: en)
+     - 'crypto testnet guide' (present in: en)
+     - 'cómo comprar crypto' (present in: es)
+     - 'guía testnet crypto' (present in: es)
+     - 'how to buy crypto' (present in: en)
+     - 'práctica crypto' (present in: es)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'как купить крипту'
+     - 'как создать кошелек'
+     - 'практика крипты'
+     - 'транзакции'
+
+--- practice/buy-first-crypto ---
+  RU keywords: ['KYC', 'P2P crypto', 'beginners', 'buy crypto', 'coinbase', 'crypto exchange', 'crypto exchange rates', 'mercuryo']
+  EN keywords: ['KYC', 'P2P crypto', 'beginners', 'buy crypto', 'coinbase', 'crypto exchange', 'crypto exchange rates']
+  ES keywords: ['KYC', 'P2P crypto', 'comprar crypto', 'exchange crypto', 'principiantes']
+  DE keywords: ['KYC', 'P2P crypto', 'anfänger', 'crypto börse', 'crypto kaufen']
+  Common across all: ['KYC', 'P2P crypto', 'beginners', 'buy crypto', 'coinbase', 'crypto exchange', 'crypto exchange rates']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'anfänger' (present in: de)
+     - 'comprar crypto' (present in: es)
+     - 'crypto börse' (present in: de)
+     - 'crypto kaufen' (present in: de)
+     - 'exchange crypto' (present in: es)
+     - 'principiantes' (present in: es)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'mercuryo'
+
+--- practice/check-transaction ---
+  RU keywords: ['Etherscan', 'TxID', 'blockchain explorer', 'check transaction', 'transaction status', 'wallet tracking']
+  EN keywords: ['Etherscan', 'TxID', 'blockchain explorer', 'check transaction', 'transaction status', 'wallet tracking']
+  ES keywords: ['Etherscan', 'TxID', 'estado de transacción', 'explorador de blockchain', 'seguimiento de wallets', 'verificar transacción']
+  DE keywords: ['Blockchain-Explorer', 'Etherscan', 'Transaktion prüfen', 'Transaktionsstatus', 'TxID', 'Wallet-Überwachung']
+  Common across all: ['Etherscan', 'TxID', 'blockchain explorer', 'check transaction', 'transaction status', 'wallet tracking']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Blockchain-Explorer' (present in: de)
+     - 'Transaktion prüfen' (present in: de)
+     - 'Transaktionsstatus' (present in: de)
+     - 'Wallet-Überwachung' (present in: de)
+     - 'estado de transacción' (present in: es)
+     - 'explorador de blockchain' (present in: es)
+     - 'seguimiento de wallets' (present in: es)
+     - 'verificar transacción' (present in: es)
+
+--- practice/create-wallet-in-5-minutes ---
+  RU keywords: ['Metamask', 'Trust Wallet', 'browser extension', 'create wallet', 'crypto wallet setup', 'hot wallet', 'mobile wallet']
+  EN keywords: ['MetaMask', 'Trust Wallet', 'browser extension', 'create wallet', 'crypto wallet setup', 'hot wallet', 'mobile wallet']
+  ES keywords: ['MetaMask', 'Trust Wallet', 'cartera cripto', 'cartera móvil', 'crear cartera', 'extensión navegador']
+  DE keywords: ['Browser-Erweiterung', 'Krypto-Wallet einrichten', 'MetaMask', 'Trust Wallet', 'Wallet erstellen', 'mobile Wallet']
+  Common across all: ['Trust Wallet', 'browser extension', 'create wallet', 'crypto wallet setup', 'hot wallet', 'mobile wallet']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Browser-Erweiterung' (present in: de)
+     - 'Krypto-Wallet einrichten' (present in: de)
+     - 'MetaMask' (present in: en,es,de)
+     - 'Wallet erstellen' (present in: de)
+     - 'cartera cripto' (present in: es)
+     - 'cartera móvil' (present in: es)
+     - 'crear cartera' (present in: es)
+     - 'extensión navegador' (present in: es)
+     - 'mobile Wallet' (present in: de)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'Metamask'
+
+--- practice/first-transaction ---
+  RU keywords: ['blockchain explorer', 'check address', 'crypto transaction', 'first transfer', 'network check', 'send crypto']
+  EN keywords: ['blockchain explorer', 'check address', 'crypto transaction', 'first transfer', 'network check', 'send crypto']
+  ES keywords: ['enviar cripto', 'explorador blockchain', 'primera transferencia', 'transacción crypto', 'verificar dirección', 'verificar red']
+  DE keywords: ['Adresse prüfen', 'Blockchain Explorer', 'Krypto senden', 'Krypto-Transaktion', 'Netzwerk prüfen', 'erste Überweisung']
+  Common across all: ['blockchain explorer', 'check address', 'crypto transaction', 'first transfer', 'network check', 'send crypto']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Adresse prüfen' (present in: de)
+     - 'Blockchain Explorer' (present in: de)
+     - 'Krypto senden' (present in: de)
+     - 'Krypto-Transaktion' (present in: de)
+     - 'Netzwerk prüfen' (present in: de)
+     - 'enviar cripto' (present in: es)
+     - 'erste Überweisung' (present in: de)
+     - 'explorador blockchain' (present in: es)
+     - 'primera transferencia' (present in: es)
+     - 'transacción crypto' (present in: es)
+     - 'verificar dirección' (present in: es)
+     - 'verificar red' (present in: es)
+
+--- practice/seed-phrase-mistakes ---
+  RU keywords: ['12 words', 'cold storage', 'crypto security', 'private key backup', 'recovery phrase', 'seed phrase', 'wallet recovery']
+  EN keywords: ['12 words', 'cold storage', 'crypto security', 'private key backup', 'recovery phrase', 'seed phrase', 'wallet recovery']
+  ES keywords: ['12 palabras', 'almacenamiento en frío', 'frase de recuperación', 'recuperar cartera', 'respaldo clave privada', 'seed phrase', 'seguridad cripto']
+  DE keywords: ['12 Wörter', 'Cold Storage', 'Krypto-Sicherheit', 'Private-Key-Backup', 'Seed-Phrase', 'Wallet-Wiederherstellung', 'Wiederherstellungsphrase']
+  Common across all: ['12 words', 'cold storage', 'crypto security', 'private key backup', 'recovery phrase', 'seed phrase', 'wallet recovery']
+  ❌ In EN/ES/DE but NOT in RU:
+     - '12 Wörter' (present in: de)
+     - '12 palabras' (present in: es)
+     - 'Cold Storage' (present in: de)
+     - 'Krypto-Sicherheit' (present in: de)
+     - 'Private-Key-Backup' (present in: de)
+     - 'Seed-Phrase' (present in: de)
+     - 'Wallet-Wiederherstellung' (present in: de)
+     - 'Wiederherstellungsphrase' (present in: de)
+     - 'almacenamiento en frío' (present in: es)
+     - 'frase de recuperación' (present in: es)
+     - 'recuperar cartera' (present in: es)
+     - 'respaldo clave privada' (present in: es)
+     - 'seguridad cripto' (present in: es)
+
+--- practice/testnet-demo ---
+  RU keywords: ['Goerli', 'Sepolia', 'crypto demo', 'faucet', 'safe learning', 'test ETH', 'testnet']
+  EN keywords: ['Goerli', 'Sepolia', 'crypto demo mode', 'faucet', 'safe learning', 'test ETH', 'testnet']
+  ES keywords: ['ETH de prueba', 'Goerli', 'Sepolia', 'aprendizaje seguro', 'faucet', 'modo demo cripto', 'testnet']
+  DE keywords: ['Faucet', 'Goerli', 'Krypto-Demo-Modus', 'Sepolia', 'Test-ETH', 'Testnet', 'sicheres Lernen']
+  Common across all: ['Goerli', 'Sepolia', 'faucet', 'safe learning', 'test ETH', 'testnet']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'ETH de prueba' (present in: es)
+     - 'Faucet' (present in: de)
+     - 'Krypto-Demo-Modus' (present in: de)
+     - 'Test-ETH' (present in: de)
+     - 'Testnet' (present in: de)
+     - 'aprendizaje seguro' (present in: es)
+     - 'crypto demo mode' (present in: en)
+     - 'modo demo cripto' (present in: es)
+     - 'sicheres Lernen' (present in: de)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'crypto demo'
+
+--- security/_index ---
+  RU keywords: ['безопасность криптовалют', 'защита крипты', 'мошенники', 'скамы']
+  EN keywords: ['avoid crypto scams', 'crypto safety guide', 'crypto security', 'protect crypto wallet']
+  ES keywords: ['evitar estafas crypto', 'guía seguridad crypto', 'proteger wallet crypto', 'seguridad crypto']
+  DE keywords: ['Crypto Betrug vermeiden', 'Crypto Sicherheit', 'Sicherheitsleitfaden Crypto', 'Wallet schützen']
+  Common across all: []
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Crypto Betrug vermeiden' (present in: de)
+     - 'Crypto Sicherheit' (present in: de)
+     - 'Sicherheitsleitfaden Crypto' (present in: de)
+     - 'Wallet schützen' (present in: de)
+     - 'avoid crypto scams' (present in: en)
+     - 'crypto safety guide' (present in: en)
+     - 'crypto security' (present in: en)
+     - 'evitar estafas crypto' (present in: es)
+     - 'guía seguridad crypto' (present in: es)
+     - 'protect crypto wallet' (present in: en)
+     - 'proteger wallet crypto' (present in: es)
+     - 'seguridad crypto' (present in: es)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'безопасность криптовалют'
+     - 'защита крипты'
+     - 'мошенники'
+     - 'скамы'
+
+--- security/common-mistakes ---
+  RU keywords: ['beginner errors', 'crypto mistakes', 'lost seed phrase', 'recovery', 'scam', 'wrong network']
+  EN keywords: ['beginner errors', 'crypto mistakes', 'lost seed phrase', 'recovery', 'scam', 'wrong network']
+  ES keywords: ['errores cripto', 'errores de principiante', 'estafa', 'frase semilla perdida', 'recuperación', 'red equivocada']
+  DE keywords: ['anfängerfehler', 'betrug', 'falsches netzwerk', 'krypto fehler', 'seed phrase verloren', 'wiederherstellung']
+  Common across all: ['beginner errors', 'crypto mistakes', 'lost seed phrase', 'recovery', 'scam', 'wrong network']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'anfängerfehler' (present in: de)
+     - 'betrug' (present in: de)
+     - 'errores cripto' (present in: es)
+     - 'errores de principiante' (present in: es)
+     - 'estafa' (present in: es)
+     - 'falsches netzwerk' (present in: de)
+     - 'frase semilla perdida' (present in: es)
+     - 'krypto fehler' (present in: de)
+     - 'recuperación' (present in: es)
+     - 'red equivocada' (present in: es)
+     - 'seed phrase verloren' (present in: de)
+     - 'wiederherstellung' (present in: de)
+
+--- security/hacked-what-to-do ---
+  RU keywords: ['crypto theft', 'emergency response', 'move funds', 'revoke access', 'stolen crypto', 'wallet hacked']
+  EN keywords: ['crypto theft', 'emergency response', 'move funds', 'revoke access', 'stolen crypto', 'wallet hacked']
+  ES keywords: ['cripto robado', 'mover fondos', 'respuesta de emergencia', 'revocar accesos', 'robo de cripto', 'wallet hackeada']
+  DE keywords: ['Gelder verschieben', 'Krypto-Diebstahl', 'Notfallmaßnahmen', 'Wallet gehackt', 'Zugriff entziehen', 'gestohlene Kryptowährung']
+  Common across all: ['crypto theft', 'emergency response', 'move funds', 'revoke access', 'stolen crypto', 'wallet hacked']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Gelder verschieben' (present in: de)
+     - 'Krypto-Diebstahl' (present in: de)
+     - 'Notfallmaßnahmen' (present in: de)
+     - 'Wallet gehackt' (present in: de)
+     - 'Zugriff entziehen' (present in: de)
+     - 'cripto robado' (present in: es)
+     - 'gestohlene Kryptowährung' (present in: de)
+     - 'mover fondos' (present in: es)
+     - 'respuesta de emergencia' (present in: es)
+     - 'revocar accesos' (present in: es)
+     - 'robo de cripto' (present in: es)
+     - 'wallet hackeada' (present in: es)
+
+--- security/hot-vs-cold-wallets ---
+  RU keywords: ['Ledger', 'Trezor', 'cold wallet', 'crypto storage', 'hardware wallet', 'hot wallet', 'security']
+  EN keywords: ['Ledger', 'Trezor', 'cold wallet', 'crypto storage', 'hardware wallet', 'hot wallet', 'security']
+  ES keywords: ['Ledger', 'Trezor', 'almacenamiento cripto', 'billetera caliente', 'billetera fría', 'billetera hardware', 'seguridad']
+  DE keywords: ['Cold Wallet', 'Hardware Wallet', 'Hot Wallet', 'Krypto-Aufbewahrung', 'Ledger', 'Sicherheit', 'Trezor']
+  Common across all: ['Ledger', 'Trezor', 'cold wallet', 'crypto storage', 'hardware wallet', 'hot wallet', 'security']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Cold Wallet' (present in: de)
+     - 'Hardware Wallet' (present in: de)
+     - 'Hot Wallet' (present in: de)
+     - 'Krypto-Aufbewahrung' (present in: de)
+     - 'Sicherheit' (present in: de)
+     - 'almacenamiento cripto' (present in: es)
+     - 'billetera caliente' (present in: es)
+     - 'billetera fría' (present in: es)
+     - 'billetera hardware' (present in: es)
+     - 'seguridad' (present in: es)
+
+--- security/scam-types ---
+  RU keywords: ['airdop scam', 'crypto scam', 'crypto security', 'fake website', 'phishing', 'support scam']
+  EN keywords: ['airdrop scam', 'crypto scam', 'crypto security', 'fake website', 'phishing', 'support scam']
+  ES keywords: ['estafa crypto', 'estafa de airdrop', 'estafa de soporte', 'phishing', 'seguridad crypto', 'sitio web falso']
+  DE keywords: ['Airdrop-Betrug', 'Crypto-Betrug', 'Fake-Website', 'Krypto-Sicherheit', 'Phishing', 'Support-Betrug']
+  Common across all: ['crypto scam', 'crypto security', 'fake website', 'phishing', 'support scam']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'Airdrop-Betrug' (present in: de)
+     - 'Crypto-Betrug' (present in: de)
+     - 'Fake-Website' (present in: de)
+     - 'Krypto-Sicherheit' (present in: de)
+     - 'Phishing' (present in: de)
+     - 'Support-Betrug' (present in: de)
+     - 'airdrop scam' (present in: en)
+     - 'estafa crypto' (present in: es)
+     - 'estafa de airdrop' (present in: es)
+     - 'estafa de soporte' (present in: es)
+     - 'seguridad crypto' (present in: es)
+     - 'sitio web falso' (present in: es)
+  ⚠ In RU but NOT in EN/ES/DE:
+     - 'airdop scam'
+
+--- security/token-allowances ---
+  RU keywords: ['ERC20 approval', 'Ethereum approval', 'revoke approval', 'smart contract risk', 'token allowance', 'token approval']
+  EN keywords: ['ERC20 approval', 'Ethereum approval', 'revoke approval', 'smart contract risk', 'token allowance', 'token approval']
+  ES keywords: ['allowance', 'aprobación ERC20', 'aprobación Ethereum', 'aprobación de token', 'permiso de token', 'revocar aprobación', 'riesgo de smart contract']
+  DE keywords: ['erc20 freigabe', 'ethereum freigabe', 'freigabe widerrufen', 'smart contract risiko', 'token berechtigung', 'token freigabe']
+  Common across all: ['ERC20 approval', 'Ethereum approval', 'revoke approval', 'smart contract risk', 'token allowance', 'token approval']
+  ❌ In EN/ES/DE but NOT in RU:
+     - 'allowance' (present in: es)
+     - 'aprobación ERC20' (present in: es)
+     - 'aprobación Ethereum' (present in: es)
+     - 'aprobación de token' (present in: es)
+     - 'erc20 freigabe' (present in: de)
+     - 'ethereum freigabe' (present in: de)
+     - 'freigabe widerrufen' (present in: de)
+     - 'permiso de token' (present in: es)
+     - 'revocar aprobación' (present in: es)
+     - 'riesgo de smart contract' (present in: es)
+     - 'smart contract risiko' (present in: de)
+     - 'token berechtigung' (present in: de)
+     - 'token freigabe' (present in: de)
+
+
+====================================================================================================
+SUMMARY
+====================================================================================================
+  Weight mismatches: 0/13
+  Category mismatches: 0/13
+  translationKey mismatches: 0/13
+  Articles with keyword differences: 13/13
+
+  Note: Keyword differences are EXPECTED — each language should have
+  localized SEO keywords. The 'missing in RU' entries show EN/ES/DE
+  keywords that were added for those languages' SEO, not errors.
+
+  Minor issues found:
+  1. security/scam-types: RU has 'airdop scam' (typo — should be 'airdrop scam')
+  2. practice/create-wallet-in-5-minutes: RU has 'Metamask' (lowercase m) vs EN/ES/DE 'MetaMask'

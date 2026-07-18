@@ -13,7 +13,7 @@ keywords:
   - consenso
   - PoW vs PoS
 prev: "/es/learn/how-it-works/pagar-10-veces-menos"
-next: "/es/learn/how-it-works/"
+next: ""
 ---
 
 ## Minería vs Staking — Cómo funcionan Proof of Work y Proof of Stake

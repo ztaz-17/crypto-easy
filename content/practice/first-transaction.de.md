@@ -13,7 +13,7 @@ keywords:
   - erste Überweisung
   - Blockchain Explorer
 prev: "/de/practice/buy-first-crypto"
-next: ""
+next: "/de/practice/transaktion-ueberpruefen-blockchain"
 ---
 
 ## Erste Transaktion Ohne Fehler: So Sendest Du Krypto in 10 Minuten

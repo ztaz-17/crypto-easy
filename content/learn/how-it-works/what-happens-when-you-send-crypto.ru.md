@@ -13,7 +13,7 @@ keywords:
   - mining
   - confirmation
   - broadcasting
-prev: "/ru/learn/basis/drugie-seti-solana-bnb-doge"
+prev: "/ru/learn/basis/privatnyj-klyuch"
 next: "/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov"
 ---
 

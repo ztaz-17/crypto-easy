@@ -10,6 +10,8 @@ keywords:
   - Wallet erstellen
   - Testnet Anleitung
 menu: main
+prev: ""
+next: ""
 ---
 
 ## Üben

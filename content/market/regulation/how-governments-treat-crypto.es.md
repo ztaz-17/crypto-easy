@@ -12,7 +12,7 @@ keywords:
   - MiCA UE
   - prohibición crypto China
   - licencia crypto Singapur
-prev: "/es/market/market/invertir-vs-trading"
+prev: "/es/market/defi/dex-vs-cex-cual-elegir"
 next: "/es/market/regulation/impuestos-crypto"
 ---
 

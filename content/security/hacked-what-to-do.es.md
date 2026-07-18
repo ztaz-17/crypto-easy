@@ -13,7 +13,7 @@ keywords:
   - revocar accesos
   - mover fondos
 prev: "/es/security/permisos-de-tokens-que-son"
-next: "/es/security/common-mistakes"
+next: "/es/security/errores-comunes"
 ---
 
 ## Qué hacer si te hackean la wallet de cripto

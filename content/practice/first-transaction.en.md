@@ -13,7 +13,7 @@ keywords:
   - first transfer
   - blockchain explorer
 prev: "/en/practice/buy-first-crypto"
-next: "/en/practice/check-transaction"
+next: "/en/practice/check-transaction-in-blockchain"
 ---
 
 ## First Transaction Without Mistakes: How to Send Crypto in 10 Minutes

@@ -13,7 +13,7 @@ keywords:
   - estafa de soporte
   - seguridad crypto
 prev: "/es/security/hot-vs-cold-wallets"
-next: "/es/security/token-allowances-explained"
+next: "/es/security/permisos-de-tokens-que-son"
 ---
 
 ## Principales tipos de estafa crypto

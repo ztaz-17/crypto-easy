@@ -11,8 +11,8 @@ keywords:
   - ethereum contratos inteligentes
   - comparación crypto
   - qué crypto comprar
-prev: "/en/learn/basis/decentralization-simply"
-next: "/en/learn/basis/what-are-stablecoins"
+prev: "/es/learn/basis/descentralizacion-explicada-simple"
+next: "/es/learn/basis/que-son-stablecoins"
 ---
 
 ## Bitcoin vs Ethereum (y por qué no deberías confundirlos)

@@ -14,7 +14,7 @@ keywords:
   - beginner mistakes
   - misconceptions
 prev: "/en/learn/skeptic/why-governments-hate-crypto"
-next: "/en/learn/skeptic/"
+next: "/en/learn/basis/what-is-money-really"
 ---
 
 ## Top Crypto Myths Beginners Still Believe

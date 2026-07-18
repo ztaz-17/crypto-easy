@@ -12,7 +12,7 @@ keywords:
   - estafa
   - errores de principiante
   - recuperación
-prev: "/es/security/what-to-do-if-hacked"
+prev: "/es/security/que-hacer-si-te-hackean-wallet"
 next: ""
 ---
 

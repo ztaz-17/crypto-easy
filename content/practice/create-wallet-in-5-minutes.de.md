@@ -13,7 +13,7 @@ keywords:
   - Browser-Erweiterung
   - mobile Wallet
 prev: ""
-next: "/de/practice/buy-first-crypto"
+next: "/de/practice/seed-phrase-mistakes"
 ---
 
 ## Wie man in 5 Minuten eine Krypto-Wallet erstellt – und das sicher

@@ -14,8 +14,8 @@ keywords:
   - Arbitrum
   - Polygon
   - Lightning Network
-prev: "/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut"
-next: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
+prev: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
+next: "/ru/learn/how-it-works/pos-vs-pow"
 ---
 
 ## Как платить за переводы крипты в 10 раз меньше

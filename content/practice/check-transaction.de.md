@@ -13,7 +13,7 @@ keywords:
   - TxID
   - Wallet-Überwachung
 prev: "/de/practice/first-transaction-without-mistakes"
-next: "/de/practice/"
+next: ""
 ---
 
 ## Eine Transaktion in der Blockchain überprüfen: Alles, was du wissen musst

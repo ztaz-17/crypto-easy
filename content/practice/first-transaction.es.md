@@ -13,7 +13,7 @@ keywords:
   - primera transferencia
   - explorador blockchain
 prev: "/es/practice/buy-first-crypto"
-next: ""
+next: "/es/practice/como-verificar-transaccion-en-blockchain"
 ---
 
 ## Primera Transacción Sin Errores: Cómo Enviar Cripto en 10 Minutos

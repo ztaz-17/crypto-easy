@@ -13,7 +13,7 @@ keywords:
   - central banks
   - monetary system
   - money creation
-prev: "/en/learn/basis/"
+prev: "/en/learn/skeptic/crypto-myths-beginners-believe"
 next: "/en/learn/basis/blockchain-in-1-minute"
 ---
 

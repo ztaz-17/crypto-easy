@@ -13,7 +13,7 @@ keywords:
   - minería
   - confirmación
   - difusión en la red
-prev: "/es/learn/basis/otras-redes-y-monedas"
+prev: "/es/learn/basis/clave-privada"
 next: "/es/learn/how-it-works/por-que-transferencia-puede-costar-30"
 ---
 

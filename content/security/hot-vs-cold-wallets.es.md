@@ -14,7 +14,7 @@ keywords:
   - almacenamiento cripto
   - seguridad
 prev: ""
-next: "/es/security/common-mistakes"
+next: "/es/security/principales-tipos-de-estafa-crypto"
 ---
 
 ## Billeteras Calientes vs Frías: Cuál Elegir

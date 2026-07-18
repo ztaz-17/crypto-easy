@@ -18,8 +18,8 @@ keywords:
   - AML restrictions
   - bank refusal
   - money ownership
-prev: "/en/learn/skeptic/"
-next: "/en/learn/skeptic/inflation-illusion"
+prev: ""
+next: "/en/learn/skeptic/why-youre-losing-money-even-if-saving"
 ---
 
 ## Why Can Banks Freeze Your Money? And There's Nothing You Can Do!

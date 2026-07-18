@@ -17,8 +17,8 @@ keywords:
   - Krypto-Netzwerke
   - Layer 1
   - Altcoins
-prev: "/de/learn/basis/"
-next: "/de/learn/basis/"
+prev: "/de/learn/basis/was-sind-stablecoins"
+next: "/de/learn/basis/privater-schluessel"
 ---
 
 ## Andere Netzwerke und Coins: Übersicht der Top-Kryptowährungen

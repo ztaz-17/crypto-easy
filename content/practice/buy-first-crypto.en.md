@@ -13,8 +13,8 @@ keywords:
   - crypto exchange rates
   - coinbase
   - beginners
-prev: "/en/practice/testnet-demo"
-next: "/en/practice/first-transaction"
+prev: "/en/practice/testnet-demo-practice-without-risk"
+next: "/en/practice/first-transaction-without-mistakes"
 ---
 
 ## How to Buy Your First Crypto

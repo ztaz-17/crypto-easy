@@ -15,7 +15,7 @@ keywords:
   - AMM
   - order book
 prev: "/ru/market/defi/mosty-mezhdu-setyami"
-next: ""
+next: "/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte"
 ---
 
 ## DEX vs CEX — что выбрать для торговли криптой

@@ -13,7 +13,7 @@ keywords:
   - Support-Betrug
   - Krypto-Sicherheit
 prev: "/de/security/hot-vs-cold-wallets"
-next: "/de/security/token-allowances-explained"
+next: "/de/security/token-berechtigungen-erklaert"
 ---
 
 ## Häufige Arten von Crypto-Betrug

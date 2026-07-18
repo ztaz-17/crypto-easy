@@ -11,8 +11,8 @@ keywords:
   - ethereum smart contracts
   - crypto vergleich
   - welche crypto kaufen
-prev: "/en/learn/basis/decentralization-simply"
-next: "/en/learn/basis/what-are-stablecoins"
+prev: "/de/learn/basis/dezentralisierung-einfach-erklaert"
+next: "/de/learn/basis/was-sind-stablecoins"
 ---
 
 ## Bitcoin vs Ethereum (und warum du sie nicht verwechseln solltest)

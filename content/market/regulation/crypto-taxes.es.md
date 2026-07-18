@@ -12,7 +12,7 @@ keywords:
   - ingresos por crypto
   - obligación fiscal
 prev: "/es/market/regulation/como-gobiernos-tratan-crypto"
-next: "/es/market/"
+next: ""
 ---
 
 ## Impuestos Crypto: Principios Generales

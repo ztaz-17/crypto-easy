@@ -18,7 +18,7 @@ keywords:
   - AML-Beschränkungen
   - Bankverweigerung
   - Geldeigentum
-prev: "/de/learn/skeptic/"
+prev: ""
 next: "/de/learn/skeptic/inflation-illusion"
 ---
 

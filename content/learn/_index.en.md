@@ -10,6 +10,8 @@ keywords:
   - what is cryptocurrency
   - crypto course
 menu: main
+prev: ""
+next: ""
 ---
 
 ---

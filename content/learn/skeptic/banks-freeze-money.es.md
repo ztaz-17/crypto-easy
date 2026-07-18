@@ -18,7 +18,7 @@ keywords:
   - restricciones AML
   - rechazo bancario
   - propiedad del dinero
-prev: "/es/learn/skeptic/"
+prev: ""
 next: "/es/learn/skeptic/ilusion-de-la-inflacion"
 ---
 

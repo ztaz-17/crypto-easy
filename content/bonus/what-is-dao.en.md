@@ -12,7 +12,7 @@ keywords:
   - Uniswap
   - governance token
   - voting
-prev: "/en/bonus/"
+prev: ""
 next: "/en/bonus/what-are-oracles"
 ---
 

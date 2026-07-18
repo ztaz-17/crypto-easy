@@ -12,7 +12,7 @@ keywords:
   - EU MiCA
   - China crypto ban
   - Singapore crypto
-prev: "/ru/market/defi/mosty-mezhdu-setyami"
+prev: "/ru/market/defi/dex-vs-cex"
 next: "/ru/market/regulation/nalogi-na-kriptu"
 ---
 

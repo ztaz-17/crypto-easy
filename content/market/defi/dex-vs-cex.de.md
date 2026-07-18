@@ -15,7 +15,7 @@ keywords:
   - AMM
   - Orderbuch
 prev: "/de/market/defi/brucken-zwischen-netzwerken"
-next: "/de/market/"
+next: "/de/market/regulation/wie-regierungen-mit-crypto-umgehen"
 ---
 
 ## DEX vs CEX — Welche Börse für Krypto-Handel wählen

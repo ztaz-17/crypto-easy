@@ -14,7 +14,7 @@ keywords:
   - Anfängerfehler
   - Missverständnisse
 prev: "/de/learn/skeptic/warum-regierungen-crypto-nicht-moegen"
-next: "/de/learn/skeptic/"
+next: "/de/learn/basis/was-geld-wirklich-ist"
 ---
 
 ## Krypto-Mythen, an die Anfänger immer noch glauben

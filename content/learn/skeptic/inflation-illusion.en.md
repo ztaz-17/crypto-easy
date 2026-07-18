@@ -12,6 +12,8 @@ keywords:
   - purchasing power
   - real return
   - fiat money
+prev: "/en/learn/skeptic/why-banks-freeze-your-money"
+next: "/en/learn/skeptic/how-people-save-money-with-crypto"
 ---
 
 # Why you're losing money even if you're saving

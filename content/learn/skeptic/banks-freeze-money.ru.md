@@ -18,7 +18,7 @@ keywords:
   - AML restrictions
   - bank refusal
   - money ownership
-prev: 
+prev: ""
 next: "/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite"
 ---
 

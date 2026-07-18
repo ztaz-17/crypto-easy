@@ -14,7 +14,7 @@ keywords:
   - Binance P2P
   - estafas cripto
 prev: "/es/bonus/que-son-nfts"
-next: "/es/bonus/"
+next: ""
 ---
 
 ## Trading P2P: Esquemas de Estafa y Cómo Evitarlos

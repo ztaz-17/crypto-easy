@@ -12,7 +12,7 @@ keywords:
   - crypto security
   - wallet security
 prev: "/en/learn/basis/other-networks"
-next: ""
+next: "/en/learn/how-it-works/what-happens-when-you-send-crypto"
 ---
 
 ## Private Key: Why It Matters More Than a Password

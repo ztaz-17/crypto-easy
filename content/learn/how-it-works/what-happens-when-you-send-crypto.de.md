@@ -13,7 +13,7 @@ keywords:
   - Mining
   - Bestätigung
   - Broadcasting
-prev: "/de/learn/basis/andere-netzwerke-und-coins"
+prev: "/de/learn/basis/privater-schluessel"
 next: "/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann"
 ---
 

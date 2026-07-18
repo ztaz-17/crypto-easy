@@ -12,7 +12,7 @@ keywords:
   - betrug
   - anfängerfehler
   - wiederherstellung
-prev: "/de/security/what-to-do-if-hacked"
+prev: "/de/security/was-tun-wenn-wallet-gehackt-wurde"
 next: ""
 ---
 

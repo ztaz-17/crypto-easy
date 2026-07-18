@@ -13,8 +13,8 @@ keywords:
   - wrong network
   - crypto loss
   - token standard
-prev: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
-next: "/ru/practice/kak-sozdat-koshelek-za-5-minut"
+prev: "/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut"
+next: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
 ---
 
 ## Отправил USDT — деньги исчезли. Как такое возможно?

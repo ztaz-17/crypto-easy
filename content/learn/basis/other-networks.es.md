@@ -17,8 +17,8 @@ keywords:
   - redes cripto
   - Capa 1
   - altcoins
-prev: "/es/learn/basis/"
-next: "/es/learn/basis/"
+prev: "/es/learn/basis/que-son-stablecoins"
+next: "/es/learn/basis/clave-privada"
 ---
 
 ## Otras Redes y Monedas: Resumen de las Principales Criptomonedas

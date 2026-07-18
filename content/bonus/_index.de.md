@@ -11,6 +11,8 @@ keywords:
   - Airdrop
   - Staking
 menu: main
+prev: ""
+next: ""
 ---
 
 ## Bonus

@@ -12,7 +12,7 @@ keywords:
   - peer to peer
   - punto único de fallo
   - conceptos básicos de cripto
-prev: "/es/learn/basis/blockchain-in-1-minute"
+prev: "/es/learn/basis/blockchain-en-1-minuto"
 next: "/es/learn/basis/bitcoin-vs-ethereum"
 ---
 
