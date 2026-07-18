@@ -3,7 +3,7 @@ category: "bonus"
 translationKey: "bonus"
 slug: "bonus"
 title: "Bonus"
-description: "Extra crypto topics — NFTs, DAOs, oracles, meme coins, P2P trading, staking"
+description: "Extra crypto topics: NFTs, DAOs, oracles, meme coins, P2P trading, staking vs farming, airdrops, and more. Expand your crypto knowledge beyond the basics."
 keywords:
   - NFT
   - DAO

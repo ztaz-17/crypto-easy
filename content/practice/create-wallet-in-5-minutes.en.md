@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "How to Create a Crypto Wallet in 5 Minutes"
-description: "Step-by-step guide to creating your first crypto wallet: MetaMask and Trust Wallet. Installation, setup, and first check."
+description: "Step-by-step guide to creating your first crypto wallet: MetaMask and Trust Wallet installation, setup, seed phrase backup, and your first transaction in 5 minutes."
 category: "practice"
 translationKey: "create-wallet-in-5-minutes"
 slug: "create-wallet-in-5-minutes"

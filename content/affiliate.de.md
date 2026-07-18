@@ -73,6 +73,34 @@ Nachteil: keine direkte Unterstützung für einige lokale Zahlungsmethoden.
 | Staking | ✅ | ✅ bis 12% | ✅ bis 6% |
 | Lizenzen | USA, Kanada | USA, Japan, GB | USA (SEC, FinCEN) |
 
+## Die Besten Hardware-Wallets für Anfänger
+
+Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-Wallet. "Not your keys, not your coins" ist real: Börsen können Konten einfrieren, gehackt werden oder Auszahlungen blockieren. Ein Hardware-Wallet ist der einzige Weg, deine Kryptos wirklich zu besitzen.
+
+### Ledger — Der Industriestandard
+
+**Ledger** ist die vertrauenswürdigste Marke für Hardware-Wallets (6M+ verkaufte Geräte). Unterstützt 5,500+ Coins, hat eine integrierte Börse über Ledger Live.
+
+- **Sicherheit**: zertifizierter Secure-Element-Chip (CC EAL5+)
+- **Unterstützt**: 5,500+ Kryptowährungen
+- **App**: Ledger Live — alles von einem Dashboard aus verwalten
+- **Staking**: bis zu 12% APY direkt aus dem Wallet
+- **Modelle**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
+
+👉 [Ledger Nano holen](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (Empfehlungslink)
+
+### Trezor — Vollständig Open Source
+
+**Trezor** (von SatoshiLabs) ist vollständig Open Source — jede Codezeile kann unabhängig geprüft werden. Ideal für datenschutzbewusste Nutzer.
+
+- **Sicherheit**: Open-Source-Firmware, von der Community geprüft
+- **Unterstützt**: 1,800+ Kryptowährungen
+- **Erweiterte Funktionen**: Shamir Backup (Seed in Teile aufteilen), U2F für Websicherheit
+- **Modelle**: Trezor Safe 3 ($79), Trezor Safe 5 ($169)
+- **Extra**: unterstützt FIDO2 für sicheres Web-Login
+
+👉 [Trezor holen](https://trezor.io/go/affiliate/cryptoeasy) (Empfehlungslink)
+
 ## Welche Börse Soll ein Anfänger Wählen?
 
 **Wenn du Krypto einfach ausprobieren willst** — starte mit **Bybit**. Niedrige Gebühren, P2P-Optionen und ein schöner Ersteinzahlungs-Bonus.

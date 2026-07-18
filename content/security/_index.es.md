@@ -3,7 +3,7 @@ category: "security"
 translationKey: "security"
 slug: "security"
 title: "Seguridad"
-description: "Guías de seguridad crypto — cómo evitar estafas, proteger tu wallet y mantenerte seguro"
+description: "Seguridad crypto para principiantes: cómo evitar estafas, proteger tu wallet de hackers, identificar phishing y mantener tus activos seguros. Guías de protección esenciales."
 keywords:
   - seguridad crypto
   - evitar estafas crypto

@@ -3,7 +3,7 @@ category: "learn"
 translationKey: "learn"
 slug: "learn"
 title: "Lernen"
-description: "Lerne Crypto Schritt für Schritt — von den Grundlagen bis zu fortgeschrittenen Themen"
+description: "Lerne Kryptowährungen von Grund auf: Blockchain-Grundlagen, Transaktionsablauf, PoS vs PoW, Stablecoins und Crypto-Mythen entlarvt. Einfach erklärt, ohne Fachjargon."
 keywords:
   - Crypto lernen
   - Blockchain für Anfänger

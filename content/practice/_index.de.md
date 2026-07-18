@@ -3,7 +3,7 @@ category: "practice"
 translationKey: "practice"
 slug: "practice"
 title: "Üben"
-description: "Praktische Crypto-Anleitungen — kaufe deine erste Crypto, erstelle ein Wallet, nutze Testnets"
+description: "Praktische Crypto-Anleitungen für Anfänger: Wallet erstellen, Crypto kaufen, Testnets nutzen, Transaktionen prüfen. Schritt-für-Schritt-Tutorials mit echten Beispielen."
 keywords:
   - Crypto üben
   - Crypto kaufen Anleitung

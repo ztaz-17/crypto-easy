@@ -3,7 +3,7 @@ category: "security"
 translationKey: "security"
 slug: "security"
 title: "Sicherheit"
-description: "Crypto-Sicherheitsleitfäden — wie du Betrug vermeidest, dein Wallet schützt und sicher bleibst"
+description: "Crypto-Sicherheit für Anfänger: Betrug vermeiden, Wallet vor Hackern schützen, Phishing erkennen und deine Krypto-Vermögenswerte sichern. Wichtige Schutzleitfäden."
 keywords:
   - Crypto Sicherheit
   - Crypto Betrug vermeiden

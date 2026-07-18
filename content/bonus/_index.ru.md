@@ -3,7 +3,7 @@ category: "bonus"
 translationKey: "bonus"
 slug: "bonus"
 title: "Бонус"
-description: "Дополнительные темы о крипте — NFT, DAO, оракулы, мемкоины, P2P-торговля"
+description: "Дополнительные темы о крипте: NFT, DAO, оракулы, мемкоины, P2P-трейдинг, стейкинг vs фарминг, аирдропы. Расширьте свои знания о криптовалютах за пределы основ."
 keywords:
   - NFT
   - DAO

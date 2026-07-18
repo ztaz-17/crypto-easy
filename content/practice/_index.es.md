@@ -3,7 +3,7 @@ category: "practice"
 translationKey: "practice"
 slug: "practice"
 title: "Practicar"
-description: "Guías prácticas de crypto — compra tu primera crypto, crea un wallet, usa testnets"
+description: "Guías prácticas de crypto para principiantes: crea tu primer wallet, compra crypto, usa testnets, verifica transacciones. Tutoriales paso a paso con ejemplos reales."
 keywords:
   - práctica crypto
   - cómo comprar crypto

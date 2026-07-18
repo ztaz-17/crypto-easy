@@ -3,7 +3,7 @@ category: "practice"
 translationKey: "practice"
 slug: "practice"
 title: "Practice"
-description: "Hands-on crypto guides — buy your first crypto, create a wallet, use testnets"
+description: "Hands-on crypto guides for beginners: create your first wallet, buy crypto, use testnets, check transactions on blockchain, and send your first transfer. Step by step."
 keywords:
   - crypto practice
   - how to buy crypto

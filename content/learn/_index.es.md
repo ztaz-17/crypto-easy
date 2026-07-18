@@ -3,7 +3,7 @@ category: "learn"
 translationKey: "learn"
 slug: "learn"
 title: "Aprender"
-description: "Aprende crypto paso a paso — desde lo básico hasta temas avanzados"
+description: "Aprende criptomonedas desde cero: blockchain básico, cómo funcionan las transacciones, PoS vs PoW, stablecoins y mitos crypto explicados. Sin jerga técnica, explicaciones claras."
 keywords:
   - aprender crypto
   - blockchain para principiantes

@@ -3,7 +3,7 @@ category: "market"
 translationKey: "market"
 slug: "market"
 title: "Mercados"
-description: "Mercados crypto, DeFi, regulación e impuestos"
+description: "Explora los mercados crypto — DeFi explicado, invertir vs trading, análisis de mercado, regulación e impuestos. Guías para principiantes sobre qué mueve los precios crypto."
 keywords:
   - mercado crypto
   - DeFi
@@ -92,5 +92,11 @@ next: ""
 ### [Impuestos sobre crypto](/es/market/regulation/impuestos-crypto/)
 - [Principios generales](/es/market/regulation/impuestos-crypto/#las-cripto-son-un-activo-los-impuestos-son-un-hecho)
 - [Dónde se pagan](/es/market/regulation/impuestos-crypto/#dónde-pagar-impuestos-principio-de-residencia)
+
+### [Impuestos Crypto: Lo que un Principiante Debe Saber](/es/market/regulation/impuestos-crypto-para-principiantes/)
+- [Por dónde empezar](/es/market/regulation/impuestos-crypto-para-principiantes/#por-dónde-empezar)
+- [Cómo calcular ganancias](/es/market/regulation/impuestos-crypto-para-principiantes/#cómo-calcular-la-ganancia-dos-métodos-principales)
+- [Tax Loss Harvesting](/es/market/regulation/impuestos-crypto-para-principiantes/#cómo-usar-las-pérdidas-tax-loss-harvesting)
+- [Errores comunes](/es/market/regulation/impuestos-crypto-para-principiantes/#errores-comunes-de-los-principiantes-en-impuestos-crypto)
 
 ---

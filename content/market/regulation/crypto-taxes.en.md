@@ -12,7 +12,7 @@ keywords:
   - crypto income
   - tax liability
 prev: "/en/market/regulation/how-governments-treat-crypto"
-next: ""
+next: "/en/market/regulation/crypto-taxes-for-beginners"
 ---
 
 ## Crypto Taxes: General Principles

@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Why Governments Hate Crypto (and Can't Ban It)"
-description: "Why governments try to control crypto — and why a total ban is impossible"
+description: "Why governments try to control cryptocurrency and ban it. Learn about crypto regulation, CBDCs, and why total crypto bans are technically impossible."
 category: "skeptic"
 translationKey: "why-governments-hate-crypto"
 slug: "why-governments-hate-crypto"

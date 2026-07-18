@@ -3,7 +3,7 @@ category: "learn"
 translationKey: "learn"
 slug: "learn"
 title: "Learn"
-description: "Learn crypto step by step — from basics to advanced topics"
+description: "Learn cryptocurrency from scratch — blockchain basics, how transactions work, proof-of-stake vs proof-of-work, stablecoins, and crypto myths debunked. No jargon."
 keywords:
   - crypto learning
   - blockchain for beginners

@@ -3,7 +3,7 @@ category: "security"
 translationKey: "security"
 slug: "security"
 title: "Security"
-description: "Crypto security guides — how to avoid scams, protect your wallet, and stay safe in crypto"
+description: "Crypto security for beginners: avoid scams, protect your wallet from hackers, identify phishing, and keep your digital assets safe. Essential safety guides."
 keywords:
   - crypto security
   - avoid crypto scams

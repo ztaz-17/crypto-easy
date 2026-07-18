@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Why Banks Can Freeze Your Money"
-description: "Why banks can freeze your money — and there's almost nothing you can do about it!"
+description: "Why banks can freeze your money and how cryptocurrency prevents it. Learn about financial censorship, bank account freezes, and why crypto is the solution."
 category: "skeptic"
 translationKey: "banks-freeze-money"
 slug: "why-banks-freeze-your-money"

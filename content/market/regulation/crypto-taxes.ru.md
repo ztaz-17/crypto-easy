@@ -12,7 +12,7 @@ keywords:
   - crypto income
   - tax liability
 prev: "/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte"
-next: ""
+next: "/ru/market/regulation/kripto-nalogi"
 ---
 
 ## Налоги на криптовалюту: общие принципы
