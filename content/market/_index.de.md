@@ -38,13 +38,13 @@ next: ""
 - [DCA (Dollar-Cost Averaging) als Strategie für Anfänger](/de/market/market/investieren-vs-traden/#ansätze-dca-für-anfänger)
 - [Wie man einen Kerzenchart liest (Screenshots auf TradingView)](/de/market/market/investieren-vs-traden/#wie-man-einen-kerzenchart-liest)
 
-### [Was ist ein Krypto-ETF und warum die Solana-ETF-Zulassung wichtig ist](/de/market/market/crypto-etf/)
-- [Was ist ein ETF in einfachen Worten](/de/market/market/crypto-etf/#was-ist-ein-etf-in-einfachen-worten)
-- [Spot-ETF vs Futures-ETF](/de/market/market/crypto-etf/#spot-etf-vs-futures-etf-was-ist-der-unterschied)
-- [Warum Solana-ETF-Zulassung wichtig](/de/market/market/crypto-etf/#warum-die-solana-etf-zulassung-wichtig-ist)
-- [Wie es den Preis beeinflusst](/de/market/market/crypto-etf/#wie-es-den-preis-beeinflusst-und-mehr)
-- [Wie eine Person investieren kann](/de/market/market/crypto-etf/#wie-eine-normale-person-über-einen-etf-investieren-kann)
-- [Risiken](/de/market/market/crypto-etf/#risiken-die-du-kennen-solltest)
+### [Was ist ein Krypto-ETF und warum die Solana-ETF-Zulassung wichtig ist](/de/market/market/was-ist-krypto-etf/)
+- [Was ist ein ETF in einfachen Worten](/de/market/market/was-ist-krypto-etf/#was-ist-ein-etf-in-einfachen-worten)
+- [Spot-ETF vs Futures-ETF](/de/market/market/was-ist-krypto-etf/#spot-etf-vs-futures-etf-was-ist-der-unterschied)
+- [Warum Solana-ETF-Zulassung wichtig](/de/market/market/was-ist-krypto-etf/#warum-die-solana-etf-zulassung-wichtig-ist)
+- [Wie es den Preis beeinflusst](/de/market/market/was-ist-krypto-etf/#wie-es-den-preis-beeinflusst-und-mehr)
+- [Wie eine Person investieren kann](/de/market/market/was-ist-krypto-etf/#wie-eine-normale-person-über-einen-etf-investieren-kann)
+- [Risiken](/de/market/market/was-ist-krypto-etf/#risiken-die-du-kennen-solltest)
 
 ---
 
