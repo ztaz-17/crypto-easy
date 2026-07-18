@@ -24,10 +24,10 @@ Blockchain, Bitcoin, DeFi — in simple words.
 
 - [Blockchain in 1 Minute](/en/learn/basis/blockchain-in-1-minute/)
 - [Bitcoin vs Ethereum](/en/learn/basis/bitcoin-vs-ethereum/)
-- What is money really (coming soon)
-- Why governments don't like crypto (coming soon)
-- Why a transfer can cost $30 (coming soon)
-- Crypto myths beginners believe (coming soon)
+- [What is money really](/en/learn/basis/what-is-money-really/)
+- [Why governments don't like crypto](/en/learn/skeptic/why-governments-hate-crypto/)
+- [Why a transfer can cost $30](/en/learn/how-it-works/why-a-transfer-can-cost-30/)
+- [Crypto myths beginners believe](/en/learn/skeptic/crypto-myths-beginners-believe/)
 - [All articles](/en/learn/)
 
 ---
@@ -39,7 +39,7 @@ Step-by-step guides for your first moves.
 - [Create a Crypto Wallet in 5 Minutes](/en/practice/create-wallet-in-5-minutes/)
 - [Seed Phrase Mistakes](/en/practice/seed-phrase-mistakes/)
 - [Your First Transaction Without Mistakes](/en/practice/first-transaction-without-mistakes/)
-- How to Check a Transaction (coming soon)
+- [How to Check a Transaction](/en/practice/check-transaction-in-blockchain/)
 - [All guides](/en/practice/)
 
 ---
@@ -48,11 +48,11 @@ Step-by-step guides for your first moves.
 
 Crypto markets, DeFi, taxes and regulation.
 
-- What is DeFi (coming soon)
-- Why price goes up and down (coming soon)
-- Investing vs trading (coming soon)
-- Loans without banks (coming soon)
-- Crypto taxes (coming soon)
+- [What is DeFi](/en/market/defi/what-is-defi/)
+- [Why price goes up and down](/en/market/market/why-crypto-price-goes-up-and-down/)
+- [Investing vs trading](/en/market/market/investing-vs-trading/)
+- [Loans without banks](/en/market/defi/crypto-loans-without-banks/)
+- [Crypto taxes](/en/market/regulation/crypto-taxes/)
 - [All about market](/en/market/)
 
 ---
@@ -61,10 +61,10 @@ Crypto markets, DeFi, taxes and regulation.
 
 How to protect your money and avoid scammers.
 
-- Common crypto scams (coming soon)
+- [Common crypto scams](/en/security/common-crypto-scams/)
 - [Hot vs Cold Wallets](/en/security/hot-vs-cold-wallets/)
-- Token allowances (coming soon)
-- What to do if your wallet is hacked (coming soon)
+- [Token allowances](/en/security/token-allowances-explained/)
+- [What to do if your wallet is hacked](/en/security/hacked-wallet-what-to-do/)
 - [Beginner Mistakes: Real Cases](/en/security/common-mistakes/)
 - [All about security](/en/security/)
 
@@ -74,10 +74,10 @@ How to protect your money and avoid scammers.
 
 NFTs, DAOs, meme coins, staking and more.
 
-- What are NFTs (coming soon)
-- What is a DAO (coming soon)
-- Staking vs farming (coming soon)
-- What is an Airdrop (coming soon)
+- [What are NFTs](/en/bonus/what-are-nfts/)
+- [What is a DAO](/en/bonus/what-is-dao/)
+- [Staking vs farming](/en/bonus/staking-vs-farming/)
+- [What is an Airdrop](/en/bonus/what-is-airdrop/)
 - [All bonuses](/en/bonus/)
 
 ---

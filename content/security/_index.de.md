@@ -20,11 +20,14 @@ menu: main
 - [Hot vs Cold: Vergleichstabelle](/de/security/hot-vs-cold-wallets/#hot-vs-cold-vergleichstabelle)
 - [Wann du was verwenden solltest](/de/security/hot-vs-cold-wallets/#wann-du-was-verwenden-solltest)
 
-### Häufige Crypto-Betrugsarten
+### [Häufige Crypto-Betrugsarten](/de/security/haeufige-crypto-betrugsarten/)
+- [Häufige Arten von Crypto-Betrug](/de/security/haeufige-crypto-betrugsarten/#häufige-arten-von-crypto-betrug)
 
-### Token-Berechtigungen: Was Sie Sind und Warum Sie Gefährlich Sind
+### [Token-Berechtigungen: Was Sie Sind und Warum Sie Gefährlich Sind](/de/security/token-berechtigungen-erklaert/)
+- [Token-Berechtigungen: Was sie sind und warum sie gefährlich sind](/de/security/token-berechtigungen-erklaert/#token-berechtigungen-was-sie-sind-und-warum-sie-gefährlich-sind)
 
-### Was Tun, Wenn Dein Wallet Gehackt Wurde
+### [Was Tun, Wenn Dein Wallet Gehackt Wurde](/de/security/was-tun-wenn-wallet-gehackt-wurde/)
+- [Was tun, wenn dein Crypto-Wallet gehackt wurde](/de/security/was-tun-wenn-wallet-gehackt-wurde/#was-tun-wenn-dein-crypto-wallet-gehackt-wurde)
 
 ### [Anfängerfehler: Echte Fälle und Lösungen](/de/security/haeufige-fehler/)
 - [Ich habe an das falsche Netzwerk gesendet](/de/security/haeufige-fehler/#1-ich-habe-an-das-falsche-netzwerk-gesendet)

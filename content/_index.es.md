@@ -24,10 +24,10 @@ Blockchain, Bitcoin, DeFi — en palabras simples.
 
 - [Blockchain en 1 minuto](/es/learn/basis/blockchain-en-1-minuto/)
 - [Bitcoin vs Ethereum](/es/learn/basis/bitcoin-vs-ethereum/)
-- Qué es el dinero realmente (próximamente)
-- Por qué los gobiernos no quieren crypto (próximamente)
-- Por qué una transferencia cuesta $30 (próximamente)
-- Mitos crypto que los principiantes creen (próximamente)
+- [Qué es el dinero realmente](/es/learn/basis/que-es-el-dinero/)
+- [Por qué los gobiernos no quieren crypto](/es/learn/skeptic/por-que-gobiernos-no-gusta-crypto/)
+- [Por qué una transferencia cuesta $30](/es/learn/how-it-works/por-que-transferencia-puede-costar-30/)
+- [Mitos crypto que los principiantes creen](/es/learn/skeptic/mitos-crypto-que-los-principiantes-creen/)
 - [Todos los artículos](/es/learn/)
 
 ---
@@ -39,7 +39,7 @@ Guías paso a paso para tus primeros pasos.
 - [Crea un Wallet Crypto en 5 Minutos](/es/practice/create-wallet-in-5-minutes/)
 - [Frase Semilla: Errores Comunes](/es/practice/seed-phrase-mistakes/)
 - [Primera Transacción Sin Errores](/es/practice/first-transaction-without-mistakes/)
-- Cómo verificar una transacción (próximamente)
+- [Cómo verificar una transacción](/es/practice/como-verificar-transaccion-en-blockchain/)
 - [Todas las guías](/es/practice/)
 
 ---
@@ -48,11 +48,11 @@ Guías paso a paso para tus primeros pasos.
 
 Mercados crypto, DeFi, impuestos y regulación.
 
-- Qué es DeFi (próximamente)
-- Por qué el precio sube y baja (próximamente)
-- Invertir vs hacer trading (próximamente)
-- Préstamos sin banco (próximamente)
-- Impuestos sobre crypto (próximamente)
+- [Qué es DeFi](/es/market/defi/que-es-defi/)
+- [Por qué el precio sube y baja](/es/market/market/por-que-precio-crypto-sube-y-baja/)
+- [Invertir vs hacer trading](/es/market/market/invertir-vs-trading/)
+- [Préstamos sin banco](/es/market/defi/prestamos-sin-banco-defi/)
+- [Impuestos sobre crypto](/es/market/regulation/impuestos-crypto/)
 - [Todo sobre el mercado](/es/market/)
 
 ---
@@ -61,10 +61,10 @@ Mercados crypto, DeFi, impuestos y regulación.
 
 Cómo proteger tu dinero y evitar estafadores.
 
-- Tipos comunes de estafa (próximamente)
+- [Tipos comunes de estafa](/es/security/principales-tipos-de-estafa-crypto/)
 - [Billeteras Calientes vs Frías](/es/security/hot-vs-cold-wallets/)
-- Permisos de tokens (próximamente)
-- Qué hacer si hackean tu wallet (próximamente)
+- [Permisos de tokens](/es/security/permisos-de-tokens-que-son/)
+- [Qué hacer si hackean tu wallet](/es/security/que-hacer-si-te-hackean-wallet/)
 - [Errores de Principiantes](/es/security/errores-comunes/)
 - [Todo sobre seguridad](/es/security/)
 
@@ -74,10 +74,10 @@ Cómo proteger tu dinero y evitar estafadores.
 
 NFTs, DAOs, meme coins, staking y más.
 
-- Qué son los NFTs (próximamente)
-- Qué es una DAO (próximamente)
-- Staking vs farming (próximamente)
-- Qué es un Airdrop (próximamente)
+- [Qué son los NFTs](/es/bonus/que-son-nfts/)
+- [Qué es una DAO](/es/bonus/que-es-dao/)
+- [Staking vs farming](/es/bonus/staking-vs-farming/)
+- [Qué es un Airdrop](/es/bonus/que-es-airdrop/)
 - [Todos los bonus](/es/bonus/)
 
 ---
