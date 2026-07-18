@@ -40,7 +40,7 @@ Guías paso a paso para tus primeros pasos.
 - [Frase Semilla: Errores Comunes](/es/practice/seed-phrase-mistakes/)
 - [Primera Transacción Sin Errores](/es/practice/first-transaction-without-mistakes/)
 - [Cómo verificar una transacción](/es/practice/como-verificar-transaccion-en-blockchain/)
-- [Mejores Exchanges de Cripto 2026: Comparación](/es/exchanges/)
+- [Mejores Exchanges de Cripto 2026: Comparación](/es/practice/exchanges/)
 - [Todas las guías](/es/practice/)
 
 ---

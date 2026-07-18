@@ -11,8 +11,6 @@ keywords:
   - invertir en cripto a través de ETF
 category: "market"
 translationKey: "crypto-etf"
-aliases:
-  - /es/market/market/crypto-etf/
 slug: "que-es-crypto-etf"
 weight: 30
 ---

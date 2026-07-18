@@ -11,11 +11,6 @@ keywords:
   - инвестиции в крипту через ETF
 category: "market"
 translationKey: "crypto-etf"
-aliases:
-  - /ru/market/market/crypto-etf/
-  - /en/market/market/crypto-etf/
-  - /es/market/market/crypto-etf/
-  - /de/market/market/crypto-etf/
 slug: "chto-takoe-crypto-etf"
 weight: 30
 ---
