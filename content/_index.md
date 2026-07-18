@@ -94,6 +94,8 @@ Follow our Telegram for short guides and news:
 
 👉 [@crypto_easy_en](https://t.me/crypto_easy_en)
 
+Or [📥 download the free guide "5 Beginner Mistakes in Crypto" →](/en/free-guide/)
+
 ---
 
 ## 🏆 Recommended Exchange
@@ -104,9 +106,11 @@ Start your crypto journey on **Bybit** — a trusted exchange used by millions.
 
 ---
 
-## 🎁 Free Guide
+## 🎁 Free Guide: 5 Beginner Mistakes in Crypto
 
-[📥 Download "5 Beginner Mistakes in Crypto" →](/en/free-guide/)
+The most common mistakes that drain beginners' deposits — and how to avoid them.
+
+👉 [📥 Download the free guide →](/en/free-guide/)
 
 ---
 
