@@ -122,7 +122,7 @@ Ahora vamos a meter algunas monedas en tu wallet cripto:
 
 Ethereum es una [blockchain](/es/glossary/#blockchain) que se volvió popular gracias a los contratos inteligentes.
 
-En pocas palabras, un contrato inteligente es un programa que puede emitir cualquier tipo de token, NFT, definir su economía, reglas, etc. Y todo funciona con gas (Gwei — el combustible del sistema Ethereum).
+En pocas palabras, un contrato inteligente es un programa que puede emitir cualquier tipo de token, [NFT](/es/glossary/#nft), definir su economía, reglas, etc. Y todo funciona con gas (Gwei — el combustible del sistema Ethereum).
 
 > ¡Importante! Solo confíes en contratos oficiales. Cualquier script kiddie hacker puede crear una moneda y enviarte millones de `USD`, atrayéndote a su sitio donde — tras saltar varios obstáculos — podrías darles acceso a tu wallet y perder monedas reales.
 
@@ -159,7 +159,7 @@ Prueba a enviar ETH y tokens de una cuenta a otra:
 3. Vuelve a la primera cuenta, selecciona la red **Sepolia**.
 4. En la pestaña **Tokens**, selecciona PYUSD (o cualquier token que hayas recibido) **&rarr;** haz clic en **Enviar** **&rarr;** pega la dirección de la segunda cuenta **&rarr;** introduce una cantidad (ej. 10 PYUSD).
 
-Observa cómo se descuenta la comisión de gas y cómo aparece la transacción en el explorador de bloques: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+Observa cómo se descuenta la comisión de gas y cómo aparece la transacción en el explorador de [bloques](/es/glossary/#block): **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 #### 2. Envía una Transferencia a un Amigo
 
@@ -176,7 +176,7 @@ Después de cada operación, abre **[sepolia.etherscan.io](https://sepolia.ether
 - cuántos bloques confirmaron la transacción;
 - el estado (éxito o fallo).
 
-Esto te enseñará a «leer» la blockchain.
+Esto te enseñará a «leer» la [blockchain](/es/glossary/#blockchain).
 
 #### 4. Prueba una App DeFi (Con Cuidado)
 
@@ -215,7 +215,7 @@ Cómo mantenerte a salvo:
 |---|---|
 | Revisa siempre el nombre de la red en MetaMask (junto al logo) | No guardes activos reales en la misma wallet que las monedas de prueba |
 | Usa una wallet separada solo para pruebas | No cambies de redes sin pensar en una misma wallet |
-| Pon un tema o etiqueta diferente a tu perfil de pruebas | No guardes frases semilla de prueba y reales una junto a la otra |
+| Pon un tema o etiqueta diferente a tu perfil de pruebas | No guardes [frases semilla](/es/glossary/#seed-phrase) de prueba y reales una junto a la otra |
 | Haz una pausa antes de cada envío — verifica la red | No uses direcciones de testnet en transacciones reales |
 
 > **Regla de oro:** antes de cualquier transacción, pausa y revisa el nombre de la red. Tres segundos — y tu dinero se mantiene a salvo.

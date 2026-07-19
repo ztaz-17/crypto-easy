@@ -40,7 +40,7 @@ Registrieren, Konto aufladen, Bitcoin, USDT oder andere Coins kaufen.
 1. Bei Coinbase, Binance oder Bybit registrieren
 2. Konto aufladen
 3. USDT, BTC oder ETH kaufen
-4. **Wichtig!** Auf eigenes Wallet auszahlen
+4. **Wichtig!** Auf eigenes [Wallet](/de/glossary/#wallet) auszahlen
 
 > ❗️ Geld nicht auf Börsen liegen lassen. Kaufen → auszahlen.
 
@@ -56,7 +56,7 @@ Identitätsprüfung. Ausweisfoto, Selfie. Für kleine Beträge (<$500) oft optio
 
 Crypto direkt von einer anderen Person kaufen. Die Börse ist Treuhänder.
 
-**Vorteile:** kein KYC, Zahlung in lokaler Währung, durch Börse geschützt.
+**Vorteile:** kein [KYC](/de/glossary/#kyc), Zahlung in lokaler Währung, durch Börse geschützt.
 
 **Nachteile:** etwas höherer Preis, Risiko der Kartensperrung, Verkäuferbewertung prüfen.
 
@@ -84,7 +84,7 @@ Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Tr
 
 **Karte + Ausweis okay:** Coinbase/Binance → KYC → kaufen → auszahlen.
 
-**Kein Ausweis:** P2P auf Bybit ohne KYC, oder Swap im Wallet.
+**Kein Ausweis:** [P2P](/de/glossary/#p2p) auf Bybit ohne KYC, oder Swap im Wallet.
 
 **Schnell und klein:** MetaMask → "Kaufen" → Mercuryo/MoonPay → Karte.
 

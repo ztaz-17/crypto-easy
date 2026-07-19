@@ -31,7 +31,7 @@ The main difference from buying crypto directly:
 
 ## Spot ETF vs Futures ETF: What's the Difference
 
-**Spot ETF** — the fund actually buys and holds real cryptocurrency. Each share is backed by real coins. This matters because the ETF price closely tracks the actual crypto price.
+**Spot ETF** — the fund actually buys and holds real [cryptocurrency](/en/glossary/#cryptocurrency). Each share is backed by real coins. This matters because the ETF price closely tracks the actual crypto price.
 
 **Futures ETF** — the fund buys contracts on the crypto price, not the crypto itself. It's like betting on the price of apples rather than buying actual apples.
 

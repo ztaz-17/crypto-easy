@@ -37,7 +37,7 @@ In diesem Artikel erfährst du:
 
 ### Die Grundidee: Sperren + Prägen
 
-Die meisten Brücken folgen dem gleichen Prinzip:
+Die meisten [Brücken](/de/glossary/#bridge) folgen dem gleichen Prinzip:
 
 1. Du schickst dein Asset (z. B. ETH) an den **Bridge-Vertrag** im Quellnetzwerk.
 2. Die Brücke **sperrt** dieses Asset.
@@ -96,7 +96,7 @@ Bei häufigen Transaktionen summiert sich die Ersparnis schnell.
 
 ## Die Hauptrisiken: Warum Brücken gehackt werden
 
-Brücken sind **der am stärksten angegriffene Teil von DeFi**.
+Brücken sind **der am stärksten angegriffene Teil von [DeFi](/de/glossary/#defi)**.
 
 Der Grund ist einfach: Wenn ein Hacker die Kontrolle über die Brücke erlangt, kann er gesperrte Assets im Wert von Milliarden abziehen.
 
@@ -141,7 +141,7 @@ Nomad-Beispiel (2022):
 
 ### ✅ Offizielle Brücken
 
-Die sicherste Option ist eine Brücke, die vom eigenen Team der Blockchain entwickelt wurde:
+Die sicherste Option ist eine Brücke, die vom eigenen Team der [Blockchain](/de/glossary/#blockchain) entwickelt wurde:
 
 - **[Arbitrum Bridge](https://bridge.arbitrum.io)** — für den Wechsel zwischen Ethereum und Arbitrum.
 - **[Optimism Bridge](https://app.optimism.io/bridge)** — für Optimism.

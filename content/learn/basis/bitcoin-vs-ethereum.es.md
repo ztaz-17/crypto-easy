@@ -67,7 +67,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 - Oferta: sin límite (pero tiene mecanismo de quema)
 - Consenso: [Proof of Stake](/es/glossary/#proof-of-stake) (eficiente en energía)
 - Transacciones: ~15-30 por segundo
-- Tiempo medio de bloque: ~12 segundos
+- Tiempo medio de [bloque](/es/glossary/#block): ~12 segundos
 
 ---
 
@@ -77,7 +77,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 |---|---|---|
 | **Propósito** | Dinero digital / reserva de valor | Ordenador mundial descentralizado |
 | **Mejor analogía** | Oro | Petróleo |
-| **Qué corre en él** | Solo transacciones (BTC) | Apps, tokens, NFTs, contratos inteligentes |
+| **Qué corre en él** | Solo transacciones (BTC) | Apps, tokens, [NFTs](/es/glossary/#nft), contratos inteligentes |
 | **Programable** | No (limitado a propósito) | Sí (Turing-completo) |
 | **Oferta** | Fija (21M) | Variable (quema + emisión) |
 | **Uso energético** | Alto (PoW) | Bajo (PoS) |
@@ -96,7 +96,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 
 ### Elige Ethereum si:
 
-- Quieres **usar crypto** — DeFi, NFTs, apps
+- Quieres **usar crypto** — [DeFi](/es/glossary/#defi), NFTs, apps
 - Te interesa el **dinero programable**
 - Quieres **generar rendimiento** mediante [staking](/es/glossary/#staking) o DeFi
 - Crees en el **futuro de las aplicaciones descentralizadas**

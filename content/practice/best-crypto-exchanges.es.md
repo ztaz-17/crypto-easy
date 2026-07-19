@@ -70,11 +70,11 @@ Inconveniente: no soporta directamente algunos métodos de pago locales.
 |----------------|-------|--------|----------|
 | Comisión spot | 0.1% | 0.16% | hasta 1.49% |
 | Futuros | ✅ 0.02% | ❌ | ❌ |
-| P2P | ✅ | Parcial | ❌ |
+| [P2P](/es/glossary/#p2p) | ✅ | Parcial | ❌ |
 | Fondo de seguro | $700M | N/D | FDIC $250K |
 | Modo principiante | ✅ | ✅ | ✅ |
 | Educación integrada | ✅ | ✅ (desde 07.2026) | ✅ Coinbase Earn |
-| Staking | ✅ | ✅ hasta 12% | ✅ hasta 6% |
+| [Staking](/es/glossary/#staking) | ✅ | ✅ hasta 12% | ✅ hasta 6% |
 | Licencias | EE.UU., Canadá | EE.UU., Japón, RU | EE.UU. (SEC, FinCEN) |
 
 ## Los Mejores Wallets Físicos para Principiantes
@@ -89,7 +89,7 @@ Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your key
 **Ledger** es la marca más confiable de hardware wallets (6M+ dispositivos vendidos). Soporta 5,500+ monedas, tiene un exchange integrado a través de Ledger Live.
 
 - **Seguridad**: chip secure element certificado (CC EAL5+)
-- **Soporta**: 5,500+ criptomonedas
+- **Soporta**: 5,500+ [criptomonedas](/es/glossary/#cryptocurrency)
 - **App**: Ledger Live — gestiona todo desde un panel
 - **Staking**: hasta 12% APY directamente desde la wallet
 - **Modelos**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)

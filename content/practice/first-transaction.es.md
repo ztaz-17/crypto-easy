@@ -36,7 +36,7 @@ Toda transacción cripto comienza con una dirección. Es una cadena larga de car
 
 ### De dónde sacar la dirección
 
-El destinatario te da su dirección de cartera:
+El destinatario te da su dirección de [cartera](/es/glossary/#wallet):
 - la envía por mensaje (Telegram, WhatsApp);
 - muestra un código QR en la pantalla de su teléfono;
 - la envía por email o en un chat de soporte.
@@ -93,7 +93,7 @@ Verificar los primeros, últimos y el medio — **un hábito simple que salva tu
 
 Esta es la lección más común y más costosa en cripto.
 
-Cada criptomoneda tiene **sus propias redes** en las que funciona.  \
+Cada [criptomoneda](/es/glossary/#cryptocurrency) tiene **sus propias redes** en las que funciona.  \
 Si envías USDT en la red ERC-20 a una dirección que espera recibir en TRC-20, **el dinero desaparecerá**.
 
 ### Qué redes existen
@@ -199,7 +199,7 @@ Para verificar:
 | Estado | Qué significa |
 |--------|-------------|
 | **Pending** | En cola, esperando ser incluida en un [bloque](/es/glossary/#block) |
-| **Confirmed** | Registrada en la blockchain |
+| **Confirmed** | Registrada en la [blockchain](/es/glossary/#blockchain) |
 | **Failed** | Error (generalmente por gas bajo o fondos insuficientes para la comisión) |
 
 > Si el estado es **Confirmed** — el dinero llegó con seguridad.  \

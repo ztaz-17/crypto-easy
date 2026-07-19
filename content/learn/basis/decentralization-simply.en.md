@@ -52,7 +52,7 @@ In a [decentralized](/en/glossary/#decentralization) system: thousands of indepe
 
 — **Centralization:** one library with all the books. Library closed — books inaccessible.
 
-— **Decentralization:** thousands of people, each with a copy of the book. Close one library — the other 999 have copies.
+— **[Decentralization](/en/glossary/#decentralization):** thousands of people, each with a copy of the book. Close one library — the other 999 have copies.
 
 ---
 
@@ -64,7 +64,7 @@ If 300 nodes out of 1,000 go offline — the network keeps running. You can only
 
 ### Censorship resistance
 
-Nobody can block a transaction. Not a government, not a bank, not a corporation.
+Nobody can [block](/en/glossary/#block) a transaction. Not a government, not a bank, not a corporation.
 
 > **If you have your private key — you can send money to anyone.**
 

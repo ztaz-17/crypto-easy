@@ -37,7 +37,7 @@ Esto es lo que vamos a ver:
 
 ## ¿Qué es el TVL?
 
-**TVL** (Total Value Locked) es el valor total de todos los activos bloqueados en los contratos inteligentes de un protocolo.
+**[TVL](/es/glossary/#tvl)** (Total Value Locked) es el valor total de todos los activos bloqueados en los contratos inteligentes de un protocolo.
 
 En palabras simples:
 
@@ -49,7 +49,7 @@ El TVL incluye:
 - garantías en protocolos de [stablecoins](/es/glossary/#stablecoin) (como MakerDAO);
 - [staking](/es/glossary/#staking) en protocolos de staking líquido (como Lido).
 
-Cuanto más alto es el TVL — más liquidez tiene el protocolo y más difícil es manipularlo.
+Cuanto más alto es el TVL — más [liquidez](/es/glossary/#liquidity) tiene el protocolo y más difícil es manipularlo.
 
 ---
 
@@ -96,7 +96,7 @@ Lo que puedes hacer:
 - ver el **historial del TVL** — cómo ha cambiado con el tiempo;
 - filtrar por [blockchain](/es/glossary/#blockchain) (Ethereum, Solana, Arbitrum, etc.).
 
-La mayor ventaja de DefiLlama es que es **independiente**. Los datos vienen directo de la blockchain, a través de contratos inteligentes.
+La mayor ventaja de DefiLlama es que es **independiente**. Los datos vienen directo de la [blockchain](/es/glossary/#blockchain), a través de contratos inteligentes.
 
 > Usa DefiLlama como tu herramienta de cabecera — igual que consultas el precio en CoinGecko.
 
@@ -226,7 +226,7 @@ El TVL es el primer filtro. No da garantías al 100%, pero descarta los proyecto
 
 ### ¿Qué es el TVL en términos simples?
 
-TVL (Total Value Locked / Valor Total Bloqueado) es el valor total de todos los activos que los usuarios han bloqueado en un protocolo DeFi. Cuanto más alto es el TVL, más confianza tiene el protocolo.
+TVL (Total Value Locked / Valor Total Bloqueado) es el valor total de todos los activos que los usuarios han bloqueado en un protocolo [DeFi](/es/glossary/#defi). Cuanto más alto es el TVL, más confianza tiene el protocolo.
 
 ### ¿Qué TVL se considera seguro?
 

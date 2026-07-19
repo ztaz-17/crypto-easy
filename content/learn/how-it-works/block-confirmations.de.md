@@ -34,7 +34,7 @@ Die Antwort liegt in der Funktionsweise der [Blockchain](/de/glossary/#blockchai
 
 ## Was ist ein Block in einer Blockchain
 
-Eine Blockchain ist eine Kette von Blöcken. Klingt wie eine Tautologie, ist aber genau das, was sie ist.
+Eine [Blockchain](/de/glossary/#blockchain) ist eine Kette von [Blöcken](/de/glossary/#block). Klingt wie eine Tautologie, ist aber genau das, was sie ist.
 
 Ein **Block** ist ein Behälter, der Transaktionen bündelt. Stell dir das wie eine Seite in einem Hauptbuch vor. Auf eine einzelne Seite passen mehrere Überweisungen. Wenn die Seite voll ist, wird sie ans Buch angehängt und eine neue Seite beginnt.
 
@@ -76,7 +76,7 @@ Ein neuer Block in Ethereum erscheint etwa alle **~12 Sekunden**.
 
 ### Solana und andere schnelle Netzwerke
 
-Solana nutzt eine Kombination aus Proof of History und Proof of Stake. Blöcke erscheinen hier etwa alle **~400 Millisekunden**. Eine Transaktion wird fast sofort bestätigt.
+Solana nutzt eine Kombination aus Proof of History und [Proof of Stake](/de/glossary/#proof-of-stake). Blöcke erscheinen hier etwa alle **~400 Millisekunden**. Eine Transaktion wird fast sofort bestätigt.
 
 > Mehr zu Konsensmechanismen: [Proof of Work](/de/glossary/#proof-of-work), [Proof of Stake](/de/glossary/#proof-of-stake).
 
@@ -110,7 +110,7 @@ Je mehr Blöcke nach deinem kommen – desto schwieriger wird es, die Transaktio
 | Anzahl Bestätigungen | Zuverlässigkeit |
 |---|---|
 | 0 | Transaktion im Mempool – wird möglicherweise nicht bestätigt |
-| 1 | In einem Block gelandet, aber Umkehrung durch Fork möglich |
+| 1 | In einem Block gelandet, aber Umkehrung durch [Fork](/de/glossary/#fork) möglich |
 | 3 | Zuverlässig genug für kleine Beträge |
 | 6 | **Sehr zuverlässig** – der Standard für Bitcoin |
 | 12+ | Maximale Sicherheit |
@@ -163,7 +163,7 @@ Betrachten wir eine Transaktion mit den Augen des Benutzers:
 | **3 Bestätigungen** | Sicher für kleine Beträge | „Bestätigt (3/6)" | „Warte auf Gutschrift" |
 | **6 Bestätigungen** | Volle Sicherheit für Bitcoin | „Abgeschlossen" | „Gutschrift erhalten" |
 
-Hinweis: Der Empfänger kann eine unbestätigte Transaktion über einen Block-Explorer sehen (z. B. [mempool.space](https://mempool.space) für Bitcoin). Sein Wallet zeigt aber trotzdem einen Nullsaldo, bis genügend Bestätigungen eingegangen sind.
+Hinweis: Der Empfänger kann eine unbestätigte Transaktion über einen Block-Explorer sehen (z. B. [mempool.space](https://mempool.space) für Bitcoin). Sein [Wallet](/de/glossary/#wallet) zeigt aber trotzdem einen Nullsaldo, bis genügend Bestätigungen eingegangen sind.
 
 ---
 

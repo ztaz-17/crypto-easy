@@ -49,7 +49,7 @@ Una DAO es una organización que vive en una [blockchain](/es/glossary/#blockcha
 En lugar de gerentes — **reglas escritas en código**.
 En lugar de órdenes — **votación ponderada por [tokens](/es/glossary/#token)**.
 
-Cada miembro de una DAO puede:
+Cada miembro de una [DAO](/es/glossary/#dao) puede:
 
 - proponer cambios;
 - votar decisiones;
@@ -164,7 +164,7 @@ Cualquier tenedor de UNI puede:
 
 ### Ventajas
 
-- **Transparencia** — todas las decisiones son visibles en la blockchain;
+- **Transparencia** — todas las decisiones son visibles en la [blockchain](/es/glossary/#blockchain);
 - **[Descentralización](/es/glossary/#decentralization)** — no hay un solo punto de fallo;
 - **Participación global** — cualquiera puede unirse;
 - **Automatización** — el código ejecuta decisiones sin intermediarios.

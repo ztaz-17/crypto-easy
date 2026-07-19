@@ -221,7 +221,7 @@ En la mayoría de los países — sí. En EE. UU. y Alemania — definitivamente
 
 ### ¿Cómo sé cuánto impuesto debo?
 
-Usa servicios como Koinly, CoinTracker o CoinTracking. Se conectan a tus carteras y exchanges y calculan tus ganancias automáticamente.
+Usa servicios como Koinly, CoinTracker o CoinTracking. Se conectan a tus [carteras](/es/glossary/#wallet) y exchanges y calculan tus ganancias automáticamente.
 
 ### ¿Qué pasa si no pago impuestos crypto?
 

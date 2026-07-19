@@ -71,10 +71,10 @@ In solchen Zeiten picken sich Miner nur die fettesten Transaktionen heraus — a
 Manchmal liegt das Problem nicht am Netzwerk — sondern an deinem [Wallet](/de/glossary/#wallet):
 
 - Gas wurde falsch berechnet (bei Ethereum — Gas-Limit unter 21.000);
-- das Wallet hat den Transaktionsstatus nicht aktualisiert;
+- das [Wallet](/de/glossary/#wallet) hat den Transaktionsstatus nicht aktualisiert;
 - du bist mit einem veralteten oder defekten Knoten verbunden.
 
-In diesen Fällen wird die Transaktion vielleicht sogar nach der Bestätigung noch als »gesendet« angezeigt. Prüfe es in einem Blockchain-Explorer — wahrscheinlich ist alles in Ordnung.
+In diesen Fällen wird die Transaktion vielleicht sogar nach der Bestätigung noch als »gesendet« angezeigt. Prüfe es in einem [Blockchain](/de/glossary/#blockchain)-Explorer — wahrscheinlich ist alles in Ordnung.
 
 ---
 
@@ -100,7 +100,7 @@ Bevor du in Panik gerätst, prüfe den Transaktionsstatus in einem Blockchain-Ex
 
 Füge deinen Transaktions-Hash (TXID) ein — und du siehst den Status:
 
-- **Ausstehend / Im Mempool** — die Transaktion ist in der Warteschlange, noch nicht in einem Block.
+- **Ausstehend / Im Mempool** — die Transaktion ist in der Warteschlange, noch nicht in einem [Block](/de/glossary/#block).
 - **Bestätigt / Erfolgreich** — alles ist in Ordnung, dein Wallet aktualisiert nur langsam.
 - **Verworfen / Ersetzt** — die Transaktion wurde ersetzt oder aus dem Mempool entfernt.
 
@@ -284,7 +284,7 @@ Vor einiger Zeit kaufte ich eine Domain für 0,5 ETH. Ich gab die Adresse ein, �
 
 Eine Stunde — ausstehend.
 
-Mir wurde ganz anders: Die Domain könnte weg sein, wenn ich nicht bald zahlte. Ich checkte Etherscan — der Mempool war voll (irgendein NFT-Verkauf lief gerade), die Basisgebühr hatte sich verdoppelt. Meine Transaktion war ganz unten in der Warteschlange.
+Mir wurde ganz anders: Die Domain könnte weg sein, wenn ich nicht bald zahlte. Ich checkte Etherscan — der Mempool war voll (irgendein [NFT](/de/glossary/#nft)-Verkauf lief gerade), die Basisgebühr hatte sich verdoppelt. Meine Transaktion war ganz unten in der Warteschlange.
 
 Ich musste »Speed up« drücken und 22 $ Gebühr zahlen statt der geplanten 4 $.
 

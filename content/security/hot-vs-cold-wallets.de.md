@@ -49,7 +49,7 @@ Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echt
 
 ### Beispiele
 
-| Wallet            | Typ              | Besonderheit                            |
+| [Wallet](/de/glossary/#wallet)            | Typ              | Besonderheit                            |
 |-------------------|------------------|-----------------------------------------|
 | **MetaMask**      | Browser-Erweiterung | Die beliebteste für Ethereum und EVM-Netzwerke |
 | **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter [DApp](/de/glossary/#dapp)-Browser |
@@ -81,7 +81,7 @@ All das geschieht in Sekunden. Bequem? Sehr.
 
 - **Schlüssel werden auf einem internetverbundenen Gerät gespeichert**;
 - bei Viren, Phishing oder Schadsoftware kann das Geld gestohlen werden;
-- wenn das Handy kaputtgeht – Wiederherstellung nur über die Seed-Phrase;
+- wenn das Handy kaputtgeht – Wiederherstellung nur über die [Seed-Phrase](/de/glossary/#seed-phrase);
 - erfordern Vorsicht bei der Nutzung.
 
 ---
@@ -142,7 +142,7 @@ Selbst wenn dein Computer mit einem Virus infiziert ist – der Angreifer kann d
 
 ## Hot vs Cold: Vergleichstabelle
 
-| Kriterium                    | Hot Wallet                             | Cold Wallet                            |
+| Kriterium                    | [Hot Wallet](/de/glossary/#hot-wallet)                             | [Cold Wallet](/de/glossary/#cold-wallet)                            |
 |------------------------------|----------------------------------------|----------------------------------------|
 | **Internetverbindung**       | Immer online                           | Offline (nur zum Signieren verbunden)  |
 | **Sicherheit**               | Mittel (abhängig vom Gerät)            | Hoch (Schlüssel verlassen nie das Gerät) |
@@ -151,7 +151,7 @@ Selbst wenn dein Computer mit einem Virus infiziert ist – der Angreifer kann d
 | **Virenschutz**              | Niedrig                                | Hoch                                   |
 | **Für tägliche Ausgaben**    | ✅ Ideal                               | ❌ Unbequem                            |
 | **Für Langzeitaufbewahrung** | ❌ Riskant                             | ✅ Ideal                               |
-| **DeFi / NFT**               | ✅ Einfach                             | ⚠️ Möglich, aber aufwändiger          |
+| **[DeFi](/de/glossary/#defi) / [NFT](/de/glossary/#nft)**               | ✅ Einfach                             | ⚠️ Möglich, aber aufwändiger          |
 | **Risiko des Schlüsselverlusts** | Höher (Virus, Phishing)           | Niedriger (aber Gerät kann verloren gehen) |
 | **Wiederherstellung**        | Über Seed-Phrase                       | Über Seed-Phrase (neues Gerät nötig)   |
 

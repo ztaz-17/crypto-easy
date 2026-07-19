@@ -68,7 +68,7 @@ To start working on a testnet, you need test coins. Special websites called **fa
 Here's how it works:
 
 1. Go to a faucet website.
-2. Enter your testnet wallet address.
+2. Enter your testnet [wallet](/en/glossary/#wallet) address.
 3. Click "Request" (or "Send me test ETH").
 4. A few seconds later, coins arrive in your wallet.
 
@@ -124,7 +124,7 @@ Now let's get some coins into your crypto wallet:
 
 Ethereum is a [blockchain](/en/glossary/#blockchain) that became popular because of smart contracts.
 
-Put simply, a smart contract is a program that can issue any kind of token, NFT, define their economics, rules, and so on. And it all runs on gas (Gwei — the fuel of the Ethereum system).
+Put simply, a smart contract is a program that can issue any kind of token, [NFT](/en/glossary/#nft), define their economics, rules, and so on. And it all runs on gas (Gwei — the fuel of the Ethereum system).
 
 > Important! Only trust official contracts. Any script kiddie hacker can create a coin and send you millions of `USD`, baiting you to visit their site where — after jumping through hoops — you might give them access to your wallet and lose real coins.
 
@@ -138,7 +138,7 @@ Alright... we want USD!
 3. MetaMask protects you from **dust tokens** and won't show such tokens by default. You have two options:
 > - allow all tokens to be displayed (not safe)
 > - add the smart contract address to your wallet — then only those tokens will appear and you can transfer them
-4. Let's add our contract to the wallet. You can find its address on the blockchain:
+4. Let's add our contract to the wallet. You can find its address on the [blockchain](/en/glossary/#blockchain):
 > - open the block explorer [sepolia.etherscan.io](https://sepolia.etherscan.io/tx/0x51ffec256bf03a539fb8b435d3b4ee0057cfd6781c452fb2321074caae25dbd9)
 > - paste your wallet address `0x56f218c5aaE76128131A901F4E5cd3B9565bf014` (use your own!)
 > - go to the **Token Transfers (ERC-20)** tab
@@ -170,7 +170,7 @@ Watch how the gas fee is deducted and how the transaction shows up on the [block
 Ask a friend to send you some test coins.  
 Or send some to the author at this address: `0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128` from your wallet.
 
-Don't forget to check how the transaction looks on the block explorer: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+Don't forget to check how the transaction looks on the [block](/en/glossary/#block) explorer: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 #### 3. Check a Transaction on the Explorer
 
@@ -219,7 +219,7 @@ How to stay safe:
 |------------|---------------|
 | Always check the network name in MetaMask (next to the logo) | Don't keep real assets in the same wallet as test coins |
 | Use a separate wallet just for testing | Don't mindlessly switch networks in one wallet |
-| Set a different theme or label for your test profile | Don't store test and real seed phrases side by side |
+| Set a different theme or label for your test profile | Don't store test and real [seed phrases](/en/glossary/#seed-phrase) side by side |
 | Pause before every send — verify the network | Don't use testnet addresses in real transactions |
 
 > **Golden rule:** before any transaction, pause and check the network name. Three seconds — and your money stays safe.

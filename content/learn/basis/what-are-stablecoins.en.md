@@ -158,7 +158,7 @@ Example: you deposit $200 of ETH. The contract lets you create 150 DAI (collater
 | **Audits** | Regular | Regular | On-chain |
 | **Reserves** | Dollars + bonds + other | Dollars + US Treasuries | Crypto (ETH, WBTC, etc.) |
 | **Risk** | Corporate (Tether) | Regulatory (US) | Algorithmic (liquidations) |
-| **Availability** | Everywhere | Almost everywhere | Mostly DeFi |
+| **Availability** | Everywhere | Almost everywhere | Mostly [DeFi](/en/glossary/#defi) |
 | **Fees** | Low (TRC-20) | Medium | Depends on Ethereum |
 
 ---
@@ -176,7 +176,7 @@ It worked... until it didn't. In May 2022, panic hit: large holders pulled their
 ### Three types
 
 - **Centralized (USDT, USDC).** Backed by real assets. Risk — the issuing company.
-- **Decentralized with collateral (DAI).** Backed by crypto. Risk — liquidations and de-pegging during crashes.
+- **[Decentralized](/en/glossary/#decentralization) with collateral (DAI).** Backed by crypto. Risk — liquidations and de-pegging during crashes.
 - **Algorithmic (Terra UST).** Backed by nothing. Only work while people believe. **Never use for savings.**
 
 ### Advice for beginners
@@ -209,7 +209,7 @@ Safer than altcoins, less safe than physical cash or FDIC-insured US bank deposi
 
 ### Can you lose money in a stablecoin?
 
-Yes, several scenarios: issuer (Tether, Circle) goes bankrupt — USDT/USDC lose peg; algorithmic collapse (like Terra UST); smart contract hack (for DAI); technical error when transferring (wrong blockchain); asset freeze by issuer (Circle can freeze USDC by regulatory order).
+Yes, several scenarios: issuer (Tether, Circle) goes bankrupt — USDT/USDC lose peg; algorithmic collapse (like Terra UST); smart contract hack (for DAI); technical error when transferring (wrong [blockchain](/en/glossary/#blockchain)); asset freeze by issuer (Circle can freeze USDC by regulatory order).
 
 ### Which stablecoin should a beginner choose?
 

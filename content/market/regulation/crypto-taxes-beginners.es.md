@@ -148,7 +148,7 @@ El conjunto mínimo de documentos que deberías tener listo:
 
 1. **Historial de operaciones del exchange** — un archivo CSV con fechas, pares, volúmenes y precios. Todos los exchanges importantes (Binance, Bybit, OKX, Kraken) pueden exportarlo.
 2. **Confirmaciones de entrada/salida de [FIAT](/es/glossary/#fiat)** — extractos bancarios, capturas de transferencias de la tarjeta al exchange.
-3. **Registros de staking y minería** — cuánto y cuándo recibiste recompensas, el tipo de cambio en ese momento.
+3. **Registros de [staking](/es/glossary/#staking) y minería** — cuánto y cuándo recibiste recompensas, el tipo de cambio en ese momento.
 4. **Registros de operaciones [P2P](/es/glossary/#p2p)** — si compraste crypto directamente a personas (Binance P2P, LocalBitcoins), guarda capturas de los anuncios.
 5. **Informe de la calculadora de impuestos** — si usas Koinly, CoinTracking, etc., generan informes listos para presentar ante Hacienda.
 
@@ -198,7 +198,7 @@ Aunque no hayas tenido ganancias, muchos países exigen presentar una declaraci�
 
 ### Error 4: «Mover crypto a mi cartera fría es una venta»
 
-No. Las transferencias entre tus propias carteras no son hechos imponibles. Pero guarda pruebas de que ambas carteras son tuyas — Hacienda podría preguntar.
+No. Las transferencias entre tus propias [carteras](/es/glossary/#wallet) no son hechos imponibles. Pero guarda pruebas de que ambas carteras son tuyas — Hacienda podría preguntar.
 
 ### Error 5: «Presentaré la declaración cuando suba el precio»
 
@@ -211,10 +211,10 @@ Pagas impuestos según el momento en que hiciste la operación, no según expect
 No siempre tienes que hacerlo todo tú mismo. Estas son señales de que ha llegado el momento de ver a un asesor fiscal:
 
 - Tienes **más de 100 operaciones** al año
-- Operas en **varios exchanges** y usas **protocolos DeFi**
+- Operas en **varios exchanges** y usas **protocolos [DeFi](/es/glossary/#defi)**
 - Has recibido **ingresos en crypto** (sueldo, staking, minería)
 - **Vives en un país pero operas desde otro**
-- Tienes un portfolio complejo con **NFTs, DeFi y yield farming**
+- Tienes un portfolio complejo con **[NFTs](/es/glossary/#nft), DeFi y yield farming**
 - Hacienda ya te ha enviado **una carta con preguntas**
 
 Un buen asesor fiscal especializado en crypto te ahorrará más dinero de lo que cuesta. Especialmente si estás en EE. UU., donde los errores pueden costar miles de dólares en multas.
@@ -236,7 +236,7 @@ Antes de empezar a operar activamente, repasa esta lista:
 - [ ] He guardado el historial de operaciones del exchange
 - [ ] Entiendo qué método contable (FIFO / LIFO) se aplica
 - [ ] Conozco la fecha límite de declaración de mi país
-- [ ] He guardado capturas de todas las operaciones P2P
+- [ ] He guardado capturas de todas las operaciones [P2P](/es/glossary/#p2p)
 - [ ] He comprobado si puedo deducir pérdidas
 - [ ] He valorado si necesito un asesor fiscal
 - [ ] Entiendo la diferencia entre mantener (sin impuestos) y vender (con impuestos)

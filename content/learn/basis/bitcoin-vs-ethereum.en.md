@@ -67,7 +67,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 - Supply: uncapped (but has burning mechanism)
 - Consensus: [Proof of Stake](/en/glossary/#proof-of-stake) (energy-efficient)
 - Transactions: ~15-30 per second
-- Average block time: ~12 seconds
+- Average [block](/en/glossary/#block) time: ~12 seconds
 
 ---
 
@@ -75,9 +75,9 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 
 | | Bitcoin | Ethereum |
 |---|---|---|
-| **Purpose** | Digital money / store of value | Decentralized world computer |
+| **Purpose** | Digital money / store of value | [Decentralized](/en/glossary/#decentralization) world computer |
 | **Best analogy** | Gold | Oil |
-| **What runs on it** | Just transactions (BTC) | Apps, tokens, NFTs, smart contracts |
+| **What runs on it** | Just transactions (BTC) | Apps, tokens, [NFTs](/en/glossary/#nft), smart contracts |
 | **Programmable** | No (intentionally limited) | Yes (Turing-complete) |
 | **Supply** | Fixed (21M) | Variable (burn + issue) |
 | **Energy use** | High (PoW) | Low (PoS) |
@@ -96,7 +96,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 
 ### Choose Ethereum if:
 
-- You want to **use crypto** — DeFi, NFTs, apps
+- You want to **use crypto** — [DeFi](/en/glossary/#defi), NFTs, apps
 - You're interested in **programmable money**
 - You want to **earn yield** through [staking](/en/glossary/#staking) or DeFi
 - You believe in the **future of decentralized apps**

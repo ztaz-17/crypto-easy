@@ -190,7 +190,7 @@ Jede Kerze zeigt die Kursbewegung über einen gewählten Zeitraum (z. B. 1 Stu
 
 ## Vergleich: Investieren vs Traden
 
-| Kriterium | Investieren (HODL) | Traden |
+| Kriterium | Investieren ([HODL](/de/glossary/#hodl)) | Traden |
 |-----------|---------------------|--------|
 | Haltedauer | Monate / Jahre | Minuten / Tage / Wochen |
 | Zeitaufwand | Gering (eine Stunde im Monat) | Hoch (Stunden am Tag) |

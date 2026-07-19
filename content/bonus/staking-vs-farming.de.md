@@ -39,8 +39,8 @@ Staking bedeutet, dass du **deine Coins im [Blockchain](/de/glossary/#blockchain
 So funktioniert es:
 
 - du wählst eine [Kryptowährung](/de/glossary/#cryptocurrency), die auf **Proof-of-Stake** (PoS) basiert;
-- du überweist deine Coins zum Staking (über eine Wallet oder Börse);
-- die Blockchain nutzt sie zur Validierung von Transaktionen;
+- du überweist deine Coins zum [Staking](/de/glossary/#staking) (über eine [Wallet](/de/glossary/#wallet) oder Börse);
+- die [Blockchain](/de/glossary/#blockchain) nutzt sie zur Validierung von Transaktionen;
 - du bekommst dafür Belohnungen ausgezahlt.
 
 Einfach gesagt:
@@ -70,7 +70,7 @@ Farming ist eine aktivere Strategie. Du **stellst [Liquidität](/de/glossary/#li
 
 So sieht das aus:
 
-- du gehst zu einem DeFi-Protokoll (z. B. Uniswap, Aave, Curve);
+- du gehst zu einem [DeFi](/de/glossary/#defi)-Protokoll (z. B. Uniswap, Aave, Curve);
 - du zahlst ein [Token](/de/glossary/#token)-Paar in einen **Liquidity Pool** ein (z. B. USDT und ETH);
 - das Protokoll nutzt sie für Handelsoperationen;
 - du verdienst Händlergebühren + oft Bonus-Token.
@@ -152,7 +152,7 @@ Beispiel: der Ronin-Network-Hack — 600 Millionen Dollar weg. Die Leute haben a
 
 ### Rug Pull
 
-Die Macher eines Projekts sammeln Liquidität — und verschwinden mit dem Geld. Das passiert ständig, besonders bei neuen „Farmen" mit irrsinnigen Renditen.
+Die Macher eines Projekts sammeln [Liquidität](/de/glossary/#liquidity) — und verschwinden mit dem Geld. Das passiert ständig, besonders bei neuen „Farmen" mit irrsinnigen Renditen.
 
 ### Impermanent Loss
 

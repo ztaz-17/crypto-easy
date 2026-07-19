@@ -42,12 +42,12 @@ Der **ERC-20**-Standard (und seine Verwandten BEP-20, TRC-20 usw.) ist ein Smart
 - `transfer(from, to, amount)` — verschiebt Tokens;
 - `approve(spender, amount)` — erlaubt einer anderen Adresse, deine Tokens auszugeben.
 
-Bei einer normalen Überweisung unterschreibst du die Transaktion selbst. Aber wenn du mit einer DeFi-App interagierst, muss der Vertrag Tokens **selbstständig** von dir abziehen können.
+Bei einer normalen Überweisung unterschreibst du die Transaktion selbst. Aber wenn du mit einer [DeFi](/de/glossary/#defi)-App interagierst, muss der Vertrag Tokens **selbstständig** von dir abziehen können.
 
 So läuft das im Hintergrund ab:
 
 1. Du rufst `approve(DEX_Contract, 1000 USDT)` auf;
-2. Jetzt kann der DEX-Vertrag `transferFrom(deine_Adresse, Pool, 1000 USDT)` aufrufen;
+2. Jetzt kann der [DEX](/de/glossary/#dex)-Vertrag `transferFrom(deine_Adresse, Pool, 1000 USDT)` aufrufen;
 3. Der Tausch erfolgt, ohne dass du jeden Schritt einzeln signieren musst.
 
 👉 **Das ist eine Token-Berechtigung** — du gibst einem Smart Contract die Erlaubnis, deine Tokens zu bewegen.
@@ -74,7 +74,7 @@ approve(DEX, MAX_UINT_256)
 
 `MAX_UINT_256` ist die größte Zahl in Ethereum (2²⁵⁶ − 1). Praktisch unendlich.
 
-Warum machen dApps das?
+Warum machen [dApps](/de/glossary/#dapp) das?
 
 - **Bequemlichkeit** — kein Bestätigen bei jedem einzelnen Trade nötig;
 - **günstiger** — eine `approve`-Transaktion statt mehrerer;
@@ -119,7 +119,7 @@ Wenn du "nein" gesagt hast — bist du nicht allein. Das ist völlig normal. Abe
 Der einfachste Weg:
 
 1. öffne [Etherscan.io](https://etherscan.io);
-2. füge deine Wallet-Adresse ein;
+2. füge deine [Wallet](/de/glossary/#wallet)-Adresse ein;
 3. gehe zum Tab **"Token Approvals"** (oder einfach "Approvals");
 4. siehst du eine Liste der Verträge und wie viel sie ausgeben dürfen.
 
@@ -237,7 +237,7 @@ Wenn eine dApp verlangt, dass du **sofort alle deine Tokens** freigibst, und dic
 
 ### Fazit
 
-Token-Berechtigungen sind ein zentraler DeFi-Mechanismus — ohne sie würden Swaps, Liquiditätspools und NFT-Marktplätze nicht funktionieren.
+Token-Berechtigungen sind ein zentraler DeFi-Mechanismus — ohne sie würden Swaps, Liquiditätspools und [NFT](/de/glossary/#nft)-Marktplätze nicht funktionieren.
 
 Aber sie sind auch **der beliebteste Angriffsvektor**:
 

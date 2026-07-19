@@ -34,7 +34,7 @@ The answer lies in how the [blockchain](/en/glossary/#blockchain) itself works. 
 
 ## What Is a Block in a Blockchain
 
-A blockchain is a chain of blocks. It sounds like a tautology, but that's literally what it is.
+A [blockchain](/en/glossary/#blockchain) is a chain of [blocks](/en/glossary/#block). It sounds like a tautology, but that's literally what it is.
 
 A **block** is a container that bundles transactions together. Think of it as a page in a ledger. Several transfers are written on a single page. When the page is full, it gets added to the book and a new one starts.
 
@@ -76,7 +76,7 @@ A new block in Ethereum appears roughly every **~12 seconds**.
 
 ### Solana and Other Fast Networks
 
-Solana uses a combination of Proof of History and Proof of Stake. Blocks here appear every **~400 milliseconds**. A transaction is confirmed almost instantly.
+Solana uses a combination of Proof of History and [Proof of Stake](/en/glossary/#proof-of-stake). Blocks here appear every **~400 milliseconds**. A transaction is confirmed almost instantly.
 
 > More on consensus: [Proof of Work](/en/glossary/#proof-of-work), [Proof of Stake](/en/glossary/#proof-of-stake).
 
@@ -110,7 +110,7 @@ The more blocks come after yours — the harder it is to undo the transaction. E
 | Number of confirmations | Reliability |
 |-------------------------|-------------|
 | 0 | Transaction in the mempool — may not get confirmed |
-| 1 | Landed in a block, but reversal is possible via a fork |
+| 1 | Landed in a block, but reversal is possible via a [fork](/en/glossary/#fork) |
 | 3 | Reliable enough for small amounts |
 | 6 | **Very reliable** — the standard for Bitcoin |
 | 12+ | Maximum security |
@@ -163,7 +163,7 @@ Let's look at a transaction through the user's eyes:
 | **3 confirmations** | Safe for small amounts | "Confirmed (3/6)" | "Awaiting credit" |
 | **6 confirmations** | Full security for Bitcoin | "Completed" | "Credited" |
 
-Note: the receiver can see an unconfirmed transaction via a block explorer (e.g., [mempool.space](https://mempool.space) for Bitcoin). But their wallet will still show a zero balance until enough confirmations stack up.
+Note: the receiver can see an unconfirmed transaction via a block explorer (e.g., [mempool.space](https://mempool.space) for Bitcoin). But their [wallet](/en/glossary/#wallet) will still show a zero balance until enough confirmations stack up.
 
 ---
 

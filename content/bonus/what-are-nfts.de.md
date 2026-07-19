@@ -21,7 +21,7 @@ Du hast diese Geschichte bestimmt schon gehört: 2021 wurde ein digitales Bild �
 
 Das war ein **[NFT](/de/glossary/#nft)** – ein Non-Fungible [Token](/de/glossary/#token).
 
-Aber NFTs nur auf teure Bilder zu reduzieren, ist, als würde man das Internet auf E-Mail reduzieren. Lass uns mal anschauen, was diese Technologie eigentlich kann und wo sie schon heute genutzt wird.
+Aber [NFTs](/de/glossary/#nft) nur auf teure Bilder zu reduzieren, ist, als würde man das Internet auf E-Mail reduzieren. Lass uns mal anschauen, was diese Technologie eigentlich kann und wo sie schon heute genutzt wird.
 
 ---
 
@@ -49,7 +49,7 @@ NFTs sind das digitale Äquivalent zu einem „Unikat".
 
 ### Wie es funktioniert
 
-Ein NFT ist ein **Token** (ein Eintrag auf der Blockchain), der:
+Ein NFT ist ein **Token** (ein Eintrag auf der [Blockchain](/de/glossary/#blockchain)), der:
 
 - Metadaten speichert (einen Link zur Datei, Beschreibung, Eigenschaften);
 - die Eigentumsgeschichte nachverfolgt;
@@ -119,7 +119,7 @@ Warum das praktisch ist:
 
 - die Echtheit lässt sich mit einem Klick überprüfen (kein Archivdurchwühlen nötig);
 - das Dokument kann nicht gefälscht werden;
-- du trägst es in deiner Wallet bei dir, statt eine Papierkopie aufzubewahren.
+- du trägst es in deiner [Wallet](/de/glossary/#wallet) bei dir, statt eine Papierkopie aufzubewahren.
 
 Einige Universitäten stellen bereits Diplome auf der Blockchain aus.
 

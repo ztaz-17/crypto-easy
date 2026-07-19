@@ -57,7 +57,7 @@ Pero si esa dirección alguna vez se vincula con tu identidad (a través de un e
 
 ### Cómo Funciona el Análisis de Cadena
 
-Hay empresas — Chainalysis, Elliptic, CipherTrace — que hacen exactamente esto. Analizan la blockchain:
+Hay empresas — Chainalysis, Elliptic, CipherTrace — que hacen exactamente esto. Analizan la [blockchain](/es/glossary/#blockchain):
 
 - conectan direcciones con exchanges;
 - rastrean el movimiento del dinero;
@@ -261,7 +261,7 @@ El dólar, el euro, el yuan — son **monedas fiduciarias**. No están respaldad
 
 ### ¿Qué Respaldan al Crypto?
 
-Las criptomonedas también están respaldadas por la confianza. Pero no la confianza en un gobierno — sino la confianza en:
+Las [criptomonedas](/es/glossary/#cryptocurrency) también están respaldadas por la confianza. Pero no la confianza en un gobierno — sino la confianza en:
 
 - **la red** — miles de nodos en todo el mundo procesando transacciones;
 - **el código** — un algoritmo que nadie puede cambiar unilateralmente;

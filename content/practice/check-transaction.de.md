@@ -32,17 +32,17 @@ In diesem Artikel erfährst du:
 - was die Status Success, Pending und Failed bedeuten;
 - wie du die Details liest: [Block](/de/glossary/#block), Gebühr, von wo nach wo;
 - welche Explorer für verschiedene Netzwerke funktionieren;
-- wie du eine Wallet-Überwachung einrichtest.
+- wie du eine [Wallet](/de/glossary/#wallet)-Überwachung einrichtest.
 
 ---
 
 ## Was ist ein Blockchain-Explorer und warum brauchst du ihn?
 
-Ein **Blockchain-Explorer** ist wie „Google für die Blockchain" – eine öffentliche Website, die alles zeigt, was im Netzwerk passiert:
+Ein **[Blockchain](/de/glossary/#blockchain)-Explorer** ist wie „Google für die Blockchain" – eine öffentliche Website, die alles zeigt, was im Netzwerk passiert:
 
 - jede Transaktion;
 - jedes Wallet und dessen Guthaben;
-- jeden Block und seinen Inhalt.
+- jeden [Block](/de/glossary/#block) und seinen Inhalt.
 
 Im Gegensatz zu einer Bank, wo du nur deine eigenen Aktivitäten siehst, ist in der Blockchain **alles sichtbar**. Die Daten sind nur in Adressen codiert – ohne Verbindung zu deiner Identität.
 

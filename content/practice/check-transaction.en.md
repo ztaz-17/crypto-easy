@@ -31,17 +31,17 @@ In this article we'll cover:
 - what the Success, Pending, and Failed statuses mean;
 - how to read the details: [block](/en/glossary/#block), fee, from where to where;
 - which explorers work for different networks;
-- how to set up wallet monitoring.
+- how to set up [wallet](/en/glossary/#wallet) monitoring.
 
 ---
 
 ## What Is a Blockchain Explorer and Why Do You Need It
 
-A **blockchain explorer** is like "Google for the blockchain." A public website that shows everything happening in the network:
+A **[blockchain](/en/glossary/#blockchain) explorer** is like "Google for the blockchain." A public website that shows everything happening in the network:
 
 - every transaction;
 - every wallet and its balance;
-- every block and its contents.
+- every [block](/en/glossary/#block) and its contents.
 
 Unlike a bank where you only see your own activity, in the blockchain **everything is visible**. The data is just encoded into addresses — no link to your identity.
 

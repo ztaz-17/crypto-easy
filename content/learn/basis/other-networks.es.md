@@ -29,7 +29,7 @@ Echemos un vistazo a las [criptomonedas](/es/glossary/#cryptocurrency) más gran
 
 ## XRP (Ripple) — Para Transferencias Bancarias
 
-XRP no es solo una criptomoneda — es toda una plataforma para transferencias bancarias internacionales. Una transferencia SWIFT normal tarda de 3 a 5 días; XRP lo hace en segundos con comisiones casi nulas.
+XRP no es solo una [criptomoneda](/es/glossary/#cryptocurrency) — es toda una plataforma para transferencias bancarias internacionales. Una transferencia SWIFT normal tarda de 3 a 5 días; XRP lo hace en segundos con comisiones casi nulas.
 
 **Principal ventaja:** RippleNet — una red donde los bancos usan XRP como moneda [puente](/es/glossary/#bridge) para liquidaciones.
 
@@ -65,7 +65,7 @@ Solana es una [blockchain](/es/glossary/#blockchain) diseñada desde cero para l
 
 **Eventos clave en 2025–2026:**
 - Firedancer llegó a mainnet beta — es el segundo cliente independiente de la red (como Geth y Nethermind para Ethereum), haciendo a Solana más resistente.
-- Solana ha superado a Ethereum en volumen de DEX durante tres meses consecutivos — $120 mil millones al mes.
+- Solana ha superado a Ethereum en volumen de [DEX](/es/glossary/#dex) durante tres meses consecutivos — $120 mil millones al mes.
 - El sector DePIN (redes de infraestructura física descentralizada) está en auge en Solana: Helium, Hivemapper, Render Network.
 
 > Solana sacrifica descentralización por velocidad. Es una compensación que millones de usuarios aceptan.
@@ -74,7 +74,7 @@ Solana es una [blockchain](/es/glossary/#blockchain) diseñada desde cero para l
 
 ## TRON (TRX) — Stablecoins y Entretenimiento
 
-TRON es una blockchain que apostó fuerte por las stablecoins y las aplicaciones de entretenimiento (juegos, casinos, streaming). No pretende ser «la más descentralizada», pero cuando se trata de volumen de transacciones USDT, es la número uno del mundo.
+TRON es una [blockchain](/es/glossary/#blockchain) que apostó fuerte por las stablecoins y las aplicaciones de entretenimiento (juegos, casinos, streaming). No pretende ser «la más descentralizada», pero cuando se trata de volumen de transacciones USDT, es la número uno del mundo.
 
 **Principal ventaja:** Más del 56% de todas las transferencias USDT del mundo pasan por la red TRON.
 
@@ -110,8 +110,8 @@ Hyperliquid es una blockchain construida específicamente para el trading descen
 
 **Eventos clave en 2025–2026:**
 - Hyperliquid superó la marca de $1 billón en volumen de trading acumulado, convirtiéndose en el DEX de derivados más grande.
-- El staking de HYPE se lanzó con ~25% APY — se apostaron $500 millones en la primera semana.
-- HyperEVM — una capa compatible con Ethereum para contratos inteligentes — permite ejecutar tokens ERC-20 y protocolos DeFi directamente en Hyperliquid.
+- El [staking](/es/glossary/#staking) de HYPE se lanzó con ~25% APY — se apostaron $500 millones en la primera semana.
+- HyperEVM — una capa compatible con Ethereum para contratos inteligentes — permite ejecutar tokens ERC-20 y protocolos [DeFi](/es/glossary/#defi) directamente en Hyperliquid.
 
 > Hyperliquid es una apuesta a que el futuro del trading pertenece a los exchanges descentralizados, y que la velocidad puede alcanzar a los CEX.
 
@@ -134,12 +134,12 @@ LEO es el token del ecosistema de Bitfinex y sus proyectos relacionados (Tether,
 
 ## Bitcoin Cash (BCH) — Bitcoin para Pagos
 
-Bitcoin Cash se separó de Bitcoin en 2017 por una disputa sobre el escalado. La idea central: bloques más grandes = más transacciones = un sistema de pagos para el uso diario.
+Bitcoin Cash se separó de Bitcoin en 2017 por una disputa sobre el escalado. La idea central: [bloques](/es/glossary/#block) más grandes = más transacciones = un sistema de pagos para el uso diario.
 
 **Principal ventaja:** El tamaño de bloque se aumentó a 64 MB (tras la actualización de 2026) — hasta 15,000 TPS.
 
 **Eventos clave en 2025–2026:**
-- El hard fork «BlackRock»: bloques de 64 MB + multifirmas Schnorr para privacidad.
+- El hard [fork](/es/glossary/#fork) «BlackRock»: bloques de 64 MB + multifirmas Schnorr para privacidad.
 - BitPay empezó a aceptar BCH para liquidaciones por defecto — 500,000 pagos solo en el cuarto trimestre de 2025.
 - Intercambios atómicos con Lightning Network — BCH se puede «puentear» a LN para micropagos instantáneos.
 
@@ -186,7 +186,7 @@ Sui es una blockchain de nueva generación construida en el lenguaje Move (desar
 **Eventos clave en 2025–2026:**
 - Consenso Mysticeti — 390 ms hasta la finalidad, convirtiendo a Sui oficialmente en la L1 más rápida.
 - BlackRock lanzó un fondo BUIDL en Sui — $200 millones en [TVL](/es/glossary/#tvl) en el primer mes.
-- MoveGPT — el primer framework de agentes de IA en Sui, permitiendo desplegar bots de trading y minteadores de NFTs directamente en la cadena.
+- MoveGPT — el primer framework de agentes de IA en Sui, permitiendo desplegar bots de trading y minteadores de [NFTs](/es/glossary/#nft) directamente en la cadena.
 
 > Sui es un caballo oscuro. Menor capitalización de mercado, pero una de las tecnologías más avanzadas del momento. Parte del ecosistema Move (Aptos, Sui).
 
@@ -246,7 +246,7 @@ Toncoin es una blockchain creada por el equipo de Telegram (originalmente Telegr
 
 ## ¿Cuál Deberías Elegir?
 
-**Si eres principiante:** empieza con Solana (barata y rápida) o TON (una cartera dentro de Telegram).
+**Si eres principiante:** empieza con Solana (barata y rápida) o TON (una [cartera](/es/glossary/#wallet) dentro de Telegram).
 
 **Si necesitas stablecoins para transferencias:** TRON es el estándar de facto para USDT.
 

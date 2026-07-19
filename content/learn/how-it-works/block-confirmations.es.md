@@ -34,7 +34,7 @@ La respuesta está en cómo funciona la propia [blockchain](/es/glossary/#blockc
 
 ## ¿Qué es un Bloque en una Blockchain
 
-Una blockchain es una cadena de bloques. Suena a tautología, pero es literalmente eso.
+Una [blockchain](/es/glossary/#blockchain) es una cadena de [bloques](/es/glossary/#block). Suena a tautología, pero es literalmente eso.
 
 Un **bloque** es un contenedor que agrupa transacciones. Piensa en él como una página de un libro de contabilidad. En una sola página se escriben varias transferencias. Cuando la página se llena, se añade al libro y se empieza una nueva.
 
@@ -76,7 +76,7 @@ Un nuevo bloque en Ethereum aparece aproximadamente cada **~12 segundos**.
 
 ### Solana y Otras Redes Rápidas
 
-Solana utiliza una combinación de Proof of History y Proof of Stake. Aquí los bloques aparecen cada **~400 milisegundos**. Una transacción se confirma casi al instante.
+Solana utiliza una combinación de Proof of History y [Proof of Stake](/es/glossary/#proof-of-stake). Aquí los bloques aparecen cada **~400 milisegundos**. Una transacción se confirma casi al instante.
 
 > Más sobre consenso: [Proof of Work](/es/glossary/#proof-of-work), [Proof of Stake](/es/glossary/#proof-of-stake).
 
@@ -110,7 +110,7 @@ Cuantos más bloques vengan después del tuyo — más difícil es deshacer la t
 | Número de confirmaciones | Fiabilidad |
 |--------------------------|------------|
 | 0 | Transacción en el mempool — puede que no se confirme |
-| 1 | Llegó a un bloque, pero es posible revertirla mediante un fork |
+| 1 | Llegó a un bloque, pero es posible revertirla mediante un [fork](/es/glossary/#fork) |
 | 3 | Suficientemente fiable para cantidades pequeñas |
 | 6 | **Muy fiable** — el estándar para Bitcoin |
 | 12+ | Máxima seguridad |
@@ -163,7 +163,7 @@ Veamos una transacción a través de los ojos del usuario:
 | **3 confirmaciones** | Seguro para cantidades pequeñas | "Confirmado (3/6)" | "Esperando acreditación" |
 | **6 confirmaciones** | Seguridad total para Bitcoin | "Completado" | "Acreditado" |
 
-Nota: el receptor puede ver una transacción no confirmada a través de un explorador de bloques (por ejemplo, [mempool.space](https://mempool.space) para Bitcoin). Pero su cartera seguirá mostrando un saldo de cero hasta que se acumulen suficientes confirmaciones.
+Nota: el receptor puede ver una transacción no confirmada a través de un explorador de bloques (por ejemplo, [mempool.space](https://mempool.space) para Bitcoin). Pero su [cartera](/es/glossary/#wallet) seguirá mostrando un saldo de cero hasta que se acumulen suficientes confirmaciones.
 
 ---
 

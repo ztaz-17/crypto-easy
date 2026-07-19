@@ -221,7 +221,7 @@ In most countries — yes. In the US and Germany — definitely yes. In Russia �
 
 ### How do I figure out how much tax I owe?
 
-Use services like Koinly, CoinTracker, or CoinTracking. They connect to your wallets and exchanges and calculate your profits automatically.
+Use services like Koinly, CoinTracker, or CoinTracking. They connect to your [wallets](/en/glossary/#wallet) and exchanges and calculate your profits automatically.
 
 ### What happens if I don't pay crypto taxes?
 

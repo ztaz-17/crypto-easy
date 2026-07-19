@@ -61,8 +61,8 @@ Sobald du das tust – sind deine Gelder in Sekunden weg.
 
 - überprüfe immer die URL – die echte Adresse muss exakt stimmen, keine Abweichungen;
 - nutze Lesezeichen, keine Suchergebnisse oder E-Mail-Links;
-- gib deine Seed-Phrase niemals auf einer Website ein – selbst wenn das Design vertrauenswürdig aussieht;
-- installiere eine Phishing-Blocker-Erweiterung wie Wallet Guard.
+- gib deine [Seed-Phrase](/de/glossary/#seed-phrase) niemals auf einer Website ein – selbst wenn das Design vertrauenswürdig aussieht;
+- installiere eine Phishing-Blocker-Erweiterung wie [Wallet](/de/glossary/#wallet) Guard.
 
 > **Ein echter Dienst wird dich niemals nach deiner Seed-Phrase fragen.**
 
@@ -104,7 +104,7 @@ Ein [Airdrop](/de/glossary/#airdrop) ist eine kostenlose [Token](/de/glossary/#t
 
 ### Echte Beispiele
 
-- **Uniswap UNI Airdrop** – Dutzende Fake-Seiten tauchten nach dem echten Uniswap-Airdrop auf;
+- **Uniswap UNI [Airdrop](/de/glossary/#airdrop)** – Dutzende Fake-Seiten tauchten nach dem echten Uniswap-Airdrop auf;
 - **Fake-[NFT](/de/glossary/#nft)-Mints** – „kostenloser NFT-Mint", der dein ETH abzieht, wenn du signierst;
 - **Token-Approval-Betrug** – die Seite bittet dich, ein `approve` für einen unbegrenzten Betrag zu signieren.
 
@@ -253,7 +253,7 @@ Bevor du einen Link anklickst oder Daten eingibst, geh diese 5 Schritte durch:
 
 Wenn du Crypto an Betrüger gesendet hast:
 
-1. **Akzeptiere es** – Blockchain-Transaktionen sind unumkehrbar. Geld zurückzubekommen ist fast unmöglich.
+1. **Akzeptiere es** – [Blockchain](/de/glossary/#blockchain)-Transaktionen sind unumkehrbar. Geld zurückzubekommen ist fast unmöglich.
 2. **Sichere den Zugriff** – wenn deine Seed-Phrase kompromittiert wurde, transferiere sofort alle verbleibenden Gelder in ein neues Wallet.
 3. **Warne die Community** – poste darüber in sozialen Medien. Betrüger verwenden dieselben Adressen wieder.
 4. **Kontaktiere das Sicherheitsteam der Börse** – wenn du Gelder an eine Börse (z. B. Binance) gesendet hast, können sie das Konto des Betrügers einfrieren, auch wenn dies selten ist.
@@ -274,7 +274,7 @@ Die goldenen Regeln:
 - vertraue keinen Fremden;
 - gib keine Daten auf verdächtigen Seiten ein;
 - signiere keine Transaktionen, die du nicht verstehst;
-- nutze Cold Wallets zur Aufbewahrung;
+- nutze [Cold Wallets](/de/glossary/#cold-wallet) zur Aufbewahrung;
 - überprüfe Informationen immer aus mehreren Quellen.
 
 Crypto-Betrüger existieren nur, weil ihre Maschen noch funktionieren. Gib ihnen keine Chance.

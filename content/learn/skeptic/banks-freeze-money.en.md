@@ -215,7 +215,7 @@ Even if it's your own money.
 Many banks:
 
 - take a negative stance on crypto;  
-- block transactions with exchanges;  
+- [block](/en/glossary/#block) transactions with exchanges;  
 - restrict transfers.
 
 Why:
@@ -308,7 +308,7 @@ But only if:
 
 ## Comparison: Bank Account, Cash, Crypto Wallet
 
-| Criteria                | Bank Account       | Cash             | Crypto Wallet                  |
+| Criteria                | Bank Account       | Cash             | Crypto [Wallet](/en/glossary/#wallet)                  |
 |-------------------------|--------------------|------------------|--------------------------------|
 | Who controls it?        | The bank           | You              | You                            |
 | Can it be frozen?       | Yes                | No               | No (if non-custodial)          |

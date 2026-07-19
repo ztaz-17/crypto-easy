@@ -47,7 +47,7 @@ In diesem Artikel zeigen wir dir vier Spartricks:
 
 ## Warum sind die Gebühren so hoch?
 
-Eine Blockchain-Gebühr ist das, was du den **Validatoren** zahlst (die Transaktionen bestätigen).  
+Eine [Blockchain](/de/glossary/#blockchain)-Gebühr ist das, was du den **Validatoren** zahlst (die Transaktionen bestätigen).  
 Je beliebter das Netzwerk — desto mehr Leute wollen eine Überweisung tätigen. Je mehr mitmachen wollen — desto höher der Preis für einen Platz im nächsten [Block](/de/glossary/#block).
 
 **Ethereum** — das am stärksten ausgelastete Netzwerk für [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft) und [Stablecoin](/de/glossary/#stablecoin)-Transfers.  
@@ -93,8 +93,8 @@ Das Ergebnis: Visa-ähnliche Geschwindigkeit, Gebühren in **Cent**.
 ### Arbitrum ($ARB)
 Eines der beliebtesten L2s für Ethereum.
 - Gebühr: **0,05–0,3 $**
-- Verwendung: USDT/USDC-Transfers, DeFi, NFTs
-- Von allen gängigen Wallets unterstützt (MetaMask, Rabby, OKX Wallet)
+- Verwendung: USDT/USDC-Transfers, [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft)
+- Von allen gängigen [Wallets](/de/glossary/#wallet) unterstützt (MetaMask, Rabby, OKX Wallet)
 
 ### Optimism ($OP)
 Ähnliche Technologie, etwas andere Architektur.

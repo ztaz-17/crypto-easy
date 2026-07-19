@@ -61,7 +61,7 @@ En el momento en que lo haces — tu dinero desaparece en segundos.
 
 - revisa siempre la URL — la dirección real debe ser exacta, sin variaciones;
 - usa marcadores, no resultados de búsqueda ni enlaces de correos;
-- nunca ingreses tu frase semilla en ningún sitio web — aunque el diseño parezca legítimo;
+- nunca ingreses tu [frase semilla](/es/glossary/#seed-phrase) en ningún sitio web — aunque el diseño parezca legítimo;
 - instala una extensión antiblocking como Wallet Guard.
 
 > **Un servicio real nunca te pedirá tu frase semilla.**
@@ -104,7 +104,7 @@ Un [airdrop](/es/glossary/#airdrop) es un sorteo gratuito de [tokens](/es/glossa
 
 ### Ejemplos reales
 
-- **Airdrop de UNI de Uniswap** — aparecieron docenas de sitios falsos tras el airdrop real de Uniswap;
+- **[Airdrop](/es/glossary/#airdrop) de UNI de Uniswap** — aparecieron docenas de sitios falsos tras el airdrop real de Uniswap;
 - **Acuñaciones falsas de [NFT](/es/glossary/#nft)** — "acuñación gratuita de NFT" que drena tu ETH cuando firmas;
 - **Estafa de aprobación de tokens** — el sitio te pide firmar un `approve` por una cantidad ilimitada.
 
@@ -136,7 +136,7 @@ El guion:
 ### Cómo identificarlo
 
 - el soporte real **nunca te escribe primero**;
-- el soporte real nunca pide tu frase semilla, clave privada o contraseña;
+- el soporte real nunca pide tu frase semilla, [clave privada](/es/glossary/#private-key) o contraseña;
 - las cuentas oficiales tienen una marca de verificación;
 - los enlaces de soporte solo deben venir del sitio web oficial.
 
@@ -253,7 +253,7 @@ Antes de hacer clic en cualquier enlace o ingresar tus datos, sigue estos 5 paso
 
 Si has enviado crypto a estafadores:
 
-1. **Acéptalo** — las transacciones en blockchain son irreversibles. Recuperar los fondos es casi imposible.
+1. **Acéptalo** — las transacciones en [blockchain](/es/glossary/#blockchain) son irreversibles. Recuperar los fondos es casi imposible.
 2. **Bloquea el acceso** — si tu frase semilla fue comprometida, traslada inmediatamente los fondos restantes a una wallet nueva.
 3. **Avisa a la comunidad** — publica en redes sociales. Los estafadores reutilizan las mismas direcciones.
 4. **Contacta al equipo de seguridad del exchange** — si enviaste fondos a un exchange (ej. Binance), pueden congelar la cuenta del estafador, aunque es poco común.

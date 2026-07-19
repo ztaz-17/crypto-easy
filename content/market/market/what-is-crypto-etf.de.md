@@ -31,7 +31,7 @@ Der Hauptunterschied zum direkten Krypto-Kauf:
 
 ## Spot-ETF vs Futures-ETF: Was ist der Unterschied
 
-**Spot-ETF** — der Fonds kauft und hält tatsächlich echte Kryptowährung. Jeder Anteil ist durch echte Coins gedeckt. Das ist wichtig, weil der ETF-Preis dem tatsächlichen Krypto-Preis sehr nahe folgt.
+**Spot-ETF** — der Fonds kauft und hält tatsächlich echte [Kryptowährung](/de/glossary/#cryptocurrency). Jeder Anteil ist durch echte Coins gedeckt. Das ist wichtig, weil der ETF-Preis dem tatsächlichen Krypto-Preis sehr nahe folgt.
 
 **Futures-ETF** — der Fonds kauft Verträge auf den Krypto-Preis, nicht die Kryptowährung selbst. Das ist, als würde man auf den Apfelpreis wetten, statt echte Äpfel zu kaufen.
 

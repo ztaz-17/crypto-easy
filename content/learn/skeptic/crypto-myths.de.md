@@ -57,7 +57,7 @@ Sobald diese Adresse aber mit deiner Identität verknüpft wird (über eine Bör
 
 ### Wie Chain-Analyse funktioniert
 
-Es gibt Unternehmen – Chainalysis, Elliptic, CipherTrace – die genau das machen. Sie analysieren die Blockchain:
+Es gibt Unternehmen – Chainalysis, Elliptic, CipherTrace – die genau das machen. Sie analysieren die [Blockchain](/de/glossary/#blockchain):
 
 - verknüpfen Adressen mit Börsen;
 - verfolgen Geldbewegungen;
@@ -163,7 +163,7 @@ Das ist das Verhalten **jedes Anlagemarktes**, nicht das einer Blase.
 
 ### Die Realität: Moderne Apps sind einfacher als Online-Banking
 
-Schau dir MetaMask, Trust Wallet oder Exodus an. Das sind Apps, die:
+Schau dir MetaMask, Trust [Wallet](/de/glossary/#wallet) oder Exodus an. Das sind Apps, die:
 
 - in unter einer Minute installiert sind;
 - eine intuitive Benutzeroberfläche haben;

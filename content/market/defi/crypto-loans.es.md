@@ -45,7 +45,7 @@ En el mundo tradicional, obtener un préstamo funciona así:
 - el banco revisa tu historial crediticio y tus ingresos;
 - si todo está en orden — te dan el efectivo.
 
-DeFi funciona de una forma completamente distinta:
+[DeFi](/es/glossary/#defi) funciona de una forma completamente distinta:
 
 > **no demuestras que eres solvente — depositas una garantía.**
 
@@ -147,7 +147,7 @@ Lo destacado:
 
 - funciona de forma similar a Aave, pero sin tasas estables;
 - utiliza tasas de interés ajustadas algorítmicamente;
-- se integra con muchas carteras y servicios.
+- se integra con muchas [carteras](/es/glossary/#wallet) y servicios.
 
 ### MakerDAO
 
@@ -167,7 +167,7 @@ Aquí no solo tomas un préstamo — **creas la stablecoin DAI** bloqueando ETH 
 | Tiempo de aprobación  | Días a semanas                         | Segundos                                  |
 | Garantía              | Generalmente no necesaria (préstamos personales) | Obligatoria (150%+ del monto del préstamo) |
 | Interés               | 5–30% TAE (según crédito)             | 1–15% TAE (según oferta y demanda)        |
-| Acceso                | Pasaporte, KYC, +18                    | Conexión a internet, cualquier edad       |
+| Acceso                | Pasaporte, [KYC](/es/glossary/#kyc), +18                    | Conexión a internet, cualquier edad       |
 | Liquidación           | Tribunal, embargos, impagos            | Automática, gestionada por bots           |
 | Geografía             | Solo el país del banco                 | Global                                    |
 | Horario               | Horario laboral                        | 24/7, sin días festivos                   |
@@ -182,7 +182,7 @@ Los préstamos DeFi no son solo libertad — también conllevan riesgos serios.
 
 ### 1. Volatilidad y Liquidación
 
-Las criptomonedas son de los activos más volátiles del mundo. ETH puede caer un 20–30% en un solo día. Si tu factor de salud ya estaba bajo — la liquidación es inevitable.
+Las [criptomonedas](/es/glossary/#cryptocurrency) son de los activos más volátiles del mundo. ETH puede caer un 20–30% en un solo día. Si tu factor de salud ya estaba bajo — la liquidación es inevitable.
 
 > Recomendación: mantén tu factor de salud por encima de 1.5–2.0 en días tranquilos y de 2.5–3.0 en días volátiles.
 
@@ -214,7 +214,7 @@ Algunos protocolos permiten depositar [tokens](/es/glossary/#token) oscuros con 
 
 Un préstamo DeFi no es para comprar un coche o una casa. Es una herramienta para:
 
-- **obtener liquidez** sin vender tus activos (no quieres vender ETH pero necesitas USDC);
+- **obtener [liquidez](/es/glossary/#liquidity)** sin vender tus activos (no quieres vender ETH pero necesitas USDC);
 - **arbitraje y trading** (pedir prestado a una tasa baja, invertir en un pool de alto rendimiento);
 - **apalancamiento** (aumentar tu posición sin vender tus tenencias);
 - **préstamos flash** (estrategias complejas ejecutadas en una sola transacción).

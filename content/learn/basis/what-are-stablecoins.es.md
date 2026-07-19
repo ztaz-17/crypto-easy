@@ -155,10 +155,10 @@ Ejemplo: depositas $200 de ETH. El contrato te permite crear 150 DAI (ratio de g
 |---|------|------|-----|
 | **Emisor** | Tether Limited | Circle + Coinbase | Contrato inteligente MakerDAO |
 | **¿Centralizada?** | Sí | Sí | No |
-| **Auditorías** | Regulares | Regulares | En la blockchain |
+| **Auditorías** | Regulares | Regulares | En la [blockchain](/es/glossary/#blockchain) |
 | **Reservas** | Dólares + bonos + otros | Dólares + Bonos del Tesoro EE.UU. | Cripto (ETH, WBTC, etc.) |
 | **Riesgo** | Corporativo (Tether) | Regulatorio (EE.UU.) | Algorítmico (liquidaciones) |
-| **Disponibilidad** | En todas partes | Casi en todas partes | Principalmente DeFi |
+| **Disponibilidad** | En todas partes | Casi en todas partes | Principalmente [DeFi](/es/glossary/#defi) |
 | **Comisiones** | Bajas (TRC-20) | Medias | Depende de Ethereum |
 
 ---
@@ -193,7 +193,7 @@ Pero las stablecoins no son un "dólar gratis". Detrás hay empresas, algoritmos
 
 - **USDT** — apuesta por Tether. Confiable para trading, persisten dudas sobre transparencia.
 - **USDC** — apuesta por la regulación de EE.UU. Más transparente, pero menos extendida.
-- **DAI** — apuesta por la descentralización. Funciona sin empresas, pero es más compleja y riesgosa en crisis.
+- **DAI** — apuesta por la [descentralización](/es/glossary/#decentralization). Funciona sin empresas, pero es más compleja y riesgosa en crisis.
 
 Las stablecoins no reemplazan al 100% un depósito bancario. Pero para operar en cripto — son irreemplazables.
 

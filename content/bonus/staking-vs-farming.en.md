@@ -39,8 +39,8 @@ Staking is when you **lock up your coins** in the [blockchain](/en/glossary/#blo
 Here's how it works:
 
 - you pick a [cryptocurrency](/en/glossary/#cryptocurrency) that runs on **Proof-of-Stake** (PoS);
-- you transfer your coins into staking (via a wallet or exchange);
-- the blockchain uses them to validate transactions;
+- you transfer your coins into [staking](/en/glossary/#staking) (via a [wallet](/en/glossary/#wallet) or exchange);
+- the [blockchain](/en/glossary/#blockchain) uses them to validate transactions;
 - you get rewards paid out.
 
 In simple terms:
@@ -70,7 +70,7 @@ Farming is a more active strategy. You **provide liquidity** to [DeFi](/en/gloss
 
 Here's how it looks:
 
-- you go to a DeFi protocol (e.g., Uniswap, Aave, Curve);
+- you go to a [DeFi](/en/glossary/#defi) protocol (e.g., Uniswap, Aave, Curve);
 - you deposit a pair of [tokens](/en/glossary/#token) into a **liquidity pool** (e.g., USDT and ETH);
 - the protocol uses them for trading operations;
 - you earn trader fees + often bonus tokens.
@@ -86,7 +86,7 @@ Here's how it looks:
 ### Cons of Farming
 
 - **Complexity**: you need to understand how pools, impermanent loss, and gas fees work.
-- **High risks**: protocol hacks, rug pulls, sudden liquidity drops.
+- **High risks**: protocol hacks, rug pulls, sudden [liquidity](/en/glossary/#liquidity) drops.
 - **Active management**: yields change, so you have to monitor and move your assets around.
 - **Impermanent loss**: the token prices in the pool can shift, and you may lose part of your deposit.
 

@@ -48,7 +48,7 @@ Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para 
 
 ### Ejemplos
 
-| Cartera             | Tipo                | Característica                          |
+| [Cartera](/es/glossary/#wallet)             | Tipo                | Característica                          |
 |---------------------|----------------------|----------------------------------------|
 | **MetaMask**        | Extensión de navegador | La más popular para Ethereum y redes EVM |
 | **Trust Wallet**    | Aplicación móvil       | Cómoda, multimoneda, navegador [DApp](/es/glossary/#dapp) integrado |
@@ -80,7 +80,7 @@ Todo esto ocurre en segundos. ¿Cómodo? Mucho.
 
 - **las claves están en un dispositivo conectado a internet**;
 - si hay un virus, phishing o malware — el dinero puede ser robado;
-- si el teléfono se rompe — solo se puede recuperar con la frase semilla;
+- si el teléfono se rompe — solo se puede recuperar con la [frase semilla](/es/glossary/#seed-phrase);
 - requieren precaución al usarlas.
 
 ---
@@ -141,7 +141,7 @@ Aunque el ordenador esté infectado con un virus, el atacante no podrá robar la
 
 ## Caliente vs Fría: Tabla Comparativa
 
-| Criterio                | Billetera caliente                        | Billetera fría                            |
+| Criterio                | [Billetera caliente](/es/glossary/#hot-wallet)                        | [Billetera fría](/es/glossary/#cold-wallet)                            |
 |-------------------------|-------------------------------------------|------------------------------------------|
 | **Conexión a internet** | Siempre en línea                          | Fuera de línea (solo se conecta para firmar) |
 | **Seguridad**           | Media (depende del dispositivo)           | Alta (las claves no salen del dispositivo) |
@@ -150,7 +150,7 @@ Aunque el ordenador esté infectado con un virus, el atacante no podrá robar la
 | **Protección antivirus**| Baja                                     | Alta                                     |
 | **Para gastos diarios** | ✅ Excelente                              | ❌ Incómoda                              |
 | **Para almacenamiento a largo plazo** | ❌ Riesgoso          | ✅ Ideal                                 |
-| **DeFi / NFT**          | ✅ Fácil                                  | ⚠️ Posible pero más complejo            |
+| **[DeFi](/es/glossary/#defi) / [NFT](/es/glossary/#nft)**          | ✅ Fácil                                  | ⚠️ Posible pero más complejo            |
 | **Riesgo de pérdida de claves** | Mayor (virus, phishing)        | Menor (pero se puede perder el dispositivo) |
 | **Recuperación**        | Con frase semilla                         | Con frase semilla (se necesita un dispositivo nuevo) |
 

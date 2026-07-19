@@ -39,7 +39,7 @@ In diesem Artikel erfährst du:
 
 ### Was das ist
 
-**Liquidität** ist ein Maß dafür, wie leicht du einen Vermögenswert gegen Geld (oder einen anderen Vermögenswert) tauschen kannst, ohne den Preis wesentlich zu beeinflussen.
+**[Liquidität](/de/glossary/#liquidity)** ist ein Maß dafür, wie leicht du einen Vermögenswert gegen Geld (oder einen anderen Vermögenswert) tauschen kannst, ohne den Preis wesentlich zu beeinflussen.
 
 > **Beispiel aus dem echten Leben:**
 > Eine Wohnung zum Marktpreis innerhalb eines Monats zu verkaufen, ist schwierig. Einen Käufer finden, verhandeln, Papierkram erledigen. Das ist ein ** Vermögenswert mit geringer Liquidität**.
@@ -129,7 +129,7 @@ Das System prüft das Orderbuch:
 
 Wenn du 25 Coins kaufen willst, frisst sich deine Order durch mehrere Stufen hindurch. Dein durchschnittlicher Ausführungspreis liegt nicht bei 100 $, sondern etwa bei 101,20 $.
 
-Du wolltest zu 100 $ kaufen — gekauft hast du zu ~101 $. Das ist **Slippage**.
+Du wolltest zu 100 $ kaufen — gekauft hast du zu ~101 $. Das ist **[Slippage](/de/glossary/#slippage)**.
 
 > **Je größer deine Order im Verhältnis zur Markttiefe, desto mehr Slippage bekommst du.**
 

@@ -37,7 +37,7 @@ Das erwartet dich:
 
 ## Was ist TVL
 
-**TVL** (Total Value Locked) ist der Gesamtwert aller Vermögenswerte, die in den Smart Contracts eines Protokolls gesperrt sind.
+**[TVL](/de/glossary/#tvl)** (Total Value Locked) ist der Gesamtwert aller Vermögenswerte, die in den Smart Contracts eines Protokolls gesperrt sind.
 
 Einfach gesagt:
 
@@ -96,7 +96,7 @@ Was du machen kannst:
 - **TVL-Verlauf** ansehen — wie er sich im Laufe der Zeit verändert hat;
 - nach [Blockchain](/de/glossary/#blockchain) filtern (Ethereum, Solana, Arbitrum usw.).
 
-DefiLlama größter Vorteil — es ist **unabhängig**. Die Daten kommen direkt von der Blockchain, über Smart Contracts.
+DefiLlama größter Vorteil — es ist **unabhängig**. Die Daten kommen direkt von der [Blockchain](/de/glossary/#blockchain), über Smart Contracts.
 
 > Nutze DefiLlama als dein Standard-Tool — so wie du einen Kurs auf CoinGecko prüfst.
 
@@ -226,7 +226,7 @@ TVL ist der erste Filter. Er gibt keine 100%ige Garantie, aber er filtert die of
 
 ### Was ist TVL in einfachen Worten?
 
-TVL (Total Value Locked) ist der Gesamtwert aller Vermögenswerte, die Nutzer in einem DeFi-Protokoll gesperrt haben. Je höher der TVL, desto mehr Vertrauen genießt das Protokoll.
+TVL (Total Value Locked) ist der Gesamtwert aller Vermögenswerte, die Nutzer in einem [DeFi](/de/glossary/#defi)-Protokoll gesperrt haben. Je höher der TVL, desto mehr Vertrauen genießt das Protokoll.
 
 ### Welcher TVL gilt als sicher?
 

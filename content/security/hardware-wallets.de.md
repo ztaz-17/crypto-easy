@@ -22,7 +22,7 @@ keywords:
 
 Eine Hardware-[Wallet](/de/glossary/#wallet) ist ein physisches Gerät in der Größe eines USB-Sticks, das [private Schlüssel](/de/glossary/#private-key) völlig isoliert vom Internet speichert. Es ist der goldene Standard für Sicherheit in der Kryptowelt.
 
-Wenn du eine normale Wallet auf dem Handy oder im Browser nutzt – liegen deine Schlüssel im Speicher eines Geräts, das mit dem Internet verbunden ist. Hacker, Viren oder Phishing-Seiten können sie stehlen. Mit einer Hardware-Wallet verlassen die Schlüssel **physisch niemals das Gerät**.
+Wenn du eine normale [Wallet](/de/glossary/#wallet) auf dem Handy oder im Browser nutzt – liegen deine Schlüssel im Speicher eines Geräts, das mit dem Internet verbunden ist. Hacker, Viren oder Phishing-Seiten können sie stehlen. Mit einer Hardware-Wallet verlassen die Schlüssel **physisch niemals das Gerät**.
 
 Selbst an einem verseuchten Computer – deine Gelder sind sicher. Das Gerät signiert die Transaktion im Inneren und gibt nur das Ergebnis (die Signatur) weiter. Die Schlüssel selbst gelangen nie nach außen.
 
@@ -81,7 +81,7 @@ Trezor ist der Urvater der Hardware-Wallets (das erste Modell kam 2014). Vollst�
 
 Wenn du das Gerät erhältst, überprüfe:
 - Die Verpackung ist nicht geöffnet, Siegel sind intakt
-- Inhalt: Gerät, USB-Kabel, Anleitung, Blätter für die Seed-Phrase
+- Inhalt: Gerät, USB-Kabel, Anleitung, Blätter für die [Seed-Phrase](/de/glossary/#seed-phrase)
 - Keine Gebrauchsspuren am Gerät
 
 **Wichtig:** Sieht das Gerät gebraucht aus oder sind die Siegel beschädigt – **verwende es nicht**. Kontaktiere den Verkäufer für einen Austausch.
@@ -153,7 +153,7 @@ Ja. Falls dein Ledger/Trezor kaputtgeht, verloren geht oder verbrennt – kaufst
 
 ### Was ist, wenn ich meine Seed-Phrase verliere?
 
-Das bedeutet dauerhaften Zugriffsverlust. Es gibt keinen „Passwort zurücksetzen"-Knopf in der Blockchain. Ohne Seed-Phrase sind deine Gelder unerreichbar. Deshalb ist es so wichtig, die Seed-Phrase an einem sicheren Ort aufzubewahren und eine Kopie anzulegen.
+Das bedeutet dauerhaften Zugriffsverlust. Es gibt keinen „Passwort zurücksetzen"-Knopf in der [Blockchain](/de/glossary/#blockchain). Ohne Seed-Phrase sind deine Gelder unerreichbar. Deshalb ist es so wichtig, die Seed-Phrase an einem sicheren Ort aufzubewahren und eine Kopie anzulegen.
 
 ### Unterscheidet sich die Sicherheit von Ledger und Trezor?
 

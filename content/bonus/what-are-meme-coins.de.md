@@ -75,7 +75,7 @@ Es kam so weit, dass:
 - Musk ankündigte, Tesla würde Doge für Merchandise akzeptieren;
 - Coinbase DOGE listete.
 
-👉 Musk verwandelte einen Witz in eine Top-10-Kryptowährung.
+👉 Musk verwandelte einen Witz in eine Top-10-[Kryptowährung](/de/glossary/#cryptocurrency).
 
 ---
 
@@ -142,7 +142,7 @@ Das Schema ist einfach:
 1. Große Spieler ([Wale](/de/glossary/#whale)) kaufen am Tiefpunkt ein;
 2. Sie hypen den Coin über soziale Medien, bezahlte Werbung und Influencer;
 3. Kleine Anleger steigen aus [FOMO](/de/glossary/#fomo) ein;
-4. Die Wale verkaufen — der Preis stürzt ab;
+4. Die [Wale](/de/glossary/#whale) verkaufen — der Preis stürzt ab;
 5. Die Kleinanleger bleiben auf wertlosen Tokens sitzen.
 
 > **Du spielst nicht gegen den Markt. Du spielst gegen die, die den Markt kontrollieren.**
@@ -164,7 +164,7 @@ Hier die typische Geschichte:
 1. Du hörst von einem Coin, der »gleich abhebt«;
 2. Du trittst einem Telegram-Chat bei — 50.000 Leute reden vom »Mond«;
 3. Du kaufst — und der Preis fängt an zu fallen;
-4. Der Chat überredet dich: »HODL! Gleich geht's los!«;
+4. Der Chat überredet dich: »[HODL](/de/glossary/#hodl)! Gleich geht's los!«;
 5. Der Preis fällt noch weiter;
 6. Der Chat wird still;
 7. Du bleibst mit Tokens sitzen, die niemand mehr kaufen will.

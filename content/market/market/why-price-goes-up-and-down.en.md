@@ -66,7 +66,7 @@ And as more and more people learn about Bitcoin, demand keeps growing while supp
 
 Here's another important piece: **[liquidity](/en/glossary/#liquidity)**.
 
-Liquidity means how quickly you can buy or sell an asset without moving the price too much.
+[Liquidity](/en/glossary/#liquidity) means how quickly you can buy or sell an asset without moving the price too much.
 
 On major exchanges (Binance, Bybit) liquidity is high — you can sell $100,000 and the price barely flinches.
 
@@ -144,7 +144,7 @@ Common [FUD](/en/glossary/#fud):
 - "Crypto is a bubble about to burst";
 - "Regulators are going to ban everything."
 
-Experienced traders often buy during FUD. Beginners sell.
+Experienced traders often buy during [FUD](/en/glossary/#fud). Beginners sell.
 
 ### Pump & Dump
 
@@ -167,7 +167,7 @@ If a person or fund owns 10,000 Bitcoin (hundreds of millions of dollars), their
 
 ### How Whales Influence Price
 
-When a whale sells a big batch:
+When a [whale](/en/glossary/#whale) sells a big batch:
 - a large sell order appears on the exchange;
 - other participants see it and start selling too;
 - the price drops.
@@ -249,7 +249,7 @@ The main ones:
 
 Understanding these factors won't give you 100% accurate predictions. But it will help you:
 - not panic during a dip;
-- not buy at the top driven by FOMO;
+- not buy at the top driven by [FOMO](/en/glossary/#fomo);
 - and ultimately — make more informed decisions.
 
 > **The crypto market is a marathon, not a sprint.**

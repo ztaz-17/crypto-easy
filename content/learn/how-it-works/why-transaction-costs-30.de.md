@@ -34,11 +34,11 @@ Krypto ist nicht »gratis«. Jede Transaktion erfordert, dass jemand für die Ar
 - **Miner** (Bitcoin) – sie lösen mathematische Rätsel, um [Blöcke](/de/glossary/#block) zu bestätigen;
 - **Validatoren** (Ethereum, Solana) – sie prüfen und bestätigen Transaktionen.
 
-Keine der beiden Gruppen macht das aus Nächstenliebe. Sie verdienen eine **Gebühr** für jede Überweisung, die sie in einen Block aufnehmen.
+Keine der beiden Gruppen macht das aus Nächstenliebe. Sie verdienen eine **Gebühr** für jede Überweisung, die sie in einen [Block](/de/glossary/#block) aufnehmen.
 
 > Wenn du eine Gebühr zahlst, zahlst du nicht dafür, »Geld zu senden« – du zahlst für **einen Platz in einem Block**.
 
-Eine Blockchain ist eine Kette von Blöcken, und jeder Block hat eine begrenzte Größe. Wenn mehr Leute Transaktionen senden wollen, als Plätze im Block vorhanden sind, beginnt eine Auktion.
+Eine [Blockchain](/de/glossary/#blockchain) ist eine Kette von Blöcken, und jeder Block hat eine begrenzte Größe. Wenn mehr Leute Transaktionen senden wollen, als Plätze im Block vorhanden sind, beginnt eine Auktion.
 
 ---
 
@@ -160,7 +160,7 @@ Der gleiche USDT kann über verschiedene Wege gesendet werden:
 
 ### 3. Gebühren manuell anpassen
 
-Fortgeschrittene Wallets (z. B. MetaMask) lassen dich einen Modus wählen:
+Fortgeschrittene [Wallets](/de/glossary/#wallet) (z. B. MetaMask) lassen dich einen Modus wählen:
 
 - **Langsam** – günstiger, aber langsamer;
 - **Marktüblich** – normale Geschwindigkeit;

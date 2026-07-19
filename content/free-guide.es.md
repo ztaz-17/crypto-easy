@@ -65,7 +65,7 @@ Explicamos qué comisiones existen, cómo minimizarlas y qué debes saber sobre 
 El error más costoso de todos. Miles de millones de dólares en Bitcoin se han perdido para siempre exactamente así.
 
 ¿Guardas tu [frase semilla](/es/glossary/#seed-phrase) en el teléfono? ¿En la nube? ¿En notas?  
-La guía incluye una lista de verificación de seguridad para la frase semilla utilizada por profesionales.
+La guía incluye una lista de verificación de seguridad para la [frase semilla](/es/glossary/#seed-phrase) utilizada por profesionales.
 
 ---
 
@@ -76,7 +76,7 @@ Además de los 5 errores, recibirás:
 - ✅ **Una lista de verificación antes de tu primera compra de cripto**
 - ✅ **5 libros y recursos para aprendizaje profundo**
 - ✅ **Una hoja de referencia de jerga cripto: qué significa cada término**
-- ✅ **Enlaces a exchanges y billeteras de confianza para principiantes**
+- ✅ **Enlaces a exchanges y [billeteras](/es/glossary/#wallet) de confianza para principiantes**
 
 ---
 

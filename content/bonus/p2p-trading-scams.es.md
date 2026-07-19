@@ -35,7 +35,7 @@ En este artículo veremos:
 
 ## Qué es el Trading P2P
 
-P2P (peer-to-peer) es el intercambio directo entre personas. Sin intermediarios:
+[P2P](/es/glossary/#p2p) (peer-to-peer) es el intercambio directo entre personas. Sin intermediarios:
 
 - te pones de acuerdo con el vendedor;
 - le transfieres dinero a su tarjeta;
@@ -211,7 +211,7 @@ Pero la mejor medicina es la **prevención**. Sigue las reglas anteriores y no p
 
 ## Conclusión
 
-El trading P2P es una forma conveniente de comprar o vender criptomonedas directamente, sin bancos intermediarios. Pero es el "factor humano" lo que lo hace vulnerable.
+El trading P2P es una forma conveniente de comprar o vender [criptomonedas](/es/glossary/#cryptocurrency) directamente, sin bancos intermediarios. Pero es el "factor humano" lo que lo hace vulnerable.
 
 Dos esquemas principales de estafa:
 

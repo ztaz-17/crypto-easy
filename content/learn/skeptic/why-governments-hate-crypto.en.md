@@ -65,7 +65,7 @@ The state has three key levers:
 
 1. **Issuance** — who prints money and how much. Only the central bank can issue the national currency.
 2. **Taxes** — the government decides how much you owe from what you earn.
-3. **Monetary policy** — interest rates, reserves, inflation control.
+3. **Monetary policy** — interest rates, reserves, [inflation](/en/glossary/#inflation) control.
 
 Cryptocurrencies undermine **all three**:
 
@@ -121,7 +121,7 @@ Yes, all transactions are recorded on the [blockchain](/en/glossary/#blockchain)
 
 > **The government can't just show up at your door with a tax bill if it doesn't know you have crypto.**
 
-Sure, blockchain analysis tools exist. But they only work if an address can be linked to a real identity — and that's not always possible.
+Sure, [blockchain](/en/glossary/#blockchain) analysis tools exist. But they only work if an address can be linked to a real identity — and that's not always possible.
 
 ### DeFi and the Difficulty of Tracking
 
@@ -138,7 +138,7 @@ And if it doesn't see them — it can't tax them.
 
 ### How Governments Try to Regulate
 
-This is where **exchanges** come into play. Since taxes are nearly impossible to collect via P2P and DeFi, governments put pressure on the one point of entry — centralized exchanges (CEXs).
+This is where **exchanges** come into play. Since taxes are nearly impossible to collect via [P2P](/en/glossary/#p2p) and [DeFi](/en/glossary/#defi), governments put pressure on the one point of entry — centralized exchanges (CEXs).
 
 Requirements for exchanges:
 
@@ -149,7 +149,7 @@ Requirements for exchanges:
 
 That's how the **IRS** works in the US (requires reports on every transaction), how regulators work in Europe (MiCA), and how they're trying to work in other countries.
 
-But the problem is that crypto is global. When one exchange shuts down, users move to decentralized exchanges (DEXs) or P2P platforms.
+But the problem is that crypto is global. When one exchange shuts down, users move to [decentralized](/en/glossary/#decentralization) exchanges (DEXs) or P2P platforms.
 
 ---
 
@@ -339,7 +339,7 @@ But there's a fundamental problem:
 
 You can ban exchanges — but not P2P.
 You can ban mining — but not the network.
-You can block websites — but not the protocol.
+You can [block](/en/glossary/#block) websites — but not the protocol.
 
 Crypto will exist as long as the internet exists. And governments will have to come to terms with that.
 
@@ -364,4 +364,4 @@ Technically — no. Bitcoin has no central server. To block the network, you'd h
 The Travel Rule is a FATF requirement that obligates crypto service providers (exchanges, swap services) to share sender and recipient information with each other. Effectively — the end of anonymity on centralized platforms.
 
 ### Do I have to pay taxes on crypto?
-In most countries — yes. Cryptocurrency is considered property or an asset, and profit from selling it is taxable. Specific rules depend on the country. Tax evasion can lead to serious consequences, including criminal liability.
+In most countries — yes. [Cryptocurrency](/en/glossary/#cryptocurrency) is considered property or an asset, and profit from selling it is taxable. Specific rules depend on the country. Tax evasion can lead to serious consequences, including criminal liability.

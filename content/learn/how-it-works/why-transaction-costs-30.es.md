@@ -34,11 +34,11 @@ El cripto no es "gratis". Cada transacción requiere que alguien reciba un pago 
 - **Miners** (Bitcoin) — resuelven problemas matemáticos para confirmar [bloques](/es/glossary/#block);
 - **Validadores** (Ethereum, Solana) — verifican y confirman transacciones.
 
-Ninguno de los dos lo hace por altruismo. Se ganan una **comisión** por cada transferencia que incluyen en un bloque.
+Ninguno de los dos lo hace por altruismo. Se ganan una **comisión** por cada transferencia que incluyen en un [bloque](/es/glossary/#block).
 
 > Cuando pagas una comisión, no estás pagando por "enviar dinero" — estás pagando por **un lugar en un bloque**.
 
-Una blockchain es una cadena de bloques, y cada bloque tiene un tamaño limitado. Cuando hay más personas que quieren enviar transacciones que lugares disponibles en un bloque, comienza una subasta.
+Una [blockchain](/es/glossary/#blockchain) es una cadena de bloques, y cada bloque tiene un tamaño limitado. Cuando hay más personas que quieren enviar transacciones que lugares disponibles en un bloque, comienza una subasta.
 
 ---
 

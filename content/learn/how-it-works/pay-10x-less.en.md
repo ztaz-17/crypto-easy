@@ -47,7 +47,7 @@ In this article we'll cover four main money-saving tools:
 
 ## Why are fees so high?
 
-A blockchain fee is what you pay **validators** (the people who confirm transactions).  
+A [blockchain](/en/glossary/#blockchain) fee is what you pay **validators** (the people who confirm transactions).  
 The more popular the network — the more people want to send a transfer. The more people want in — the higher the price for a spot in the next [block](/en/glossary/#block).
 
 **Ethereum** — the most congested network for [DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft), and [stablecoin](/en/glossary/#stablecoin) transfers.  
@@ -93,8 +93,8 @@ The result: Visa-like speed, fees measured in **cents**.
 ### Arbitrum ($ARB)
 One of the most popular L2s for Ethereum.
 - Fee: **$0.05–0.3**
-- Used for: USDT/USDC transfers, DeFi, NFTs
-- Supported by all major wallets (MetaMask, Rabby, OKX Wallet)
+- Used for: USDT/USDC transfers, [DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft)
+- Supported by all major [wallets](/en/glossary/#wallet) (MetaMask, Rabby, OKX Wallet)
 
 ### Optimism ($OP)
 Similar technology, slightly different architecture.

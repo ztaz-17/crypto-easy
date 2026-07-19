@@ -89,7 +89,7 @@ Die türkische Lira hat in den letzten fünf Jahren mehr als **80 % ihres Wertes
 
 2018 bekam man für einen Dollar etwa 5 Lira. 2024 — über 30 Lira.
 
-Offizielle Inflation — Dutzende Prozent pro Jahr. Die tatsächliche Inflation liegt noch höher.
+Offizielle [Inflation](/de/glossary/#inflation) — Dutzende Prozent pro Jahr. Die tatsächliche Inflation liegt noch höher.
 
 Menschen, die ihre Ersparnisse in Lira hielten, verloren Geld, ohne etwas zu tun.
 
@@ -107,7 +107,7 @@ Der Grund ist einfach:
 
 Peer-to-Peer-Crypto-Handel in der Türkei ist riesig. Einheimische:
 
-- kaufen USDT mit Lira auf P2P-Plattformen;
+- kaufen USDT mit Lira auf [P2P](/de/glossary/#p2p)-Plattformen;
 - bewahren Ersparnisse in Stablecoins auf;
 - verkaufen zurück, wenn sie Bargeld brauchen.
 
@@ -240,7 +240,7 @@ Es sind Stablecoins — nicht Bitcoin — die zum wichtigsten Werkzeug zur Bewah
 
 ### Die wichtigste Erkenntnis
 
-In Ländern mit angeschlagenen Volkswirtschaften ist Kryptowährung:
+In Ländern mit angeschlagenen Volkswirtschaften ist [Kryptowährung](/de/glossary/#cryptocurrency):
 
 ❌ keine Spekulation;
 ❌ kein „Börsenspiel";

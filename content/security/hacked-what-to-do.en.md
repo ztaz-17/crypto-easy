@@ -36,7 +36,7 @@ But that doesn't mean there's nothing you can do. This article lays out a clear 
 
 Your biggest enemy in this situation is panic. It's what makes you mess up:
 
-- moving your remaining funds to a "safe" wallet that actually belongs to the scammer;
+- moving your remaining funds to a "safe" [wallet](/en/glossary/#wallet) that actually belongs to the scammer;
 - clicking links in shady "recover your funds" messages;
 - paying "gas fees" to get your stolen money back;
 - giving your [seed phrase](/en/glossary/#seed-phrase) to "support staff."
@@ -53,7 +53,7 @@ The moment you notice suspicious activity, your goal is to **cut off** the attac
 
 If a [hot wallet](/en/glossary/#hot-wallet) was compromised (MetaMask, Trust Wallet, Phantom, etc.):
 
-1. **Turn off the internet** on the device (airplane mode) if you see a transaction that hasn't confirmed yet. This won't help if the seed phrase is already out there, but it might buy you seconds.
+1. **Turn off the internet** on the device (airplane mode) if you see a transaction that hasn't confirmed yet. This won't help if the [seed phrase](/en/glossary/#seed-phrase) is already out there, but it might buy you seconds.
 2. **Immediately create a new wallet** — on a different device or in a different app.
 3. **Generate a fresh seed phrase.** Never reuse the old one.
 
@@ -174,7 +174,7 @@ Some things will **only make the situation worse**:
 - ❌ Using "crypto recovery services" — they're all fraudulent.
 - ❌ Downloading software recommended by strangers on social media.
 - ❌ Telling your seed phrase to anyone, even "wallet representatives."
-- ❌ Trying to "reverse" a blockchain transaction — it's impossible.
+- ❌ Trying to "reverse" a [blockchain](/en/glossary/#blockchain) transaction — it's impossible.
 
 > **If someone promises to get your stolen money back for a fee — they're scamming you.**
 

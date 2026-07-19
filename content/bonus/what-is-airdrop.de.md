@@ -45,7 +45,7 @@ In diesem Artikel erfährst du:
 
 ## Was Ist ein Airdrop in Einfachen Worten
 
-**Airdrop** — eine kostenlose Verteilung von Token an Nutzer.
+**[Airdrop](/de/glossary/#airdrop)** — eine kostenlose Verteilung von Token an Nutzer.
 
 Projekte führen Airdrops durch, um:
 
@@ -58,7 +58,7 @@ So läuft es normalerweise ab:
 
 > Das Projekt erstellt eine Liste von Wallet-Adressen und sendet jedem eine bestimmte Anzahl von Token.
 
-Manchmal musst du etwas tun, um die Token zu erhalten — eine Transaktion durchführen, auf Social Media folgen usw. In anderen Fällen landen die Token ohne dein Zutun in deiner Wallet.
+Manchmal musst du etwas tun, um die Token zu erhalten — eine Transaktion durchführen, auf Social Media folgen usw. In anderen Fällen landen die Token ohne dein Zutun in deiner [Wallet](/de/glossary/#wallet).
 
 ### Ein Beispiel aus dem Alltag
 
@@ -145,9 +145,9 @@ Anspruchsberechtigt war jeder, der:
 
 - **Offizielle Projekt-Website** — suche nur auf vertrauenswürdigen Quellen (Twitter/X des Projekts, CoinDesk, offizieller Blog);
 - **Vorab angekündigt** — ernsthafte Projekte teilen ihre Pläne Wochen oder Monate im Voraus mit;
-- **Niemand fragt nach deiner Seed-Phrase** — das ist die goldene Regel;
+- **Niemand fragt nach deiner [Seed-Phrase](/de/glossary/#seed-phrase)** — das ist die goldene Regel;
 - **Token kommen automatisch** oder über die offizielle Website-Oberfläche;
-- **Token ist an Börsen gelistet** — wenn es keine Liquidität gibt, ist das verdächtig.
+- **Token ist an Börsen gelistet** — wenn es keine [Liquidität](/de/glossary/#liquidity) gibt, ist das verdächtig.
 
 ---
 

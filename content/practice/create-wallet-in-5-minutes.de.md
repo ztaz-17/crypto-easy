@@ -28,7 +28,7 @@ Es dauert weniger Zeit, als eine Tasse Tee aufzubrühen.
 
 ## Was ist eine Krypto-Wallet in einfachen Worten
 
-Eine Krypto-Wallet ist ein Programm, das die **Schlüssel** zu deinen Coins speichert.
+Eine Krypto-[Wallet](/de/glossary/#wallet) ist ein Programm, das die **Schlüssel** zu deinen Coins speichert.
 
 Wichtig: Die Coins selbst werden nicht in der Wallet gespeichert – sie leben auf der **[Blockchain](/de/glossary/#blockchain)**. Die Wallet gibt dir nur Zugriff darauf.
 
@@ -85,7 +85,7 @@ Klicke auf **Eine neue Wallet erstellen**.
 
 Du kannst sie mit einem Google/Apple-Konto verknüpfen, aber wir erstellen ein Passwort (mindestens 8 Zeichen). Dieses Passwort schützt den Zugriff auf die Erweiterung auf deinem Gerät.
 
-Danach zeigt dir MetaMask deine **geheime Wiederherstellungsphrase** (Seed-Phrase).
+Danach zeigt dir MetaMask deine **geheime Wiederherstellungsphrase** ([Seed-Phrase](/de/glossary/#seed-phrase)).
 
 ![Seed-Phrase in MetaMask](/images/metamask-seed-phrase.jpg)
 
@@ -173,7 +173,7 @@ Nachdem du deine Wallet erstellt hast, solltest du Folgendes sehen:
 
 Der einfachste Weg ist, dir eine Test-Überweisung von einer anderen Wallet zu schicken oder einen Freund zu bitten, ein paar Cent zu senden.
 
-Aber es gibt einen einfacheren Weg: **kopiere deine Adresse** und überprüfe sie auf einem Blockchain-Explorer.
+Aber es gibt einen einfacheren Weg: **kopiere deine Adresse** und überprüfe sie auf einem [Blockchain](/de/glossary/#blockchain)-Explorer.
 
 1. Kopiere deine Adresse (beginnt mit `0x`).
 2. Öffne **etherscan.io**.

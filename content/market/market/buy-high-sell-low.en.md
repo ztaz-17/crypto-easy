@@ -79,7 +79,7 @@ And they work as a pair.
 
 ### What It Looks Like
 
-FOMO is the fear that you're missing your shot at getting rich.
+[FOMO](/en/glossary/#fomo) is the fear that you're missing your shot at getting rich.
 
 Symptoms:
 

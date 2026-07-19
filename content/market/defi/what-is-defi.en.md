@@ -61,7 +61,7 @@ Traditional finance is built on intermediaries:
 | Insurance      | Covers risks                        |
 | Notary         | Certifies transactions              |
 
-DeFi replaces each of them with a **smart contract** — a program that runs automatically and doesn't rely on humans.
+[DeFi](/en/glossary/#defi) replaces each of them with a **smart contract** — a program that runs automatically and doesn't rely on humans.
 
 > If a bank is a company with employees and rules, DeFi is just code that anyone can use.
 
@@ -73,7 +73,7 @@ DeFi rests on three core components:
 
 ### 1. Blockchain
 
-Usually **Ethereum** (and other compatible networks: Polygon, Arbitrum, Optimism). The blockchain stores all transactions and the state of smart contracts.
+Usually **Ethereum** (and other compatible networks: Polygon, Arbitrum, Optimism). The [blockchain](/en/glossary/#blockchain) stores all transactions and the state of smart contracts.
 
 ### 2. Smart Contracts
 
@@ -99,7 +99,7 @@ How it works:
 
 - users create **[liquidity](/en/glossary/#liquidity) pools** — they deposit pairs of tokens (e.g., ETH and USDC);
 - other users trade directly through these pools;
-- each swap charges a small fee that's distributed to liquidity providers.
+- each swap charges a small fee that's distributed to [liquidity](/en/glossary/#liquidity) providers.
 
 No "order books" like on a traditional exchange. No "your order is pending." Just send and receive.
 
@@ -213,7 +213,7 @@ But always remember: **your money, your responsibility**.
 ## FAQ
 
 ### Do I need an ID for DeFi?
-No. DeFi doesn't require KYC. Just connect your wallet and you're good to go.
+No. DeFi doesn't require [KYC](/en/glossary/#kyc). Just connect your [wallet](/en/glossary/#wallet) and you're good to go.
 
 ### Is DeFi only on Ethereum?
 Not at all. DeFi also exists on Solana, Polygon, Avalanche, BNB Chain, Arbitrum, and other networks.
@@ -225,4 +225,4 @@ Yes. Risks include smart contract bugs, market crashes, lost keys, and scams.
 Internet, a wallet (MetaMask), and a little crypto for gas fees. No ID required.
 
 ### Is DAI a reliable stablecoin?
-DAI is considered one of the most reliable decentralized stablecoins, but it's not immune to market risks.
+DAI is considered one of the most reliable [decentralized](/en/glossary/#decentralization) stablecoins, but it's not immune to market risks.

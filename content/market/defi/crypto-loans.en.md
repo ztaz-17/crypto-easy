@@ -45,7 +45,7 @@ In the traditional world, getting a loan looks like this:
 - the bank checks your credit history and income;
 - if everything checks out — they give you the cash.
 
-DeFi works completely differently:
+[DeFi](/en/glossary/#defi) works completely differently:
 
 > **you don't prove you're solvent — you put up collateral.**
 
@@ -147,7 +147,7 @@ Highlights:
 
 - works similarly to Aave, but without stable rates;
 - uses algorithmically adjusted interest rates;
-- integrates with many wallets and services.
+- integrates with many [wallets](/en/glossary/#wallet) and services.
 
 ### MakerDAO
 
@@ -167,7 +167,7 @@ Here you don't just take out a loan — you **create the DAI stablecoin** by loc
 | Approval time         | Days to weeks                        | Seconds                               |
 | Collateral            | Usually not needed (personal loans)  | Required (150%+ of the loan amount)   |
 | Interest              | 5–30% APR (depends on credit)        | 1–15% APR (depends on supply & demand)|
-| Access                | Passport, KYC, 18+                   | Internet connection, any age          |
+| Access                | Passport, [KYC](/en/glossary/#kyc), 18+                   | Internet connection, any age          |
 | Liquidation           | Court, bailiffs, defaults            | Automatic, handled by bots            |
 | Geography             | Only the bank's country              | Global                                |
 | Operating hours       | Business hours                       | 24/7, no days off                     |
@@ -182,7 +182,7 @@ DeFi loans aren't just about freedom — they come with serious risks too.
 
 ### 1. Volatility and Liquidation
 
-Cryptocurrency is one of the most volatile assets in the world. ETH can drop 20–30% in a single day. If your health factor was already low — liquidation is inevitable.
+[Cryptocurrency](/en/glossary/#cryptocurrency) is one of the most volatile assets in the world. ETH can drop 20–30% in a single day. If your health factor was already low — liquidation is inevitable.
 
 > Recommendation: keep your health factor no lower than 1.5–2.0 on calm days and 2.5–3.0 on volatile ones.
 
@@ -214,7 +214,7 @@ Some protocols let you deposit obscure [tokens](/en/glossary/#token) with low [l
 
 A DeFi loan isn't for buying a car or a house. It's a tool for:
 
-- **getting liquidity** without selling your assets (you don't want to sell ETH but need USDC);
+- **getting [liquidity](/en/glossary/#liquidity)** without selling your assets (you don't want to sell ETH but need USDC);
 - **arbitrage and trading** (borrow at a low rate, invest in a high-yield pool);
 - **leverage** (increase your position without selling your holdings);
 - **flash loans** (complex strategies executed in a single transaction).

@@ -24,7 +24,7 @@ Or another scenario: you take out a loan backed by ETH, the market takes a sharp
 
 > **DeFi offers high yields — but nothing comes for free.**
 
-DeFi risks are fundamentally different from bank risks. With a bank, you worry about it going bust or freezing your account. With DeFi, the code might have a bug, the founders could disappear, and the market can crash in minutes.
+[DeFi](/en/glossary/#defi) risks are fundamentally different from bank risks. With a bank, you worry about it going bust or freezing your account. With DeFi, the code might have a bug, the founders could disappear, and the market can crash in minutes.
 
 Here's what we'll cover in this article:
 
@@ -60,7 +60,7 @@ According to analysts, between 2021 and 2023, millions of users fell victim to r
 | Insanely high APY | Anything above 1000% is almost always a red flag |
 | Anonymous team | Nobody knows who built the project |
 | No audit | Code hasn't been reviewed by independent auditors |
-| Brand new liquidity | The project has been around for days or weeks |
+| Brand new [liquidity](/en/glossary/#liquidity) | The project has been around for days or weeks |
 | No liquidity lock | Liquidity isn't locked — founders can pull it anytime |
 
 ---
@@ -76,7 +76,7 @@ A single line of bad code can cost millions. And unlike banks — in DeFi **ther
 | Incident | Year | Loss | Cause |
 |----------|------|------|-------|
 | **Ronin [Bridge](/en/glossary/#bridge)** | 2022 | $624M | Bridge validator vulnerability |
-| **Wormhole Bridge** | 2022 | $326M | Signature verification bug |
+| **Wormhole [Bridge](/en/glossary/#bridge)** | 2022 | $326M | Signature verification bug |
 | **Nomad Bridge** | 2022 | $190M | Bridge contract bug |
 | **Cream Finance** | 2021 | $130M | Lending logic flaw |
 | **Poly Network** | 2021 | $611M | Cross-chain protocol vulnerability |
@@ -214,7 +214,7 @@ Deposit a small amount ($50–100) in a new protocol. Try withdrawing it after a
 | Risk | What It Is | How to Protect Yourself |
 |------|------------|------------------------|
 | **Rug pull** | Creators drain liquidity and disappear | Check audits, team, liquidity lock; stay away from new projects with APY >500% |
-| **Smart contract bug** | Code vulnerability leads to stolen funds | Pick protocols with multiple audits, medium/high TVL, and a long track record |
+| **Smart contract bug** | Code vulnerability leads to stolen funds | Pick protocols with multiple audits, medium/high [TVL](/en/glossary/#tvl), and a long track record |
 | **Impermanent loss** | Losses from token price changes in a pool | Avoid highly volatile pairs; use stablecoin pools; take profits regularly |
 | **Liquidation** | Forced sale of collateral when prices drop | Keep 200%+ collateral ratio; use stablecoins as collateral; don't max out loans |
 | **Protocol token dump** | Reward token crashes, your yield goes negative | Don't hold reward tokens long; convert to stablecoins |
@@ -246,7 +246,7 @@ And most importantly: never invest money you're not ready to lose completely.
 Statistically, rug pulls are more common, but code bugs cause bigger losses (individual hacks of $100M+). Both are serious risks.
 
 ### Can I completely avoid impermanent loss?
-Yes — by not providing liquidity to DEX pools. Lending (Aave, Compound) doesn't create IL. IL is also minimal in stablecoin pools (USDC/USDT/DAI).
+Yes — by not providing liquidity to [DEX](/en/glossary/#dex) pools. Lending (Aave, Compound) doesn't create IL. IL is also minimal in stablecoin pools (USDC/USDT/DAI).
 
 ### What should I do if my collateral is approaching liquidation?
 Add more collateral (top-up) or partially repay the debt. Do this early — during a sharp market drop, transactions might not go through due to network congestion.

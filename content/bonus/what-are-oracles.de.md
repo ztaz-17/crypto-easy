@@ -33,7 +33,7 @@ Wie bringt man also einen Smart Contract dazu, dir den aktuellen Bitcoin-Preis z
 
 ### Warum die Blockchain die echte Welt nicht sehen kann
 
-Die Blockchain ist ein geschlossenes System.
+Die [Blockchain](/de/glossary/#blockchain) ist ein geschlossenes System.
 
 Jeder Knoten speichert eine identische Kopie der Daten. Damit alles fair bleibt, müssen alle Knoten **eine einzige Übereinkunft (Konsens)** erzielen.
 
@@ -159,7 +159,7 @@ Chainlink verwendet mehrere Schutzebenen:
 
 ### Praxisbeispiel: Krypto-besicherte Kredite
 
-Stell dir ein DeFi-Protokoll vor, das Kredite gegen ETH vergibt:
+Stell dir ein [DeFi](/de/glossary/#defi)-Protokoll vor, das Kredite gegen ETH vergibt:
 
 - 🔹 ein Nutzer hinterlegt 10 ETH als Sicherheit;
 - 🔹 das Protokoll ruft den ETH-Preis vom Chainlink-Orakel ab;

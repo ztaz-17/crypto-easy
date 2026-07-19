@@ -308,7 +308,7 @@ Pero solo si:
 
 ## Comparativa: Cuenta bancaria, Efectivo, Cartera cripto
 
-| Criterio                | Cuenta bancaria       | Efectivo         | Cartera cripto                  |
+| Criterio                | Cuenta bancaria       | Efectivo         | [Cartera](/es/glossary/#wallet) cripto                  |
 |-------------------------|-----------------------|------------------|---------------------------------|
 | ¿Quién la controla?     | El banco              | Tú               | Tú                              |
 | ¿Se puede congelar?     | Sí                    | No               | No (si es no custodial)         |
@@ -332,7 +332,7 @@ Y no puedes hacer nada al respecto rápidamente.
 Esto no es un "error del sistema."  
 > **¡Esto es el sistema!**
 
-Por eso mismo, cada vez más personas están mirando hacia las criptomonedas:
+Por eso mismo, cada vez más personas están mirando hacia las [criptomonedas](/es/glossary/#cryptocurrency):
 
 > como una forma de recuperar el **control sobre su dinero**  
 > y lograr una verdadera **libertad financiera**.

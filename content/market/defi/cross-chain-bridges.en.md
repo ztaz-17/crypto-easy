@@ -37,7 +37,7 @@ In this article we'll cover:
 
 ### The Basic Idea: Lock + Mint
 
-Most bridges follow the same principle:
+Most [bridges](/en/glossary/#bridge) follow the same principle:
 
 1. You send your asset (say, ETH) to the **bridge contract** on the source network.
 2. The bridge **locks** that asset.
@@ -96,7 +96,7 @@ For frequent transactions, the savings add up fast.
 
 ## The Main Risks: Why Bridges Get Hacked
 
-Bridges are **the most attacked part of DeFi**.
+Bridges are **the most attacked part of [DeFi](/en/glossary/#defi)**.
 
 The reason is simple: if a hacker gets control of the bridge, they can drain locked assets worth billions.
 
@@ -121,7 +121,7 @@ Wormhole example (2022):
 
 **2. Validator compromise**
 
-Decentralized bridges rely on a group of validators (or nodes). If attackers take over the majority, they can sign off on any transaction.
+[Decentralized](/en/glossary/#decentralization) bridges rely on a group of validators (or nodes). If attackers take over the majority, they can sign off on any transaction.
 
 Ronin example (2022):
 
@@ -141,7 +141,7 @@ Nomad example (2022):
 
 ### ✅ Official Bridges
 
-The safest option is to use a bridge built by the blockchain's own team:
+The safest option is to use a bridge built by the [blockchain](/en/glossary/#blockchain)'s own team:
 
 - **[Arbitrum Bridge](https://bridge.arbitrum.io)** — for moving between Ethereum and Arbitrum.
 - **[Optimism Bridge](https://app.optimism.io/bridge)** — for Optimism.

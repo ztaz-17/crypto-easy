@@ -158,7 +158,7 @@ Beispiel: Du hinterlegst 200 $ in ETH. Der Contract erlaubt dir, 150 DAI zu erst
 | **Prüfungen** | Regelmäßig | Regelmäßig | On-Chain |
 | **Reserven** | Dollar + Anleihen + Sonstiges | Dollar + US-Staatsanleihen | Krypto (ETH, WBTC, etc.) |
 | **Risiko** | Unternehmerisch (Tether) | Regulatorisch (US) | Algorithmisch (Liquidationen) |
-| **Verfügbarkeit** | Überall | Fast überall | Hauptsächlich DeFi |
+| **Verfügbarkeit** | Überall | Fast überall | Hauptsächlich [DeFi](/de/glossary/#defi) |
 | **Gebühren** | Niedrig (TRC-20) | Mittel | Abhängig von Ethereum |
 
 ---
@@ -209,7 +209,7 @@ Sicherer als Altcoins, weniger sicher als physisches Bargeld oder EU-einlagenges
 
 ### Kann man mit Stablecoins Geld verlieren?
 
-Ja, mehrere Szenarien: Emittent (Tether, Circle) geht pleite – USDT/USDC verlieren Bindung; algorithmischer Kollaps (wie Terra UST); Smart-Contract-Hack (bei DAI); technischer Fehler bei der Überweisung (falsche Blockchain); Einfrieren von Vermögenswerten durch den Emittenten (Circle kann USDC per regulatorischer Anordnung einfrieren).
+Ja, mehrere Szenarien: Emittent (Tether, Circle) geht pleite – USDT/USDC verlieren Bindung; algorithmischer Kollaps (wie Terra UST); Smart-Contract-Hack (bei DAI); technischer Fehler bei der Überweisung (falsche [Blockchain](/de/glossary/#blockchain)); Einfrieren von Vermögenswerten durch den Emittenten (Circle kann USDC per regulatorischer Anordnung einfrieren).
 
 ### Welchen Stablecoin sollte ein Anfänger wählen?
 
@@ -217,6 +217,6 @@ Ja, mehrere Szenarien: Emittent (Tether, Circle) geht pleite – USDT/USDC verli
 
 **USDC** – wenn Transparenz wichtig ist und du große Börsen oder DeFi nutzt.
 
-**DAI** – wenn du Dezentralisierung schätzt und das Thema verstehst.
+**DAI** – wenn du [Dezentralisierung](/de/glossary/#decentralization) schätzt und das Thema verstehst.
 
 > **Tipp: Bewahre nicht alle Stablecoins an einem Ort auf. Mische: etwas USDT für Operationen, etwas USDC zur Aufbewahrung.**

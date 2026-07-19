@@ -39,8 +39,8 @@ El staking es cuando **bloqueas tus monedas** en la [blockchain](/es/glossary/#b
 Así funciona:
 
 - eliges una [criptomoneda](/es/glossary/#cryptocurrency) que funcione con **[Prueba de Participación](/es/glossary/#proof-of-stake)** (PoS, por sus siglas en inglés);
-- transfieres tus monedas al staking (a través de una cartera o exchange);
-- la blockchain las usa para validar transacciones;
+- transfieres tus monedas al [staking](/es/glossary/#staking) (a través de una [cartera](/es/glossary/#wallet) o exchange);
+- la [blockchain](/es/glossary/#blockchain) las usa para validar transacciones;
 - recibes recompensas pagadas.
 
 En términos simples:
@@ -70,7 +70,7 @@ El farming es una estrategia más activa. **Aportas [liquidez](/es/glossary/#liq
 
 Así se ve:
 
-- vas a un protocolo DeFi (ej. Uniswap, Aave, Curve);
+- vas a un protocolo [DeFi](/es/glossary/#defi) (ej. Uniswap, Aave, Curve);
 - depositas un par de [tokens](/es/glossary/#token) en un **pool de liquidez** (ej. USDT y ETH);
 - el protocolo los usa para operaciones de trading;
 - ganas comisiones de traders + a menudo tokens de bonificación.
@@ -86,7 +86,7 @@ Así se ve:
 ### Desventajas del Farming
 
 - **Complejidad**: necesitas entender cómo funcionan los pools, la pérdida impermanente y las comisiones de gas.
-- **Altos riesgos**: hacks de protocolos, rug pulls, caídas repentinas de liquidez.
+- **Altos riesgos**: hacks de protocolos, rug pulls, caídas repentinas de [liquidez](/es/glossary/#liquidity).
 - **Gestión activa**: los rendimientos cambian, así que tienes que monitorear y mover tus activos.
 - **Pérdida impermanente**: los precios de los tokens en el pool pueden cambiar, y puedes perder parte de tu depósito.
 

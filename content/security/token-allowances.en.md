@@ -42,12 +42,12 @@ The **ERC-20** standard (and its cousins BEP-20, TRC-20, etc.) is a smart contra
 - `transfer(from, to, amount)` — moves tokens;
 - `approve(spender, amount)` — lets another address spend your tokens.
 
-With a normal transfer, you sign the transaction yourself. But when you interact with a DeFi app, the contract needs to **pull** tokens from you on its own.
+With a normal transfer, you sign the transaction yourself. But when you interact with a [DeFi](/en/glossary/#defi) app, the contract needs to **pull** tokens from you on its own.
 
 Here's how it works under the hood:
 
 1. You call `approve(DEX_contract, 1000 USDT)`;
-2. Now the DEX contract can call `transferFrom(your_address, pool, 1000 USDT)`;
+2. Now the [DEX](/en/glossary/#dex) contract can call `transferFrom(your_address, pool, 1000 USDT)`;
 3. The swap happens without you having to sign every step.
 
 👉 **That's a token allowance** — you give a smart contract permission to move your tokens.
@@ -74,7 +74,7 @@ approve(DEX, MAX_UINT_256)
 
 `MAX_UINT_256` is the largest number in Ethereum (2²⁵⁶ − 1). Practically infinite.
 
-Why do dApps do this?
+Why do [dApps](/en/glossary/#dapp) do this?
 
 - **convenience** — no need to confirm every single trade;
 - **cheaper** — one `approve` transaction instead of several;
@@ -121,7 +121,7 @@ If you said "no" — you're not alone. And that's totally normal. But **those "f
 The most straightforward way:
 
 1. open [Etherscan.io](https://etherscan.io);
-2. paste your wallet address;
+2. paste your [wallet](/en/glossary/#wallet) address;
 3. go to the **"Token Approvals"** tab (or just "Approvals");
 4. you'll see a list of contracts and how much they're allowed to spend.
 

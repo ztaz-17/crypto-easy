@@ -22,7 +22,7 @@ keywords:
 
 A hardware [wallet](/en/glossary/#wallet) is a physical device about the size of a USB stick that stores your [private keys](/en/glossary/#private-key) completely offline, isolated from the internet. It's the gold standard of security in the crypto world.
 
-When you use a regular crypto wallet on your phone or in a browser — your keys sit in the memory of a device that's connected to the internet. A hacker, a virus, or a phishing site can steal them. With a hardware wallet, your keys **physically never leave the device**.
+When you use a regular crypto [wallet](/en/glossary/#wallet) on your phone or in a browser — your keys sit in the memory of a device that's connected to the internet. A hacker, a virus, or a phishing site can steal them. With a hardware wallet, your keys **physically never leave the device**.
 
 Even if you plug it into an infected computer — your funds are safe. The device signs the transaction internally and only passes back the result (the signature). The keys themselves never come out.
 
@@ -81,7 +81,7 @@ Trezor is the OG of hardware wallets (the first model dropped back in 2014). Ful
 
 When your device arrives, check:
 - The box hasn't been opened, seals are intact
-- Inside: device, USB cable, instructions, seed phrase recovery sheets
+- Inside: device, USB cable, instructions, [seed phrase](/en/glossary/#seed-phrase) recovery sheets
 - The device shows no signs of use
 
 **Important:** If the device looks used or the seals are broken — **don't use it**. Contact the seller for a replacement.
@@ -153,7 +153,7 @@ Yes. If your Ledger or Trezor breaks, gets lost, or burns — buy a new device (
 
 ### What if I lose my seed phrase?
 
-That's permanent loss of access. There's no "reset password" button on the blockchain. Without your seed phrase, your funds are gone. That's why it's so important to store your seed phrase safely and keep a backup copy.
+That's permanent loss of access. There's no "reset password" button on the [blockchain](/en/glossary/#blockchain). Without your seed phrase, your funds are gone. That's why it's so important to store your seed phrase safely and keep a backup copy.
 
 ### Is Ledger more secure than Trezor?
 

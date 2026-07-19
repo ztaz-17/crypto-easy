@@ -28,7 +28,7 @@ Te tomará menos tiempo que prepararte una taza de té.
 
 ## ¿Qué es una Cartera de Cripto en Términos Sencillos?
 
-Una cartera de cripto es un programa que almacena las **llaves** de tus monedas.
+Una [cartera](/es/glossary/#wallet) de cripto es un programa que almacena las **llaves** de tus monedas.
 
 Importante: las monedas en sí no se guardan en la cartera — están en la **[blockchain](/es/glossary/#blockchain)**. La cartera solo te da acceso a ellas.
 
@@ -85,7 +85,7 @@ Haz clic en **Crear una nueva cartera**.
 
 Puedes vincularla a una cuenta de Google/Apple, pero crearemos una contraseña (al menos 8 caracteres). Esta contraseña protege el acceso a la extensión en tu dispositivo.
 
-Después de esto, MetaMask te mostrará tu **frase de recuperación secreta** (frase semilla).
+Después de esto, MetaMask te mostrará tu **frase de recuperación secreta** ([frase semilla](/es/glossary/#seed-phrase)).
 
 ![Frase semilla en MetaMask](/images/metamask-seed-phrase.jpg)
 
@@ -144,7 +144,7 @@ Después de la confirmación, verás la pantalla principal.
 
 Trust Wallet crea automáticamente una cartera en la red **Binance Smart Chain (BSC)**, pero puedes agregar otras: Ethereum, Polygon, Solana y decenas más.
 
-Toca el ícono ☰ y selecciona «Administrar Criptomonedas» para activar las monedas que necesites.
+Toca el ícono ☰ y selecciona «Administrar [Criptomonedas](/es/glossary/#cryptocurrency)» para activar las monedas que necesites.
 
 ---
 
@@ -173,7 +173,7 @@ Después de crear tu cartera, deberías ver:
 
 La forma más fácil es enviarte una transferencia de prueba desde otra cartera o pedirle a un amigo que te envíe unos centavos.
 
-Pero hay una forma más simple: solo **copia tu dirección** y verifícala en un explorador de blockchain.
+Pero hay una forma más simple: solo **copia tu dirección** y verifícala en un explorador de [blockchain](/es/glossary/#blockchain).
 
 1. Copia tu dirección (comienza con `0x`).
 2. Abre **etherscan.io**.

@@ -75,7 +75,7 @@ It got to the point where:
 - Musk announced that Tesla would accept Doge for merchandise;
 - Coinbase listed DOGE.
 
-👉 Musk turned a joke into a top-10 cryptocurrency.
+👉 Musk turned a joke into a top-10 [cryptocurrency](/en/glossary/#cryptocurrency).
 
 ---
 
@@ -142,7 +142,7 @@ The scheme is simple:
 1. Big players ([whales](/en/glossary/#whale)) buy in at the bottom;
 2. They hype the coin through social media, paid ads, and influencers;
 3. Retail buyers pile in on [FOMO](/en/glossary/#fomo);
-4. Whales sell — the price crashes;
+4. [Whales](/en/glossary/#whale) sell — the price crashes;
 5. Small investors are left holding worthless tokens.
 
 > **You're not playing against the market. You're playing against those who control the market.**
@@ -164,7 +164,7 @@ Here's the typical story:
 1. You hear about a coin that's "about to moon";
 2. You join a Telegram chat — 50,000 people are talking about "the moon";
 3. You buy — and the price starts dropping;
-4. The chat convinces you: "HODL! We're about to fly!";
+4. The chat convinces you: "[HODL](/en/glossary/#hodl)! We're about to fly!";
 5. The price drops even more;
 6. The chat goes silent;
 7. You're left with tokens nobody will buy.

@@ -89,7 +89,7 @@ La lira turca ha perdido más del **80% de su valor** en los últimos 5 años.
 
 En 2018, $1 compraba alrededor de 5 liras. En 2024 — más de 30 liras.
 
-La inflación oficial — decenas de por ciento al año. La inflación real — aún más alta.
+La [inflación](/es/glossary/#inflation) oficial — decenas de por ciento al año. La inflación real — aún más alta.
 
 La gente que mantenía sus ahorros en liras perdía dinero sin moverse.
 
@@ -107,7 +107,7 @@ La razón es simple:
 
 El comercio peer-to-peer de cripto en Turquía es enorme. Los locales:
 
-- compran USDT con liras en plataformas P2P;
+- compran USDT con liras en plataformas [P2P](/es/glossary/#p2p);
 - guardan sus ahorros en stablecoins;
 - venden cuando necesitan efectivo.
 
@@ -243,7 +243,7 @@ Son las stablecoins — no Bitcoin — las que se han convertido en la herramien
 
 ### La Conclusión Principal
 
-En países con economías problemáticas, las criptomonedas son:
+En países con economías problemáticas, las [criptomonedas](/es/glossary/#cryptocurrency) son:
 
 ❌ no especulación;
 ❌ no un "juego de bolsa";

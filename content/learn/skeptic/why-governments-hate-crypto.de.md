@@ -89,7 +89,7 @@ Die Reaktionen der Regierungen sind vorhersehbar.
 
 **China** – 2021 wurde ein vollständiges Verbot aller Crypto-Aktivitäten einschließlich [Mining](/de/glossary/#mining) verhängt. Börsen wurden geschlossen, Transaktionen blockiert.
 
-**Nigeria** – 2021 verbot die Zentralbank Banken die Zusammenarbeit mit Crypto-Börsen. Grund: massive Flucht in Crypto aufgrund der Naira-Inflation.
+**Nigeria** – 2021 verbot die Zentralbank Banken die Zusammenarbeit mit Crypto-Börsen. Grund: massive Flucht in Crypto aufgrund der Naira-[Inflation](/de/glossary/#inflation).
 
 **Algerien, Nepal, Ägypten** – vollständige oder teilweise Verbote von Crypto.
 
@@ -121,7 +121,7 @@ Ja, alle Transaktionen werden auf der [Blockchain](/de/glossary/#blockchain) auf
 
 > **Die Regierung kann nicht einfach mit einer Steuerrechnung vor deiner Tür stehen, wenn sie nicht weiß, dass du Crypto besitzt.**
 
-Klar, Blockchain-Analysetools gibt es. Aber sie funktionieren nur, wenn eine Adresse mit einer echten Identität verknüpft werden kann – und das ist nicht immer möglich.
+Klar, [Blockchain](/de/glossary/#blockchain)-Analysetools gibt es. Aber sie funktionieren nur, wenn eine Adresse mit einer echten Identität verknüpft werden kann – und das ist nicht immer möglich.
 
 ### DeFi und die Schwierigkeit der Nachverfolgung
 
@@ -138,7 +138,7 @@ Und wenn sie sie nicht sieht – kann sie sie nicht besteuern.
 
 ### Wie Regierungen zu regulieren versuchen
 
-Hier kommen die **Börsen** ins Spiel. Da Steuern über P2P und DeFi fast nicht einzutreiben sind, üben Regierungen Druck auf den einen Einstiegspunkt aus – zentralisierte Börsen (CEXs).
+Hier kommen die **Börsen** ins Spiel. Da Steuern über [P2P](/de/glossary/#p2p) und [DeFi](/de/glossary/#defi) fast nicht einzutreiben sind, üben Regierungen Druck auf den einen Einstiegspunkt aus – zentralisierte Börsen (CEXs).
 
 Anforderungen an Börsen:
 
@@ -364,4 +364,4 @@ Technisch – nein. Bitcoin hat keinen zentralen Server. Um das Netzwerk zu bloc
 Die Travel Rule ist eine FATF-Anforderung, die Crypto-Dienstanbieter (Börsen, Swap-Dienste) verpflichtet, Sender- und Empfängerinformationen miteinander zu teilen. Effektiv – das Ende der Anonymität auf zentralisierten Plattformen.
 
 ### Muss ich Steuern auf Crypto zahlen?
-In den meisten Ländern – ja. Kryptowährung gilt als Eigentum oder Vermögenswert, und Gewinne aus dem Verkauf sind steuerpflichtig. Die genauen Regeln hängen vom Land ab. Steuerhinterziehung kann schwerwiegende Folgen haben, einschließlich strafrechtlicher Verfolgung.
+In den meisten Ländern – ja. [Kryptowährung](/de/glossary/#cryptocurrency) gilt als Eigentum oder Vermögenswert, und Gewinne aus dem Verkauf sind steuerpflichtig. Die genauen Regeln hängen vom Land ab. Steuerhinterziehung kann schwerwiegende Folgen haben, einschließlich strafrechtlicher Verfolgung.

@@ -24,7 +24,7 @@ Oder ein anderes Szenario: Du leihst dir Geld, besichert mit ETH, der Markt bric
 
 > **DeFi bietet hohe Renditen – aber nichts ist umsonst.**
 
-DeFi-Risiken unterscheiden sich grundlegend von Bankrisiken. Bei einer Bank machst du dir Sorgen, dass sie pleitegeht oder dein Konto einfriert. Bei DeFi kann der Code einen Fehler haben, die Gründer können verschwinden, und der Markt kann innerhalb von Minuten abstürzen.
+[DeFi](/de/glossary/#defi)-Risiken unterscheiden sich grundlegend von Bankrisiken. Bei einer Bank machst du dir Sorgen, dass sie pleitegeht oder dein Konto einfriert. Bei DeFi kann der Code einen Fehler haben, die Gründer können verschwinden, und der Markt kann innerhalb von Minuten abstürzen.
 
 Hier erfährst du in diesem Artikel:
 
@@ -61,7 +61,7 @@ Laut Analysten sind zwischen 2021 und 2023 Millionen von Nutzern Rug Pulls zum O
 | Anonymes Team | Niemand weiß, wer das Projekt entwickelt hat |
 | Kein Audit | Code wurde nicht von unabhängigen Prüfern geprüft |
 | Ganz neue [Liquidität](/de/glossary/#liquidity) | Das Projekt existiert erst seit Tagen oder Wochen |
-| Keine Liquiditätssperre | Liquidität ist nicht gesperrt – Gründer können sie jederzeit abziehen |
+| Keine Liquiditätssperre | [Liquidität](/de/glossary/#liquidity) ist nicht gesperrt – Gründer können sie jederzeit abziehen |
 
 ---
 
@@ -76,7 +76,7 @@ Eine einzige fehlerhafte Codezeile kann Millionen kosten. Und anders als bei Ban
 | Vorfall | Jahr | Verlust | Ursache |
 |---------|------|---------|---------|
 | **Ronin [Bridge](/de/glossary/#bridge)** | 2022 | 624 Mio. $ | Schwachstelle bei Bridge-Validatoren |
-| **Wormhole Bridge** | 2022 | 326 Mio. $ | Fehler bei der Signaturprüfung |
+| **Wormhole [Bridge](/de/glossary/#bridge)** | 2022 | 326 Mio. $ | Fehler bei der Signaturprüfung |
 | **Nomad Bridge** | 2022 | 190 Mio. $ | Fehler im Bridge-Contract |
 | **Cream Finance** | 2021 | 130 Mio. $ | Fehler in der Kreditlogik |
 | **Poly Network** | 2021 | 611 Mio. $ | Schwachstelle im Cross-Chain-Protokoll |
@@ -214,7 +214,7 @@ Zahle einen kleinen Betrag (50–100 $) in ein neues Protokoll ein. Versuche, ih
 | Risiko | Was es ist | Wie du dich schützt |
 |--------|------------|---------------------|
 | **Rug Pull** | Gründer ziehen Liquidität ab und verschwinden | Prüfe Audits, Team, Liquiditätssperre; meide neue Projekte mit APY >500 % |
-| **Smart-Contract-Fehler** | Code-Schwachstelle führt zu gestohlenen Geldern | Wähle Protokolle mit mehreren Audits, mittlerem/hohem TVL und langer Erfolgsbilanz |
+| **Smart-Contract-Fehler** | Code-Schwachstelle führt zu gestohlenen Geldern | Wähle Protokolle mit mehreren Audits, mittlerem/hohem [TVL](/de/glossary/#tvl) und langer Erfolgsbilanz |
 | **Impermanent Loss** | Verluste durch Kursänderungen im Pool | Vermeide stark volatile Paare; nutze Stablecoin-Pools; nimm regelmäßig Gewinne mit |
 | **Liquidation** | Zwangsverkauf von Sicherheiten bei Kurseinbruch | Halte 200 %+ Sicherheitenquote; nutze Stablecoins als Sicherheit; leihe nicht bis zum Limit |
 | **Protokoll-Token-Absturz** | Belohnungstoken fallen, deine Rendite wird negativ | Halte Belohnungstoken nicht lange; tausche sie in Stablecoins um |
@@ -246,7 +246,7 @@ Und am wichtigsten: Investiere niemals Geld, dessen Verlust du dir nicht leisten
 Statistisch gesehen sind Rug Pulls häufiger, aber Code-Fehler verursachen größere Verluste (einzelne Hacks von über 100 Mio. $). Beides sind ernste Risiken.
 
 ### Kann ich Impermanent Loss vollständig vermeiden?
-Ja – indem du DEX-Pools keine Liquidität bereitstellst. Kreditvergabe (Aave, Compound) erzeugt keinen IL. IL ist auch in Stablecoin-Pools (USDC/USDT/DAI) minimal.
+Ja – indem du [DEX](/de/glossary/#dex)-Pools keine Liquidität bereitstellst. Kreditvergabe (Aave, Compound) erzeugt keinen IL. IL ist auch in Stablecoin-Pools (USDC/USDT/DAI) minimal.
 
 ### Was soll ich tun, wenn meine Sicherheiten sich der Liquidation nähern?
 Zahle weitere Sicherheiten ein (Nachschuss) oder tilge einen Teil der Schulden. Tu das frühzeitig – bei einem scharfen Markteinbruch könnten Transaktionen aufgrund von Netzüberlastung nicht durchkommen.

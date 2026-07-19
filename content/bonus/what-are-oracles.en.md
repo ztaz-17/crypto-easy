@@ -33,7 +33,7 @@ So how do you get a smart contract to tell you the price of Bitcoin right now?
 
 ### Why blockchain can't see the real world
 
-Blockchain is a closed system.
+[Blockchain](/en/glossary/#blockchain) is a closed system.
 
 Every node stores an identical copy of the data. To keep things honest, all nodes have to reach **a single agreement (consensus)**.
 
@@ -114,7 +114,7 @@ If the oracle is a single point of failure, it can:
 - provide false data (attack);
 - simply go offline.
 
-The solution — **decentralized oracles**.
+The solution — **[decentralized](/en/glossary/#decentralization) oracles**.
 
 Instead of one data source, a network of independent nodes is used. Each node collects data on its own. If most nodes confirm the same value — the data is considered trustworthy.
 
@@ -159,7 +159,7 @@ Chainlink uses multiple layers of protection:
 
 ### Real-world example: crypto-backed loans
 
-Imagine a DeFi protocol that issues loans backed by ETH:
+Imagine a [DeFi](/en/glossary/#defi) protocol that issues loans backed by ETH:
 
 - 🔹 a user deposits 10 ETH as collateral;
 - 🔹 the protocol fetches the ETH price from Chainlink oracle;

@@ -52,7 +52,7 @@ Por ejemplo, **Uniswap**, **Curve**, **Aave**, **Compound** o **PancakeSwap**. C
 
 ### 2. Depositas liquidez
 
-Supongamos que hay un pool de ETH/USDT. Necesitas depositar **un valor igual de ambos tokens** (50% ETH, 50% USDT). A cambio recibes **LP tokens** (tokens de proveedor de liquidez) — tu recibo por una parte del pool.
+Supongamos que hay un pool de ETH/USDT. Necesitas depositar **un valor igual de ambos tokens** (50% ETH, 50% USDT). A cambio recibes **LP tokens** (tokens de proveedor de [liquidez](/es/glossary/#liquidity)) — tu recibo por una parte del pool.
 
 ### 3. El protocolo te paga
 
@@ -87,7 +87,7 @@ Se compone de tres elementos:
 
 ### Clásico (Minería de Liquidez)
 
-Depositas un par de tokens en un pool DEX (Uniswap, PancakeSwap) y ganas comisiones más tokens del protocolo.
+Depositas un par de tokens en un pool [DEX](/es/glossary/#dex) (Uniswap, PancakeSwap) y ganas comisiones más tokens del protocolo.
 
 ### Préstamos
 
@@ -189,7 +189,7 @@ Una lista de verificación antes de depositar:
 
 ## Conclusión
 
-El Yield Farming es una forma real de ganar en DeFi. Te da acceso a rendimientos que no puedes obtener en las finanzas tradicionales. Pero no va a convertir $100 en $1000 en un mes sin riesgo.
+El Yield Farming es una forma real de ganar en [DeFi](/es/glossary/#defi). Te da acceso a rendimientos que no puedes obtener en las finanzas tradicionales. Pero no va a convertir $100 en $1000 en un mes sin riesgo.
 
 > Cuanto más alto es el rendimiento prometido, mayor es la probabilidad de perder tu capital.
 

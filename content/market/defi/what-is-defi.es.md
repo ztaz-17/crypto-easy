@@ -61,7 +61,7 @@ Las finanzas tradicionales se basan en intermediarios:
 | Seguro          | Cubre riesgos                        |
 | Notario         | Certifica transacciones              |
 
-DeFi reemplaza a cada uno con un **contrato inteligente** — un programa que se ejecuta automáticamente y no depende de personas.
+[DeFi](/es/glossary/#defi) reemplaza a cada uno con un **contrato inteligente** — un programa que se ejecuta automáticamente y no depende de personas.
 
 > Si un banco es una empresa con empleados y reglas, DeFi es solo código que cualquiera puede usar.
 
@@ -73,7 +73,7 @@ DeFi se apoya en tres componentes clave:
 
 ### 1. Blockchain
 
-Generalmente **Ethereum** (y otras redes compatibles: Polygon, Arbitrum, Optimism). La blockchain almacena todas las transacciones y el estado de los contratos inteligentes.
+Generalmente **Ethereum** (y otras redes compatibles: Polygon, Arbitrum, Optimism). La [blockchain](/es/glossary/#blockchain) almacena todas las transacciones y el estado de los contratos inteligentes.
 
 ### 2. Contratos Inteligentes
 
@@ -99,7 +99,7 @@ Cómo funciona:
 
 - los usuarios crean **fondos de [liquidez](/es/glossary/#liquidity)** — depositan pares de tokens (por ejemplo, ETH y USDC);
 - otros usuarios intercambian directamente a través de estos fondos;
-- cada intercambio cobra una pequeña comisión que se reparte entre los proveedores de liquidez.
+- cada intercambio cobra una pequeña comisión que se reparte entre los proveedores de [liquidez](/es/glossary/#liquidity).
 
 No hay «libros de órdenes» como en un exchange tradicional. No hay «tu orden está pendiente». Solo enviar y recibir.
 
@@ -213,7 +213,7 @@ Pero recuerda siempre: **tu dinero, tu responsabilidad**.
 ## Preguntas Frecuentes
 
 ### ¿Necesito un ID para usar DeFi?
-No. DeFi no requiere KYC. Solo conecta tu cartera y ya estás listo.
+No. DeFi no requiere [KYC](/es/glossary/#kyc). Solo conecta tu [cartera](/es/glossary/#wallet) y ya estás listo.
 
 ### ¿DeFi solo funciona en Ethereum?
 Para nada. DeFi también existe en Solana, Polygon, Avalanche, BNB Chain, Arbitrum y otras redes.

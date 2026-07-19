@@ -37,7 +37,7 @@ En este artículo cubriremos:
 
 ### La idea básica: Bloquear + Acuñar
 
-La mayoría de los puentes siguen el mismo principio:
+La mayoría de los [puentes](/es/glossary/#bridge) siguen el mismo principio:
 
 1. Envías tu activo (por ejemplo, ETH) al **contrato del puente** en la red de origen.
 2. El puente **bloquea** ese activo.
@@ -96,7 +96,7 @@ Para transacciones frecuentes, el ahorro se acumula rápido.
 
 ## Los riesgos principales: Por qué hackean los puentes
 
-Los puentes son **la parte más atacada de DeFi**.
+Los puentes son **la parte más atacada de [DeFi](/es/glossary/#defi)**.
 
 La razón es simple: si un hacker toma el control del puente, puede robar activos bloqueados por valor de miles de millones.
 
@@ -141,7 +141,7 @@ Ejemplo Nomad (2022):
 
 ### ✅ Puentes oficiales
 
-La opción más segura es usar un puente creado por el propio equipo de la blockchain:
+La opción más segura es usar un puente creado por el propio equipo de la [blockchain](/es/glossary/#blockchain):
 
 - **[Arbitrum Bridge](https://bridge.arbitrum.io)** — para mover entre Ethereum y Arbitrum.
 - **[Optimism Bridge](https://app.optimism.io/bridge)** — para Optimism.

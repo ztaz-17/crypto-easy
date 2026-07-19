@@ -202,7 +202,7 @@ VAE (Dubai), Singapur (0 % Kapitalertragsteuer), Portugal (bis 2023 steuerfrei, 
 Offiziell — nein. Krypto-Transaktionen sind dort seit 2021 verboten.
 
 ### Was ist MiCA in einfachen Worten?
-Das einheitliche Krypto-Gesetz der EU, das Regeln für Börsen, Wallets und Stablecoins in der gesamten Europäischen Union festlegt.
+Das einheitliche Krypto-Gesetz der EU, das Regeln für Börsen, [Wallets](/de/glossary/#wallet) und Stablecoins in der gesamten Europäischen Union festlegt.
 
 ### Welches Land hat Bitcoin als erstes legalisiert?
 Japan — 2017 wurde Bitcoin dort als legales Zahlungsmittel anerkannt.

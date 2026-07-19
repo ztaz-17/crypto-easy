@@ -71,10 +71,10 @@ At times like this, miners only pick the juiciest transactions — everyone else
 Sometimes the problem isn't the network — it's your [wallet](/en/glossary/#wallet):
 
 - gas was calculated incorrectly (on Ethereum — gas limit below 21,000);
-- the wallet didn't update the transaction status;
+- the [wallet](/en/glossary/#wallet) didn't update the transaction status;
 - you're connected to an outdated or broken node.
 
-In these cases, the transaction might show as "sent" even after it's been confirmed. Check a blockchain explorer — it's probably fine.
+In these cases, the transaction might show as "sent" even after it's been confirmed. Check a [blockchain](/en/glossary/#blockchain) explorer — it's probably fine.
 
 ---
 
@@ -100,7 +100,7 @@ Before you panic, check the transaction status on a blockchain explorer:
 
 Paste your transaction hash (TXID) — and you'll see the status:
 
-- **Pending / In Mempool** — the transaction is in the queue, not yet in a block.
+- **Pending / In Mempool** — the transaction is in the queue, not yet in a [block](/en/glossary/#block).
 - **Confirmed / Success** — everything is fine, your wallet is just slow to update.
 - **Dropped / Replaced** — the transaction was replaced or removed from the mempool.
 
@@ -284,7 +284,7 @@ A while back I was buying a domain for 0.5 ETH. I entered the address, double-ch
 
 An hour — Pending.
 
-I started to sweat: the domain could be snatched up if I didn't pay soon. I checked Etherscan — the mempool was packed (some NFT sale was going on), and the base fee had doubled. My transaction was at the very bottom of the queue.
+I started to sweat: the domain could be snatched up if I didn't pay soon. I checked Etherscan — the mempool was packed (some [NFT](/en/glossary/#nft) sale was going on), and the base fee had doubled. My transaction was at the very bottom of the queue.
 
 I had to hit "Speed up" with a $22 fee instead of the $4 I'd planned.
 

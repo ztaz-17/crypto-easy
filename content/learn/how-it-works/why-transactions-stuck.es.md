@@ -74,7 +74,7 @@ A veces el problema no es la red — es tu wallet:
 - la wallet no actualizó el estado de la transacción;
 - estás conectado a un nodo desactualizado o roto.
 
-En estos casos, la transacción puede mostrarse como "enviada" incluso después de haberse confirmado. Revisa en un explorador de bloques — probablemente esté todo bien.
+En estos casos, la transacción puede mostrarse como "enviada" incluso después de haberse confirmado. Revisa en un explorador de [bloques](/es/glossary/#block) — probablemente esté todo bien.
 
 ---
 
@@ -280,7 +280,7 @@ Pasaron 15 minutos. La transacción estaba Pendiente.
 
 Una hora — Pendiente.
 
-Empecé a sudar: el dominio podía ser comprado por otro si no pagaba pronto. Revisé Etherscan — el mempool estaba lleno (había una venta de NFT en curso) y la comisión base se había duplicado. Mi transacción estaba al final de la cola.
+Empecé a sudar: el dominio podía ser comprado por otro si no pagaba pronto. Revisé Etherscan — el mempool estaba lleno (había una venta de [NFT](/es/glossary/#nft) en curso) y la comisión base se había duplicado. Mi transacción estaba al final de la cola.
 
 Tuve que usar "Acelerar" con una comisión de $22 en lugar de los $4 que había planeado.
 

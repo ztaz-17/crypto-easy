@@ -70,16 +70,16 @@ Downside: no direct support for some local payment methods.
 |---------|-------|--------|----------|
 | Spot fee | 0.1% | 0.16% | up to 1.49% |
 | Futures | ✅ 0.02% | ❌ | ❌ |
-| P2P | ✅ | Partial | ❌ |
+| [P2P](/en/glossary/#p2p) | ✅ | Partial | ❌ |
 | Insurance fund | $700M | N/A | FDIC $250K |
 | Beginner mode | ✅ | ✅ | ✅ |
 | Built-in education | ✅ | ✅ (since 07.2026) | ✅ Coinbase Earn |
-| Staking | ✅ | ✅ up to 12% | ✅ up to 6% |
+| [Staking](/en/glossary/#staking) | ✅ | ✅ up to 12% | ✅ up to 6% |
 | Licenses | US, Canada | US, Japan, UK | US (SEC, FinCEN) |
 
 ## Best Hardware Wallets for Beginners
 
-If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not your coins" is real — exchanges can freeze accounts, get hacked, or lock withdrawals. A hardware wallet is the only way you truly own your crypto.
+If you own more than $500 in crypto, get a hardware [wallet](/en/glossary/#wallet). "Not your keys, not your coins" is real — exchanges can freeze accounts, get hacked, or lock withdrawals. A hardware wallet is the only way you truly own your crypto.
 
 ### Ledger — The Industry Standard
 

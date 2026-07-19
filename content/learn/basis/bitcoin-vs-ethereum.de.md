@@ -77,7 +77,7 @@ Ethereum ist **komplex im Design**. Es ist eine Plattform, nicht nur eine Währu
 |---|---|---|
 | **Zweck** | Digitales Geld / Wertspeicher | Dezentraler Weltcomputer |
 | **Beste Analogie** | Gold | Öl |
-| **Was läuft darauf** | Nur Transaktionen (BTC) | Apps, Token, NFTs, Smart Contracts |
+| **Was läuft darauf** | Nur Transaktionen (BTC) | Apps, Token, [NFTs](/de/glossary/#nft), Smart Contracts |
 | **Programmierbar** | Nein (absichtlich begrenzt) | Ja (Turing-vollständig) |
 | **Angebot** | Fest (21M) | Variabel (Verbrennung + Ausgabe) |
 | **Energieverbrauch** | Hoch (PoW) | Niedrig (PoS) |
@@ -96,7 +96,7 @@ Ethereum ist **komplex im Design**. Es ist eine Plattform, nicht nur eine Währu
 
 ### Wähle Ethereum, wenn:
 
-- Du Crypto **nutzen** willst — DeFi, NFTs, Apps
+- Du Crypto **nutzen** willst — [DeFi](/de/glossary/#defi), NFTs, Apps
 - Dich **programmierbares Geld** interessiert
 - Du **Rendite erzielen** willst durch [Staking](/de/glossary/#staking) oder DeFi
 - Du an die **Zukunft dezentraler Apps** glaubst

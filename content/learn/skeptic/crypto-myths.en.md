@@ -57,7 +57,7 @@ But if that address ever gets linked to your identity (through an exchange, [wal
 
 ### How Chain Analysis Works
 
-There are companies — Chainalysis, Elliptic, CipherTrace — that do exactly this. They analyze the blockchain:
+There are companies — Chainalysis, Elliptic, CipherTrace — that do exactly this. They analyze the [blockchain](/en/glossary/#blockchain):
 
 - connect addresses to exchanges;
 - track money movement;
@@ -163,7 +163,7 @@ This is the behavior of **any asset market**, not a bubble.
 
 ### Reality: Modern Apps Are Easier Than Online Banking
 
-Look at MetaMask, Trust Wallet, or Exodus. These are apps that:
+Look at MetaMask, Trust [Wallet](/en/glossary/#wallet), or Exodus. These are apps that:
 
 - install in under a minute;
 - have an intuitive interface;

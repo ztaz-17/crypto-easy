@@ -47,7 +47,7 @@ En este artículo cubriremos cuatro herramientas principales para ahorrar:
 
 ## ¿Por qué las comisiones son tan altas?
 
-Una comisión de blockchain es lo que pagas a los **validadores** (las personas que confirman transacciones).
+Una comisión de [blockchain](/es/glossary/#blockchain) es lo que pagas a los **validadores** (las personas que confirman transacciones).
 Cuanto más popular es la red — más gente quiere enviar una transferencia. Cuanta más gente quiere entrar — más alto es el precio por un lugar en el siguiente [bloque](/es/glossary/#block).
 
 **Ethereum** — la red más congestionada para [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft) y transferencias de [stablecoins](/es/glossary/#stablecoin).
@@ -93,8 +93,8 @@ El resultado: velocidad similar a Visa, comisiones medidas en **céntimos**.
 ### Arbitrum ($ARB)
 Una de las L2 más populares para Ethereum.
 - Comisión: **$0.05–0.3**
-- Se usa para: transferencias de USDT/USDC, DeFi, NFT
-- Compatible con todas las carteras principales (MetaMask, Rabby, OKX Wallet)
+- Se usa para: transferencias de USDT/USDC, [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft)
+- Compatible con todas las [carteras](/es/glossary/#wallet) principales (MetaMask, Rabby, OKX Wallet)
 
 ### Optimism ($OP)
 Tecnología similar, arquitectura ligeramente diferente.

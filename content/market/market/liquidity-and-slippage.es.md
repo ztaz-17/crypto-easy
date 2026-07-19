@@ -39,7 +39,7 @@ En este artículo cubriremos:
 
 ### Qué es
 
-**Liquidez** es qué tan fácil puedes intercambiar un activo por efectivo (u otro activo) sin mover el precio significativamente.
+**[Liquidez](/es/glossary/#liquidity)** es qué tan fácil puedes intercambiar un activo por efectivo (u otro activo) sin mover el precio significativamente.
 
 > **Ejemplo de la vida real:**
 > Vender un departamento a precio de mercado en menos de un mes es difícil. Buscar comprador, negociar, trámites. Eso es un **activo de baja liquidez**.
@@ -129,7 +129,7 @@ El sistema revisa el libro de órdenes:
 
 Si quieres comprar 25 monedas, tu orden se comerá varios niveles seguidos. Tu precio promedio de ejecución no será $100 — será alrededor de $101.20.
 
-Querías comprar a $100 — compraste a ~$101. Eso es **deslizamiento**.
+Querías comprar a $100 — compraste a ~$101. Eso es **[deslizamiento](/es/glossary/#slippage)**.
 
 > **Mientras más grande sea tu orden en relación a la profundidad del mercado, más deslizamiento tendrás.**
 

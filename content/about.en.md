@@ -21,7 +21,7 @@ We write the way we wish someone had explained it to us.
 
 - **[Learn](/en/learn/)** — blockchain, bitcoin, [DeFi](/en/glossary/#defi), crypto for skeptics
 - **[Practice](/en/practice/)** — create a [wallet](/en/glossary/#wallet), buy crypto, send a transaction
-- **[Market](/en/market/)** — prices, DeFi, loans, taxes
+- **[Market](/en/market/)** — prices, [DeFi](/en/glossary/#defi), loans, taxes
 - **[Security](/en/security/)** — scams, [seed phrases](/en/glossary/#seed-phrase), [cold wallets](/en/glossary/#cold-wallet)
 - **[Bonus](/en/bonus/)** — [NFTs](/en/glossary/#nft), [DAOs](/en/glossary/#dao), memecoins, [staking](/en/glossary/#staking)
 

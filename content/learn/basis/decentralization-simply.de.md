@@ -119,7 +119,7 @@ Funktioniert überall, wo es Internet gibt. Unabhängig von Landesgrenzen oder W
 
 ## Fazit
 
-Dezentralisierung ist kein „Zauberknopf", der alle Probleme löst. Sie ist ein **Kompromiss**: du gibst Geschwindigkeit für Zuverlässigkeit auf, Einfachheit für Kontrolle, Support für Freiheit, Bequemlichkeit für Sicherheit.
+[Dezentralisierung](/de/glossary/#decentralization) ist kein „Zauberknopf", der alle Probleme löst. Sie ist ein **Kompromiss**: du gibst Geschwindigkeit für Zuverlässigkeit auf, Einfachheit für Kontrolle, Support für Freiheit, Bequemlichkeit für Sicherheit.
 
 Für alltägliche Zahlungen ist Zentralisierung bequemer. Aber für die Vermögensaufbewahrung und Krisenfestigkeit – ist Dezentralisierung die einzige Option.
 

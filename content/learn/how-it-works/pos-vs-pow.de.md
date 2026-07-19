@@ -36,9 +36,9 @@ Proof of Work ist genau das, wonach es klingt: Du musst **echte Rechenarbeit lei
 
 Stell dir einen Safe mit einem Zahlenschloss vor, das eine Milliarde mögliche Codes hat. Du probierst eine Kombination nach der anderen — Stunden, Tage, Wochen vergehen. Sobald du den Code geknackt hast, kann jeder überprüfen, dass er stimmt.
 
-Die Blockchain funktioniert genauso:
+Die [Blockchain](/de/glossary/#blockchain) funktioniert genauso:
 
-1. Ein Miner sammelt Transaktionen aus dem Mempool in einen Block.
+1. Ein Miner sammelt Transaktionen aus dem Mempool in einen [Block](/de/glossary/#block).
 2. Er probiert Zahlen (Nonces) durch, bis er einen Block-Hash findet, der die Zielbedingung erfüllt (beginnt mit einer bestimmten Anzahl Nullen).
 3. Der Erste, der die richtige Zahl findet, sendet den Block an das Netzwerk.
 4. Andere Miner überprüfen ihn — der Block ist gültig, die Arbeit bestätigt.
@@ -73,7 +73,7 @@ Miner sind keine Programmierer oder Entwickler. Sie sind **Hardware-Betreiber**.
 
 ### Wie es funktioniert
 
-Proof of Stake erfordert keine Zahlenjagd. Stattdessen **sperren Teilnehmer ihre Coins (Staking)** im Netzwerk und erhalten im Verhältnis zu ihrem Einsatz das Recht, Blöcke zu bestätigen.
+[Proof of Stake](/de/glossary/#proof-of-stake) erfordert keine Zahlenjagd. Stattdessen **sperren Teilnehmer ihre Coins ([Staking](/de/glossary/#staking))** im Netzwerk und erhalten im Verhältnis zu ihrem Einsatz das Recht, Blöcke zu bestätigen.
 
 Stell dir das wie eine **Bankeinlage** vor, statt einer Lotterie mit Losen. Je größer deine Einlage, desto öfter wirst du ausgewählt, Transaktionen zu bestätigen. Versuchst du zu betrügen — wird deine Einlage gekürzt (Slashing).
 
@@ -116,7 +116,7 @@ Gestakte Coins dienen als **Sicherheit**:
 
 Hier ein direkter Vergleich:
 
-| Parameter | Proof of Work (PoW) | Proof of Stake (PoS) |
+| Parameter | [Proof of Work](/de/glossary/#proof-of-work) (PoW) | Proof of Stake (PoS) |
 |---|---|---|
 | **Ressource** | Rechenleistung (Strom) | Gesperrte Coins (Einsatz) |
 | **Hardware** | ASIC-Miner (spezialisierte Geräte) | Normaler Server oder PC |
@@ -146,7 +146,7 @@ Wenn du bereits Krypto besitzt, kannst du durch Staking **damit verdienen**, ind
 Beispiel:
 
 - **Ethereum (PoS)**: 10 ETH staken (~25.000 $), ~3,5 % APY verdienen = ~875 $/Jahr.
-- **Bitcoin (PoW)**: Liegt in deiner Wallet — bringt nichts. Aber auch kein Slashing-Risiko.
+- **Bitcoin (PoW)**: Liegt in deiner [Wallet](/de/glossary/#wallet) — bringt nichts. Aber auch kein Slashing-Risiko.
 
 > Staking ist wie eine Bankeinlage, nur dass es statt einer Bank ein Code ist. Aber es gibt Risiken: Deine Coins sind zeitweise gesperrt, und bei Kursverlust kann der Verlust die Staking-Belohnungen überwiegen.
 

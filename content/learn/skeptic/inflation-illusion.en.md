@@ -53,7 +53,7 @@ Most importantly — we'll show you what alternatives exist and how to take back
 ### Official vs. Real inflation
 
 When they say "[inflation](/en/glossary/#inflation) is 6%," it sounds tolerable.
-Central banks have gotten virtuously good at juggling the numbers. Governments calculate inflation based on a consumer basket that includes hundreds of items:
+Central banks have gotten virtuously good at juggling the numbers. Governments calculate [inflation](/en/glossary/#inflation) based on a consumer basket that includes hundreds of items:
 
 * bread;
 * gas;
@@ -312,7 +312,7 @@ She had to close the gap with a loan.
 A deposit is like:
 > holding ice in a warm room and being happy it's melting slowly
 
-Cryptocurrency as a deposit alternative:
+[Cryptocurrency](/en/glossary/#cryptocurrency) as a deposit alternative:
 * gives access to yield ([staking](/en/glossary/#staking), [DeFi](/en/glossary/#defi));
 * doesn't require intermediaries;
 * gives you **control over your money**.

@@ -27,7 +27,7 @@ A message appears on your screen: "Transaction sent. Waiting for confirmation...
 
 And that's where the real action begins.
 
-What happens next is an intricate dance between your wallet, thousands of computers around the world, and the math that keeps the system honest.
+What happens next is an intricate dance between your [wallet](/en/glossary/#wallet), thousands of computers around the world, and the math that keeps the system honest.
 
 > In this article, we'll break down every stage: from the moment you click "Send" to the coins landing in the recipient's wallet.
 
@@ -64,7 +64,7 @@ Your wallet takes the transaction data and signs it with your **[private key](/e
 
 ### Why signatures can't be faked
 
-Your private key is a long random string of characters. Only you know it. The network only knows your public address — a derivative of that key.
+Your [private key](/en/glossary/#private-key) is a long random string of characters. Only you know it. The network only knows your public address — a derivative of that key.
 
 When you sign a transaction:
 
@@ -85,7 +85,7 @@ That's the magic: you prove you own the funds without revealing your secret.
 
 The transaction is signed. Now it needs to reach the network.
 
-Your wallet sends the transaction to one or more network nodes — **nodes**. A node is a computer running a full blockchain client. It stores the entire transaction history and checks new ones.
+Your wallet sends the transaction to one or more network nodes — **nodes**. A node is a computer running a full [blockchain](/en/glossary/#blockchain) client. It stores the entire transaction history and checks new ones.
 
 ### What a node checks
 
@@ -101,7 +101,7 @@ If everything checks out — the node adds the transaction to the **mempool** (s
 
 Think of a train station. Your transaction is a passenger waiting to board a train (a [block](/en/glossary/#block)). There are lots of passengers, the train leaves only once every 10 minutes (in Bitcoin's case), and seats are limited.
 
-Who gets on the train? The ones who paid for a ticket — that is, the fee. The higher the fee, the sooner your transaction gets picked for a block.
+Who gets on the train? The ones who paid for a ticket — that is, the fee. The higher the fee, the sooner your transaction gets picked for a [block](/en/glossary/#block).
 
 > If the fee is too low, your transaction could wait hours or even days. At any given time, the mempool can hold tens of thousands of unconfirmed transactions.
 

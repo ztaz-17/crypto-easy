@@ -49,7 +49,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 
 ### Examples
 
-| Wallet            | Type              | Key Feature                           |
+| [Wallet](/en/glossary/#wallet)            | Type              | Key Feature                           |
 |-------------------|-------------------|---------------------------------------|
 | **MetaMask**      | Browser extension | Most popular for Ethereum and EVM networks |
 | **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in [DApp](/en/glossary/#dapp) browser |
@@ -81,7 +81,7 @@ All of this happens in seconds. Convenient? Very.
 
 - **keys are stored on a device connected to the internet**;
 - if a virus, phishing, or malware gets in — your money can be stolen;
-- if your phone breaks — recovery requires the seed phrase;
+- if your phone breaks — recovery requires the [seed phrase](/en/glossary/#seed-phrase);
 - require caution when using.
 
 ---
@@ -142,7 +142,7 @@ Even if your computer is infected with a virus, the attacker cannot steal the ke
 
 ## Hot vs Cold: Comparison Table
 
-| Criteria                 | Hot Wallet                            | Cold Wallet                            |
+| Criteria                 | [Hot Wallet](/en/glossary/#hot-wallet)                            | [Cold Wallet](/en/glossary/#cold-wallet)                            |
 |--------------------------|---------------------------------------|----------------------------------------|
 | **Internet connection**  | Always online                         | Offline (connects only to sign)        |
 | **Security**             | Medium (depends on device)            | High (keys never leave the device)     |
@@ -151,7 +151,7 @@ Even if your computer is infected with a virus, the attacker cannot steal the ke
 | **Virus protection**     | Low                                   | High                                   |
 | **For daily spending**   | ✅ Great                              | ❌ Inconvenient                        |
 | **For long-term storage**| ❌ Risky                              | ✅ Ideal                               |
-| **DeFi / NFT**           | ✅ Easy                               | ⚠️ Possible but more complex          |
+| **[DeFi](/en/glossary/#defi) / [NFT](/en/glossary/#nft)**           | ✅ Easy                               | ⚠️ Possible but more complex          |
 | **Risk of key loss**     | Higher (virus, phishing)              | Lower (but device can be lost)         |
 | **Recovery**             | Via seed phrase                       | Via seed phrase (need new device)      |
 

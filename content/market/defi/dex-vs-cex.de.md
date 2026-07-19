@@ -53,7 +53,7 @@ Zentralisierte Börsen müssen die Gesetze der Länder einhalten, in denen sie t
 > - eine Verifizierung durchlaufen (Pass, Selfie);
 > - manchmal — deine Wohnadresse bestätigen.
 
-Ohne KYC kannst du nur bis zu einem bestimmten Limit abheben (normalerweise 1–2 BTC pro Tag).
+Ohne [KYC](/de/glossary/#kyc) kannst du nur bis zu einem bestimmten Limit abheben (normalerweise 1–2 BTC pro Tag).
 
 **Verwahrende Aufbewahrung**
 
@@ -85,19 +85,19 @@ Je tiefer der Pool — desto weniger [Slippage](/de/glossary/#slippage) bei dein
 
 **Nicht-verwahrend (Non-Custodial)**
 
-Deine Gelder bleiben die ganze Zeit in deiner Wallet. Du verbindest MetaMask, Rabby, Phantom oder eine andere Web3-Wallet und signierst Transaktionen.
+Deine Gelder bleiben die ganze Zeit in deiner [Wallet](/de/glossary/#wallet). Du verbindest MetaMask, Rabby, Phantom oder eine andere Web3-Wallet und signierst Transaktionen.
 
 > Eine DEX hat niemals die Kontrolle über dein Geld. Nur du.
 
 **Kein KYC**
 
-Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginnen. Alles, was eine DEX sehen muss, ist deine Wallet-Adresse.
+Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginnen. Alles, was eine [DEX](/de/glossary/#dex) sehen muss, ist deine Wallet-Adresse.
 
 ---
 
 ## Vergleich: CEX vs DEX
 
-| Kriterium | CEX | DEX |
+| Kriterium | [CEX](/de/glossary/#cex) | DEX |
 |-----------|-----|-----|
 | **Kontrolle über Gelder** | Börse (verwahrend) | Du (nicht-verwahrend) |
 | **Registrierung** | E-Mail + KYC (Pass) | Nicht nötig |
@@ -105,9 +105,9 @@ Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginne
 | **Auftragsarten** | Limit, Market, Stop-Loss | Nur Market (Swap) |
 | **[Liquidität](/de/glossary/#liquidity)** | Hoch (Millionen Händler) | Mittel (abhängig von der Pooltiefe) |
 | **Gebühren** | 0,02–0,1 % (Maker/Taker) | 0,05–1 % (Pool-Gebühr) + Netzwerk-Gas |
-| **Geschwindigkeit** | Sofort (intern) | Abhängig von der Blockchain (Sek.–Min.) |
+| **Geschwindigkeit** | Sofort (intern) | Abhängig von der [Blockchain](/de/glossary/#blockchain) (Sek.–Min.) |
 | **Verfügbare Paare** | [Fiat](/de/glossary/#fiat) + Krypto, viele Paare | Nur Krypto-zu-Krypto |
-| **Fiat-Einzahlung** | Ja (Karten, Banküberweisungen) | Nein (nur Krypto) |
+| **[Fiat](/de/glossary/#fiat)-Einzahlung** | Ja (Karten, Banküberweisungen) | Nein (nur Krypto) |
 | **Anzahl der Assets** | Hunderte–Tausende (von der Börse bestimmt) | Alles auf der Blockchain (alle Token) |
 | **Erweiterte Tools** | Futures, Margin, [Staking](/de/glossary/#staking), [P2P](/de/glossary/#p2p) | Basisdienst — Swap |
 | **Regulierung** | Hält lokale Gesetze ein | De facto unreguliert |
@@ -123,7 +123,7 @@ CEX ist der einzige einfache Weg, Bitcoin mit Rubel, Dollar oder Euro zu kaufen.
 
 ### 2️⃣ Du brauchst hohe Liquidität und präzise Orders
 
-Bei großen Trades (10.000 $+) bietet dir ein Orderbuch einen besseren Preis als ein AMM-Pool. Du kannst eine Limit-Order zu deinem Preis setzen und vermeidest Überzahlung durch Slippage.
+Bei großen Trades (10.000 $+) bietet dir ein Orderbuch einen besseren Preis als ein AMM-Pool. Du kannst eine Limit-Order zu deinem Preis setzen und vermeidest Überzahlung durch [Slippage](/de/glossary/#slippage).
 
 ### 3️⃣ Du handelst Futures, Margin oder nutzt Stop-Losses
 
@@ -224,4 +224,4 @@ Wenn du Token in einen Liquiditätspool einzahlst, kann sich der Preis des Paare
 
 ### Haben DEXs Futures?
 
-Ja, aber sie sind weniger beliebt. Beispiele: dYdX, GMX, Gains Network. Dennoch sind Liquidität und Toolset nicht mit CEXs vergleichbar.
+Ja, aber sie sind weniger beliebt. Beispiele: dYdX, GMX, Gains Network. Dennoch sind [Liquidität](/de/glossary/#liquidity) und Toolset nicht mit CEXs vergleichbar.

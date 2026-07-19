@@ -36,7 +36,7 @@ Jede Krypto-Transaktion beginnt mit einer Adresse. Es ist eine lange Zeichenfolg
 
 ### Woher bekommst du die Adresse
 
-Der Empfänger gibt dir seine Wallet-Adresse:
+Der Empfänger gibt dir seine [Wallet](/de/glossary/#wallet)-Adresse:
 
 - per Messenger (Telegram, WhatsApp);
 - als QR-Code auf seinem Telefonbildschirm;
@@ -97,7 +97,7 @@ Die Prüfung von Anfang, Ende und Mitte ist **eine einfache Gewohnheit, die dein
 
 Das ist die häufigste – und teuerste – Lektion in Krypto.
 
-Jede Kryptowährung hat **eigene Netzwerke**, in denen sie funktioniert.  \
+Jede [Kryptowährung](/de/glossary/#cryptocurrency) hat **eigene Netzwerke**, in denen sie funktioniert.  \
 Wenn du USDT im ERC-20-Netzwerk an eine Adresse sendest, die TRC-20 erwartet, **verschwindet das Geld**.
 
 ### Welche Netzwerke gibt es
@@ -204,7 +204,7 @@ So prüfst du:
 | Status | Bedeutung |
 |--------|-----------|
 | **Pending** | Die Transaktion wartet in der Warteschlange auf Aufnahme in einen [Block](/de/glossary/#block) |
-| **Confirmed** | Die Transaktion wurde in die Blockchain geschrieben |
+| **Confirmed** | Die Transaktion wurde in die [Blockchain](/de/glossary/#blockchain) geschrieben |
 | **Failed** | Fehler (meist aufgrund zu niedrigen Gas oder unzureichender Deckung für die Gebühr) |
 
 > Wenn der Status **Confirmed** ist – ist das Geld definitiv angekommen.  \

@@ -43,12 +43,12 @@ El estándar **ERC-20** (y sus primos BEP-20, TRC-20, etc.) es un smart contract
 - `transfer(from, to, amount)` — mueve tokens;
 - `approve(spender, amount)` — permite que otra dirección gaste tus tokens.
 
-Con una transferencia normal, tú firmas la transacción. Pero cuando interactúas con una app DeFi, el contrato necesita **sacar** tokens de tu cuenta por su cuenta.
+Con una transferencia normal, tú firmas la transacción. Pero cuando interactúas con una app [DeFi](/es/glossary/#defi), el contrato necesita **sacar** tokens de tu cuenta por su cuenta.
 
 Así funciona por debajo:
 
 1. Tú llamas a `approve(contrato_DEX, 1000 USDT)`;
-2. Ahora el contrato DEX puede llamar a `transferFrom(tu_dirección, pool, 1000 USDT)`;
+2. Ahora el contrato [DEX](/es/glossary/#dex) puede llamar a `transferFrom(tu_dirección, pool, 1000 USDT)`;
 3. El swap ocurre sin que tengas que firmar cada paso.
 
 👉 **Eso es un permiso de token** — le das a un smart contract permiso para mover tus tokens.
@@ -75,7 +75,7 @@ approve(DEX, MAX_UINT_256)
 
 `MAX_UINT_256` es el número más grande de Ethereum (2²⁵⁶ − 1). Prácticamente infinito.
 
-¿Por qué hacen esto las dApps?
+¿Por qué hacen esto las [dApps](/es/glossary/#dapp)?
 
 - **comodidad** — no hay que confirmar cada intercambio individual;
 - **más barato** — una sola transacción `approve` en lugar de varias;

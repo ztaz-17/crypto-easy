@@ -77,7 +77,7 @@ Jedes Zeichenpaar ist ein Byte an Information. Insgesamt 32 Bytes. Diese 32 Byte
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
 ```
 
-Wenn du die Seed-Phrase hast – hast du Zugriff auf den Private Key. Wenn du den Private Key hast – kannst du die Seed-Phrase wiederherstellen (meistens). **Die Seed-Phrase IST dein Private Key**, nur in menschenfreundlicher Form.
+Wenn du die [Seed-Phrase](/de/glossary/#seed-phrase) hast – hast du Zugriff auf den Private Key. Wenn du den Private Key hast – kannst du die Seed-Phrase wiederherstellen (meistens). **Die Seed-Phrase IST dein Private Key**, nur in menschenfreundlicher Form.
 
 > Merk dir: Dein Private Key (oder deine Seed-Phrase) ist der EINZIGE Weg, um zu beweisen, dass die Coins dir gehören. Ohne ihn existieren die Coins für dich nicht.
 
@@ -89,9 +89,9 @@ Es ist hart, aber einfach:
 
 **Wer deinen Private Key kennt – besitzt deine Coins.**
 
-Du kannst Bitcoin an dein Wallet senden, hundert Passwörter in der App einrichten – aber wenn jemand deinen Private Key erfährt, kann er einfach dein Wallet in einer beliebigen App öffnen und alle Coins an sich selbst senden.
+Du kannst Bitcoin an dein [Wallet](/de/glossary/#wallet) senden, hundert Passwörter in der App einrichten – aber wenn jemand deinen Private Key erfährt, kann er einfach dein Wallet in einer beliebigen App öffnen und alle Coins an sich selbst senden.
 
-Keine „Sicherheitsabteilung", keine „SMS-Bestätigung", kein „Auszahlungslimit". Die Blockchain unterscheidet nicht zwischen „Dieb" und „Besitzer" – sie sieht nur eine gültige kryptografische Signatur.
+Keine „Sicherheitsabteilung", keine „SMS-Bestätigung", kein „Auszahlungslimit". Die [Blockchain](/de/glossary/#blockchain) unterscheidet nicht zwischen „Dieb" und „Besitzer" – sie sieht nur eine gültige kryptografische Signatur.
 
 Deshalb:
 
@@ -101,7 +101,7 @@ Deshalb:
 - Sende ihn niemals an irgendjemanden in Messengern.
 - Speichere ihn niemals in der Cloud (Google Drive, iCloud, Dropbox).
 
-**Die goldene Regel der Kryptowährung: Not Your Keys – Not Your Coins.**
+**Die goldene Regel der [Kryptowährung](/de/glossary/#cryptocurrency): Not Your Keys – Not Your Coins.**
 
 ---
 

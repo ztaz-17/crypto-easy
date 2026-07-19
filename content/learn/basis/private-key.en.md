@@ -35,7 +35,7 @@ There's no "account" with a login and password on a [blockchain](/en/glossary/#b
 
 Public key — like your bank account number. You give it out so people can send you money.
 
-Private key — **the signature on the check**. If someone gets it, they can sign any transfer in your name.
+[Private key](/en/glossary/#private-key) — **the signature on the check**. If someone gets it, they can sign any transfer in your name.
 
 ---
 
@@ -77,7 +77,7 @@ Each pair of characters is one byte of information. 32 bytes total. Those 32 byt
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
 ```
 
-If you have the seed phrase — you have access to the private key. If you have the private key — you can recover the seed phrase (usually). **The seed phrase IS your private key**, just in human-friendly form.
+If you have the [seed phrase](/en/glossary/#seed-phrase) — you have access to the private key. If you have the private key — you can recover the seed phrase (usually). **The seed phrase IS your private key**, just in human-friendly form.
 
 > Remember: your private key (or seed phrase) is the ONLY way to prove the coins are yours. Without it, the coins don't exist for you.
 
@@ -89,9 +89,9 @@ It's harsh and simple:
 
 **Whoever knows your private key — owns your coins.**
 
-You can transfer Bitcoin to your wallet, set a hundred passwords on the app — but if someone learns your private key, they can simply open your wallet in any app and send all the coins to themselves.
+You can transfer Bitcoin to your [wallet](/en/glossary/#wallet), set a hundred passwords on the app — but if someone learns your private key, they can simply open your wallet in any app and send all the coins to themselves.
 
-No "security department," no "SMS confirmation," no "withdrawal limit." The blockchain doesn't distinguish between "thief" and "owner" — it only sees a valid cryptographic signature.
+No "security department," no "SMS confirmation," no "withdrawal limit." The [blockchain](/en/glossary/#blockchain) doesn't distinguish between "thief" and "owner" — it only sees a valid cryptographic signature.
 
 Therefore:
 
@@ -101,7 +101,7 @@ Therefore:
 - Never send it to anyone in messengers.
 - Never store it in the cloud (Google Drive, iCloud, Dropbox).
 
-**The golden rule of cryptocurrency: Not Your Keys — Not Your Coins.**
+**The golden rule of [cryptocurrency](/en/glossary/#cryptocurrency): Not Your Keys — Not Your Coins.**
 
 ---
 
@@ -153,6 +153,6 @@ Theoretically — yes. Practically — no. There are 2^256 (~10^77) possible com
 
 Immediately create a new wallet (with a new private key) and transfer all funds there. The old wallet is compromised — never use it again.
 
-**If an exchange blocks my account, do I lose my coins?**
+**If an exchange [blocks](/en/glossary/#block) my account, do I lose my coins?**
 
 Coins on the exchange — yes. Coins in your own wallet — no, because the private key is with you. That's exactly why we say: "not your keys — not your coins."

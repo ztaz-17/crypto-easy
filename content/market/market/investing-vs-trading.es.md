@@ -190,7 +190,7 @@ Cada vela muestra el movimiento del precio durante un período de tiempo elegido
 
 ## Comparación: Invertir vs Trading
 
-| Criterio | Invertir (HODL) | Trading |
+| Criterio | Invertir ([HODL](/es/glossary/#hodl)) | Trading |
 |----------|-----------------|---------|
 | Período de tenencia | Meses / años | Minutos / días / semanas |
 | Tiempo requerido | Bajo (una hora al mes) | Alto (horas al día) |

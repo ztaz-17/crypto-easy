@@ -91,7 +91,7 @@ You copy the address, send USDT over BSC, but the recipient is waiting for ERC20
 Formally:
 - the address matches;
 - the transaction went through;
-- but the recipient checks their ERC20 wallet — empty.
+- but the recipient checks their ERC20 [wallet](/en/glossary/#wallet) — empty.
 
 The funds are **not lost forever**, but you'll need to recover them. And that's a whole separate story.
 
@@ -155,7 +155,7 @@ Here's a quick reference for the most popular USDT networks:
 
 ### Don't Panic
 
-First and foremost. The crypto hasn't gone anywhere — it's on the blockchain. In almost all cases, you can regain access.
+First and foremost. The crypto hasn't gone anywhere — it's on the [blockchain](/en/glossary/#blockchain). In almost all cases, you can regain access.
 
 ### If You Sent from an Exchange to an External Wallet
 

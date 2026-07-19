@@ -68,7 +68,7 @@ Um auf einem Testnet zu arbeiten, brauchst du Test-Coins. Spezielle Websites nam
 So funktioniert's:
 
 1. Geh auf eine Faucet-Website.
-2. Gib deine Testnet-Wallet-Adresse ein.
+2. Gib deine Testnet-[Wallet](/de/glossary/#wallet)-Adresse ein.
 3. Klick auf »Anfordern« (oder »Send me test ETH«).
 4. Wenige Sekunden später landen die Coins in deinem Wallet.
 
@@ -122,7 +122,7 @@ Jetzt besorgen wir uns ein paar Coins für dein Krypto-Wallet:
 
 Ethereum ist eine [Blockchain](/de/glossary/#blockchain), die durch Smart Contracts populär geworden ist.
 
-Einfach gesagt ist ein Smart Contract ein Programm, das jede Art von Token, NFT ausgeben, deren Wirtschaftlichkeit und Regeln festlegen kann – und das alles läuft auf Gas (Gwei – dem Treibstoff des Ethereum-Systems).
+Einfach gesagt ist ein Smart Contract ein Programm, das jede Art von Token, [NFT](/de/glossary/#nft) ausgeben, deren Wirtschaftlichkeit und Regeln festlegen kann – und das alles läuft auf Gas (Gwei – dem Treibstoff des Ethereum-Systems).
 
 > Wichtig! Vertraue nur offiziellen Contracts. Jeder Script-Kiddie-Hacker kann einen Coin erstellen und dir Millionen von `USD` schicken, um dich auf seine Seite zu locken – wo du nach etlichen Hürden vielleicht versehentlich Zugriff auf dein Wallet gewährst und echte Coins verlierst.
 
@@ -136,7 +136,7 @@ Also gut... wir wollen USD!
 3. MetaMask schützt dich vor **Dust-Token** und zeigt solche Token standardmäßig nicht an. Du hast zwei Optionen:
 > - alle Token anzeigen lassen (nicht sicher)
 > - die Smart-Contract-Adresse zu deinem Wallet hinzufügen – dann erscheinen nur diese Token und du kannst sie versenden
-4. Fügen wir unseren Contract zum Wallet hinzu. Die Adresse findest du im Blockchain-Explorer:
+4. Fügen wir unseren Contract zum Wallet hinzu. Die Adresse findest du im [Blockchain](/de/glossary/#blockchain)-Explorer:
 > - öffne den Block Explorer [sepolia.etherscan.io](https://sepolia.etherscan.io/tx/0x51ffec256bf03a539fb8b435d3b4ee0057cfd6781c452fb2321074caae25dbd9)
 > - füge deine Wallet-Adresse ein: `0x56f218c5aaE76128131A901F4E5cd3B9565bf014` (deine eigene!)
 > - geh zum Tab **Token Transfers (ERC-20)**
@@ -166,7 +166,7 @@ Beobachte, wie die Gas-Gebühr abgezogen wird und die Transaktion im [Block](/de
 Bitte einen Freund, dir ein paar Test-Coins zu schicken.
 Oder schick welche an den Autor dieser Adresse: `0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128` von deinem Wallet aus.
 
-Vergiss nicht, dir die Transaktion im Block Explorer anzusehen: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+Vergiss nicht, dir die Transaktion im [Block](/de/glossary/#block) Explorer anzusehen: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 #### 3. Transaktion im Explorer prüfen
 
@@ -216,7 +216,7 @@ So bleibst du sicher:
 - ✅ **Tu das:** Ein separates Wallet nur zum Testen benutzen
 - ❌ **Vermeide das:** Nicht gedankenlos zwischen Netzwerken in einem Wallet hin- und herschalten
 - ✅ **Tu das:** Ein anderes Theme oder Label für dein Test-Profil einstellen
-- ❌ **Vermeide das:** Test- und echte Seed-Phrasen nicht nebeneinander aufbewahren
+- ❌ **Vermeide das:** Test- und echte [Seed-Phrasen](/de/glossary/#seed-phrase) nicht nebeneinander aufbewahren
 - ✅ **Tu das:** Vor jeder Überweisung kurz innehalten und das Netzwerk prüfen
 - ❌ **Vermeide das:** Testnet-Adressen nicht für echte Transaktionen verwenden
 

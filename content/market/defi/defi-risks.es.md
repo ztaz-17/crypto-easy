@@ -24,7 +24,7 @@ Otra situación: solicitas un préstamo respaldado por ETH, el mercado se desplo
 
 > **DeFi ofrece altos rendimientos — pero nada es gratis.**
 
-Los riesgos de DeFi son fundamentalmente distintos a los de un banco. Con un banco, te preocupas de que quiebre o te congele la cuenta. Con DeFi, el código puede tener un error, los fundadores pueden desaparecer, y el mercado puede colapsar en cuestión de minutos.
+Los riesgos de [DeFi](/es/glossary/#defi) son fundamentalmente distintos a los de un banco. Con un banco, te preocupas de que quiebre o te congele la cuenta. Con DeFi, el código puede tener un error, los fundadores pueden desaparecer, y el mercado puede colapsar en cuestión de minutos.
 
 Esto es lo que veremos en este artículo:
 
@@ -60,7 +60,7 @@ Según analistas, entre 2021 y 2023, millones de usuarios fueron víctimas de ru
 | APY increíblemente alto | Cualquier cosa por encima del 1000% casi siempre es sospechosa |
 | Equipo anónimo | Nadie sabe quién construyó el proyecto |
 | Sin auditoría | El código no ha sido revisado por auditores independientes |
-| Liquidez recién creada | El proyecto tiene días o semanas de vida |
+| [Liquidez](/es/glossary/#liquidity) recién creada | El proyecto tiene días o semanas de vida |
 | Liquidez no bloqueada | La liquidez no está bloqueada — los fundadores pueden retirarla cuando quieran |
 
 ---
@@ -77,7 +77,7 @@ Una sola línea de código defectuosa puede costar millones. Y a diferencia de l
 |-----------|-----|---------|-------|
 | **Ronin Bridge** | 2022 | $624M | Vulnerabilidad en validadores del [puente](/es/glossary/#bridge) |
 | **Wormhole Bridge** | 2022 | $326M | Bug de verificación de firmas |
-| **Nomad Bridge** | 2022 | $190M | Bug en el contrato del puente |
+| **Nomad Bridge** | 2022 | $190M | Bug en el contrato del [puente](/es/glossary/#bridge) |
 | **Cream Finance** | 2021 | $130M | Fallo en la lógica de préstamos |
 | **Poly Network** | 2021 | $611M | Vulnerabilidad en protocolo cross-chain |
 
@@ -214,7 +214,7 @@ Deposita una cantidad pequeña ($50–100) en un protocolo nuevo. Intenta retira
 | Riesgo | Qué Es | Cómo Protegerte |
 |--------|--------|-----------------|
 | **Rug pull** | Los creadores drenan la liquidez y desaparecen | Revisa auditorías, equipo, bloqueo de liquidez; aléjate de proyectos nuevos con APY >500% |
-| **Bug en smart contract** | Vulnerabilidad en el código que lleva a robo de fondos | Elige protocolos con múltiples auditorías, TVL medio/alto y trayectoria prolongada |
+| **Bug en smart contract** | Vulnerabilidad en el código que lleva a robo de fondos | Elige protocolos con múltiples auditorías, [TVL](/es/glossary/#tvl) medio/alto y trayectoria prolongada |
 | **Pérdida impermanente** | Pérdidas por cambios de precio de tokens en un pool | Evita pares altamente volátiles; usa pools de stablecoins; toma ganancias regularmente |
 | **Liquidación** | Venta forzada de la garantía cuando los precios caen | Mantén un ratio de garantía del 200%+; usa stablecoins como garantía; no maxees préstamos |
 | **Desplome del token del protocolo** | El token de recompensa se desploma, tu rendimiento se vuelve negativo | No conserves tokens de recompensa por mucho tiempo; conviértelos a stablecoins |
@@ -246,7 +246,7 @@ Y lo más importante: nunca inviertas dinero que no estés dispuesto a perder po
 Estadísticamente, los rug pulls son más comunes, pero los bugs en el código causan pérdidas mayores (hacks individuales de $100M+). Ambos son riesgos graves.
 
 ### ¿Puedo evitar completamente la pérdida impermanente?
-Sí — no aportando liquidez a pools de DEX. Prestar (Aave, Compound) no genera IL. La IL también es mínima en pools de stablecoins (USDC/USDT/DAI).
+Sí — no aportando liquidez a pools de [DEX](/es/glossary/#dex). Prestar (Aave, Compound) no genera IL. La IL también es mínima en pools de stablecoins (USDC/USDT/DAI).
 
 ### ¿Qué debo hacer si mi garantía se acerca a la liquidación?
 Añade más garantía (recarga) o paga parcialmente la deuda. Hazlo temprano — durante una caída brusca del mercado, las transacciones pueden no procesarse debido a la congestión de la red.

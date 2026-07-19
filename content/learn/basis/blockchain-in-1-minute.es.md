@@ -42,7 +42,7 @@ Tradicionalmente, cada banco llevaba su **propio** libro. Si transferías dinero
 
 ### ¿En qué se diferencia blockchain?
 
-Blockchain es un **libro contable compartido** que existe simultáneamente con todos los participantes de la red.
+[Blockchain](/es/glossary/#blockchain) es un **libro contable compartido** que existe simultáneamente con todos los participantes de la red.
 
 Características clave:
 
@@ -65,7 +65,7 @@ En una escuela normal, el maestro guarda el libro. Si el maestro quiere cambiar 
 Blockchain está hecho de [bloques](/es/glossary/#block). Cada bloque es como una página en el cuaderno compartido. Contiene:
 
 - **varias transacciones** (quién envió qué a quién);
-- **una marca de tiempo** (cuándo se creó el bloque);
+- **una marca de tiempo** (cuándo se creó el [bloque](/es/glossary/#block));
 - **el hash del bloque anterior** (una "huella digital" de la página anterior).
 
 ### ¿Qué es un hash y por qué es importante?

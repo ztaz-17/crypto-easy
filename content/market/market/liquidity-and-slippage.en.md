@@ -39,7 +39,7 @@ In this article we'll cover:
 
 ### What it is
 
-**Liquidity** is how easily you can exchange an asset for cash (or another asset) without moving the price significantly.
+**[Liquidity](/en/glossary/#liquidity)** is how easily you can exchange an asset for cash (or another asset) without moving the price significantly.
 
 > **Real-world example:**
 > Selling an apartment at market price within a month is tough. Finding a buyer, negotiating, handling paperwork. That's a **low-liquidity asset**.
@@ -129,7 +129,7 @@ The system checks the order book:
 
 If you want to buy 25 coins, your order will eat through several levels in a row. Your average fill price won't be $100 — it'll be around $101.20.
 
-You wanted to buy at $100 — you bought at ~$101. That's **slippage**.
+You wanted to buy at $100 — you bought at ~$101. That's **[slippage](/en/glossary/#slippage)**.
 
 > **The bigger your order relative to market depth, the more slippage you get.**
 

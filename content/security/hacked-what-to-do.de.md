@@ -36,7 +36,7 @@ Aber das heißt nicht, dass du nichts tun kannst. Dieser Artikel gibt dir einen 
 
 Dein größter Feind in dieser Situation ist Panik. Sie bringt dich dazu, Fehler zu machen:
 
-- deine restlichen Gelder in eine »sichere« Wallet zu verschieben, die tatsächlich dem Betrüger gehört;
+- deine restlichen Gelder in eine »sichere« [Wallet](/de/glossary/#wallet) zu verschieben, die tatsächlich dem Betrüger gehört;
 - auf dubiose Nachrichten wie »Gelder zurückholen« zu klicken;
 - »Gas-Gebühren« zu bezahlen, um dein gestohlenes Geld zurückzubekommen;
 - deinen [Seed-Phrase](/de/glossary/#seed-phrase) dem »Support-Personal« zu geben.
@@ -53,7 +53,7 @@ Sobald du verdächtige Aktivitäten bemerkst, ist dein Ziel, den **Zugriff** des
 
 Falls eine Hot-Wallet kompromittiert wurde (MetaMask, Trust Wallet, Phantom usw.):
 
-1. **Schalte das Internet auf dem Gerät aus** (Flugmodus), wenn du eine noch nicht bestätigte Transaktion siehst. Das hilft nicht, wenn der Seed-Phrase bereits draußen ist, aber es könnte dir Sekunden verschaffen.
+1. **Schalte das Internet auf dem Gerät aus** (Flugmodus), wenn du eine noch nicht bestätigte Transaktion siehst. Das hilft nicht, wenn der [Seed-Phrase](/de/glossary/#seed-phrase) bereits draußen ist, aber es könnte dir Sekunden verschaffen.
 2. **Erstelle sofort eine neue Wallet** — auf einem anderen Gerät oder in einer anderen App.
 3. **Generiere einen frischen Seed-Phrase.** Verwende niemals den alten wieder.
 
@@ -174,7 +174,7 @@ Einige Dinge machen die Sache **nur noch schlimmer**:
 - ❌ »Krypto-Wiederherstellungsdienste« nutzen — die sind alle betrügerisch.
 - ❌ Software herunterladen, die Fremde in sozialen Medien empfehlen.
 - ❌ Deinen Seed-Phrase irgendjemandem verraten, selbst »Wallet-Vertretern«.
-- ❌ Versuchen, eine Blockchain-Transaktion »rückgängig zu machen« — das ist unmöglich.
+- ❌ Versuchen, eine [Blockchain](/de/glossary/#blockchain)-Transaktion »rückgängig zu machen« — das ist unmöglich.
 
 > **Wenn dir jemand verspricht, dein gestohlenes Geld gegen eine Gebühr zurückzuholen — betrügt er dich.**
 

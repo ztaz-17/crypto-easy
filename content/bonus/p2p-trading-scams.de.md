@@ -34,7 +34,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist P2P-Handel
 
-P2P (Peer-to-Peer) ist direkter Handel zwischen Menschen. Keine Zwischenhändler:
+[P2P](/de/glossary/#p2p) (Peer-to-Peer) ist direkter Handel zwischen Menschen. Keine Zwischenhändler:
 
 - du einigst dich mit dem Verkäufer;
 - du überweist Geld auf seine Karte;
@@ -210,7 +210,7 @@ Aber die beste Medizin ist **Vorbeugung**. Befolg die obigen Regeln, und du verl
 
 ## Fazit
 
-P2P-Handel ist eine bequeme Möglichkeit, Kryptowährung direkt zu kaufen oder zu verkaufen, ohne zwischengeschaltete Banken. Aber es ist der „menschliche Faktor", der ihn anfällig macht.
+P2P-Handel ist eine bequeme Möglichkeit, [Kryptowährung](/de/glossary/#cryptocurrency) direkt zu kaufen oder zu verkaufen, ohne zwischengeschaltete Banken. Aber es ist der „menschliche Faktor", der ihn anfällig macht.
 
 Zwei Hauptbetrugsmaschen:
 

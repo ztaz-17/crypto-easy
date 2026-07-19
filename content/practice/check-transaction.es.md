@@ -37,11 +37,11 @@ En este artículo cubriremos:
 
 ## ¿Qué Es un Explorador de Blockchain y Para Qué Lo Necesitas?
 
-Un **explorador de blockchain** es como el "Google de la blockchain." Un sitio web público que muestra todo lo que sucede en la red:
+Un **explorador de [blockchain](/es/glossary/#blockchain)** es como el "Google de la blockchain." Un sitio web público que muestra todo lo que sucede en la red:
 
 - cada transacción;
 - cada wallet y su saldo;
-- cada bloque y su contenido.
+- cada [bloque](/es/glossary/#block) y su contenido.
 
 A diferencia de un banco donde solo ves tu propia actividad, en la blockchain **todo es visible**. Los datos solo están codificados en direcciones — sin vínculo con tu identidad.
 

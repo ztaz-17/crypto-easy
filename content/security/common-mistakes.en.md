@@ -45,9 +45,9 @@ Mismatched network. You sent tokens to the right address but the wrong network �
 
 **Step 1. Identify which network you sent to.** Check the transaction on the explorer (Etherscan, BscScan).
 
-**Step 2. Add that network to your wallet.** If BEP-20 — add Binance Smart Chain to MetaMask (Settings → Networks → Add). After adding, your tokens will appear.
+**Step 2. Add that network to your [wallet](/en/glossary/#wallet).** If BEP-20 — add Binance Smart Chain to MetaMask (Settings → Networks → Add). After adding, your tokens will appear.
 
-**Step 3. If your wallet doesn't support the network — import your seed phrase** into a wallet that does (e.g., Trust Wallet supports most networks).
+**Step 3. If your wallet doesn't support the network — import your [seed phrase](/en/glossary/#seed-phrase)** into a wallet that does (e.g., Trust Wallet supports most networks).
 
 **Step 4. Never send back without checking.** The most dangerous follow-up mistake: trying to "send back" without matching networks.
 
@@ -171,15 +171,15 @@ A Twitter post: "Urgent $PEPE [airdrop](/en/glossary/#airdrop) — connect your 
 1. **Seed phrase is everything.** Physical storage, two copies, never enter online.
 2. **Triple-check network and address** before every send.
 3. **Never blind-sign approvals.** Always check the amount. Use Rabby Wallet.
-4. **Separate DeFi wallet.** Keep only what you're willing to lose there.
-5. **Trust no one.** "Support" in Telegram, "airdrops" with wallet connection, "free tokens" — 99% are scams.
+4. **Separate [DeFi](/en/glossary/#defi) wallet.** Keep only what you're willing to lose there.
+5. **Trust no one.** "Support" in Telegram, "[airdrops](/en/glossary/#airdrop)" with wallet connection, "free tokens" — 99% are scams.
 
 ---
 
 ## FAQ
 
 ### I sent USDT via BEP-20 to an Ethereum address — are they lost?
-No. Add BSC network to your wallet — tokens will appear. Or use a cross-chain bridge.
+No. Add BSC network to your wallet — tokens will appear. Or use a cross-chain [bridge](/en/glossary/#bridge).
 
 ### Can I recover a seed phrase if I remember only part of it?
 Yes, if you remember 10+ words out of 12 — brute-force recovery services exist. Costs money, but it works.

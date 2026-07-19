@@ -190,7 +190,7 @@ Each candle shows price movement over a chosen time period (e.g., 1 hour, 1 day)
 
 ## Comparison: Investing vs Trading
 
-| Criterion | Investing (HODL) | Trading |
+| Criterion | Investing ([HODL](/en/glossary/#hodl)) | Trading |
 |----------|----------------------|----------|
 | Holding period | Months / years | Minutes / days / weeks |
 | Time commitment | Low (an hour a month) | High (hours a day) |

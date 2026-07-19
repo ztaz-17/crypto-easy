@@ -36,9 +36,9 @@ Proof of Work is exactly what it sounds like: you have to **do real computationa
 
 Imagine you're facing a giant safe with a combination lock that has a billion possible codes. You try one combination after another — hours, days, weeks go by. But the moment you crack the code, anyone can check that it's correct.
 
-The blockchain works the same way:
+The [blockchain](/en/glossary/#blockchain) works the same way:
 
-1. A miner collects transactions from the mempool into a block.
+1. A miner collects transactions from the mempool into a [block](/en/glossary/#block).
 2. They start trying numbers (nonces) until they find a block hash that meets the target condition (starts with a certain number of zeros).
 3. The first one to find the right number broadcasts the block to the network.
 4. Other miners verify it — the block is valid, the work is confirmed.
@@ -73,13 +73,13 @@ Miners aren't programmers or developers. They're **hardware operators**. They:
 
 ### How It Works
 
-Proof of Stake doesn't involve crunching numbers. Instead, participants **lock up (stake) their coins** in the network and earn the right to confirm blocks in proportion to their stake.
+[Proof of Stake](/en/glossary/#proof-of-stake) doesn't involve crunching numbers. Instead, participants **lock up (stake) their coins** in the network and earn the right to confirm blocks in proportion to their stake.
 
 Think of it like a **bank deposit** instead of a lottery with tickets. The bigger your deposit, the more often you're chosen to confirm transactions. Try to cheat — and your deposit gets slashed.
 
 In PoS:
 
-1. Participants send coins into staking (usually via a smart contract).
+1. Participants send coins into [staking](/en/glossary/#staking) (usually via a smart contract).
 2. The algorithm picks a **validator** to create the next block (randomly, but weighted by stake).
 3. The validator confirms the block and gets a reward.
 4. If the validator confirms a fraudulent transaction or goes offline, part of their deposit is **slashed**.
@@ -116,7 +116,7 @@ Staked coins act as **collateral**:
 
 Let's put it all side by side:
 
-| Parameter | Proof of Work (PoW) | Proof of Stake (PoS) |
+| Parameter | [Proof of Work](/en/glossary/#proof-of-work) (PoW) | Proof of Stake (PoS) |
 |-----------|--------------------|---------------------|
 | **Resource** | Computing power (electricity) | Locked-up coins (stake) |
 | **Hardware** | ASIC miners (specialized rigs) | Regular server or PC |
@@ -146,7 +146,7 @@ If you already hold crypto, staking lets you **earn on it** just by keeping it i
 Example:
 
 - **Ethereum (PoS)**: stake 10 ETH (~$25,000), earn ~3.5% APY = ~$875/year.
-- **Bitcoin (PoW)**: sits in your wallet — earns nothing. But no slashing risk either.
+- **Bitcoin (PoW)**: sits in your [wallet](/en/glossary/#wallet) — earns nothing. But no slashing risk either.
 
 > Staking is like a bank deposit, except instead of a bank it's code. But there are risks too: your coins are locked for a period, and if the price drops, the loss can outweigh your staking rewards.
 

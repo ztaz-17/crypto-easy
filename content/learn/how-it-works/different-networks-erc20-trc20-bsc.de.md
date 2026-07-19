@@ -91,7 +91,7 @@ Du kopierst die Adresse, schickst USDT über BSC, aber der Empfänger wartet auf
 Formal gesehen:
 - die Adresse stimmt überein;
 - die Transaktion wurde durchgeführt;
-- aber der Empfänger checkt sein ERC20-Wallet — leer.
+- aber der Empfänger checkt sein ERC20-[Wallet](/de/glossary/#wallet) — leer.
 
 Die Gelder sind **nicht für immer verloren**, aber du musst sie wiederherstellen. Und das ist eine ganze andere Geschichte.
 
@@ -155,7 +155,7 @@ Hier eine schnelle Übersicht der beliebtesten USDT-Netzwerke:
 
 ### Keine Panik
 
-Das Wichtigste zuerst. Das Krypto ist nirgendwo hingegangen — es ist in der Blockchain. In fast allen Fällen kannst du den Zugriff wiederherstellen.
+Das Wichtigste zuerst. Das Krypto ist nirgendwo hingegangen — es ist in der [Blockchain](/de/glossary/#blockchain). In fast allen Fällen kannst du den Zugriff wiederherstellen.
 
 ### Wenn du von einer Börse an ein externes Wallet geschickt hast
 

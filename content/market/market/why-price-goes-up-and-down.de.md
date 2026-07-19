@@ -66,7 +66,7 @@ Und je mehr Menschen von Bitcoin erfahren, desto mehr steigt die Nachfrage, wäh
 
 Hier kommt noch ein wichtiger Punkt: **[Liquidität](/de/glossary/#liquidity)**.
 
-Liquidität bedeutet, wie schnell du einen Vermögenswert kaufen oder verkaufen kannst, ohne den Preis zu stark zu beeinflussen.
+[Liquidität](/de/glossary/#liquidity) bedeutet, wie schnell du einen Vermögenswert kaufen oder verkaufen kannst, ohne den Preis zu stark zu beeinflussen.
 
 Auf großen Börsen (Binance, Bybit) ist die Liquidität hoch – du kannst 100.000 $ verkaufen, und der Preis zuckt kaum.
 
@@ -144,7 +144,7 @@ Typische [FUD](/de/glossary/#fud):
 - „Crypto ist eine Blase, die bald platzt";
 - „Die Behörden werden alles verbieten."
 
-Erfahrene Trader kaufen oft während FUD. Anfänger verkaufen.
+Erfahrene Trader kaufen oft während [FUD](/de/glossary/#fud). Anfänger verkaufen.
 
 ### Pump & Dump
 
@@ -178,7 +178,7 @@ Wenn ein Wal kauft:
 
 ### Wal-Fallen
 
-Manchmal manipulieren Wale den Preis bewusst.
+Manchmal manipulieren [Wale](/de/glossary/#whale) den Preis bewusst.
 
 **Bullenfalle:**
 - Wale treiben den Preis nach oben;
@@ -247,7 +247,7 @@ Die wichtigsten:
 
 Diese Faktoren zu verstehen, gibt dir keine 100 % genauen Vorhersagen. Aber es hilft dir dabei:
 - bei einem Rückgang nicht in Panik zu verfallen;
-- nicht von FOMO getrieben am Höchststand zu kaufen;
+- nicht von [FOMO](/de/glossary/#fomo) getrieben am Höchststand zu kaufen;
 - und letztlich fundiertere Entscheidungen zu treffen.
 
 > **Der Krypto-Markt ist ein Marathon, kein Sprint.**

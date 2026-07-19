@@ -45,9 +45,9 @@ Redes no coincidentes. Enviaste tokens a la dirección correcta pero a la red eq
 
 **Paso 1. Identifica a qué red enviaste.** Revisa la transacción en el explorador (Etherscan, BscScan).
 
-**Paso 2. Agrega esa red a tu billetera.** Si es BEP-20 — agrega Binance Smart Chain a MetaMask (Configuración → Redes → Agregar). Después de agregarla, tus tokens aparecerán.
+**Paso 2. Agrega esa red a tu [billetera](/es/glossary/#wallet).** Si es BEP-20 — agrega Binance Smart Chain a MetaMask (Configuración → Redes → Agregar). Después de agregarla, tus tokens aparecerán.
 
-**Paso 3. Si tu billetera no soporta la red — importa tu frase semilla** en una billetera que sí lo haga (por ejemplo, Trust Wallet soporta la mayoría de las redes).
+**Paso 3. Si tu billetera no soporta la red — importa tu [frase semilla](/es/glossary/#seed-phrase)** en una billetera que sí lo haga (por ejemplo, Trust Wallet soporta la mayoría de las redes).
 
 **Paso 4. Nunca envíes de vuelta sin verificar.** El error de seguimiento más peligroso: intentar "devolver" sin hacer coincidir las redes.
 
@@ -171,15 +171,15 @@ Una publicación en Twitter: "¡[Airdrop](/es/glossary/#airdrop) urgente de $PEP
 1. **La frase semilla lo es todo.** Almacenamiento físico, dos copias, nunca la ingreses en línea.
 2. **Verifica tres veces red y dirección** antes de cada envío.
 3. **Nunca firmes aprobaciones a ciegas.** Siempre revisa el monto. Usa Rabby Wallet.
-4. **Billetera DeFi separada.** Mantén allí solo lo que estés dispuesto a perder.
-5. **No confíes en nadie.** "Soporte" en Telegram, "airdrops" que piden conectar la billetera, "tokens gratis" — el 99% son estafas.
+4. **Billetera [DeFi](/es/glossary/#defi) separada.** Mantén allí solo lo que estés dispuesto a perder.
+5. **No confíes en nadie.** "Soporte" en Telegram, "[airdrops](/es/glossary/#airdrop)" que piden conectar la billetera, "tokens gratis" — el 99% son estafas.
 
 ---
 
 ## Preguntas frecuentes
 
 ### Envié USDT por BEP-20 a una dirección de Ethereum — ¿están perdidos?
-No. Agrega la red BSC a tu billetera — los tokens aparecerán. O usa un puente entre cadenas (cross-chain bridge).
+No. Agrega la red BSC a tu billetera — los tokens aparecerán. O usa un [puente](/es/glossary/#bridge) entre cadenas (cross-chain bridge).
 
 ### ¿Puedo recuperar una frase semilla si solo recuerdo parte?
 Sí, si recuerdas 10+ palabras de 12 — existen servicios de recuperación por fuerza bruta. Cuesta dinero, pero funciona.

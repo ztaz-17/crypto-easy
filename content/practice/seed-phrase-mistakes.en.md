@@ -44,7 +44,7 @@ In this article:
 
 ## What Is a Seed Phrase and Why It *Is* Your Money
 
-A seed phrase (recovery phrase) is **12 or 24 words** from which all your wallet keys are derived.
+A [seed phrase](/en/glossary/#seed-phrase) (recovery phrase) is **12 or 24 words** from which all your [wallet](/en/glossary/#wallet) keys are derived.
 
 It's not a "wallet password." It **is the wallet itself**.
 

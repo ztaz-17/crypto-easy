@@ -42,11 +42,11 @@ The most popular and convenient way. Register on an exchange, fund your account,
 ### Pros ✅
 - Huge selection of coins
 - High [liquidity](/en/glossary/#liquidity)
-- P2P markets — buy directly from other people
+- [P2P](/en/glossary/#p2p) markets — buy directly from other people
 - Direct card purchase (Visa, Mastercard)
 
 ### Cons ❌
-- KYC (identity verification) needed for full access
+- [KYC](/en/glossary/#kyc) (identity verification) needed for full access
 - Exchange holds your coins — it's custodial
 - If the exchange freezes your account, you lose access
 
@@ -54,7 +54,7 @@ The most popular and convenient way. Register on an exchange, fund your account,
 1. Register on Coinbase, Binance, or Bybit
 2. Fund your account (card, P2P, or transfer)
 3. Buy your coin (USDT, BTC, ETH)
-4. **Crucial!** Withdraw to your own wallet (MetaMask, Trust Wallet)
+4. **Crucial!** Withdraw to your own [wallet](/en/glossary/#wallet) (MetaMask, Trust Wallet)
 
 > ❗️ Don't leave money on exchanges longer than needed. Exchanges get hacked, frozen, shut down. Buy → withdraw.
 

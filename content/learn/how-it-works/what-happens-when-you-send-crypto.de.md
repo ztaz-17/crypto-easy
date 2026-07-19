@@ -27,7 +27,7 @@ Auf deinem Bildschirm erscheint eine Meldung: „Transaktion gesendet. Warte auf
 
 Und genau hier beginnt die eigentliche Action.
 
-Was als Nächstes passiert, ist ein komplexes Zusammenspiel zwischen deiner Wallet, tausenden Computern auf der ganzen Welt und der Mathematik, die das System ehrlich hält.
+Was als Nächstes passiert, ist ein komplexes Zusammenspiel zwischen deiner [Wallet](/de/glossary/#wallet), tausenden Computern auf der ganzen Welt und der Mathematik, die das System ehrlich hält.
 
 > In diesem Artikel gehen wir jede Phase durch: vom Moment, in dem du auf „Senden" klickst, bis die Coins im Wallet des Empfängers landen.
 
@@ -64,7 +64,7 @@ Deine Wallet nimmt die Transaktionsdaten und signiert sie mit deinem **[privaten
 
 ### Warum Signaturen nicht gefälscht werden können
 
-Dein privater Schlüssel ist eine lange, zufällige Zeichenkette. Nur du kennst ihn. Das Netzwerk kennt nur deine öffentliche Adresse – eine Ableitung dieses Schlüssels.
+Dein [privater Schlüssel](/de/glossary/#private-key) ist eine lange, zufällige Zeichenkette. Nur du kennst ihn. Das Netzwerk kennt nur deine öffentliche Adresse – eine Ableitung dieses Schlüssels.
 
 Wenn du eine Transaktion signierst:
 
@@ -85,7 +85,7 @@ Das ist die Magie: Du beweist, dass dir die Coins gehören, ohne dein Geheimnis 
 
 Die Transaktion ist signiert. Jetzt muss sie ins Netzwerk gelangen.
 
-Deine Wallet sendet die Transaktion an einen oder mehrere Netzwerkknoten – **Nodes**. Ein Node ist ein Computer, der einen vollständigen Blockchain-Client ausführt. Er speichert die gesamte Transaktionshistorie und prüft neue.
+Deine Wallet sendet die Transaktion an einen oder mehrere Netzwerkknoten – **Nodes**. Ein Node ist ein Computer, der einen vollständigen [Blockchain](/de/glossary/#blockchain)-Client ausführt. Er speichert die gesamte Transaktionshistorie und prüft neue.
 
 ### Was ein Node prüft
 
@@ -101,7 +101,7 @@ Wenn alles in Ordnung ist – fügt der Node die Transaktion zum **Mempool** (ku
 
 Stell dir einen Bahnhof vor. Deine Transaktion ist ein Fahrgast, der auf einen Zug (einen [Block](/de/glossary/#block)) wartet. Es gibt viele Fahrgäste, der Zug fährt nur alle 10 Minuten ab (bei Bitcoin), und die Plätze sind begrenzt.
 
-Wer kommt in den Zug? Diejenigen, die ein Ticket bezahlt haben – also die Gebühr. Je höher die Gebühr, desto eher wird deine Transaktion für einen Block ausgewählt.
+Wer kommt in den Zug? Diejenigen, die ein Ticket bezahlt haben – also die Gebühr. Je höher die Gebühr, desto eher wird deine Transaktion für einen [Block](/de/glossary/#block) ausgewählt.
 
 > Ist die Gebühr zu niedrig, kann deine Transaktion Stunden oder sogar Tage warten. Der Mempool kann zu jeder Zeit zehntausende unbestätigte Transaktionen enthalten.
 

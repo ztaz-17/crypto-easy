@@ -66,7 +66,7 @@ Y cuanta más gente conoce Bitcoin, más crece la demanda mientras la oferta est
 
 Aquí hay otra pieza importante: la **[liquidez](/es/glossary/#liquidity)**.
 
-La liquidez es qué tan rápido compras o vendes un activo sin mover mucho el precio.
+La [liquidez](/es/glossary/#liquidity) es qué tan rápido compras o vendes un activo sin mover mucho el precio.
 
 En los exchanges grandes (Binance, Bybit) la liquidez es alta — puedes vender $100,000 y el precio apenas se inmuta.
 
@@ -144,7 +144,7 @@ Difundir información negativa (a menudo a propósito) para provocar pánico y u
 - "Las cripto son una burbuja a punto de estallar";
 - "Los reguladores van a prohibirlo todo".
 
-Los traders experimentados suelen comprar durante el FUD. Los principiantes venden.
+Los traders experimentados suelen comprar durante el [FUD](/es/glossary/#fud). Los principiantes venden.
 
 ### Pump & Dump
 
@@ -167,7 +167,7 @@ Si alguien posee 10,000 Bitcoin (cientos de millones de dólares), sus acciones 
 
 ### Cómo influyen las ballenas en el precio
 
-Cuando una ballena vende un lote grande:
+Cuando una [ballena](/es/glossary/#whale) vende un lote grande:
 - aparece una orden de venta enorme en el exchange;
 - otros participantes la ven y empiezan a vender también;
 - el precio baja.
@@ -239,7 +239,7 @@ En lugar de mirar los gráficos cada minuto, investiga:
 
 ## Conclusión
 
-Los precios de las criptomonedas se mueven por muchas razones.
+Los precios de las [criptomonedas](/es/glossary/#cryptocurrency) se mueven por muchas razones.
 
 Las principales:
 - **oferta y demanda** — la base de todo;
@@ -249,7 +249,7 @@ Las principales:
 
 Entender estos factores no te dará predicciones 100% precisas. Pero te ayudará a:
 - no entrar en pánico durante una caída;
-- no comprar en el pico impulsado por FOMO;
+- no comprar en el pico impulsado por [FOMO](/es/glossary/#fomo);
 - y, en definitiva — tomar decisiones más informadas.
 
 > **El mercado cripto es un maratón, no un sprint.**

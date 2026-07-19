@@ -34,11 +34,11 @@ Crypto isn't "free." Every transaction requires someone to be paid for the netwo
 - **Miners** (Bitcoin) — they solve mathematical puzzles to confirm [blocks](/en/glossary/#block);
 - **Validators** (Ethereum, Solana) — they verify and confirm transactions.
 
-Neither group does it out of altruism. They earn a **fee** for every transfer they include in a block.
+Neither group does it out of altruism. They earn a **fee** for every transfer they include in a [block](/en/glossary/#block).
 
 > When you pay a fee, you're not paying to "send money" — you're paying for **a spot in a block**.
 
-A blockchain is a chain of blocks, and each block has a limited size. When there are more people wanting to send transactions than there are spots in a block, an auction begins.
+A [blockchain](/en/glossary/#blockchain) is a chain of blocks, and each block has a limited size. When there are more people wanting to send transactions than there are spots in a block, an auction begins.
 
 ---
 
@@ -160,7 +160,7 @@ The same USDT can be sent over:
 
 ### 3. Adjust Fees Manually
 
-Advanced wallets (e.g., MetaMask) let you pick a mode:
+Advanced [wallets](/en/glossary/#wallet) (e.g., MetaMask) let you pick a mode:
 
 - **Slow** — cheaper but slower;
 - **Market** — average speed;

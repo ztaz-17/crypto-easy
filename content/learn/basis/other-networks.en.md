@@ -65,7 +65,7 @@ Solana is a [blockchain](/en/glossary/#blockchain) designed from the ground up f
 
 **Key events in 2025–2026:**
 - Firedancer hit mainnet beta — this is the second independent client for the network (like Geth and Nethermind for Ethereum), making Solana more resilient.
-- Solana has outranked Ethereum in DEX volume for three months straight — $120 billion per month.
+- Solana has outranked Ethereum in [DEX](/en/glossary/#dex) volume for three months straight — $120 billion per month.
 - The DePIN ([decentralized](/en/glossary/#decentralization) physical infrastructure networks) sector is booming on Solana: Helium, Hivemapper, Render Network.
 
 > Solana sacrifices decentralization for speed. It's a trade-off that millions of users are fine with.
@@ -74,7 +74,7 @@ Solana is a [blockchain](/en/glossary/#blockchain) designed from the ground up f
 
 ## TRON (TRX) — Stablecoins and Entertainment
 
-TRON is a blockchain that bet big on stablecoins and entertainment apps (gaming, casinos, streaming). It doesn't claim to be "the most decentralized," but when it comes to USDT transaction volume, it's number one in the world.
+TRON is a [blockchain](/en/glossary/#blockchain) that bet big on stablecoins and entertainment apps (gaming, casinos, streaming). It doesn't claim to be "the most [decentralized](/en/glossary/#decentralization)," but when it comes to USDT transaction volume, it's number one in the world.
 
 **Main selling point:** More than 56% of all USDT transfers worldwide go through the TRON network.
 
@@ -89,7 +89,7 @@ TRON is a blockchain that bet big on stablecoins and entertainment apps (gaming,
 
 ## Dogecoin (DOGE) — the First Meme Coin
 
-Dogecoin started as a joke back in 2013 — a cryptocurrency with a dog from a meme. But the community and Elon Musk's support turned it into one of the most recognizable brands in crypto.
+Dogecoin started as a joke back in 2013 — a [cryptocurrency](/en/glossary/#cryptocurrency) with a dog from a meme. But the community and Elon Musk's support turned it into one of the most recognizable brands in crypto.
 
 **Main selling point:** A huge community, plus adoption as a payment method (Tesla, Dallas Mavericks, X Payments).
 
@@ -110,8 +110,8 @@ Hyperliquid is a blockchain built specifically for decentralized derivatives tra
 
 **Key events in 2025–2026:**
 - Hyperliquid crossed the $1 trillion cumulative trading volume mark, becoming the largest derivatives DEX.
-- HYPE staking went live with ~25% APY — $500 million was staked in the first week.
-- HyperEVM — an Ethereum-compatible layer for smart contracts — lets you run ERC-20 tokens and DeFi protocols directly on Hyperliquid.
+- HYPE [staking](/en/glossary/#staking) went live with ~25% APY — $500 million was staked in the first week.
+- HyperEVM — an Ethereum-compatible layer for smart contracts — lets you run ERC-20 tokens and [DeFi](/en/glossary/#defi) protocols directly on Hyperliquid.
 
 > Hyperliquid is a bet that the future of trading belongs to decentralized exchanges, and that speed can catch up to CEXs.
 
@@ -134,12 +134,12 @@ LEO is the ecosystem token of Bitfinex and its related projects (Tether, Bitfine
 
 ## Bitcoin Cash (BCH) — Bitcoin for Payments
 
-Bitcoin Cash split off from Bitcoin in 2017 over a scaling dispute. The core idea: bigger blocks = more transactions = a payment system for everyday purchases.
+Bitcoin Cash split off from Bitcoin in 2017 over a scaling dispute. The core idea: bigger [blocks](/en/glossary/#block) = more transactions = a payment system for everyday purchases.
 
 **Main selling point:** Block size was increased to 64 MB (after the 2026 upgrade) — up to 15,000 TPS.
 
 **Key events in 2025–2026:**
-- The "BlackRock" hard fork: 64 MB blocks + Schnorr multisignatures for privacy.
+- The "BlackRock" hard [fork](/en/glossary/#fork): 64 MB blocks + Schnorr multisignatures for privacy.
 - BitPay started accepting BCH for settlements by default — 500,000 payments in Q4 2025 alone.
 - Atomic swaps with Lightning Network — BCH can be "bridged" to LN for instant micropayments.
 
@@ -186,7 +186,7 @@ Sui is a next-generation blockchain built on the Move language (originally devel
 **Key events in 2025–2026:**
 - Mysticeti consensus — 390 ms to finality, making Sui officially the fastest L1.
 - BlackRock launched a BUIDL fund on Sui — $200 million [TVL](/en/glossary/#tvl) in the first month.
-- MoveGPT — the first AI agent framework on Sui, letting you deploy trading bots and NFT minters directly on-chain.
+- MoveGPT — the first AI agent framework on Sui, letting you deploy trading bots and [NFT](/en/glossary/#nft) minters directly on-chain.
 
 > Sui is a dark horse. Lower market cap, but one of the most advanced technologies out there. Part of the Move ecosystem (Aptos, Sui).
 
@@ -246,7 +246,7 @@ Toncoin is a blockchain created by the Telegram team (originally Telegram Open N
 
 ## Which One Should You Pick?
 
-**If you're a beginner:** start with Solana (cheap and fast) or TON (a wallet inside Telegram).
+**If you're a beginner:** start with Solana (cheap and fast) or TON (a [wallet](/en/glossary/#wallet) inside Telegram).
 
 **If you need stablecoins for transfers:** TRON is the de facto standard for USDT.
 

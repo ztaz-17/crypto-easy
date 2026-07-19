@@ -27,7 +27,7 @@ Aparece un mensaje en tu pantalla: «Transacción enviada. Esperando confirmaci�
 
 Y ahí es donde empieza la verdadera acción.
 
-Lo que sucede a continuación es un intrincado baile entre tu cartera, miles de ordenadores en todo el mundo y las matemáticas que mantienen el sistema honesto.
+Lo que sucede a continuación es un intrincado baile entre tu [cartera](/es/glossary/#wallet), miles de ordenadores en todo el mundo y las matemáticas que mantienen el sistema honesto.
 
 > En este artículo, desglosaremos cada etapa: desde el momento en que pulsas «Enviar» hasta que las monedas aterrizan en la cartera del destinatario.
 
@@ -64,7 +64,7 @@ Tu cartera toma los datos de la transacción y los firma con tu **[clave privada
 
 ### Por qué las firmas no se pueden falsificar
 
-Tu clave privada es una larga cadena aleatoria de caracteres. Solo tú la conoces. La red solo conoce tu dirección pública — un derivado de esa clave.
+Tu [clave privada](/es/glossary/#private-key) es una larga cadena aleatoria de caracteres. Solo tú la conoces. La red solo conoce tu dirección pública — un derivado de esa clave.
 
 Cuando firmas una transacción:
 
@@ -85,7 +85,7 @@ Esa es la magia: demuestras que eres dueño de los fondos sin revelar tu secreto
 
 La transacción está firmada. Ahora necesita llegar a la red.
 
-Tu cartera envía la transacción a uno o más nodos de la red — **nodos**. Un nodo es un ordenador que ejecuta un cliente completo de blockchain. Almacena todo el historial de transacciones y verifica las nuevas.
+Tu cartera envía la transacción a uno o más nodos de la red — **nodos**. Un nodo es un ordenador que ejecuta un cliente completo de [blockchain](/es/glossary/#blockchain). Almacena todo el historial de transacciones y verifica las nuevas.
 
 ### Lo que comprueba un nodo
 
@@ -101,7 +101,7 @@ Si todo está en orden — el nodo añade la transacción al **mempool** (abrevi
 
 Piensa en una estación de tren. Tu transacción es un pasajero esperando subir a un tren (un [bloque](/es/glossary/#block)). Hay muchos pasajeros, el tren sale solo cada 10 minutos (en el caso de Bitcoin), y los asientos son limitados.
 
-¿Quién sube al tren? Los que pagaron un boleto — es decir, la comisión. Cuanto más alta sea la comisión, antes será seleccionada tu transacción para un bloque.
+¿Quién sube al tren? Los que pagaron un boleto — es decir, la comisión. Cuanto más alta sea la comisión, antes será seleccionada tu transacción para un [bloque](/es/glossary/#block).
 
 > Si la comisión es demasiado baja, tu transacción podría esperar horas o incluso días. En cualquier momento, el mempool puede contener decenas de miles de transacciones no confirmadas.
 

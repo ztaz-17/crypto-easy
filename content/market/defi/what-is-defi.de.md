@@ -61,7 +61,7 @@ Traditionelle Finanzen basieren auf Vermittlern:
 | Versicherung     | Deckt Risiken ab                   |
 | Notar            | Beglaubigt Transaktionen            |
 
-DeFi ersetzt jeden von ihnen durch einen **Smart Contract** — ein Programm, das automatisch abläuft und nicht auf Menschen angewiesen ist.
+[DeFi](/de/glossary/#defi) ersetzt jeden von ihnen durch einen **Smart Contract** — ein Programm, das automatisch abläuft und nicht auf Menschen angewiesen ist.
 
 > Wenn eine Bank ein Unternehmen mit Angestellten und Regeln ist, dann ist DeFi einfach Code, den jeder nutzen kann.
 
@@ -73,7 +73,7 @@ DeFi basiert auf drei Kernkomponenten:
 
 ### 1. Blockchain
 
-Meistens **Ethereum** (und andere kompatible Netzwerke: Polygon, Arbitrum, Optimism). Die Blockchain speichert alle Transaktionen und den Zustand der Smart Contracts.
+Meistens **Ethereum** (und andere kompatible Netzwerke: Polygon, Arbitrum, Optimism). Die [Blockchain](/de/glossary/#blockchain) speichert alle Transaktionen und den Zustand der Smart Contracts.
 
 ### 2. Smart Contracts
 
@@ -214,7 +214,7 @@ Aber denk immer daran: **dein Geld, deine Verantwortung**.
 
 ### Brauche ich einen Ausweis für DeFi?
 
-Nein. DeFi erfordert kein KYC. Verbinde einfach deine Wallet und los geht's.
+Nein. DeFi erfordert kein [KYC](/de/glossary/#kyc). Verbinde einfach deine [Wallet](/de/glossary/#wallet) und los geht's.
 
 ### Gibt es DeFi nur auf Ethereum?
 

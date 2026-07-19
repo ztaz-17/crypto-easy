@@ -148,7 +148,7 @@ Die Mindestdokumente, die du bereithalten solltest:
 
 1. **Handelshistorie der Börse** — eine CSV-Datei mit Daten, Handelspaaren, Volumen und Preisen. Jede größere Börse (Binance, Bybit, OKX, Kraken) kann das exportieren.
 2. **[FIAT](/de/glossary/#fiat)-Einzahlungs-/Auszahlungsbestätigungen** — Kontoauszüge, Screenshots von Überweisungen von der Karte zur Börse.
-3. **Staking- und Mining-Aufzeichnungen** — wie viel und wann du Belohnungen erhalten hast, der Wechselkurs zu diesem Zeitpunkt.
+3. **[Staking](/de/glossary/#staking)- und Mining-Aufzeichnungen** — wie viel und wann du Belohnungen erhalten hast, der Wechselkurs zu diesem Zeitpunkt.
 4. **[P2P](/de/glossary/#p2p)-Transaktionsaufzeichnungen** — wenn du Krypto direkt von Personen gekauft hast (Binance P2P, LocalBitcoins), speichere Screenshots der Anzeigen.
 5. **Steuerrechner-Bericht** — wenn du Koinly, CoinTracking usw. nutzt, generieren diese fertige Berichte für das Finanzamt.
 
@@ -198,7 +198,7 @@ Selbst wenn du keinen Gewinn erzielt hast, verlangen viele Länder eine Steuerer
 
 ### Fehler 4: «Krypto in meine Cold Wallet zu verschieben ist ein Verkauf»
 
-Nein. Überweisungen zwischen eigenen Wallets sind keine steuerpflichtigen Ereignisse. Aber bewahre den Nachweis auf, dass beide Wallets dir gehören — das Finanzamt könnte nachfragen.
+Nein. Überweisungen zwischen eigenen [Wallets](/de/glossary/#wallet) sind keine steuerpflichtigen Ereignisse. Aber bewahre den Nachweis auf, dass beide Wallets dir gehören — das Finanzamt könnte nachfragen.
 
 ### Fehler 5: «Ich reiche die Erklärung ein, wenn der Kurs steigt»
 
@@ -211,10 +211,10 @@ Du zahlst Steuern basierend auf dem Zeitpunkt des Handels, nicht auf zukünftige
 Du musst nicht immer alles selbst machen. Das sind Anzeichen, dass es Zeit für einen Steuerberater ist:
 
 - Du hast **mehr als 100 Trades** pro Jahr
-- Du handelst an **mehreren Börsen** und nutzt **DeFi-Protokolle**
+- Du handelst an **mehreren Börsen** und nutzt **[DeFi](/de/glossary/#defi)-Protokolle**
 - Du hast **Krypto-Einkommen** erhalten (Gehalt, Staking, Mining)
 - Du **lebst in einem Land, handelst aber von einem anderen**
-- Du hast ein komplexes Portfolio mit **NFTs, DeFi und Yield Farming**
+- Du hast ein komplexes Portfolio mit **[NFTs](/de/glossary/#nft), DeFi und Yield Farming**
 - Das Finanzamt hat dir bereits **einen Brief mit Fragen** geschickt
 
 Ein guter, krypto-erfahrener Steuerberater spart dir mehr Geld, als er kostet. Besonders wenn du in den USA bist, wo Fehler Tausende von Euro an Strafen kosten können.
@@ -236,7 +236,7 @@ Bevor du aktiv zu handeln beginnst, geh diese Liste durch:
 - [ ] Ich habe meine Börsen-Handelshistorie gespeichert
 - [ ] Ich verstehe, welche Bewertungsmethode (FIFO / LIFO) angewendet wird
 - [ ] Ich kenne die Steuerabgabefrist meines Landes
-- [ ] Ich habe Screenshots aller P2P-Geschäfte gespeichert
+- [ ] Ich habe Screenshots aller [P2P](/de/glossary/#p2p)-Geschäfte gespeichert
 - [ ] Ich habe geprüft, ob ich Verluste abziehen kann
 - [ ] Ich habe überlegt, ob ich einen Steuerberater brauche
 - [ ] Ich verstehe den Unterschied zwischen Halten (keine Steuer) und Verkaufen (Steuer)

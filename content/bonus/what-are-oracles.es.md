@@ -33,7 +33,7 @@ Entonces, ¿cómo haces que un smart contract te diga el precio de Bitcoin en es
 
 ### Por qué la blockchain no puede ver el mundo real
 
-La blockchain es un sistema cerrado.
+La [blockchain](/es/glossary/#blockchain) es un sistema cerrado.
 
 Cada nodo almacena una copia idéntica de los datos. Para mantener la honestidad, todos los nodos deben llegar a **un único acuerdo (consenso)**.
 
@@ -159,7 +159,7 @@ Chainlink usa múltiples capas de protección:
 
 ### Ejemplo real: préstamos respaldados por crypto
 
-Imagina un protocolo DeFi que otorga préstamos respaldados por ETH:
+Imagina un protocolo [DeFi](/es/glossary/#defi) que otorga préstamos respaldados por ETH:
 
 - 🔹 un usuario deposita 10 ETH como garantía;
 - 🔹 el protocolo obtiene el precio de ETH desde el oráculo de Chainlink;

@@ -53,7 +53,7 @@ Los exchanges centralizados deben cumplir con las leyes de los países donde ope
 > - pasar verificación (pasaporte, selfie);
 > - a veces — confirmar tu dirección de residencia.
 
-Sin KYC no puedes retirar más de cierto límite (normalmente 1–2 BTC al día).
+Sin [KYC](/es/glossary/#kyc) no puedes retirar más de cierto límite (normalmente 1–2 BTC al día).
 
 **Almacenamiento Custodial**
 
@@ -91,23 +91,23 @@ Tus fondos permanecen en tu wallet todo el tiempo. Conectas MetaMask, Rabby, Pha
 
 **Sin KYC**
 
-Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo que un DEX necesita ver es tu dirección de wallet.
+Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo que un [DEX](/es/glossary/#dex) necesita ver es tu dirección de wallet.
 
 ---
 
 ## Comparación: CEX vs DEX
 
-| Criterio | CEX | DEX |
+| Criterio | [CEX](/es/glossary/#cex) | DEX |
 |----------|-----|-----|
 | **Control de fondos** | Exchange (custodial) | Tú (no custodial) |
 | **Registro** | Correo + KYC (pasaporte) | No necesario |
-| **Tecnología** | Libro de órdenes | AMM (pools de liquidez) |
+| **Tecnología** | Libro de órdenes | AMM (pools de [liquidez](/es/glossary/#liquidity)) |
 | **Tipos de órdenes** | Límite, mercado, stop-loss | Solo mercado (swap) |
 | **Liquidez** | Alta (los exchanges reúnen a millones de traders) | Media (depende de la profundidad del pool) |
 | **Comisiones** | 0.02–0.1% (maker/taker) | 0.05–1% (comisión del pool) + gas de red |
-| **Velocidad** | Instantánea (sistema interno) | Depende de la blockchain (segundos–minutos) |
+| **Velocidad** | Instantánea (sistema interno) | Depende de la [blockchain](/es/glossary/#blockchain) (segundos–minutos) |
 | **Pares disponibles** | [Fiat](/es/glossary/#fiat) + cripto, muchos pares | Solo cripto a cripto |
-| **Entrada de fiat** | Sí (tarjetas, transferencias bancarias) | No (solo cripto) |
+| **Entrada de [fiat](/es/glossary/#fiat)** | Sí (tarjetas, transferencias bancarias) | No (solo cripto) |
 | **Cantidad de activos** | Cientos–miles (decidido por el exchange) | Todo lo que esté en la blockchain (cualquier token) |
 | **Herramientas avanzadas** | Futuros, margen, [staking](/es/glossary/#staking), [P2P](/es/glossary/#p2p) | Servicio básico — swap |
 | **Regulación** | Cumple con las leyes locales | De facto no regulado |
@@ -123,7 +123,7 @@ El CEX es la única forma fácil de comprar bitcoin con pesos, dólares o euros.
 
 ### 2️⃣ Necesitas Alta Liquidez y Órdenes Precisas
 
-Para operaciones grandes ($10,000+), un libro de órdenes te da mejor precio que un pool AMM. Puedes poner una orden límite a tu precio y evitar pagar de más por deslizamiento.
+Para operaciones grandes ($10,000+), un libro de órdenes te da mejor precio que un pool AMM. Puedes poner una orden límite a tu precio y evitar pagar de más por [deslizamiento](/es/glossary/#slippage).
 
 ### 3️⃣ Operas Futuros, Margen o Usas Stop-Loss
 

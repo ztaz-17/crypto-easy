@@ -43,7 +43,7 @@ En este artículo veremos:
 
 ## Qué es una frase semilla y por qué ES tu dinero
 
-La frase semilla (seed phrase, frase de recuperación, frase mnemónica) son **12 o 24 palabras** a partir de las cuales se generan matemáticamente todas las claves de tu cartera.
+La [frase semilla](/es/glossary/#seed-phrase) (seed phrase, frase de recuperación, frase mnemónica) son **12 o 24 palabras** a partir de las cuales se generan matemáticamente todas las claves de tu [cartera](/es/glossary/#wallet).
 
 No es una «contraseña de la cartera». Es **la cartera misma**.
 
@@ -341,7 +341,7 @@ La única protección — nunca almacenar la frase en formato digital y no intro
 
 ## Conclusión
 
-La frase semilla es el momento más vulnerable al trabajar con criptomonedas.
+La frase semilla es el momento más vulnerable al trabajar con [criptomonedas](/es/glossary/#cryptocurrency).
 
 Aquí es donde la gente pierde dinero. No por hackers, no por hackeos de exchanges, no por fluctuaciones del mercado. Sino por **un solo error**: captura de pantalla, nota en el teléfono, email, «me la voy a memorizar».
 

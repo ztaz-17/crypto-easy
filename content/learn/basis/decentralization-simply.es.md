@@ -119,7 +119,7 @@ Funciona en cualquier lugar con internet. No depende de fronteras nacionales ni 
 
 ## Conclusión
 
-La descentralización no es un "botón mágico" que resuelve todos los problemas. Es un **intercambio**: renuncias a velocidad por confiabilidad, a simplicidad por control, a soporte por libertad, a comodidad por seguridad.
+La [descentralización](/es/glossary/#decentralization) no es un "botón mágico" que resuelve todos los problemas. Es un **intercambio**: renuncias a velocidad por confiabilidad, a simplicidad por control, a soporte por libertad, a comodidad por seguridad.
 
 Para pagos cotidianos, la centralización es más conveniente. Pero para almacenar riqueza y resiliencia — la descentralización es la única opción.
 

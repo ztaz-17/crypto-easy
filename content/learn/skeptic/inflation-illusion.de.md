@@ -48,7 +48,7 @@ Anders gesagt:
 
 > **Mit dem gleichen Geld kannst du jedes Jahr weniger kaufen.**
 
-Wenn du vor 5 Jahren mit 100 € den vollen Einkaufswagen füllen konntest, bekommst du heute für die gleichen 100 € vielleicht nur noch die Hälfte. Das ist Inflation.
+Wenn du vor 5 Jahren mit 100 € den vollen Einkaufswagen füllen konntest, bekommst du heute für die gleichen 100 € vielleicht nur noch die Hälfte. Das ist [Inflation](/de/glossary/#inflation).
 
 ### Reale vs. Offizielle Inflation
 

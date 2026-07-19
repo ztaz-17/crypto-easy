@@ -147,7 +147,7 @@ Auf Ethereum kostet jede Transaktion (Einzahlung, Auszahlung, Reinvestition) Gas
 
 - **Stablecoins:** APY 2–10 %, Risiko sehr gering, Komplexität gering
 - **Verleihen (Aave, Compound):** APY 5–30 %, Risiko gering, Komplexität gering
-- **DEX-Pools mit starken Paaren (ETH/USDC):** APY 10–80 %, Risiko mittel (IL), Komplexität mittel
+- **[DEX](/de/glossary/#dex)-Pools mit starken Paaren (ETH/USDC):** APY 10–80 %, Risiko mittel (IL), Komplexität mittel
 - **Neue Token mit hohem APY:** APY 100–1000+ %, Risiko sehr hoch, Komplexität hoch
 - **Gehebeltes Farming:** APY 200–2000+ %, Risiko extrem, Komplexität extrem
 
@@ -185,7 +185,7 @@ Eine Checkliste vor der Einzahlung:
 
 ## Fazit
 
-Yield Farming ist ein echter Weg, in DeFi Geld zu verdienen. Es bietet Renditen, die es in der traditionellen Finanzwelt so nicht gibt. Aber es wird aus 100 $ nicht über Nacht 1000 $ machen – nicht ohne Risiko.
+Yield Farming ist ein echter Weg, in [DeFi](/de/glossary/#defi) Geld zu verdienen. Es bietet Renditen, die es in der traditionellen Finanzwelt so nicht gibt. Aber es wird aus 100 $ nicht über Nacht 1000 $ machen – nicht ohne Risiko.
 
 > Je höher die versprochene Rendite, desto höher die Wahrscheinlichkeit, dein Kapital zu verlieren.
 

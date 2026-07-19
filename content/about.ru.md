@@ -21,7 +21,7 @@ Crypto Easy — некоммерческий образовательный пр
 
 - **[Обучение](/ru/learn/)** — [блокчейн](/ru/glossary/#blockchain), биткоин, [DeFi](/ru/glossary/#defi), крипта для скептика
 - **[Практика](/ru/practice/)** — создать [кошелёк](/ru/glossary/#wallet), купить крипту, отправить перевод
-- **[Рынок](/ru/market/)** — цены, DeFi, кредиты, налоги
+- **[Рынок](/ru/market/)** — цены, [DeFi](/ru/glossary/#defi), кредиты, налоги
 - **[Безопасность](/ru/security/)** — скамы, [сид-фразы](/ru/glossary/#seed-phrase), [холодные кошельки](/ru/glossary/#cold-wallet)
 - **[Бонусы](/ru/bonus/)** — [NFT](/ru/glossary/#nft), [DAO](/ru/glossary/#dao), мем-коины, [стейкинг](/ru/glossary/#staking)
 - **[Глоссарий](/ru/glossary/)** — 50+ терминов простыми словами

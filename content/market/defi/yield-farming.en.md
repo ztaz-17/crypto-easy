@@ -52,7 +52,7 @@ For example, **Uniswap**, **Curve**, **Aave**, **Compound**, or **PancakeSwap**.
 
 ### 2. You deposit liquidity
 
-Say there's an ETH/USDT pool. You need to deposit **an equal value of both tokens** (50% ETH, 50% USDT). In return you get **LP tokens** (Liquidity Provider tokens) — your receipt for a share of the pool.
+Say there's an ETH/USDT pool. You need to deposit **an equal value of both tokens** (50% ETH, 50% USDT). In return you get **LP tokens** ([Liquidity](/en/glossary/#liquidity) Provider tokens) — your receipt for a share of the pool.
 
 ### 3. The protocol pays you
 
@@ -151,7 +151,7 @@ On Ethereum every operation (deposit, withdraw, reinvest) costs gas. With active
 |---|---|---|---|
 | Stablecoins | 2–10% | Very low | Low |
 | Lending (Aave, Compound) | 5–30% | Low | Low |
-| DEX pools with strong pairs (ETH/USDC) | 10–80% | Medium (IL) | Medium |
+| [DEX](/en/glossary/#dex) pools with strong pairs (ETH/USDC) | 10–80% | Medium (IL) | Medium |
 | New tokens with high APY | 100–1000+% | Very high | High |
 | Leveraged farming | 200–2000+% | Extreme | Extreme |
 
@@ -189,7 +189,7 @@ A checklist before you deposit:
 
 ## Conclusion
 
-Yield Farming is a real way to earn in DeFi. It gives you access to returns you can't get in traditional finance. But it won't turn $100 into $1000 in a month without risk.
+Yield Farming is a real way to earn in [DeFi](/en/glossary/#defi). It gives you access to returns you can't get in traditional finance. But it won't turn $100 into $1000 in a month without risk.
 
 > The higher the promised yield, the higher the chance you'll lose your capital.
 

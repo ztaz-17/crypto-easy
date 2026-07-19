@@ -29,7 +29,7 @@ It will take less time than brewing a cup of tea.
 
 ## What Is a Crypto Wallet in Simple Terms
 
-A crypto wallet is a program that stores the **keys** to your coins.
+A crypto [wallet](/en/glossary/#wallet) is a program that stores the **keys** to your coins.
 
 Important: the coins themselves are not stored in the wallet — they live on the **[blockchain](/en/glossary/#blockchain)**. The wallet just gives you access to them.
 
@@ -86,7 +86,7 @@ Click **Create a new wallet**.
 
 You can link it to a Google/Apple account, but we'll create a password (at least 8 characters). This password protects access to the extension on your device.
 
-After this, MetaMask will show you your **secret recovery phrase** (seed phrase).
+After this, MetaMask will show you your **secret recovery phrase** ([seed phrase](/en/glossary/#seed-phrase)).
 
 ![Seed phrase in MetaMask](/images/metamask-seed-phrase.jpg)
 
@@ -174,7 +174,7 @@ After creating your wallet, you should see:
 
 The easiest way is to send yourself a test transfer from another wallet or ask a friend to send a few cents.
 
-But there's a simpler way: just **copy your address** and check it on a blockchain explorer.
+But there's a simpler way: just **copy your address** and check it on a [blockchain](/en/glossary/#blockchain) explorer.
 
 1. Copy your address (starts with `0x`).
 2. Open **etherscan.io**.

@@ -70,16 +70,16 @@ Nachteil: keine direkte Unterstützung für einige lokale Zahlungsmethoden.
 |---------|-------|--------|----------|
 | Spot-Gebühr | 0,1% | 0,16% | bis 1,49% |
 | Futures | ✅ 0,02% | ❌ | ❌ |
-| P2P | ✅ | Teilweise | ❌ |
+| [P2P](/de/glossary/#p2p) | ✅ | Teilweise | ❌ |
 | Versicherungsfonds | $700M | k.A. | FDIC $250K |
 | Anfängermodus | ✅ | ✅ | ✅ |
 | Integrierte Bildung | ✅ | ✅ (seit 07.2026) | ✅ Coinbase Earn |
-| Staking | ✅ | ✅ bis 12% | ✅ bis 6% |
+| [Staking](/de/glossary/#staking) | ✅ | ✅ bis 12% | ✅ bis 6% |
 | Lizenzen | USA, Kanada | USA, Japan, GB | USA (SEC, FinCEN) |
 
 ## Die Besten Hardware-Wallets für Anfänger
 
-Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-Wallet. "Not your keys, not your coins" ist real: Börsen können Konten einfrieren, gehackt werden oder Auszahlungen blockieren. Ein Hardware-Wallet ist der einzige Weg, deine Kryptos wirklich zu besitzen.
+Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-[Wallet](/de/glossary/#wallet). "Not your keys, not your coins" ist real: Börsen können Konten einfrieren, gehackt werden oder Auszahlungen blockieren. Ein Hardware-Wallet ist der einzige Weg, deine Kryptos wirklich zu besitzen.
 
 ### Ledger 
 

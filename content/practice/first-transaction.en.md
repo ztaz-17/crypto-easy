@@ -36,7 +36,7 @@ Every crypto transaction starts with an address. It's a long string of character
 
 ### Where to Get the Address
 
-The recipient gives you their wallet address:
+The recipient gives you their [wallet](/en/glossary/#wallet) address:
 
 - via messenger (Telegram, WhatsApp);
 - as a QR code on their phone screen;
@@ -97,7 +97,7 @@ Checking the start, end, and middle is **a simple habit that saves your money**.
 
 This is the most common — and most expensive — lesson in crypto.
 
-Every cryptocurrency has **its own networks**.  \
+Every [cryptocurrency](/en/glossary/#cryptocurrency) has **its own networks**.  \
 If you send USDT on ERC-20 to an address expecting TRC-20, **the money disappears**.
 
 ### Common Networks
@@ -204,7 +204,7 @@ To verify:
 | Status | Meaning |
 |--------|---------|
 | **Pending** | In queue, waiting to be included in a [block](/en/glossary/#block) |
-| **Confirmed** | Recorded on the blockchain |
+| **Confirmed** | Recorded on the [blockchain](/en/glossary/#blockchain) |
 | **Failed** | Error (low gas or insufficient funds for the fee) |
 
 > If the status is **Confirmed** — the money has definitely arrived.  \

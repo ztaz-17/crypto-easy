@@ -148,7 +148,7 @@ The minimum set of documents you should have ready:
 
 1. **Exchange trade history** — a CSV file with dates, trading pairs, volumes, and prices. Every major exchange (Binance, Bybit, OKX, Kraken) can export this.
 2. **[Fiat](/en/glossary/#fiat) deposit/withdrawal confirmations** — bank statements, screenshots of card-to-exchange transfers.
-3. **Staking and mining records** — how much and when you received rewards, the exchange rate at that time.
+3. **[Staking](/en/glossary/#staking) and mining records** — how much and when you received rewards, the exchange rate at that time.
 4. **[P2P](/en/glossary/#p2p) transaction records** — if you bought crypto directly from people (Binance P2P, LocalBitcoins), save screenshots of the listings.
 5. **Tax calculator report** — if you use Koinly, CoinTracking, etc., they generate ready-to-file reports for the IRS, HMRC, or your local tax authority.
 
@@ -198,7 +198,7 @@ Even if you made no profit, many countries still require you to file a return (o
 
 ### Mistake 4: "Moving crypto to my cold wallet is a sale"
 
-No. Transfers between your own wallets are not taxable events. But keep proof that both wallets are yours — the tax authority may ask.
+No. Transfers between your own [wallets](/en/glossary/#wallet) are not taxable events. But keep proof that both wallets are yours — the tax authority may ask.
 
 ### Mistake 5: "I'll file when the price goes up"
 
@@ -211,10 +211,10 @@ You pay tax based on when you made the trade, not on future expectations. If you
 You don't always have to do it all yourself. Here are signs it's time to see a tax advisor:
 
 - You have **more than 100 trades** in a year
-- You trade on **multiple exchanges** and use **DeFi protocols**
+- You trade on **multiple exchanges** and use **[DeFi](/en/glossary/#defi) protocols**
 - You received **crypto income** (salary, staking, mining)
 - You **live in one country but trade from another**
-- You have a complex portfolio with **NFTs, DeFi, and yield farming**
+- You have a complex portfolio with **[NFTs](/en/glossary/#nft), DeFi, and yield farming**
 - The tax authority already sent you **a letter with questions**
 
 A good crypto-savvy tax advisor will save you more money than their fee. Especially if you're in the US, where mistakes can cost thousands in penalties.
@@ -236,7 +236,7 @@ Before you start actively trading, run through this list:
 - [ ] I saved my exchange trade history
 - [ ] I understand which accounting method (FIFO / LIFO) applies
 - [ ] I know my country's tax filing deadline
-- [ ] I saved screenshots of all P2P trades
+- [ ] I saved screenshots of all [P2P](/en/glossary/#p2p) trades
 - [ ] I checked if I can deduct losses
 - [ ] I considered whether I need a tax advisor
 - [ ] I understand the difference between holding (no tax) and selling (tax)

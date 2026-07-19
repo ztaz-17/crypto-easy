@@ -34,7 +34,7 @@ In this article, we'll cover:
 
 ## What Is P2P Trading
 
-P2P (peer-to-peer) is direct trading between people. No middlemen:
+[P2P](/en/glossary/#p2p) (peer-to-peer) is direct trading between people. No middlemen:
 
 - you agree with the seller;
 - you transfer money to their card;
@@ -210,7 +210,7 @@ But the best medicine is **prevention**. Follow the rules above and you won't lo
 
 ## Conclusion
 
-P2P trading is a convenient way to buy or sell cryptocurrency directly, without intermediary banks. But it's the "human factor" that makes it vulnerable.
+P2P trading is a convenient way to buy or sell [cryptocurrency](/en/glossary/#cryptocurrency) directly, without intermediary banks. But it's the "human factor" that makes it vulnerable.
 
 Two main scam schemes:
 

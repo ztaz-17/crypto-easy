@@ -99,7 +99,7 @@ Los fondos **no se pierden para siempre**, pero tendrás que recuperarlos. Y eso
 
 ### Escenario 3: El Exchange No Acepta Tokens en Otra Red
 
-Algunos exchanges solo aceptan USDT en redes específicas. Si envías USDT por Solana a una cartera de exchange que solo acepta ERC20, **no acreditarán el depósito**.
+Algunos exchanges solo aceptan USDT en redes específicas. Si envías USDT por Solana a una [cartera](/es/glossary/#wallet) de exchange que solo acepta ERC20, **no acreditarán el depósito**.
 
 El soporte del exchange puede ayudar, pero:
 
@@ -157,7 +157,7 @@ Aquí tienes una referencia rápida de las redes USDT más populares:
 
 ### No Entres en Pánico
 
-Lo primero y más importante. El cripto no se ha ido a ninguna parte — está en la blockchain. En casi todos los casos, puedes recuperar el acceso.
+Lo primero y más importante. El cripto no se ha ido a ninguna parte — está en la [blockchain](/es/glossary/#blockchain). En casi todos los casos, puedes recuperar el acceso.
 
 ### Si Enviaste desde un Exchange a una Cartera Externa
 

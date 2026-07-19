@@ -35,7 +35,7 @@ En una [blockchain](/es/glossary/#blockchain) no existe una "cuenta" con usuario
 
 Clave pública — como tu número de cuenta bancaria. La compartes para que te puedan enviar dinero.
 
-Clave privada — **la firma en el cheque**. Si alguien la obtiene, puede firmar cualquier transferencia en tu nombre.
+[Clave privada](/es/glossary/#private-key) — **la firma en el cheque**. Si alguien la obtiene, puede firmar cualquier transferencia en tu nombre.
 
 ---
 
@@ -77,7 +77,7 @@ Cada par de caracteres es un byte de información. 32 bytes en total. Esos 32 by
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
 ```
 
-Si tienes la frase semilla — tienes acceso a la clave privada. Si tienes la clave privada — puedes recuperar la frase semilla (generalmente). **La frase semilla ES tu clave privada**, solo que en un formato más amigable.
+Si tienes la [frase semilla](/es/glossary/#seed-phrase) — tienes acceso a la clave privada. Si tienes la clave privada — puedes recuperar la frase semilla (generalmente). **La frase semilla ES tu clave privada**, solo que en un formato más amigable.
 
 > Recuerda: tu clave privada (o frase semilla) es la ÚNICA forma de demostrar que las monedas son tuyas. Sin ella, las monedas no existen para ti.
 
@@ -89,9 +89,9 @@ Es duro y simple:
 
 **Quien conoce tu clave privada — es dueño de tus monedas.**
 
-Puedes transferir Bitcoin a tu billetera, poner cien contraseñas en la aplicación — pero si alguien descubre tu clave privada, simplemente puede abrir tu billetera en cualquier app y enviar todas las monedas a su propia cuenta.
+Puedes transferir Bitcoin a tu [billetera](/es/glossary/#wallet), poner cien contraseñas en la aplicación — pero si alguien descubre tu clave privada, simplemente puede abrir tu billetera en cualquier app y enviar todas las monedas a su propia cuenta.
 
-No hay "departamento de seguridad", ni "confirmación por SMS", ni "límite de retiro". La blockchain no distingue entre "ladrón" y "dueño" — solo ve una firma criptográfica válida.
+No hay "departamento de seguridad", ni "confirmación por SMS", ni "límite de retiro". La [blockchain](/es/glossary/#blockchain) no distingue entre "ladrón" y "dueño" — solo ve una firma criptográfica válida.
 
 Por lo tanto:
 
@@ -101,7 +101,7 @@ Por lo tanto:
 - Nunca la envíes a nadie por mensajería.
 - Nunca la almacenes en la nube (Google Drive, iCloud, Dropbox).
 
-**La regla de oro de las criptomonedas: Not Your Keys — Not Your Coins (si no son tus claves, no son tus monedas).**
+**La regla de oro de las [criptomonedas](/es/glossary/#cryptocurrency): Not Your Keys — Not Your Coins (si no son tus claves, no son tus monedas).**
 
 ---
 

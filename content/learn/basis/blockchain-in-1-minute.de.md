@@ -42,7 +42,7 @@ Früher führte jede Bank ihr **eigenes** Hauptbuch. Wenn du Geld von Bank A zu 
 
 ### Was ist anders bei Blockchain?
 
-Blockchain ist ein **gemeinsames Hauptbuch**, das bei allen Netzwerkteilnehmern gleichzeitig existiert.
+[Blockchain](/de/glossary/#blockchain) ist ein **gemeinsames Hauptbuch**, das bei allen Netzwerkteilnehmern gleichzeitig existiert.
 
 Besonderheiten:
 
@@ -65,7 +65,7 @@ In einer normalen Schule hat der Lehrer das Klassenbuch. Wenn der Lehrer eine No
 Blockchain besteht aus Blöcken. Jeder [Block](/de/glossary/#block) ist wie eine Seite im gemeinsamen Heft. Er enthält:
 
 - **mehrere Transaktionen** (wer hat wem was geschickt);
-- **einen Zeitstempel** (wann der Block erstellt wurde);
+- **einen Zeitstempel** (wann der [Block](/de/glossary/#block) erstellt wurde);
 - **den Hash des vorherigen Blocks** (einen digitalen "Fingerabdruck" der letzten Seite).
 
 ### Was ist ein Hash und warum ist er wichtig?

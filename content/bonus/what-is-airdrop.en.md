@@ -44,7 +44,7 @@ In this article, we'll cover:
 
 ## What Is an Airdrop in Simple Terms
 
-**Airdrop** — a free distribution of tokens to users.
+**[Airdrop](/en/glossary/#airdrop)** — a free distribution of tokens to users.
 
 Projects do airdrops to:
 
@@ -57,7 +57,7 @@ Here's how it usually works:
 
 > the project takes a list of wallet addresses and sends a certain number of tokens to each one.
 
-Sometimes you need to do something to get the tokens — make a transaction, follow on social media, etc. Other times, tokens show up in your wallet with zero action on your part.
+Sometimes you need to do something to get the tokens — make a transaction, follow on social media, etc. Other times, tokens show up in your [wallet](/en/glossary/#wallet) with zero action on your part.
 
 ### A Real-World Analogy
 
@@ -107,7 +107,7 @@ Projects need tokens to be held by **lots of different people**, not just one te
 |---|---|
 | Attract users | Rapid audience growth |
 | Reward early adopters | Retain loyal users |
-| Distribute governance | Decentralization |
+| Distribute governance | [Decentralization](/en/glossary/#decentralization) |
 | Build a community | Organic marketing |
 
 ---
@@ -144,9 +144,9 @@ Those eligible included anyone who:
 
 - **Official project website** — only look for links from trusted sources (the project's Twitter/X, CoinDesk, official blog);
 - **Announced in advance** — serious projects share their plans weeks or months ahead;
-- **Nobody asks for your seed phrase** — this is the golden rule;
+- **Nobody asks for your [seed phrase](/en/glossary/#seed-phrase)** — this is the golden rule;
 - **Tokens arrive automatically** or through the official site interface;
-- **Token is listed on exchanges** — if there's no liquidity, that's suspicious.
+- **Token is listed on exchanges** — if there's no [liquidity](/en/glossary/#liquidity), that's suspicious.
 
 ---
 

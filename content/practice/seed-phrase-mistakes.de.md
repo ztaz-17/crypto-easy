@@ -44,7 +44,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist eine Seed-Phrase und warum sie dein Geld ist
 
-Die Seed-Phrase (Wiederherstellungsphrase, mnemonische Phrase) besteht aus **12 oder 24 Wörtern**, aus denen mathematisch alle Schlüssel deiner Wallet generiert werden.
+Die [Seed-Phrase](/de/glossary/#seed-phrase) (Wiederherstellungsphrase, mnemonische Phrase) besteht aus **12 oder 24 Wörtern**, aus denen mathematisch alle Schlüssel deiner [Wallet](/de/glossary/#wallet) generiert werden.
 
 Das ist kein «Passwort für die Wallet». Das **ist die Wallet selbst**.
 

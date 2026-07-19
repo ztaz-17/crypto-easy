@@ -202,7 +202,7 @@ UAE (Dubai), Singapore (0% capital gains tax), Portugal (no tax until 2023, now 
 Officially — no. Crypto transactions have been banned there since 2021.
 
 ### What is MiCA in simple terms?
-The EU's single crypto law that sets rules for exchanges, wallets, and stablecoins across the entire European Union.
+The EU's single crypto law that sets rules for exchanges, [wallets](/en/glossary/#wallet), and stablecoins across the entire European Union.
 
 ### Which country was the first to legalize Bitcoin?
 Japan — in 2017, it recognized Bitcoin as a legal payment method.

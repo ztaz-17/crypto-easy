@@ -65,7 +65,7 @@ Wir erklären, welche Gebühren es gibt, wie du sie minimierst und was du über 
 Der teuerste Fehler von allen. Milliarden Dollar in Bitcoin wurden genau so für immer verloren.
 
 Hebst du deine [Seed-Phrase](/de/glossary/#seed-phrase) auf dem Handy auf? In der Cloud? In Notizen?  
-Der Leitfaden enthält eine Schritt-für-Schritt-Sicherheitscheckliste für die Seed-Phrase, die von Profis verwendet wird.
+Der Leitfaden enthält eine Schritt-für-Schritt-Sicherheitscheckliste für die [Seed-Phrase](/de/glossary/#seed-phrase), die von Profis verwendet wird.
 
 ---
 
@@ -76,7 +76,7 @@ Neben den 5 Fehlern erhältst du:
 - ✅ **Eine Checkliste vor deinem ersten Krypto-Kauf**
 - ✅ **5 Bücher und Ressourcen zum vertieften Lernen**
 - ✅ **Eine Krypto-Slang-Übersicht: was jeder Begriff bedeutet**
-- ✅ **Links zu vertrauenswürdigen Börsen und Wallets für Anfänger**
+- ✅ **Links zu vertrauenswürdigen Börsen und [Wallets](/de/glossary/#wallet) für Anfänger**
 
 ---
 

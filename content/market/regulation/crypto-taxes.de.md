@@ -221,7 +221,7 @@ In den meisten Ländern — ja. In den USA und Deutschland — definitiv ja. In 
 
 ### Wie finde ich heraus, wie viel Steuern ich schulde?
 
-Nutze Dienste wie Koinly, CoinTracker oder CoinTracking. Sie verbinden sich mit deinen Wallets und Börsen und berechnen deine Gewinne automatisch.
+Nutze Dienste wie Koinly, CoinTracker oder CoinTracking. Sie verbinden sich mit deinen [Wallets](/de/glossary/#wallet) und Börsen und berechnen deine Gewinne automatisch.
 
 ### Was passiert, wenn ich keine Krypto-Steuern zahle?
 

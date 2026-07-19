@@ -75,7 +75,7 @@ Llegó al punto de que:
 - Musk anunció que Tesla aceptaría Doge para mercancía;
 - Coinbase listó a DOGE.
 
-👉 Musk convirtió una broma en una criptomoneda del Top 10.
+👉 Musk convirtió una broma en una [criptomoneda](/es/glossary/#cryptocurrency) del Top 10.
 
 ---
 
@@ -142,7 +142,7 @@ El esquema es simple:
 1. Los grandes jugadores ([ballenas](/es/glossary/#whale)) compran en el suelo;
 2. Inflan la moneda con redes sociales, anuncios pagados e influencers;
 3. Los compradores minoristas entran por [FOMO](/es/glossary/#fomo);
-4. Las ballenas venden — el precio se desploma;
+4. Las [ballenas](/es/glossary/#whale) venden — el precio se desploma;
 5. Los pequeños inversores se quedan con tokens sin valor.
 
 > **No estás jugando contra el mercado. Estás jugando contra quienes controlan el mercado.**
@@ -164,7 +164,7 @@ Esta es la historia típica:
 1. Escuchas sobre una moneda que «está a punto de ir a la luna»;
 2. Te unes a un chat de Telegram — 50.000 personas hablan de «la luna»;
 3. Compras — y el precio empieza a bajar;
-4. El chat te convence: «¡HODL! ¡Estamos a punto de volar!»;
+4. El chat te convence: «¡[HODL](/es/glossary/#hodl)! ¡Estamos a punto de volar!»;
 5. El precio baja aún más;
 6. El chat se queda en silencio;
 7. Te quedas con tokens que nadie va a comprar.

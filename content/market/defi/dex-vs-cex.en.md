@@ -53,7 +53,7 @@ Centralized exchanges have to follow the laws of the countries they operate in. 
 > - pass verification (passport, selfie);
 > - sometimes — confirm your residential address.
 
-Without KYC you can't withdraw more than a certain limit (usually 1–2 BTC per day).
+Without [KYC](/en/glossary/#kyc) you can't withdraw more than a certain limit (usually 1–2 BTC per day).
 
 **Custodial Storage**
 
@@ -85,29 +85,29 @@ The deeper the pool — the less [slippage](/en/glossary/#slippage) on your swap
 
 **Non-Custodial**
 
-Your funds stay in your wallet the whole time. You connect MetaMask, Rabby, Phantom, or any other Web3 wallet and sign transactions.
+Your funds stay in your [wallet](/en/glossary/#wallet) the whole time. You connect MetaMask, Rabby, Phantom, or any other Web3 wallet and sign transactions.
 
 > A DEX never has control over your money. Only you do.
 
 **No KYC**
 
-No passports, no registrations. Connect your wallet — start trading. All a DEX needs to see is your wallet address.
+No passports, no registrations. Connect your wallet — start trading. All a [DEX](/en/glossary/#dex) needs to see is your wallet address.
 
 ---
 
 ## Comparison: CEX vs DEX
 
-| Criterion | CEX | DEX |
+| Criterion | [CEX](/en/glossary/#cex) | DEX |
 |-----------|-----|-----|
 | **Control of funds** | Exchange (custodial) | You (non-custodial) |
 | **Registration** | Email + KYC (passport) | Not needed |
-| **Technology** | Order book | AMM (liquidity pools) |
+| **Technology** | Order book | AMM ([liquidity](/en/glossary/#liquidity) pools) |
 | **Order types** | Limit, market, stop-loss | Market only (swap) |
 | **Liquidity** | High (exchanges bring millions of traders together) | Medium (depends on pool depth) |
 | **Fees** | 0.02–0.1% (maker/taker) | 0.05–1% (pool fee) + network gas |
-| **Speed** | Instant (internal system) | Depends on the blockchain (seconds–minutes) |
+| **Speed** | Instant (internal system) | Depends on the [blockchain](/en/glossary/#blockchain) (seconds–minutes) |
 | **Available pairs** | [Fiat](/en/glossary/#fiat) + crypto, many pairs | Crypto-to-crypto only |
-| **Fiat on-ramp** | Yes (cards, bank transfers) | No (crypto only) |
+| **[Fiat](/en/glossary/#fiat) on-ramp** | Yes (cards, bank transfers) | No (crypto only) |
 | **Number of assets** | Hundreds–thousands (decided by the exchange) | Everything on the blockchain (any tokens) |
 | **Advanced tools** | Futures, margin, [staking](/en/glossary/#staking), [P2P](/en/glossary/#p2p) | Basic service — swap |
 | **Regulation** | Follows local laws | De facto unregulated |
@@ -123,7 +123,7 @@ CEX is the only easy way to buy bitcoin with rubles, dollars, or euros. Bank car
 
 ### 2️⃣ You Need High Liquidity and Precise Orders
 
-For large trades ($10,000+), an order book gives you a better price than an AMM pool. You can set a limit order at your price and avoid overpaying on slippage.
+For large trades ($10,000+), an order book gives you a better price than an AMM pool. You can set a limit order at your price and avoid overpaying on [slippage](/en/glossary/#slippage).
 
 ### 3️⃣ You Trade Futures, Margin, or Use Stop-Losses
 

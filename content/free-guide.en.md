@@ -65,7 +65,7 @@ We break down what fees exist, how to minimize them, and what you need to know a
 The most expensive mistake of all. Billions of dollars in Bitcoin are permanently lost exactly this way.
 
 Storing your [seed phrase](/en/glossary/#seed-phrase) on your phone? In the cloud? In notes?  
-The guide includes a step-by-step seed phrase security checklist used by professionals.
+The guide includes a step-by-step [seed phrase](/en/glossary/#seed-phrase) security checklist used by professionals.
 
 ---
 
@@ -76,7 +76,7 @@ Beyond the 5 mistakes, you'll get:
 - ✅ **A checklist of steps before your first crypto purchase**
 - ✅ **5 books and resources for deeper learning**
 - ✅ **A crypto slang cheat sheet: what every term means**
-- ✅ **Links to trusted beginner-friendly exchanges and wallets**
+- ✅ **Links to trusted beginner-friendly exchanges and [wallets](/en/glossary/#wallet)**
 
 ---
 

@@ -36,9 +36,9 @@ Proof of Work es exactamente lo que parece: tienes que **realizar trabajo comput
 
 Imagina que tienes frente a ti una caja fuerte gigante con una cerradura de combinación que tiene mil millones de códigos posibles. Pruebas combinación tras combinación — pasan horas, días, semanas. Pero en el momento en que encuentras la clave, cualquiera puede verificar que es correcta.
 
-La blockchain funciona igual:
+La [blockchain](/es/glossary/#blockchain) funciona igual:
 
-1. Un minero recoge transacciones del mempool y las agrupa en un bloque.
+1. Un minero recoge transacciones del mempool y las agrupa en un [bloque](/es/glossary/#block).
 2. Empieza a probar números (nonces) hasta encontrar un hash de bloque que cumpla la condición objetivo (que empiece con cierta cantidad de ceros).
 3. El primero que encuentra el número correcto difunde el bloque a la red.
 4. Los demás mineros lo verifican — el bloque es válido, el trabajo está confirmado.
@@ -73,13 +73,13 @@ Los mineros no son programadores ni desarrolladores. Son **operadores de hardwar
 
 ### Cómo funciona
 
-Proof of Stake no implica calcular números. En su lugar, los participantes **bloquean (apuestan) sus monedas** en la red y ganan el derecho a confirmar bloques en proporción a su participación.
+[Proof of Stake](/es/glossary/#proof-of-stake) no implica calcular números. En su lugar, los participantes **bloquean (apuestan) sus monedas** en la red y ganan el derecho a confirmar bloques en proporción a su participación.
 
 Piénsalo como un **depósito bancario** en lugar de una lotería con papeletas. Cuanto mayor es tu depósito, más a menudo te eligen para confirmar transacciones. Intentas hacer trampa — y tu depósito se reduce (slashing).
 
 En PoS:
 
-1. Los participantes envían monedas al staking (normalmente mediante un contrato inteligente).
+1. Los participantes envían monedas al [staking](/es/glossary/#staking) (normalmente mediante un contrato inteligente).
 2. El algoritmo elige un **validador** para crear el siguiente bloque (aleatoriamente, pero ponderado por la cantidad apostada).
 3. El validador confirma el bloque y recibe una recompensa.
 4. Si el validador confirma una transacción fraudulenta o se desconecta, parte de su depósito se **quema (slashing)**.
@@ -116,7 +116,7 @@ Las monedas apostadas actúan como **garantía**:
 
 Pongamos todo cara a cara:
 
-| Parámetro | Proof of Work (PoW) | Proof of Stake (PoS) |
+| Parámetro | [Proof of Work](/es/glossary/#proof-of-work) (PoW) | Proof of Stake (PoS) |
 |-----------|--------------------|---------------------|
 | **Recurso** | Potencia de cálculo (electricidad) | Monedas bloqueadas (stake) |
 | **Hardware** | Mineros ASIC (equipos especializados) | Servidor normal o PC |
@@ -141,7 +141,7 @@ PoS gana en **eficiencia** y **escalabilidad**. La migración de Ethereum a PoS 
 
 ### Para el inversor
 
-Si ya tienes cripto, el staking te permite **generar ingresos** con solo mantenerlas en tu cartera. No vendes tus monedas — ellas mismas producen rentabilidad.
+Si ya tienes cripto, el staking te permite **generar ingresos** con solo mantenerlas en tu [cartera](/es/glossary/#wallet). No vendes tus monedas — ellas mismas producen rentabilidad.
 
 Ejemplo:
 

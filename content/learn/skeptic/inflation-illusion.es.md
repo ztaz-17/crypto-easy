@@ -47,7 +47,7 @@ Dicho de otra forma:
 
 > **Con el mismo dinero, cada año puedes comprar menos cosas.**
 
-Si hace 5 años con 100€ comprabas el carrito del supermercado lleno, hoy con los mismos 100€ apenas llenas la mitad. Eso es la inflación.
+Si hace 5 años con 100€ comprabas el carrito del supermercado lleno, hoy con los mismos 100€ apenas llenas la mitad. Eso es la [inflación](/es/glossary/#inflation).
 
 ### Inflación Real vs. Inflación Oficial
 

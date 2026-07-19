@@ -43,7 +43,7 @@ Regístrate, fondea tu cuenta y compra Bitcoin, USDT o cualquier moneda.
 - Compra con tarjeta
 
 ### Contras ❌
-- KYC necesario
+- [KYC](/es/glossary/#kyc) necesario
 - El exchange guarda tus monedas
 - Si bloquean tu cuenta, pierdes acceso
 
@@ -83,7 +83,7 @@ Mercuryo, MoonPay — pagas con tarjeta, crypto llega en minutos. Dentro de Meta
 
 ## Comparación
 
-| | Exchange | P2P | Swap | Cajero BTC |
+| | Exchange | [P2P](/es/glossary/#p2p) | Swap | Cajero BTC |
 |---|---------|-----|------|-----------|
 | KYC | Parcial | No | Parcial | No |
 | Comisión | 0.1-0.5% | 1-3% | 2-5% | 10-15% |

@@ -45,7 +45,7 @@ In der traditionellen Welt läuft ein Kredit so ab:
 - die Bank prüft deine Kreditwürdigkeit und dein Einkommen;
 - wenn alles passt – bekommst du das Geld.
 
-DeFi funktioniert ganz anders:
+[DeFi](/de/glossary/#defi) funktioniert ganz anders:
 
 > **du beweist nicht, dass du zahlungsfähig bist – du hinterlegst Sicherheiten.**
 
@@ -147,7 +147,7 @@ Highlights:
 
 - funktioniert ähnlich wie Aave, jedoch ohne stabile Zinssätze;
 - verwendet algorithmisch angepasste Zinssätze;
-- lässt sich mit vielen Wallets und Diensten verbinden.
+- lässt sich mit vielen [Wallets](/de/glossary/#wallet) und Diensten verbinden.
 
 ### MakerDAO
 
@@ -167,7 +167,7 @@ Hier nimmst du nicht einfach einen Kredit auf – du **erschaffst den DAI-Stable
 | Bearbeitungszeit       | Tage bis Wochen                      | Sekunden                                |
 | Sicherheiten           | Meist nicht nötig (Privatkredite)    | Erforderlich (150 %+ des Kreditbetrags) |
 | Zinsen                 | 5–30 % p.a. (abhängig von Bonität)   | 1–15 % p.a. (abhängig von Angebot/Nachfrage)|
-| Zugang                 | Personalausweis, KYC, 18+            | Internetverbindung, jedes Alter         |
+| Zugang                 | Personalausweis, [KYC](/de/glossary/#kyc), 18+            | Internetverbindung, jedes Alter         |
 | Liquidation            | Gericht, Gerichtsvollzieher, Mahnung | Automatisch, von Bots ausgeführt        |
 | Geografie              | Nur im Land der Bank                 | Weltweit                                |
 | Geschäftszeiten        | Während der Öffnungszeiten           | 24/7, keine freien Tage                 |
@@ -214,7 +214,7 @@ Manche Protokolle erlauben es, obskure [Token](/de/glossary/#token) mit geringer
 
 Ein DeFi-Darlehen ist nicht dafür da, ein Auto oder ein Haus zu kaufen. Es ist ein Werkzeug für:
 
-- **Liquidität zu bekommen**, ohne deine Assets zu verkaufen (du willst ETH nicht verkaufen, brauchst aber USDC);
+- **[Liquidität](/de/glossary/#liquidity) zu bekommen**, ohne deine Assets zu verkaufen (du willst ETH nicht verkaufen, brauchst aber USDC);
 - **Arbitrage und Trading** (günstig leihen, in einen hochverzinslichen Pool investieren);
 - **Hebelwirkung** (deine Position vergrößern, ohne deine Bestände zu verkaufen);
 - **Flash Loans** (komplexe Strategien, die in einer einzigen Transaktion ausgeführt werden).

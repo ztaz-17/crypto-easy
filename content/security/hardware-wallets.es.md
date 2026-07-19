@@ -22,7 +22,7 @@ keywords:
 
 Una [cartera](/es/glossary/#wallet) hardware es un dispositivo físico del tamaño de una memoria USB que almacena las [claves privadas](/es/glossary/#private-key) en completo aislamiento de internet. Es el estándar de oro de la seguridad en el mundo cripto.
 
-Cuando usas una cartera cripto común en el teléfono o en el navegador — tus claves están en la memoria de un dispositivo conectado a internet. Un hacker, un virus o un sitio de phishing pueden robarlas. Con una cartera hardware, las claves **físicamente nunca salen del dispositivo**.
+Cuando usas una [cartera](/es/glossary/#wallet) cripto común en el teléfono o en el navegador — tus claves están en la memoria de un dispositivo conectado a internet. Un hacker, un virus o un sitio de phishing pueden robarlas. Con una cartera hardware, las claves **físicamente nunca salen del dispositivo**.
 
 Incluso si la conectas a un ordenador infectado — tus fondos están seguros. El dispositivo firma la transacción internamente y solo transmite el resultado (la firma). Las claves nunca salen al exterior.
 
@@ -153,7 +153,7 @@ Sí. Si tu Ledger/Trezor se rompe, se pierde o se quema — compras un dispositi
 
 ### ¿Qué pasa si pierdo la seed phrase?
 
-Es la pérdida de acceso para siempre. No hay un «botón de recuperar contraseña» en la blockchain. Sin la seed phrase, tus fondos son inaccesibles. Por eso es tan importante guardar la seed phrase en un lugar seguro y hacer una copia.
+Es la pérdida de acceso para siempre. No hay un «botón de recuperar contraseña» en la [blockchain](/es/glossary/#blockchain). Sin la seed phrase, tus fondos son inaccesibles. Por eso es tan importante guardar la seed phrase en un lugar seguro y hacer una copia.
 
 ### ¿Es diferente la seguridad de Ledger y Trezor?
 

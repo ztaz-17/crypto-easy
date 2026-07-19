@@ -44,7 +44,7 @@ Traditionally, every bank kept its **own** ledger. If you transferred money from
 
 ### How blockchain is different
 
-Blockchain is a **shared ledger** that exists with every network participant simultaneously.
+[Blockchain](/en/glossary/#blockchain) is a **shared ledger** that exists with every network participant simultaneously.
 
 Key features:
 
@@ -67,7 +67,7 @@ In a normal school, the teacher keeps the gradebook. If the teacher wants to cha
 Blockchain is made of [blocks](/en/glossary/#block). Each block is like a page in the shared notebook. It contains:
 
 - **several transactions** (who sent what to whom);
-- **a timestamp** (when the block was created);
+- **a timestamp** (when the [block](/en/glossary/#block) was created);
 - **the previous block's hash** (a digital "fingerprint" of the last page).
 
 ### What is a hash and why it matters

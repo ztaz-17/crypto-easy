@@ -45,9 +45,9 @@ Nicht übereinstimmendes Netzwerk. Du hast Token an die richtige Adresse, aber d
 
 **Schritt 1. Finde heraus, an welches Netzwerk du gesendet hast.** Überprüfe die Transaktion im Explorer (Etherscan, BscScan).
 
-**Schritt 2. Füge dieses Netzwerk zu deinem Wallet hinzu.** Wenn BEP-20 – füge Binance Smart Chain zu MetaMask hinzu (Einstellungen → Netzwerke → Hinzufügen). Nach dem Hinzufügen erscheinen deine Token.
+**Schritt 2. Füge dieses Netzwerk zu deinem [Wallet](/de/glossary/#wallet) hinzu.** Wenn BEP-20 – füge Binance Smart Chain zu MetaMask hinzu (Einstellungen → Netzwerke → Hinzufügen). Nach dem Hinzufügen erscheinen deine Token.
 
-**Schritt 3. Wenn dein Wallet das Netzwerk nicht unterstützt – importiere deine Seed-Phrase** in ein Wallet, das es tut (z. B. Trust Wallet unterstützt die meisten Netzwerke).
+**Schritt 3. Wenn dein Wallet das Netzwerk nicht unterstützt – importiere deine [Seed-Phrase](/de/glossary/#seed-phrase)** in ein Wallet, das es tut (z. B. Trust Wallet unterstützt die meisten Netzwerke).
 
 **Schritt 4. Sende niemals zurück, ohne zu prüfen.** Der gefährlichste Folgefehler: Versuch, „zurückzusenden", ohne die Netzwerke anzugleichen.
 
@@ -171,15 +171,15 @@ Ein Twitter-Post: „Dringender $PEPE-[Airdrop](/de/glossary/#airdrop) – verbi
 1. **Die Seed-Phrase ist alles.** Physische Aufbewahrung, zwei Kopien, niemals online eingeben.
 2. **Netzwerk und Adresse dreimal prüfen** vor jedem Sendevorgang.
 3. **Niemals Approvals blind unterschreiben.** Immer den Betrag prüfen. Rabby Wallet verwenden.
-4. **Separates DeFi-Wallet.** Nur das dort aufbewahren, was du bereit bist zu verlieren.
-5. **Vertraue niemandem.** „Support" in Telegram, „Airdrops" mit Wallet-Verbindung, „kostenlose Token" – 99 % sind Betrug.
+4. **Separates [DeFi](/de/glossary/#defi)-Wallet.** Nur das dort aufbewahren, was du bereit bist zu verlieren.
+5. **Vertraue niemandem.** „Support" in Telegram, „[Airdrops](/de/glossary/#airdrop)" mit Wallet-Verbindung, „kostenlose Token" – 99 % sind Betrug.
 
 ---
 
 ## FAQ
 
 ### Ich habe USDT via BEP-20 an eine Ethereum-Adresse gesendet – sind sie verloren?
-Nein. Füge das BSC-Netzwerk zu deinem Wallet hinzu – die Token erscheinen. Oder verwende eine Cross-Chain-Bridge.
+Nein. Füge das BSC-Netzwerk zu deinem Wallet hinzu – die Token erscheinen. Oder verwende eine Cross-Chain-[Bridge](/de/glossary/#bridge).
 
 ### Kann ich eine Seed-Phrase wiederherstellen, wenn ich mich nur an einen Teil erinnere?
 Ja, wenn du 10+ von 12 Wörtern noch weißt – es gibt Brute-Force-Wiederherstellungsdienste. Kostet Geld, aber es funktioniert.

@@ -65,9 +65,9 @@ El Estado tiene tres palancas clave:
 
 1. **Emisión** — quién imprime dinero y cuánto. Solo el banco central puede emitir la moneda nacional.
 2. **Impuestos** — el gobierno decide cuánto debes pagar de lo que ganas.
-3. **Política monetaria** — tasas de interés, reservas, control de inflación.
+3. **Política monetaria** — tasas de interés, reservas, control de [inflación](/es/glossary/#inflation).
 
-Las criptomonedas socavan **las tres**:
+Las [criptomonedas](/es/glossary/#cryptocurrency) socavan **las tres**:
 
 - Bitcoin tiene una oferta fija que ningún banco central puede cambiar;
 - las crypto son difíciles de gravar por su naturaleza pseudónima;
@@ -121,7 +121,7 @@ Sí, todas las transacciones quedan registradas en la [blockchain](/es/glossary/
 
 > **El gobierno no puede simplemente aparecer en tu puerta con una factura de impuestos si no sabe que tienes crypto.**
 
-Claro, existen herramientas de análisis de blockchain. Pero solo funcionan si una dirección puede vincularse a una identidad real — y eso no siempre es posible.
+Claro, existen herramientas de análisis de [blockchain](/es/glossary/#blockchain). Pero solo funcionan si una dirección puede vincularse a una identidad real — y eso no siempre es posible.
 
 ### DeFi y la Dificultad de Rastrear
 
@@ -138,7 +138,7 @@ Y si no las ve — no puede gravarlas.
 
 ### Cómo Intentan Regular los Gobiernos
 
-Aquí es donde entran en juego los **exchanges**. Como es casi imposible cobrar impuestos a través de P2P y DeFi, los gobiernos presionan el único punto de entrada — los exchanges centralizados (CEXs).
+Aquí es donde entran en juego los **exchanges**. Como es casi imposible cobrar impuestos a través de [P2P](/es/glossary/#p2p) y [DeFi](/es/glossary/#defi), los gobiernos presionan el único punto de entrada — los exchanges centralizados (CEXs).
 
 Requisitos para los exchanges:
 

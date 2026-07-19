@@ -53,7 +53,7 @@ En el momento en que notes actividad sospechosa, tu objetivo es **cortar el acce
 
 Si se comprometió una wallet caliente (MetaMask, Trust Wallet, Phantom, etc.):
 
-1. **Apaga el internet** del dispositivo (modo avión) si ves una transacción que todavía no se confirmó. Esto no ayuda si la frase semilla ya está expuesta, pero puede comprarte unos segundos.
+1. **Apaga el internet** del dispositivo (modo avión) si ves una transacción que todavía no se confirmó. Esto no ayuda si la [frase semilla](/es/glossary/#seed-phrase) ya está expuesta, pero puede comprarte unos segundos.
 2. **Crea una wallet nueva de inmediato** — en otro dispositivo o en otra app.
 3. **Genera una frase semilla nueva.** Nunca reutilices la anterior.
 
@@ -174,7 +174,7 @@ Algunas cosas **solo empeorarán la situación**:
 - ❌ Usar "servicios de recuperación de cripto" — todos son fraudulentos.
 - ❌ Descargar software recomendado por desconocidos en redes sociales.
 - ❌ Decir tu frase semilla a nadie, ni siquiera a "representantes de la wallet."
-- ❌ Intentar "revertir" una transacción en la blockchain — es imposible.
+- ❌ Intentar "revertir" una transacción en la [blockchain](/es/glossary/#blockchain) — es imposible.
 
 > **Si alguien te promete recuperar tu dinero robado a cambio de una comisión — te está estafando.**
 

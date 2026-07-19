@@ -61,8 +61,8 @@ The moment you do — your funds are gone in seconds.
 
 - always check the URL — the real address must be exact, no variations;
 - use bookmarks, not search results or email links;
-- never enter your seed phrase on any website — even if the design looks legit;
-- install a phishing-blocker extension like Wallet Guard.
+- never enter your [seed phrase](/en/glossary/#seed-phrase) on any website — even if the design looks legit;
+- install a phishing-blocker extension like [Wallet](/en/glossary/#wallet) Guard.
 
 > **A real service will never ask for your seed phrase.**
 
@@ -104,7 +104,7 @@ An [airdrop](/en/glossary/#airdrop) is a free [token](/en/glossary/#token) givea
 
 ### Real-World Examples
 
-- **Uniswap UNI airdrop** — dozens of fake sites popped up after the real Uniswap airdrop;
+- **Uniswap UNI [airdrop](/en/glossary/#airdrop)** — dozens of fake sites popped up after the real Uniswap airdrop;
 - **Fake [NFT](/en/glossary/#nft) mints** — "free NFT mint" that drains your ETH when you sign;
 - **Token approval scam** — the site asks you to sign an `approve` for an unlimited amount.
 
@@ -136,7 +136,7 @@ The script:
 ### How to Spot It
 
 - real support **never messages you first**;
-- real support never asks for your seed phrase, private key, or password;
+- real support never asks for your seed phrase, [private key](/en/glossary/#private-key), or password;
 - official accounts have a verification checkmark;
 - support links should only come from the official website.
 
@@ -253,7 +253,7 @@ Before clicking any link or entering your data, run through these 5 steps:
 
 If you've sent crypto to scammers:
 
-1. **Accept it** — blockchain transactions are irreversible. Getting funds back is nearly impossible.
+1. **Accept it** — [blockchain](/en/glossary/#blockchain) transactions are irreversible. Getting funds back is nearly impossible.
 2. **Lock down access** — if your seed phrase was compromised, immediately move any remaining funds to a new wallet.
 3. **Warn the community** — post about it on social media. Scammers reuse the same addresses.
 4. **Contact the exchange's security team** — if you sent funds to an exchange (e.g., Binance), they may freeze the scammer's account, though this is rare.
@@ -274,7 +274,7 @@ The golden rules:
 - don't trust strangers;
 - don't enter data on suspicious sites;
 - don't sign transactions you don't understand;
-- use cold wallets for storage;
+- use [cold wallets](/en/glossary/#cold-wallet) for storage;
 - always verify information from multiple sources.
 
 Crypto scammers only exist because their schemes still work. Don't give them a chance.

@@ -21,7 +21,7 @@ You've probably heard this story: in 2021, a digital image — a collage of 5,00
 
 That was an **[NFT](/en/glossary/#nft)** — a non-fungible [token](/en/glossary/#token).
 
-But reducing NFTs to just expensive pictures is like reducing the internet to email. Let's break down what this technology actually is and where it's already being used.
+But reducing [NFTs](/en/glossary/#nft) to just expensive pictures is like reducing the internet to email. Let's break down what this technology actually is and where it's already being used.
 
 ---
 
@@ -49,7 +49,7 @@ NFTs are the digital equivalent of a "unique item."
 
 ### How It Works
 
-An NFT is a **token** (a record on the blockchain) that:
+An NFT is a **token** (a record on the [blockchain](/en/glossary/#blockchain)) that:
 
 - stores metadata (a link to the file, description, attributes);
 - tracks ownership history;
@@ -119,7 +119,7 @@ Why it's convenient:
 
 - authenticity can be verified with one click (no need to dig through archives);
 - the document can't be forged;
-- you carry it in your wallet instead of keeping a paper copy.
+- you carry it in your [wallet](/en/glossary/#wallet) instead of keeping a paper copy.
 
 Some universities have already started issuing diplomas on the blockchain.
 
