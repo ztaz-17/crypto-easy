@@ -4,7 +4,7 @@ title: "Лучшие криптобиржи 2026: сравнение и выбо
 description: "Сравниваем лучшие криптобиржи 2026 года: Bybit, Kraken, Coinbase. Комиссии, безопасность, лицензии и бонусы для новичков. Выбери свою первую биржу."
 category: "practice"
 translationKey: "exchanges"
-slug: "exchanges"
+slug: "luchshie-kriptobirzhi"
 keywords:
   - лучшие криптобиржи
   - как выбрать криптобиржу
