@@ -17,6 +17,15 @@
         'link_url': link.href
       });
     }
+
+    // Track free-guide CTA clicks
+    if (link && link.href && link.href.match(/\/free-guide\/?$/)) {
+      gtag('event', 'click', {
+        'event_category': 'cta',
+        'event_label': 'free_guide',
+        'link_url': link.href
+      });
+    }
   });
 </script>
 {{ end }}
