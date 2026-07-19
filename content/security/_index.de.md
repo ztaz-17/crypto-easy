@@ -20,6 +20,14 @@ menu: main
 - [Hot vs Cold: Vergleichstabelle](/de/security/hot-vs-cold-wallets/#hot-vs-cold-vergleichstabelle)
 - [Wann du was verwenden solltest](/de/security/hot-vs-cold-wallets/#wann-du-was-verwenden-solltest)
 
+### [Hardware-Wallets: Krypto-Sicherheit in deinen Händen](/de/security/hardware-wallets-leitfaden/)
+- [Was ist eine Hardware-Wallet?](/de/security/hardware-wallets-leitfaden/#was-ist-eine-hardware-wallet)
+- [Warum braucht man eine Hardware-Wallet? Einfach erklärt](/de/security/hardware-wallets-leitfaden/#warum-braucht-man-eine-hardware-wallet-einfach-erklärt)
+- [Ledger vs Trezor: Was wählen?](/de/security/hardware-wallets-leitfaden/#ledger-vs-trezor-was-wählen)
+- [Wie benutzt man eine Hardware-Wallet: Schritt-für-Schritt-Anleitung](/de/security/hardware-wallets-leitfaden/#wie-benutzt-man-eine-hardware-wallet-schritt-für-schritt-anleitung)
+- [Was kostet das und lohnt es sich?](/de/security/hardware-wallets-leitfaden/#was-kostet-das-und-lohnt-es-sich)
+- [Häufig gestellte Fragen](/de/security/hardware-wallets-leitfaden/#häufig-gestellte-fragen)
+
 ### [Häufige Crypto-Betrugsarten](/de/security/haeufige-crypto-betrugsarten/)
 - [Phishing: Diebstahl durch Täuschung](/de/security/haeufige-crypto-betrugsarten/#phishing-diebstahl-durch-täuschung)
 - [Fake-Websites: Ein Zeichen daneben und du bist raus](/de/security/haeufige-crypto-betrugsarten/#fake-websites-ein-zeichen-daneben-und-du-bist-raus)

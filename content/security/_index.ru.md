@@ -20,6 +20,14 @@ menu: main
 - [Горячий vs холодный: таблица сравнения](/ru/security/goryachie-vs-holodnye-koshelki/#горячий-vs-холодный-таблица-сравнения)
 - [Когда что использовать](/ru/security/goryachie-vs-holodnye-koshelki/#когда-что-использовать)
 
+### [Аппаратные кошельки: безопасность крипты своими руками](/ru/security/apparatnye-koshelki/)
+- [Что такое аппаратный кошелек?](/ru/security/apparatnye-koshelki/#что-такое-аппаратный-кошелек)
+- [Зачем нужен аппаратный кошелек простыми словами](/ru/security/apparatnye-koshelki/#зачем-нужен-аппаратный-кошелек-простыми-словами)
+- [Ledger vs Trezor: что выбрать?](/ru/security/apparatnye-koshelki/#ledger-vs-trezor-что-выбрать)
+- [Как пользоваться аппаратным кошельком: пошаговая инструкция](/ru/security/apparatnye-koshelki/#как-пользоваться-аппаратным-кошельком-пошаговая-инструкция)
+- [Сколько это стоит и стоит ли?](/ru/security/apparatnye-koshelki/#сколько-это-стоит-и-стоит-ли)
+- [Часто задаваемые вопросы](/ru/security/apparatnye-koshelki/#часто-задаваемые-вопросы)
+
 ### [Основные виды скама в крипте](/ru/security/osnovnye-vidy-skama/)
 - [Фишинг: кража через подделку](/ru/security/osnovnye-vidy-skama/#фишинг-кража-через-подделку)
 - [Фейковые сайты: один символ — и ты в ловушке](/ru/security/osnovnye-vidy-skama/#фейковые-сайты-один-символ-и-ты-в-ловушке)
