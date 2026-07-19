@@ -20,6 +20,14 @@ menu: main
 - [Caliente vs Fría: tabla comparativa](/es/security/hot-vs-cold-wallets/#caliente-vs-fría-tabla-comparativa)
 - [Cuándo usar cada una](/es/security/hot-vs-cold-wallets/#cuándo-usar-cada-una)
 
+### [Carteras Hardware: seguridad cripto en tus propias manos](/es/security/guia-carteras-hardware/)
+- [¿Qué es una cartera hardware?](/es/security/guia-carteras-hardware/#qué-es-una-cartera-hardware)
+- [¿Por qué necesitas una cartera hardware en palabras sencillas?](/es/security/guia-carteras-hardware/#por-qué-necesitas-una-cartera-hardware-en-palabras-sencillas)
+- [Ledger vs Trezor: ¿cuál elegir?](/es/security/guia-carteras-hardware/#ledger-vs-trezor-cuál-elegir)
+- [Cómo usar una cartera hardware: guía paso a paso](/es/security/guia-carteras-hardware/#cómo-usar-una-cartera-hardware-guía-paso-a-paso)
+- [¿Cuánto cuesta y vale la pena?](/es/security/guia-carteras-hardware/#cuánto-cuesta-y-vale-la-pena)
+- [Preguntas frecuentes](/es/security/guia-carteras-hardware/#preguntas-frecuentes)
+
 ### [Principales Tipos de Estafa en Crypto](/es/security/principales-tipos-de-estafa-crypto/)
 - [Phishing: Robo por suplantación de identidad](/es/security/principales-tipos-de-estafa-crypto/#phishing-robo-por-suplantación-de-identidad)
 - [Sitios web falsos: Una letra de diferencia y estás perdido](/es/security/principales-tipos-de-estafa-crypto/#sitios-web-falsos-una-letra-de-diferencia-y-estás-perdido)

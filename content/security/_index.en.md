@@ -20,6 +20,14 @@ menu: main
 - [Hot vs Cold comparison table](/en/security/hot-vs-cold-wallets/#hot-vs-cold-comparison-table)
 - [When to use what](/en/security/hot-vs-cold-wallets/#when-to-use-what)
 
+### [Hardware Wallets: DIY Crypto Security You Can Actually Touch](/en/security/hardware-wallets-guide/)
+- [What Is a Hardware Wallet?](/en/security/hardware-wallets-guide/#what-is-a-hardware-wallet)
+- [Why You Need a Hardware Wallet in Plain English](/en/security/hardware-wallets-guide/#why-you-need-a-hardware-wallet-in-plain-english)
+- [Ledger vs Trezor: Which One Should You Pick?](/en/security/hardware-wallets-guide/#ledger-vs-trezor-which-one-should-you-pick)
+- [How to Set Up a Hardware Wallet: Step by Step](/en/security/hardware-wallets-guide/#how-to-set-up-a-hardware-wallet-step-by-step)
+- [How Much Does It Cost — and Is It Worth It?](/en/security/hardware-wallets-guide/#how-much-does-it-cost--and-is-it-worth-it)
+- [Frequently Asked Questions](/en/security/hardware-wallets-guide/#frequently-asked-questions)
+
 ### [Common Crypto Scams: What to Watch For](/en/security/common-crypto-scams/)
 - [Phishing: Theft Through Impersonation](/en/security/common-crypto-scams/#phishing-theft-through-impersonation)
 - [Fake Websites: One Character Off and You're Done](/en/security/common-crypto-scams/#fake-websites-one-character-off-and-youre-done)
