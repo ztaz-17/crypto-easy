@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Crypto Easy is a beginner-friendly guide to cryptocurrency and blockchain. Our mission: make crypto accessible to everyone through clear, practical, no-jargon content."
+description: "Crypto Easy — a beginner-friendly guide to cryptocurrency and blockchain. Simple explanations, real examples, and no confusing jargon. Start learning today."
 slug: "about"
 layout: "single"
 ---

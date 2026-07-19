@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "Cross-Chain Bridges: How to Move Crypto Between Networks"
-description: "How cross-chain bridges work, the main risks (bridge hacks), and when it is safe to use them. A practical guide to moving crypto between Ethereum, BSC, and other networks."
+description: "Cross-chain bridges explained: how they work, the main risks including hacks, and when it is safe to move your crypto between different blockchain networks."
 category: "defi"
 translationKey: "cross-chain-bridges"
 slug: "cross-chain-bridges"

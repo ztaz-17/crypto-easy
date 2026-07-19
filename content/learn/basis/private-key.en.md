@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: "Private Key: Why It Matters More Than a Password"
-description: "What is a private key, how it differs from a password, and why losing it means losing your money — a simple explanation"
+description: "What is a private key, how it differs from a regular password, and why losing it means losing your crypto forever. Essential security knowledge for every user."
 category: "basis"
 translationKey: "private-key"
 slug: "private-key"

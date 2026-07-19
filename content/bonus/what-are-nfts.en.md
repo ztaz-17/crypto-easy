@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "What Are NFTs and Why They Matter (Beyond Pictures)"
-description: "NFT — non-fungible tokens: what they are, why they matter, and real-world use cases beyond art (tickets, gaming, documents)"
+description: "What are NFTs — non-fungible tokens explained simply. Use cases beyond pictures: digital art, gaming items, tickets, and identity verification on blockchain."
 category: "bonus"
 translationKey: "what-are-nfts"
 slug: "what-are-nfts"

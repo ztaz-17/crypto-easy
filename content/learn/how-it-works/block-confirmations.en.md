@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Block Confirmations: What a Block Is and Why You Have to Wait"
-description: "What is a block in a blockchain, how confirmations work, and when a transaction is considered safe. A clear guide to understanding blockchain confirmations and finality."
+description: "What is a block in blockchain, how confirmations work, and why you should wait before considering a transaction final. Security explained for beginners."
 category: "how-it-works"
 translationKey: "block-confirmations"
 slug: "block-confirmations"

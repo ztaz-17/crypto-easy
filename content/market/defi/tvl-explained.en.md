@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "What Is TVL and How to Read It"
-description: "TVL (Total Value Locked) — what it is, how to check TVL before investing, and why a sudden drop in TVL is a red flag"
+description: "TVL (Total Value Locked) explained: what it tells you about a DeFi protocol, how to check TVL before investing, and why a sharp drop signals potential risk."
 category: "defi"
 translationKey: "tvl-explained"
 slug: "tvl-explained"

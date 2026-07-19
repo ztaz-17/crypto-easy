@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Crypto Taxes: General Principles"
-description: "How cryptocurrencies are taxed: general principles, when to pay, where to pay, differences by country"
+description: "How cryptocurrencies are taxed: general principles, when to file a tax return, where to pay based on residency. A simple guide to crypto tax reporting."
 category: "regulation"
 translationKey: "crypto-taxes"
 slug: "crypto-taxes"

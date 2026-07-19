@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Why You Buy at the Top and Sell at the Bottom"
-description: "Crypto trading psychology: FOMO, panic, emotions. Why beginners buy at the peak and sell at the bottom — and how to stop"
+description: "Crypto trading psychology: FOMO, panic selling, emotional decisions. Why beginners buy at the peak and sell at the bottom — and how to break the cycle."
 category: "market"
 translationKey: "buy-high-sell-low"
 slug: "buy-high-sell-low"

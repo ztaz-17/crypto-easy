@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Crypto Easy privacy policy: what data we collect, how we use it, and your rights as a user. We respect your privacy and never share personal information with third parties."
+description: "Crypto Easy privacy policy: what data we collect, how we use it, and your rights. We respect your privacy and are transparent about data handling practices."
 slug: "privacy"
 layout: "single"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Map"
 layout: "map"
-description: "This page contains all guides and articles about cryptocurrency, blockchain, DeFi, and trading."
+description: "Complete map of all crypto-easy guides and articles. Everything about cryptocurrency, blockchain, DeFi, security, and trading explained for beginners."
 url: "/en/map"
 ---
 

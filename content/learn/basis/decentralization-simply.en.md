@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Decentralization Simply Explained"
-description: "What is decentralization in simple terms: why there is no main server, and what the pros and cons are"
+description: "Decentralization explained simply: why blockchain has no central server, what that changes, and how it protects ordinary users from seizure of their funds."
 category: "basis"
 translationKey: "decentralization-simply"
 slug: "decentralization-simply"

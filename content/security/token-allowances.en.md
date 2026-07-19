@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Token Allowances: What They Are and Why They're Dangerous"
-description: "What token allowances are, why unlimited approvals are a security risk, and how to revoke access to your tokens"
+description: "What token allowances are, why unlimited approvals are dangerous, and how to revoke them using Etherscan or Revoke.cash to protect your crypto wallet."
 category: "security"
 translationKey: "token-allowances"
 slug: "token-allowances-explained"

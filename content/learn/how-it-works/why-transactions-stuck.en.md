@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Why Transactions Get Stuck and What to Do About It"
-description: "Why crypto transactions get stuck: low fees, network congestion. How to speed up or cancel a stuck transaction"
+description: "Why crypto transactions get stuck and what to do. Low fees, network congestion, RBF, and CPFP — how to speed up a stuck transaction explained clearly."
 category: "how-it-works"
 translationKey: "why-transactions-stuck"
 slug: "why-transactions-get-stuck"

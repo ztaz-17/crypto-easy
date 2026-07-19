@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "Stablecoins: What Are USDT, USDC, and How They Work"
-description: "What are stablecoins — USDT, USDC, DAI. How they work, what backs them, and why they're essential in cryptocurrency"
+description: "Stablecoins — USDT, USDC, DAI explained simply. How they maintain their dollar peg, what backs them, and why they are essential for crypto trading activity."
 category: "basis"
 translationKey: "what-are-stablecoins"
 slug: "what-are-stablecoins"

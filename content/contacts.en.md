@@ -1,6 +1,6 @@
 ---
 title: "Contacts"
-description: "Have a question, suggestion, or partnership idea? Contact the Crypto Easy team — we're always happy to hear from our readers and improve the project."
+description: "Have a question about cryptocurrency, suggestion, or partnership? Contact the Crypto Easy team — we are always happy to help and improve the resource."
 slug: "contacts"
 layout: "single"
 ---

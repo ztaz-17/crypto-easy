@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Investing vs Trading: What Should a Beginner Choose"
-description: "The difference between investing and trading in crypto, risks, approaches. DCA as a strategy for beginners, how to read a candlestick chart"
+description: "Investing vs trading in crypto: differences in strategy, risk levels, time commitment. Why DCA works for beginners and trading is harder than it looks."
 category: "market"
 translationKey: "investing-vs-trading"
 slug: "investing-vs-trading"

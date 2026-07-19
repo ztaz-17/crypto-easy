@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "How to Check a Transaction in the Blockchain"
-description: "How to check any crypto transaction using Etherscan and similar tools: what to look at, how to read the status and confirmations"
+description: "How to check a crypto transaction using Etherscan and blockchain explorers. Learn about transaction status, confirmations, gas fees, and contract interactions."
 category: "practice"
 translationKey: "check-transaction"
 slug: "check-transaction-in-blockchain"
