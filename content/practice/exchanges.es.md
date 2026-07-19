@@ -1,6 +1,10 @@
 ---
+weight: 70
 title: "Mejores Exchanges de Cripto 2026: Comparación y Guía"
 description: "Compara los mejores exchanges de criptomonedas 2026: Bybit, Kraken, Coinbase. Comisiones, seguridad, licencias y bonos para principiantes. Encuentra tu primer exchange."
+category: "practice"
+translationKey: "exchanges"
+slug: "exchanges"
 keywords:
   - mejores exchanges cripto
   - cómo elegir un exchange cripto
@@ -9,12 +13,6 @@ keywords:
   - comparación exchanges cripto
   - exchange cripto seguro
   - ranking exchanges cripto 2026
-category: "practice"
-translationKey: "affiliate"
-slug: "exchanges"
-prev: "/es/practice/como-verificar-transaccion-en-blockchain"
-next: ""
-weight: 100
 ---
 
 Elegir tu primer exchange de criptomonedas es como elegir un banco — de ello depende la seguridad de tu dinero, la velocidad y la comodidad. Una mala elección puede costarte dinero, nervios o ambos.

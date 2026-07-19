@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Frase Semilla: el Momento en que la Gente Pierde Dinero"
 description: "Cómo almacenar correctamente tu frase semilla (seed phrase), dónde NO guardarla y los errores más comunes de principiantes que llevan a perder dinero"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - recuperar cartera
   - 12 palabras
   - almacenamiento en frío
-prev: "/es/practice/create-wallet-in-5-minutes"
-next: "/es/practice/demo-testnet-practicar-sin-riesgo"
 ---
 
 ## Frase Semilla: el Momento en que la Gente Pierde Dinero

@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "¿Qué es una DAO: Gestión Sin Jefes"
 description: "DAO (Organización Autónoma Descentralizada) — qué es, cómo funciona, ejemplos como MakerDAO y Uniswap. Token de gobernanza explicado."
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - Uniswap
   - token de gobernanza
   - votación
-prev: ""
-next: "/es/bonus/que-son-oraculos"
 ---
 
 ## ¿Qué es una DAO? Una empresa sin director

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "¿Qué es un Airdrop y cómo evitar estafas?"
 description: "Airdrop — sorteos gratuitos de tokens. Cómo distinguir un airdrop legítimo de una estafa"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - estafa airdrop
   - airdrop legítimo
   - distribución de tokens
-prev: "/es/bonus/staking-vs-farming"
-next: "/es/bonus/meme-coins"
 ---
 
 ## ¿Qué es un Airdrop: Tokens Gratis o una Trampa?

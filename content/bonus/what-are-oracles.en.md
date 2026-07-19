@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "What Are Oracles in Crypto"
 description: "Oracles explained simply — how smart contracts learn real-world data. Types of oracles, risks, and why they are essential for DeFi to function properly."
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - smart contract data
   - price feed
   - off-chain data
-prev: "/en/bonus/what-is-dao"
-next: "/en/bonus/staking-vs-farming"
 ---
 
 ## What Are Oracles: How Smart Contracts See the Real World

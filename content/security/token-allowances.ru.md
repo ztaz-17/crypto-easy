@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Разрешения токенов: что это и почему опасно"
 description: "Что такое token allowance, почему опасно давать безграничные разрешения и как отзывать доступ к вашим токенам"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - smart contract risk
   - Ethereum approval
   - ERC20 approval
-prev: "/ru/security/osnovnye-vidy-skama"
-next: "/ru/security/chto-delat-pri-vzlome"
 ---
 
 ## Разрешения токенов: что это и почему опасно

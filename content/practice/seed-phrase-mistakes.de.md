@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Seed-Phrase: Der Moment, in dem Leute Geld Verlieren"
 description: "Wie du deine Seed-Phrase richtig aufbewahrst, wo du sie auf keinen Fall speichern darfst und die häufigsten Anfängerfehler, die zum Geldverlust führen"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - Wallet-Wiederherstellung
   - 12 Wörter
   - Cold Storage
-prev: "/de/practice/create-wallet-in-5-minutes"
-next: "/de/practice/testnet-demo-ohne-risiko-ueben"
 ---
 
 ## Seed-Phrase: Der Moment, in dem Leute Geld Verlieren

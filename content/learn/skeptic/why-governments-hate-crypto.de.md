@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Warum Regierungen Crypto hassen (und nicht verbieten können)"
 description: "Warum Regierungen versuchen, Crypto zu kontrollieren – und warum ein totales Verbot unmöglich ist"
 category: "skeptic"
@@ -14,8 +14,6 @@ keywords:
   - Steuerhinterziehung
   - Kapitalkontrolle
   - Dezentralisierung Bedrohung
-prev: "/de/learn/skeptic/wie-menschen-mit-crypto-geld-retten"
-next: "/de/learn/skeptic/krypto-mythen-an-die-anfaenger-glauben"
 ---
 
 ## Warum Regierungen Crypto hassen (und nicht verbieten können)

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Eine Transaktion in der Blockchain überprüfen"
 description: "Wie man jede Krypto-Transaktion mit Etherscan und ähnlichen Tools prüft: worauf man achten muss, wie man Status und Bestätigungen liest"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - Transaktionsstatus
   - TxID
   - Wallet-Überwachung
-prev: "/de/practice/first-transaction-without-mistakes"
-next: "/de/exchanges"
 ---
 
 ## Eine Transaktion in der Blockchain überprüfen: Alles, was du wissen musst

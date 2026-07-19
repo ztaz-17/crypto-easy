@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Warum Banken dein Geld einfrieren können"
 description: "Warum Banken dein Geld einfrieren können – und du fast nichts dagegen tun kannst!"
 category: "skeptic"
@@ -18,8 +18,6 @@ keywords:
   - AML-Beschränkungen
   - Bankverweigerung
   - Geldeigentum
-prev: ""
-next: "/de/learn/skeptic/inflation-illusion"
 ---
 
 ## Warum Können Banken Dein Geld Einfrieren? Und du kannst nichts tun!

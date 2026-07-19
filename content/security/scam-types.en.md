@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Common Types of Crypto Scams"
 description: "How to spot crypto scammers: phishing, fake airdrops, social engineering, rug pulls. Types of crypto scams and practical tips to protect yourself online."
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - airdrop scam
   - support scam
   - crypto security
-prev: "/en/security/hot-vs-cold-wallets"
-next: "/en/security/token-allowances-explained"
 ---
 
 ## Common Types of Crypto Scams

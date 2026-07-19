@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Krypto-Steuern: Allgemeine Grundsätze"
 description: "Wie Kryptowährungen besteuert werden: allgemeine Grundsätze, wann und wo man zahlt, Unterschiede nach Ländern"
 category: "regulation"
@@ -11,8 +11,6 @@ keywords:
   - Kapitalerträge
   - Krypto-Einkommen
   - Steuerpflicht
-prev: "/de/market/regulation/wie-regierungen-mit-crypto-umgehen"
-next: ""
 ---
 
 ## Krypto-Steuern: Allgemeine Grundsätze

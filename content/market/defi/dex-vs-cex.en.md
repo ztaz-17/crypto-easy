@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "DEX vs CEX — Which Exchange to Use for Crypto Trading"
 description: "Centralized vs decentralized crypto exchanges compared: security, fees, liquidity, ease of use. Which type suits beginners better? A complete comparison guide."
 category: "defi"
@@ -14,8 +14,6 @@ keywords:
   - Binance
   - AMM
   - order book
-prev: "/en/market/defi/cross-chain-bridges"
-next: "/en/market/regulation/how-governments-treat-crypto"
 ---
 
 ## DEX vs CEX — Which Exchange to Use for Crypto Trading

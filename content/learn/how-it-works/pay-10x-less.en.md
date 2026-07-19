@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 250
 title: "How to pay 10x less for crypto transfers"
 description: "How to save 10x on crypto transaction fees by choosing the right network, using L2 solutions like Arbitrum and Optimism, and timing your transfers wisely."
 category: "how-it-works"
@@ -14,8 +14,6 @@ keywords:
   - Arbitrum
   - Polygon
   - Lightning Network
-prev: "/en/learn/how-it-works/different-networks-erc20-trc20-bsc"
-next: "/en/learn/how-it-works/pos-vs-pow"
 ---
 
 ## How to pay 10x less for crypto transfers

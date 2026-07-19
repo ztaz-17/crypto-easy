@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Por qué sube y baja el precio de las criptomonedas"
 description: "Qué afecta al precio de las criptomonedas: oferta y demanda, noticias, especulación. Una explicación sencilla para principiantes"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - especulación
   - mercado cripto
   - factores del precio
-prev: ""
-next: "/es/market/market/liquidez-y-deslizamiento"
 ---
 
 ## Por qué sube y baja el precio de las criptomonedas

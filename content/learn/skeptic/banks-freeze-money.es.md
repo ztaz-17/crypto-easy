@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Por qué los bancos congelan tu dinero"
 description: "Por qué los bancos pueden congelar tu dinero — ¡y casi no hay nada que puedas hacer al respecto!"
 category: "skeptic"
@@ -18,8 +18,6 @@ keywords:
   - restricciones AML
   - rechazo bancario
   - propiedad del dinero
-prev: ""
-next: "/es/learn/skeptic/ilusion-de-la-inflacion"
 ---
 
 ## ¿Por qué los bancos pueden congelar tu dinero? ¡Y no hay nada que puedas hacer!

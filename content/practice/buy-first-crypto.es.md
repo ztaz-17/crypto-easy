@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Cómo Comprar Tu Primera Crypto"
 description: "Dónde y cómo comprar criptomonedas siendo principiante: exchanges, KYC, P2P, swaps instantáneos. Pros y contras de cada método."
 category: "practice"
@@ -11,8 +11,6 @@ keywords:
   - KYC
   - P2P crypto
   - principiantes
-prev: "/es/practice/demo-testnet-practicar-sin-riesgo"
-next: "/es/practice/first-transaction-without-mistakes"
 ---
 
 ## Cómo Comprar Tu Primera Crypto

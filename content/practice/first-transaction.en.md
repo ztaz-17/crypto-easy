@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "First Transaction Without Mistakes"
 description: "How to send crypto in 10 minutes: step-by-step guide covering address format, fees, confirmation, and common mistakes beginners make with their first transfer."
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - network check
   - first transfer
   - blockchain explorer
-prev: "/en/practice/buy-first-crypto"
-next: "/en/practice/check-transaction-in-blockchain"
 ---
 
 ## First Transaction Without Mistakes: How to Send Crypto in 10 Minutes

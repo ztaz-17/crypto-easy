@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "Private Key: Warum er wichtiger ist als ein Passwort"
 description: "Was ein Private Key ist, wie er sich von einem Passwort unterscheidet und warum sein Verlust den Verlust deines Geldes bedeutet – eine einfache Erklärung"
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - seed phrase vs private key
   - krypto sicherheit
   - wallet sicherheit
-prev: "/de/learn/basis/andere-netzwerke-und-coins"
-next: "/de/learn/how-it-works/was-passiert-wenn-du-crypto-sendest"
 ---
 
 ## Private Key: Warum er wichtiger ist als ein Passwort

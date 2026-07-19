@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "How Governments Treat Crypto Around the World"
 description: "Different approaches to crypto regulation worldwide: from complete bans to full legalization. Compare how the US, EU, China, and others regulate cryptocurrency."
 category: "regulation"
@@ -12,8 +12,6 @@ keywords:
   - EU MiCA
   - China crypto ban
   - Singapore crypto license
-prev: "/en/market/defi/dex-vs-cex-which-to-choose"
-next: "/en/market/regulation/crypto-taxes"
 ---
 
 ## How Governments Treat Crypto Around the World

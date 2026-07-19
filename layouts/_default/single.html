@@ -7,21 +7,25 @@
     {{ .Content }}
   </section>
 
-  {{ $pages := .CurrentSection.Pages.ByWeight }}
-
-
-  <nav class="post-nav">
-  {{ if .Params.prev }}
-    {{ with .Params.prev }}
-      <a href="{{ . | relLangURL }}" class="prev">{{ i18n "prev" }}</a>
-    {{ end }}
+  {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
+  {{/*
+  {{ range $index, $page := $pages }}
+    {{ #{{ $index }}: {{ .Weight }} - {{ .Title }}<br> }}
   {{ end }}
-  {{ if .Params.next }}
-    {{ with .Params.next }}
-      <a href="{{ . | relLangURL }}" class="next">{{ i18n "next" }}</a>
-    {{ end }}
+  */}}
+  
+  {{ if and .Weight (or ($pages.Prev .) ($pages.Next .)) }}
+    <hr>
+    <nav class="post-nav">
+      {{ with $pages.Prev . }}
+        <a href="{{ .RelPermalink }}" class="prev">{{ i18n "prev" }}</a>
+      {{ end }}
+      {{ with $pages.Next . }}
+        <a href="{{ .RelPermalink }}" class="next">{{ i18n "next" }}</a>
+      {{ end }}
+    </nav>
   {{ end }}
-  </nav>
+
 
 </article>
 

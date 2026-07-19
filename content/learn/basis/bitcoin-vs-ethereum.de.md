@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Bitcoin vs Ethereum: Verwechsle Sie Nicht"
 description: "Bitcoin ist digitales Gold, Ethereum ist digitales Öl. Lerne die wichtigsten Unterschiede und welches du wofür wählen solltest."
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - ethereum smart contracts
   - crypto vergleich
   - welche crypto kaufen
-prev: "/de/learn/basis/dezentralisierung-einfach-erklaert"
-next: "/de/learn/basis/was-sind-stablecoins"
 ---
 
 ## Bitcoin vs Ethereum (und warum du sie nicht verwechseln solltest)

@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Los Mitos Crypto Que Los Principiantes Siguen Creyendo"
 description: "Desmontando los mitos más grandes del mundo crypto: anonimato, vínculos con el crimen, la burbuja y otras ideas equivocadas que los principiantes se tragan"
 category: "skeptic"
@@ -13,8 +13,6 @@ keywords:
   - estafa crypto
   - errores de principiantes
   - conceptos erróneos
-prev: "/es/learn/skeptic/por-que-gobiernos-no-gusta-crypto"
-next: "/es/learn/basis/que-es-el-dinero"
 ---
 
 ## Los Mitos Crypto Que Los Principiantes Siguen Creyendo

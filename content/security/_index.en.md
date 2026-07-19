@@ -10,8 +10,6 @@ keywords:
   - protect crypto wallet
   - crypto safety guide
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Security

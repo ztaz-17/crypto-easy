@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "How to Check a Transaction in the Blockchain"
 description: "How to check a crypto transaction using Etherscan and blockchain explorers. Learn about transaction status, confirmations, gas fees, and contract interactions."
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - transaction status
   - TxID
   - wallet tracking
-prev: "/en/practice/first-transaction-without-mistakes"
-next: "/en/exchanges"
 ---
 
 ## How to Check a Transaction in the Blockchain: Everything You Need to Know

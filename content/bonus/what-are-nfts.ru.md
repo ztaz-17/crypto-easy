@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Что такое NFT и зачем они нужны (кроме картинок)"
 description: "NFT — невзаимозаменяемые токены: что это, зачем они нужны, примеры использования кроме искусства (билеты, гейминг, документы)"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - non-fungible token
   - NFT use cases
   - ERC-721
-prev: "/ru/bonus/chto-takoe-meme-coiny"
-next: "/ru/bonus/p2p-torgovlya"
 ---
 
 ## Что такое NFT и зачем они нужны (кроме картинок)

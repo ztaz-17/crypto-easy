@@ -1,6 +1,10 @@
 ---
+weight: 70
 title: "Beste Krypto-Börsen 2026: Vergleich und Leitfaden"
 description: "Vergleiche die besten Krypto-Börsen 2026: Bybit, Kraken, Coinbase. Gebühren, Sicherheit, Lizenzen und Boni für Anfänger. Finde deine erste Börse."
+category: "practice"
+translationKey: "exchanges"
+slug: "exchanges"
 keywords:
   - beste Krypto-Börsen
   - Krypto-Börse auswählen
@@ -9,12 +13,6 @@ keywords:
   - Krypto-Börsen Vergleich
   - sichere Krypto-Börse
   - Krypto-Börsen Ranking 2026
-category: "practice"
-translationKey: "affiliate"
-slug: "exchanges"
-prev: "/de/practice/transaktion-ueberpruefen-blockchain"
-next: ""
-weight: 100
 ---
 
 Die Wahl deiner ersten Krypto-Börse ist wie die Wahl einer Bank — davon hängen die Sicherheit deines Geldes, die Geschwindigkeit und der Komfort ab. Eine schlechte Wahl kann dich Geld, Nerven oder beides kosten.

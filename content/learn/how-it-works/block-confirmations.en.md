@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 230
 title: "Block Confirmations: What a Block Is and Why You Have to Wait"
 description: "What is a block in blockchain, how confirmations work, and why you should wait before considering a transaction final. Security explained for beginners."
 category: "how-it-works"
@@ -12,8 +12,6 @@ keywords:
   - Bitcoin confirmation
   - block time
   - 6 confirmations
-prev: "/en/learn/how-it-works/why-a-transfer-can-cost-30"
-next: "/en/learn/how-it-works/why-transactions-get-stuck"
 ---
 
 ## Block Confirmations: What a Block Is and Why You Have to Wait

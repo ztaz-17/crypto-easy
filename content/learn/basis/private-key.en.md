@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "Private Key: Why It Matters More Than a Password"
 description: "What is a private key, how it differs from a regular password, and why losing it means losing your crypto forever. Essential security knowledge for every user."
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - seed phrase vs private key
   - crypto security
   - wallet security
-prev: "/en/learn/basis/other-networks"
-next: "/en/learn/how-it-works/what-happens-when-you-send-crypto"
 ---
 
 ## Private Key: Why It Matters More Than a Password

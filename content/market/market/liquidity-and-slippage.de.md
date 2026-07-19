@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Was ist Liquidität und warum sie für den Preis wichtig ist"
 description: "Was Liquidität im Krypto-Bereich bedeutet, Markttiefe, Slippage und warum niedrige Liquidität gefährlich ist — einfach erklärt"
 category: "market"
@@ -11,8 +11,6 @@ keywords:
   - Slippage
   - Orderbuch
   - Risiko niedriger Liquidität
-prev: "/de/market/market/warum-crypto-preis-steigt-und-fallt"
-next: "/de/market/market/kaufen-hoch-verkaufen-tief"
 ---
 
 ## Was ist Liquidität und warum sie für den Preis wichtig ist

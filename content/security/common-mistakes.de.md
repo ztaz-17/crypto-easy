@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Anfängerfehler: Echte Fälle und Lösungen"
 description: "Die häufigsten Krypto-Anfängerfehler: falsches Netzwerk, verlorene Seed-Phrase, unbegrenzte Token-Freigaben, auf Betrug hereingefallen – mit Lösungen für jeden Fall"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - betrug
   - anfängerfehler
   - wiederherstellung
-prev: "/de/security/was-tun-wenn-wallet-gehackt-wurde"
-next: ""
 ---
 
 ## Anfängerfehler: Echte Fälle und Lösungen

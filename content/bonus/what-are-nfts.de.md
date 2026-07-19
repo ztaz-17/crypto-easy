@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Was sind NFTs und warum sie wichtig sind (Mehr als nur Bilder)"
 description: "NFT — Non-Fungible Tokens: was sie sind, warum sie wichtig sind und reale Anwendungsfälle jenseits von Kunst (Tickets, Gaming, Dokumente)"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - digitales Eigentum
   - NFT-Anwendungsfälle
   - ERC-721
-prev: "/de/bonus/meme-coins"
-next: "/de/bonus/p2p-handel-betrug"
 ---
 
 ## Was sind NFTs und warum sie wichtig sind (Mehr als nur Bilder)

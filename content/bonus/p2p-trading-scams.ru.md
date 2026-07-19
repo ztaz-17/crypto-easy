@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 70
 title: "P2P-торговля: схемы обмана и как не попасться"
 description: "Как мошенники обманывают на P2P-площадках: фейковый перевод, chargeback. Как безопасно торговать P2P"
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - chargeback
   - fake transfer
   - Binance P2P
-prev: "/ru/bonus/chto-takoe-nft"
-next: ""
 ---
 
 ## P2P-торговля: схемы обмана и как не попасться

@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "Stablecoins: qué son USDT, USDC y cómo funcionan"
 description: "Qué son las stablecoins — USDT, USDC, DAI. Cómo funcionan, qué las respalda y por qué son esenciales en el mundo de las criptomonedas"
 category: "basis"
@@ -14,8 +14,6 @@ keywords:
   - moneda anclada
   - conceptos básicos de cripto
   - dólar digital
-prev: "/es/learn/basis/bitcoin-vs-ethereum"
-next: "/es/learn/basis/otras-redes-y-monedas"
 ---
 
 ## Stablecoins: qué son USDT, USDC y cómo funcionan

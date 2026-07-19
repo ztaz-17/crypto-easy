@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Как купить первую крипту"
 description: "Где и как купить криптовалюту новичку: биржа, KYC, P2P, обменники. Плюсы и минусы каждого способа"
 category: "practice"
@@ -14,8 +14,6 @@ keywords:
   - coinbase
   - mercuryo
   - beginners
-prev: "/ru/practice/demo-rezhim-testovaya-set"
-next: "/ru/practice/pervaya-tranzakciya-bez-oshibok"
 ---
 
 ## Как купить первую крипту: способы для новичка

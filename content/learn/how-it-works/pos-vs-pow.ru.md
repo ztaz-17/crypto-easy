@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 270
 title: "Майнинг vs стейкинг — как работает Proof of Work и Proof of Stake"
 description: "Чем отличаются майнинг и стейкинг, как работают PoW и PoS, что энергоэффективнее и что выбрать пользователю"
 translationKey: "pos-vs-pow"
@@ -12,8 +12,6 @@ keywords:
   - staking
   - consensus mechanism
   - PoW vs PoS
-prev: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
-next: ""
 ---
 
 ## Майнинг vs стейкинг — как работает Proof of Work и Proof of Stake

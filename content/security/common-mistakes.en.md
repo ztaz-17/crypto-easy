@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Beginner Mistakes: Real-Life Cases and Solutions"
 description: "Crypto beginner mistakes: wrong network, lost seed phrase, unlimited approvals, scam websites. Real cases and practical solutions you can apply starting today."
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - scam
   - beginner errors
   - recovery
-prev: "/en/security/hacked-wallet-what-to-do"
-next: ""
 ---
 
 ## Beginner Mistakes: Real-Life Cases and Solutions

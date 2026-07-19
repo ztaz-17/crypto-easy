@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Warum eine Krypto-Überweisung 30 $ kosten kann"
 description: "Krypto-Transaktionsgebühren verständlich erklärt: Gas, Mempool, Prioritätsgebühren und wie du nicht zu viel bezahlst"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - Ethereum Gas
   - Bitcoin Gebühr
   - Krypto Kosten
-prev: "/de/learn/how-it-works/was-passiert-wenn-du-crypto-sendest"
-next: "/de/learn/how-it-works/block-bestaetigungen"
 ---
 
 ## Warum eine Krypto-Überweisung 30 $ kosten kann

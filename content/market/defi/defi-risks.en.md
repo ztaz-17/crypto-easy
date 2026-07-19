@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "DeFi Risks: What You Need to Know Before Jumping In"
 description: "Key DeFi risks for beginners: rug pulls, smart contract bugs, impermanent loss, liquidation. Learn to spot risks and protect your funds before investing."
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - impermanent loss
   - liquidation
   - protocol risk
-prev: "/en/market/defi/yield-farming"
-next: "/en/market/defi/cross-chain-bridges"
 ---
 
 ## DeFi Risks: What You Need to Know Before Jumping In

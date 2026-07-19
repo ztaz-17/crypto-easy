@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Por qué los gobiernos odian las crypto (y no pueden prohibirlas)"
 description: "Por qué los gobiernos intentan controlar las crypto — y por qué una prohibición total es imposible"
 category: "skeptic"
@@ -14,8 +14,6 @@ keywords:
   - evasión fiscal
   - control de capital
   - amenaza descentralización
-prev: "/es/learn/skeptic/como-la-gente-ahorra-dinero-con-crypto"
-next: "/es/learn/skeptic/mitos-crypto-que-los-principiantes-creen"
 ---
 
 ## Por qué los gobiernos odian las crypto (y no pueden prohibirlas)

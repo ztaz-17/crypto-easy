@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Почему государства не любят крипту (и не могут её запретить)"
 description: "Почему правительства пытаются контролировать криптовалюты — и почему полный запрет невозможен"
 category: "skeptic"
@@ -14,8 +14,6 @@ keywords:
   - tax evasion
   - capital control
   - decentralization threat
-prev: "/ru/learn/skeptic/kak-ludi-spasaut-dengi-cherez-kriptu"
-next: "/ru/learn/skeptic/glavnye-mify-o-kripte"
 ---
 
 ## Почему государства не любят крипту (и не могут её запретить)

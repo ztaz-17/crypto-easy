@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "What Are NFTs and Why They Matter (Beyond Pictures)"
 description: "What are NFTs — non-fungible tokens explained simply. Use cases beyond pictures: digital art, gaming items, tickets, and identity verification on blockchain."
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - digital ownership
   - NFT use cases
   - ERC-721
-prev: "/en/bonus/what-are-meme-coins"
-next: "/en/bonus/p2p-trading-scams"
 ---
 
 ## What Are NFTs and Why They Matter (Beyond Pictures)

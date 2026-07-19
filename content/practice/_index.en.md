@@ -10,8 +10,6 @@ keywords:
   - create crypto wallet
   - crypto testnet guide
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Practice

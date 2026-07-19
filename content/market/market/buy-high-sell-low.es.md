@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Por qué compras caro y vendes barato"
 description: "Psicología del trading de cripto: FOMO, pánico, emociones. Por qué los principiantes compran en el pico y venden en el mínimo — y cómo dejarlo"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - trading emocional
   - comportamiento cripto
   - ciclo del mercado
-prev: "/es/market/market/liquidez-y-deslizamiento"
-next: "/es/market/market/invertir-vs-trading"
 ---
 
 ## Por qué compras caro y vendes barato

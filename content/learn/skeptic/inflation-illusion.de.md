@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Inflationsillusion: Warum du Geld verlierst, selbst wenn du sparst"
 description: "Inflation frisst deine Ersparnisse lautlos auf. Erfahre, warum Bankeinlagen dich nicht schützen und wie du deine wahren Verluste berechnest."
 slug: "inflation-illusion"
@@ -15,8 +15,6 @@ keywords:
   - Inflationsillusion
   - Geldentwertung
   - Sparen
-prev: "/de/learn/skeptic/warum-banken-dein-geld-einfrieren"
-next: "/de/learn/skeptic/wie-menschen-mit-crypto-geld-retten"
 ---
 
 ## Warum du Geld verlierst, selbst wenn du sparst

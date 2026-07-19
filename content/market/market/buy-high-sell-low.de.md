@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Warum du hoch kaufst und tief verkaufst"
 description: "Krypto-Trading-Psychologie: FOMO, Panik, Emotionen. Warum Anfänger am Höchststand kaufen und am Tiefpunkt verkaufen — und wie du aufhörst"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - emotionales Trading
   - Krypto-Verhalten
   - Marktzyklus
-prev: "/de/market/market/liquiditat-und-slippage"
-next: "/de/market/market/investieren-vs-traden"
 ---
 
 ## Warum du hoch kaufst und tief verkaufst

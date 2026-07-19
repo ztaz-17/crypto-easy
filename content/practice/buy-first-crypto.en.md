@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "How to Buy Your First Crypto"
 description: "Where and how to buy cryptocurrency as a complete beginner: exchanges with KYC, P2P platforms, instant buy options, and what pitfalls to watch out for."
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - crypto exchange rates
   - coinbase
   - beginners
-prev: "/en/practice/testnet-demo-practice-without-risk"
-next: "/en/practice/first-transaction-without-mistakes"
 ---
 
 ## How to Buy Your First Crypto

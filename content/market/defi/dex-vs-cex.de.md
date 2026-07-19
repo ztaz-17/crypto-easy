@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "DEX vs CEX — Welche Börse für Krypto-Handel wählen"
 description: "Der Unterschied zwischen zentralisierten und dezentralen Börsen: Sicherheit, Gebühren, KYC, Liquidität — was ist das Richtige für dich"
 category: "defi"
@@ -14,8 +14,6 @@ keywords:
   - Binance
   - AMM
   - Orderbuch
-prev: "/de/market/defi/brucken-zwischen-netzwerken"
-next: "/de/market/regulation/wie-regierungen-mit-crypto-umgehen"
 ---
 
 ## DEX vs CEX — Welche Börse für Krypto-Handel wählen

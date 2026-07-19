@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Wie man in 5 Minuten eine Krypto-Wallet erstellt"
 description: "Schritt-für-Schritt-Anleitung zum Erstellen deiner ersten Krypto-Wallet: MetaMask und Trust Wallet. Installation, Einrichtung und erste Überprüfung."
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - Wallet erstellen
   - Browser-Erweiterung
   - mobile Wallet
-prev: ""
-next: "/de/practice/seed-phrase-mistakes"
 ---
 
 ## Wie man in 5 Minuten eine Krypto-Wallet erstellt – und das sicher

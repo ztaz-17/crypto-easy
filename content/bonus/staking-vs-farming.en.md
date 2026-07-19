@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Staking vs Farming: Which One to Choose"
 description: "Staking vs farming compared: differences in risks, returns, lock-up periods, and complexity. Which passive crypto income strategy is best for a beginner?"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - passive income crypto
   - APY comparison
   - crypto yield
-prev: "/en/bonus/what-are-oracles"
-next: "/en/bonus/what-is-airdrop"
 ---
 
 ## Staking vs Farming: What to Choose as a Beginner

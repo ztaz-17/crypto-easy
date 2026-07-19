@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Что такое TVL и как его читать"
 description: "TVL (Total Value Locked) — что это, как проверять TVL перед вложением и почему резкое падение TVL — красный флаг"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - protocol health
   - liquidity check
   - DefiLlama
-prev: "/ru/market/defi/chto-takoe-defi"
-next: "/ru/market/defi/kredity-bez-banka"
 ---
 
 ## TVL: как понять, сколько денег доверяют протоколу

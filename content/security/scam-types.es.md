@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Principales tipos de estafa crypto"
 description: "Cómo detectar estafas crypto: phishing, sitios web falsos, trampas de airdrops, soporte falso, compartidores de pantalla. Una guía completa para mantenerte a salvo"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - estafa de airdrop
   - estafa de soporte
   - seguridad crypto
-prev: "/es/security/hot-vs-cold-wallets"
-next: "/es/security/permisos-de-tokens-que-son"
 ---
 
 ## Principales tipos de estafa crypto

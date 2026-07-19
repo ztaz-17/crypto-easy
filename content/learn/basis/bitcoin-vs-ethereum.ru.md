@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Биткоин и Ethereum (и почему их нельзя путать)"
 description: "Чем отличаются Bitcoin и Ethereum: цифровое золото vs цифровая нефть, главные различия и какую криптовалюту для чего использовать"
 category: "basis"
@@ -13,8 +13,6 @@ keywords:
   - crypto comparison
   - blockchain platforms
   - proof of work vs proof of stake
-prev: "/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov"
-next: "/ru/learn/basis/chto-takoe-stabilcoiny"
 ---
 
 ## Биткоин и Ethereum (и почему их нельзя путать)

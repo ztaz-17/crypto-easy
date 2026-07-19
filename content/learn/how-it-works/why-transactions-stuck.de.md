@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 240
 title: "Warum Transaktionen hängen bleiben und was man dagegen tun kann"
 description: "Warum Krypto-Transaktionen hängen bleiben: niedrige Gebühren, Netzüberlastung. So beschleunigst oder stornierst du eine steckengebliebene Transaktion"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - Transaktionsbeschleunigung
   - Bitcoin hängt
   - Ethereum hängt
-prev: "/de/learn/how-it-works/block-bestaetigungen"
-next: "/de/learn/how-it-works/verschiedene-netzwerke-erc20-trc20-bsc"
 ---
 
 ## Warum Transaktionen hängen bleiben und was man dagegen tun kann

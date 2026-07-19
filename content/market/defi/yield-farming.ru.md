@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Фарминг: как зарабатывать в DeFi"
 description: "Yield farming (фарминг) в DeFi: как работает, откуда берётся доходность, риски и стоит ли этим заниматься новичку"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - APY
   - impermanent loss
   - farming risks
-prev: "/ru/market/defi/kredity-bez-banka"
-next: "/ru/market/defi/riski-defi"
 ---
 
 ## Фарминг: как зарабатывать в DeFi

@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Meme Coins: Doge, Shiba, and Why It's a Casino"
 description: "What are meme coins, why they pump and dump, why investing in them is like gambling, and whether a beginner should consider buying Dogecoin, Shiba Inu, or PEPE."
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - Shiba Inu
   - pump and dump
   - speculation
-prev: "/en/bonus/what-is-airdrop"
-next: "/en/bonus/what-are-nfts"
 ---
 
 ## Meme Coins: Doge, Shiba, and Why It's a Casino

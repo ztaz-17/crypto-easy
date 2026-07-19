@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "ОШИБКИ НОВИЧКА: разбор реальных ситуаций"
 description: "Самые частые ошибки новичков в крипте: отправил не в ту сеть, потерял сид-фразу, дал доступ контракту, повёлся на скам — разбор каждой ситуации"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - scam
   - beginner errors
   - recovery
-prev: "/ru/security/chto-delat-pri-vzlome"
-next: ""
 ---
 
 ## ОШИБКИ НОВИЧКА: разбор реальных ситуаций

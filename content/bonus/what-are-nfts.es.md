@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Qué son los NFTs y por qué importan (más allá de las imágenes)"
 description: "NFT — tokens no fungibles: qué son, por qué importan y casos de uso reales más allá del arte (tickets, videojuegos, documentos)"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - propiedad digital
   - casos de uso NFT
   - ERC-721
-prev: "/es/bonus/meme-coins"
-next: "/es/bonus/estafas-trading-p2p"
 ---
 
 ## Qué son los NFTs y por qué importan (más allá de las imágenes)

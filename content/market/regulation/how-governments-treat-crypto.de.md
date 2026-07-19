@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Wie Regierungen mit Crypto umgehen"
 description: "Verschiedene Ansätze zur Krypto-Regulierung: von totalen Verboten bis zur vollständigen Legalisierung. USA, EU, VAE, Singapur, China"
 category: "regulation"
@@ -12,8 +12,6 @@ keywords:
   - EU MiCA
   - China Krypto Verbot
   - Singapur Krypto Lizenz
-prev: "/de/market/defi/dex-vs-cex-was-wahlen"
-next: "/de/market/regulation/crypto-steuern"
 ---
 
 ## Wie Regierungen mit Crypto umgehen

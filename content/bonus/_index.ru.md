@@ -11,8 +11,6 @@ keywords:
   - airdrop
   - стейкинг
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Бонус

@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "Was Geld wirklich ist (und warum es nur Zahlen sind)"
 description: "Verstehen, was Geld wirklich ist: Datenbankeinträge, die Rolle der Banken und wer das Finanzsystem kontrolliert"
 category: "basis"
@@ -13,8 +13,6 @@ keywords:
   - zentralbanken
   - geldsystem
   - geldschöpfung
-prev: "/de/learn/skeptic/krypto-mythen-an-die-anfaenger-glauben"
-next: "/de/learn/basis/blockchain-in-1-minute"
 ---
 
 ## Was Geld wirklich ist (und warum es nur Zahlen sind)

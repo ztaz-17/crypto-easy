@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Демо режим в крипте: тестовая сеть"
 description: "Как попробовать крипту без риска: тестовые сети, faucet для получения тестовых монет и безопасное обучение"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - test ETH
   - crypto demo
   - safe learning
-prev: "/ru/practice/seed-phrase-moment-gde-teryaut-dengi"
-next: "/ru/practice/kak-kupit-pervuyu-kriptu"
 ---
 
 ## Демо режим в крипте: тестовая сеть — пробуй, не рискуя

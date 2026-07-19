@@ -1,6 +1,10 @@
 ---
+weight: 50
 title: "What Is a Crypto ETF and Why Solana ETF Approval Matters"
 description: "What is a crypto ETF, how does a spot Solana ETF work, and why the SEC approval on July 18, 2026 changes the market. Simple explanation for beginners."
+category: "market"
+translationKey: "crypto-etf"
+slug: "what-is-crypto-etf"
 keywords:
   - what is crypto ETF
   - Solana ETF
@@ -9,12 +13,6 @@ keywords:
   - crypto ETF for beginners
   - how ETF works
   - invest in crypto through ETF
-category: "market"
-translationKey: "crypto-etf"
-slug: "what-is-crypto-etf"
-prev: "/en/market/market/investing-vs-trading"
-next: "/en/market/defi/what-is-defi"
-weight: 30
 ---
 
 On July 18, 2026, something happened that many had been waiting years for: the SEC approved the first spot ETFs on Solana. This isn't just news for traders — it's a game-changing event for the entire crypto industry. But what exactly is an ETF, and why does it matter even if you don't plan to buy Solana?

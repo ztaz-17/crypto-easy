@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Was sind Orakel in der Kryptowelt"
 description: "Orakel — wie Smart Contracts den echten Bitcoin-Preis erfahren. Chainlink, Preis-Feeds, Daten aus der realen Welt"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - Smart-Contract-Daten
   - Preis-Feed
   - Off-Chain-Daten
-prev: "/de/bonus/was-ist-eine-dao"
-next: "/de/bonus/staking-vs-farming"
 ---
 
 ## Was sind Orakel: Wie Smart Contracts die echte Welt sehen

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 270
 title: "Minería vs Staking — Cómo funcionan Proof of Work y Proof of Stake"
 description: "En qué se diferencian la minería y el staking, cómo funcionan PoW y PoS, cuál consume menos energía y qué elegir como usuario"
 translationKey: "pos-vs-pow"
@@ -12,8 +12,6 @@ keywords:
   - staking
   - consenso
   - PoW vs PoS
-prev: "/es/learn/how-it-works/pagar-10-veces-menos"
-next: ""
 ---
 
 ## Minería vs Staking — Cómo funcionan Proof of Work y Proof of Stake

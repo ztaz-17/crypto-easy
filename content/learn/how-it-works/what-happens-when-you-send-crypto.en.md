@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "What Happens When You Send Crypto"
 description: "Behind the scenes of a crypto transaction: creation, signing, broadcast, mempool, confirmation. What actually happens under the hood from click to completion."
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - mining
   - confirmation
   - broadcasting
-prev: "/en/learn/basis/private-key"
-next: "/en/learn/how-it-works/why-a-transfer-can-cost-30"
 ---
 
 ## What Happens When You Send Crypto

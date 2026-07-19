@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 270
 title: "Mining vs Staking — How Proof of Work and Proof of Stake Work"
 description: "Proof of Work vs Proof of Stake explained simply. How mining and staking work, which is more energy-efficient, and how validators earn rewards in crypto."
 translationKey: "pos-vs-pow"
@@ -12,8 +12,6 @@ keywords:
   - staking
   - consensus mechanism
   - PoW vs PoS
-prev: "/en/learn/how-it-works/pay-10x-less"
-next: ""
 ---
 
 ## Mining vs Staking — How Proof of Work and Proof of Stake Work

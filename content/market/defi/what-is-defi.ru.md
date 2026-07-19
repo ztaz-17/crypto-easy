@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "Что такое DeFi: финансы без банков"
 description: "DeFi — децентрализованные финансы: как работают, примеры (Uniswap, Aave, MakerDAO), риски. Простое объяснение"
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - MakerDAO
   - smart contracts
   - financial inclusion
-prev: "/ru/market/market/chto-takoe-crypto-etf"
-next: "/ru/market/defi/chto-takoe-tvl"
 ---
 
 ## DeFi: как работают финансы, в которых банки не нужны

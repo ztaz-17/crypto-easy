@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Как государства относятся к крипте в разных странах"
 description: "Разные подходы к регулированию криптовалют: от полного запрета до легализации. США, ЕС, ОАЭ, Сингапур, Китай"
 category: "regulation"
@@ -12,8 +12,6 @@ keywords:
   - EU MiCA
   - China crypto ban
   - Singapore crypto
-prev: "/ru/market/defi/dex-vs-cex"
-next: "/ru/market/regulation/nalogi-na-kriptu"
 ---
 
 ## Как государства относятся к крипте в разных странах

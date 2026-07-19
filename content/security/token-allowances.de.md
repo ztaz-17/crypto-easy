@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Token-Berechtigungen: Was sie sind und warum sie gefährlich sind"
 description: "Was Token-Berechtigungen sind, warum unbegrenzte Freigaben ein Sicherheitsrisiko darstellen und wie man den Zugriff auf seine Tokens widerruft"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - smart contract risiko
   - ethereum freigabe
   - erc20 freigabe
-prev: "/de/security/haeufige-crypto-betrugsarten"
-next: "/de/security/was-tun-wenn-wallet-gehackt-wurde"
 ---
 
 ## Token-Berechtigungen: Was sie sind und warum sie gefährlich sind

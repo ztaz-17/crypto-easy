@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Cómo Tratan los Gobiernos la Crypto en el Mundo"
 description: "Enfoques distintos a la regulación crypto: desde prohibiciones totales hasta legalización plena. EE. UU., UE, EAU, Singapur, China"
 category: "regulation"
@@ -12,8 +12,6 @@ keywords:
   - MiCA UE
   - prohibición crypto China
   - licencia crypto Singapur
-prev: "/es/market/defi/dex-vs-cex-cual-elegir"
-next: "/es/market/regulation/impuestos-crypto"
 ---
 
 ## Cómo Tratan los Gobiernos la Crypto en el Mundo

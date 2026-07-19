@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Préstamos Sin Banco: Cómo Funciona el Crédito DeFi"
 description: "Cómo funcionan los préstamos cripto sin banco a través de DeFi: garantía, liquidación, riesgos. Aave, Compound"
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - garantía
   - liquidación
   - sobregarantía
-prev: "/es/market/defi/que-es-tvl"
-next: "/es/market/defi/yield-farming"
 ---
 
 ## Préstamos DeFi: Cómo Pedir Prestado Sin Banco Ni Historial Crediticio

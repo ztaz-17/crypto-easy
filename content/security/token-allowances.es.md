@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Permisos de Tokens: Qué Son y Por Qué Son Peligrosos"
 description: "Qué son los permisos de tokens, por qué las aprobaciones ilimitadas son un riesgo de seguridad y cómo revocar el acceso a tus tokens"
 category: "security"
@@ -13,8 +13,6 @@ keywords:
   - aprobación Ethereum
   - aprobación ERC20
   - allowance
-prev: "/es/security/principales-tipos-de-estafa-crypto"
-next: "/es/security/que-hacer-si-te-hackean-wallet"
 ---
 
 ## Permisos de Tokens: Qué Son y Por Qué Son Peligrosos

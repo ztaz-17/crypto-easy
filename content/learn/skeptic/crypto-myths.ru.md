@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Главные мифы о крипте, в которые верят новички"
 description: "Разбираем главные мифы о криптовалютах: анонимность, связь с преступниками, пузырь и другие заблуждения новичков"
 category: "skeptic"
@@ -13,8 +13,6 @@ keywords:
   - crypto scam
   - beginner mistakes
   - misconceptions
-prev: "/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu"
-next: "/ru/learn/basis/chto-takoe-dengi-na-samom-dele"
 ---
 
 ## Главные мифы о крипте, в которые верят новички

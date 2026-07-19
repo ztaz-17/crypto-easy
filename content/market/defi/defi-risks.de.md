@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "DeFi-Risiken: Was du wissen musst, bevor du einsteigst"
 description: "Wichtige DeFi-Risiken: Rug Pull, Smart-Contract-Fehler, Impermanent Loss, Liquidation, verlorene Gelder. So minimierst du Risiken"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - Impermanent Loss
   - Liquidation
   - Protokollrisiko
-prev: "/de/market/defi/yield-farming"
-next: "/de/market/defi/brucken-zwischen-netzwerken"
 ---
 
 ## DeFi-Risiken: Was du wissen musst, bevor du einsteigst

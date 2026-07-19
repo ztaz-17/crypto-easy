@@ -10,8 +10,6 @@ keywords:
   - Wallet schützen
   - Sicherheitsleitfaden Crypto
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Sicherheit

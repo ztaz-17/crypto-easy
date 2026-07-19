@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 70
 title: "P2P-Handel: Betrugsmaschen und wie man sie vermeidet"
 description: "Wie Betrüger auf P2P-Plattformen tricksen: Fake-Überweisung, Chargeback. So handelst du sicher P2P"
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - Chargeback
   - Fake-Überweisung
   - Binance P2P
-prev: "/de/bonus/was-sind-nfts"
-next: ""
 ---
 
 ## P2P-Handel: Betrugsmaschen und wie man sie vermeidet

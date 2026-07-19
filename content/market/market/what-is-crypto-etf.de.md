@@ -1,6 +1,10 @@
 ---
+weight: 50
 title: "Was ist ein Krypto-ETF und warum die Solana-ETF-Zulassung wichtig ist"
 description: "Was ist ein Krypto-ETF, wie funktioniert ein Spot-Solana-ETF, und warum die SEC-Zulassung vom 18. Juli 2026 den Markt verändert. Einfache Erklärung für Anfänger."
+category: "market"
+translationKey: "crypto-etf"
+slug: "was-ist-krypto-etf"
 keywords:
   - was ist ein Krypto-ETF
   - Solana ETF
@@ -9,12 +13,6 @@ keywords:
   - Krypto-ETF für Anfänger
   - wie funktioniert ein ETF
   - in Krypto durch ETF investieren
-category: "market"
-translationKey: "crypto-etf"
-slug: "was-ist-krypto-etf"
-prev: "/de/market/market/investieren-vs-traden"
-next: "/de/market/defi/was-ist-defi"
-weight: 30
 ---
 
 Am 18. Juli 2026 geschah etwas, worauf viele jahrelang gewartet hatten: Die SEC genehmigte die ersten Spot-ETFs auf Solana. Das sind nicht nur Neuigkeiten für Trader — es ist ein Ereignis, das die Spielregeln für die gesamte Kryptoindustrie ändert. Aber was genau ist ein ETF, und warum ist das wichtig, selbst wenn du nicht vorhast, Solana zu kaufen?

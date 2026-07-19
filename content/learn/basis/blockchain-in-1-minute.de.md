@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Blockchain in 1 Minute erklärt (Die einfachste Erklärung)"
 description: "Blockchain für Anfänger: Was ist ein gemeinsames Hauptbuch, warum Einträge nicht überschrieben werden können und wie es funktioniert — die einfachste Erklärung"
 category: "basis"
@@ -10,8 +10,6 @@ keywords:
   - verteiltes Hauptbuch
   - wie Blockchain funktioniert
   - Blockchain für Anfänger
-prev: "/de/learn/basis/was-geld-wirklich-ist"
-next: "/de/learn/basis/dezentralisierung-einfach-erklaert"
 ---
 
 ## Blockchain in 1 Minute erklärt (die einfachste Erklärung)

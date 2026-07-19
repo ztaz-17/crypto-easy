@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Почему вы теряете деньги, даже если копите"
 description: "Почему вы теряете деньги, даже если копите — и инфляция съедает ваши сбережения незаметно!"
 category: "skeptic"
@@ -16,8 +16,6 @@ keywords:
   - savings erosion
   - time value of money
   - cryptocurrency alternative
-prev: "/ru/learn/skeptic/bank-zamorozil-dengi"
-next: "/ru/learn/skeptic/kak-ludi-spasaut-dengi-cherez-kriptu"
 ---
 
 ## Почему вы теряете деньги, даже если копите

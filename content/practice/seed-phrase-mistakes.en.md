@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Seed Phrase: the Moment People Lose Money"
 description: "How to safely store your seed phrase, where NOT to keep it (no screenshots, cloud, or email), and mistakes that cause permanent loss of funds and crypto."
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - wallet recovery
   - 12 words
   - cold storage
-prev: "/en/practice/create-wallet-in-5-minutes"
-next: "/en/practice/testnet-demo-practice-without-risk"
 ---
 
 ## Seed Phrase: the Moment People Lose Money

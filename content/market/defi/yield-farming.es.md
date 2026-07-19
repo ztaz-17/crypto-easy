@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Yield Farming: Cómo ganar en DeFi"
 description: "Yield farming en DeFi: cómo funciona, de dónde vienen las ganancias, los riesgos y si los principiantes deberían probarlo"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - APY
   - pérdida impermanente
   - riesgos del farming
-prev: "/es/market/defi/prestamos-sin-banco-defi"
-next: "/es/market/defi/riesgos-defi"
 ---
 
 ## Yield Farming: Cómo ganar en DeFi

@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Горячие vs холодные кошельки: что выбрать"
 description: "Разница между горячими и холодными кошельками: MetaMask, Trust Wallet, Ledger, Trezor. Когда что использовать"
 category: "security"
@@ -13,8 +13,6 @@ keywords:
   - Trezor
   - crypto storage
   - security
-prev: ""
-next: "/ru/security/osnovnye-vidy-skama"
 ---
 
 ## Горячие vs холодные кошельки: что выбрать

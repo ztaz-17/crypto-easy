@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Что такое оракулы в крипте"
 description: "Оракулы — как смарт-контракты узнают реальную цену биткоина. Chainlink, цена, данные из реального мира"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - smart contract data
   - price feed
   - off-chain data
-prev: "/ru/bonus/chto-takoe-dao"
-next: "/ru/bonus/steiking-vs-farming"
 ---
 
 ## Что такое оракулы: как смарт-контракты видят реальный мир

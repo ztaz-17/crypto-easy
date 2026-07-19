@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "DEX vs CEX — Qué Exchange Usar para Operar Cripto"
 description: "La diferencia entre exchanges centralizados y descentralizados: seguridad, comisiones, KYC, liquidez — lo que te conviene"
 category: "defi"
@@ -14,8 +14,6 @@ keywords:
   - Binance
   - AMM
   - libro de órdenes
-prev: "/es/market/defi/puentes-entre-redes"
-next: "/es/market/regulation/como-gobiernos-tratan-crypto"
 ---
 
 ## DEX vs CEX — Qué Exchange Usar para Operar Cripto

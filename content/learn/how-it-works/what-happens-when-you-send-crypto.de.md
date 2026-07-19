@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Was passiert, wenn du Crypto sendest"
 description: "Hinter den Kulissen einer Crypto-Transaktion: Erstellung, Signierung, Netzwerk-Broadcast und Bestätigung – einfach erklärt"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - Mining
   - Bestätigung
   - Broadcasting
-prev: "/de/learn/basis/privater-schluessel"
-next: "/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann"
 ---
 
 ## Was passiert, wenn du Crypto sendest

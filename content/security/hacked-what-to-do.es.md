@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Qué hacer si te hackean la wallet de cripto"
 description: "Pasos de emergencia cuando te hackean la wallet cripto: cómo salvar tus activos, qué acciones tomar en los primeros minutos"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - cripto robado
   - revocar accesos
   - mover fondos
-prev: "/es/security/permisos-de-tokens-que-son"
-next: "/es/security/errores-comunes"
 ---
 
 ## Qué hacer si te hackean la wallet de cripto

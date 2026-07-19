@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Что такое ликвидность и почему она важна для цены"
 description: "Что такое ликвидность в крипте, глубина рынка, проскальзывание (slippage) и чем опасна низкая ликвидность — простыми словами"
 category: "market"
@@ -11,8 +11,6 @@ keywords:
   - slippage
   - order book
   - low liquidity risk
-prev: "/ru/market/market/pochemu-cena-rastet-i-padaet"
-next: "/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus"
 ---
 
 ## Что такое ликвидность и почему она важна для цены

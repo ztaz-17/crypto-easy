@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Децентрализация без сложных слов"
 description: "Что такое децентрализация простыми словами: почему нет главного сервера и какие у этого плюсы и минусы"
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - peer to peer
   - single point of failure
   - crypto basics
-prev: "/ru/learn/basis/blockchain-za-1-minutu"
-next: "/ru/learn/basis/bitcoin-i-ethereum"
 ---
 
 ## Децентрализация без сложных слов

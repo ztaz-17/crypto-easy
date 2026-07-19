@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Kredite ohne Bank: Wie DeFi-Darlehen funktionieren"
 description: "Wie Krypto-Darlehen ohne Bank über DeFi funktionieren: Besicherung, Liquidation, Risiken. Aave, Compound"
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - Besicherung
   - Liquidation
   - Überbesicherung
-prev: "/de/market/defi/tvl-erklaert"
-next: "/de/market/defi/yield-farming"
 ---
 
 ## DeFi-Darlehen: Wie du dir Geld leihst – ohne Bank und ohne Schufa

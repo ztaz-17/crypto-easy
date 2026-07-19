@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Cómo la Gente Ahorra Dinero con Cripto: Casos Reales"
 description: "Historias reales de Venezuela, Turquía, Argentina y África — cómo la gente protege sus ahorros con criptomonedas"
 category: "skeptic"
@@ -15,8 +15,6 @@ keywords:
   - protección de ahorros
   - crisis económica
   - cripto como alternativa
-prev: "/es/learn/skeptic/ilusion-de-la-inflacion"
-next: "/es/learn/skeptic/por-que-gobiernos-no-gusta-crypto"
 ---
 
 ## Cómo la Gente Ahorra Dinero con Cripto: Casos Reales

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Yield Farming: Wie man in DeFi Geld verdient"
 description: "Yield Farming in DeFi: wie es funktioniert, woher die Renditen kommen, welche Risiken lauern und ob Anfänger es versuchen sollten"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - APY
   - Impermanenter Verlust
   - Farming-Risiken
-prev: "/de/market/defi/kredite-ohne-bank-defi"
-next: "/de/market/defi/defi-risiken"
 ---
 
 ## Yield Farming: Wie man in DeFi Geld verdient

@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Qué es la liquidez y por qué importa para el precio"
 description: "Qué significa la liquidez en cripto, profundidad de mercado, deslizamiento y por qué la baja liquidez es peligrosa — explicado en español claro"
 category: "market"
@@ -11,8 +11,6 @@ keywords:
   - deslizamiento
   - libro de órdenes
   - riesgo de baja liquidez
-prev: "/es/market/market/por-que-precio-crypto-sube-y-baja"
-next: "/es/market/market/compras-caro-vendes-barato"
 ---
 
 ## Qué es la liquidez y por qué importa para el precio

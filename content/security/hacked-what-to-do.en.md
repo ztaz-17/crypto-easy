@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "What to Do When Your Crypto Wallet Gets Hacked"
 description: "Emergency steps when your crypto wallet gets hacked: how to save remaining assets, what to report to exchanges, and how to prevent future attacks on your funds."
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - stolen crypto
   - revoke access
   - move funds
-prev: "/en/security/token-allowances-explained"
-next: "/en/security/common-mistakes"
 ---
 
 ## What to Do When Your Crypto Wallet Gets Hacked

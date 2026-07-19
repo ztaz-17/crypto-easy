@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Primera Transacción Sin Errores"
 description: "Cómo enviar $1 a cualquier persona del mundo en 10 minutos: guía paso a paso, verificación de dirección y red"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - verificar red
   - primera transferencia
   - explorador blockchain
-prev: "/es/practice/buy-first-crypto"
-next: "/es/practice/como-verificar-transaccion-en-blockchain"
 ---
 
 ## Primera Transacción Sin Errores: Cómo Enviar Cripto en 10 Minutos

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Cross-Chain Bridges: How to Move Crypto Between Networks"
 description: "Cross-chain bridges explained: how they work, the main risks including hacks, and when it is safe to move your crypto between different blockchain networks."
 category: "defi"
@@ -11,8 +11,6 @@ keywords:
   - Wormhole
   - bridge hack
   - network bridge
-prev: "/en/market/defi/defi-risks"
-next: "/en/market/defi/dex-vs-cex-which-to-choose"
 ---
 
 ## Cross-Chain Bridges: How to Move Crypto Between Networks

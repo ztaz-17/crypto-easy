@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Was Ist ein Airdrop und Wie Vermeidet Man Abzocke"
 description: "Airdrop — kostenlose Token-Vergabe. So erkennst du seriöse Airdrops und vermeidest Betrug"
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - legitimer airdrop
   - token-verteilung
   - krypto abzocke
-prev: "/de/bonus/staking-vs-farming"
-next: "/de/bonus/meme-coins"
 ---
 
 ## Was Ist ein Airdrop: Kostenlose Token oder eine Falle?

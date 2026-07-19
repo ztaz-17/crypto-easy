@@ -10,8 +10,6 @@ keywords:
   - inversión en criptomonedas
   - impuestos crypto
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Mercados y Precios

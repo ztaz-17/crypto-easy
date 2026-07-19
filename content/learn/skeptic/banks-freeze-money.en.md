@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Why Banks Can Freeze Your Money"
 description: "Why banks can freeze your money, how it works, and what you can do. Learn how crypto gives you full control over your funds — something banks cannot offer."
 category: "skeptic"
@@ -18,8 +18,6 @@ keywords:
   - AML restrictions
   - bank refusal
   - money ownership
-prev: ""
-next: "/en/learn/skeptic/why-youre-losing-money-even-if-saving"
 ---
 
 ## Why Can Banks Freeze Your Money? And There's Nothing You Can Do!

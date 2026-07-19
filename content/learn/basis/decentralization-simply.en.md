@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Decentralization Simply Explained"
 description: "Decentralization explained simply: why blockchain has no central server, what that changes, and how it protects ordinary users from seizure of their funds."
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - peer to peer
   - single point of failure
   - crypto basics
-prev: "/en/learn/basis/blockchain-in-1-minute"
-next: "/en/learn/basis/bitcoin-vs-ethereum"
 ---
 
 ## Decentralization Simply Explained

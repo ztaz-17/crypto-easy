@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Blockchain en 1 Minuto (La Explicación Más Simple)"
 description: "Blockchain para principiantes: qué es un libro contable compartido, por qué los registros no se pueden reescribir y cómo funciona — la explicación más simple"
 category: "basis"
@@ -10,8 +10,6 @@ keywords:
   - libro contable distribuido
   - cómo funciona blockchain
   - blockchain para principiantes
-prev: "/es/learn/basis/que-es-el-dinero"
-next: "/es/learn/basis/descentralizacion-explicada-simple"
 ---
 
 ## Blockchain en 1 minuto (la explicación más simple)

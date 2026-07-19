@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Häufige Arten von Crypto-Betrug"
 description: "Wie man Crypto-Betrüger erkennt: Phishing, Fake-Websites, Airdrop-Fallen, Fake-Support, Screen-Sharer. Eine vollständige Anleitung für deine Sicherheit"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - Airdrop-Betrug
   - Support-Betrug
   - Krypto-Sicherheit
-prev: "/de/security/hot-vs-cold-wallets"
-next: "/de/security/token-berechtigungen-erklaert"
 ---
 
 ## Häufige Arten von Crypto-Betrug

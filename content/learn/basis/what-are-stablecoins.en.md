@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "Stablecoins: What Are USDT, USDC, and How They Work"
 description: "Stablecoins — USDT, USDC, DAI explained simply. How they maintain their dollar peg, what backs them, and why they are essential for crypto trading activity."
 category: "basis"
@@ -14,8 +14,6 @@ keywords:
   - pegged currency
   - crypto basics
   - digital dollar
-prev: "/en/learn/basis/bitcoin-vs-ethereum"
-next: "/en/learn/basis/other-networks"
 ---
 
 ## Stablecoins: What Are USDT, USDC, and How They Work

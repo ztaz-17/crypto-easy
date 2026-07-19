@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "Стейблкоины: что такое USDT, USDC и как они работают"
 description: "Что такое стейблкоины — USDT, USDC, DAI. Как работают, чем обеспечены и зачем нужны в криптовалюте"
 category: "basis"
@@ -14,8 +14,6 @@ keywords:
   - pegged currency
   - crypto basics
   - digital dollar
-prev: "/ru/learn/basis/bitcoin-i-ethereum"
-next: "/ru/learn/basis/drugie-seti-solana-bnb-doge"
 ---
 
 ## Стейблкоины: что такое USDT, USDC и как они работают

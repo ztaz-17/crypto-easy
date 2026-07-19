@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "Риски DeFi: что нужно знать перед входом"
 description: "Главные риски DeFi: rug pull, ошибки кода, impermanent loss, потеря средств. Как минимизировать риски"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - impermanent loss
   - liquidation
   - protocol risk
-prev: "/ru/market/defi/chto-takoe-farming"
-next: "/ru/market/defi/mosty-mezhdu-setyami"
 ---
 
 ## Риски DeFi: что нужно знать перед входом

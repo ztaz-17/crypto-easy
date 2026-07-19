@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Impuestos Crypto: Principios Generales"
 description: "Cómo se tributan las criptomonedas: principios generales, cuándo pagar, dónde pagar, diferencias por país"
 category: "regulation"
@@ -11,8 +11,6 @@ keywords:
   - ganancias de capital
   - ingresos por crypto
   - obligación fiscal
-prev: "/es/market/regulation/como-gobiernos-tratan-crypto"
-next: ""
 ---
 
 ## Impuestos Crypto: Principios Generales

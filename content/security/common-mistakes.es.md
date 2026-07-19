@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Errores de principiantes: casos reales y soluciones"
 description: "Los errores más comunes de principiantes en cripto: red equivocada, frase semilla perdida, aprobaciones ilimitadas de tokens, caer en estafas — con soluciones para cada uno"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - estafa
   - errores de principiante
   - recuperación
-prev: "/es/security/que-hacer-si-te-hackean-wallet"
-next: ""
 ---
 
 ## Errores de principiantes: casos reales y soluciones

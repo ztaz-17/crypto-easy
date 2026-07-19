@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Первая транзакция без ошибок"
 description: "Как отправить $1 кому угодно в мире за 10 минут: пошаговое руководство, проверка адреса и сети"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - network check
   - first transfer
   - blockchain explorer
-prev: "/ru/practice/kak-kupit-pervuyu-kriptu"
-next: "/ru/practice/kak-proverit-tranzakciyu"
 ---
 
 ## Первая транзакция без ошибок: как отправить крипту за 10 минут

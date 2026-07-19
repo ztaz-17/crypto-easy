@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 150
 title: "Riesgos DeFi: Lo Que Debes Saber Antes de Meterte"
 description: "Principales riesgos DeFi: rug pull, bugs en smart contracts, pérdida impermanente, liquidación, fondos perdidos. Cómo minimizar riesgos"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - pérdida impermanente
   - liquidación
   - riesgo de protocolo
-prev: "/es/market/defi/yield-farming"
-next: "/es/market/defi/puentes-entre-redes"
 ---
 
 ## Riesgos DeFi: Lo Que Debes Saber Antes de Meterte

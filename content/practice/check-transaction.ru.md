@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Как проверить транзакцию в блокчейне"
 description: "Как проверить любую крипто-транзакцию через Etherscan и аналоги: что смотреть, как читать статус и подтверждения"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - transaction status
   - TxID
   - wallet tracking
-prev: "/ru/practice/pervaya-tranzakciya-bez-oshibok"
-next: "/ru/exchanges"
 ---
 
 ## Как проверить транзакцию в блокчейне: всё, что нужно знать

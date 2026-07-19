@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 260
 title: "Как НЕ потерять деньги: разные сети (ERC20, TRC20, BSC)"
 description: "Главная ошибка новичков — отправка крипты не в ту сеть. Разбираемся, почему можно потерять деньги и как проверять сеть"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - wrong network
   - crypto loss
   - token standard
-prev: "/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut"
-next: "/ru/learn/how-it-works/kak-platit-v-10-raz-menshe"
 ---
 
 ## Отправил USDT — деньги исчезли. Как такое возможно?

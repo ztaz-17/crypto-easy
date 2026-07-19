@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Loans Without Banks: How DeFi Lending Works"
 description: "How crypto loans work through DeFi without a bank: collateral, liquidation risks, and whether borrowing against your crypto is a smart move for beginners."
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - collateral
   - liquidation
   - overcollateralization
-prev: "/en/market/defi/tvl-explained"
-next: "/en/market/defi/yield-farming"
 ---
 
 ## DeFi Loans: How to Borrow Without a Bank or Credit History

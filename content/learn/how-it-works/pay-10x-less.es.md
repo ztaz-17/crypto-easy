@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 250
 title: "Cómo pagar 10 veces menos por transferencias de cripto"
 description: "Cómo ahorrar en comisiones: eligiendo la red adecuada, soluciones L2, el momento justo — paga menos por tus transferencias de cripto"
 category: "how-it-works"
@@ -14,8 +14,6 @@ keywords:
   - Arbitrum
   - Polygon
   - Lightning Network
-prev: "/es/learn/how-it-works/diferentes-redes-erc20-trc20-bsc"
-next: "/es/learn/how-it-works/pos-vs-pow"
 ---
 
 ## Cómo pagar 10 veces menos por transferencias de cripto

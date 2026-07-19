@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Что делать при взломе крипто-кошелька"
 description: "Экстренные действия при взломе крипто-кошелька: как спасти активы, какие шаги предпринять в первые минуты"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - stolen crypto
   - revoke access
   - move funds
-prev: "/ru/security/razresheniya-tokenov"
-next: "/ru/security/oshibki-novichka"
 ---
 
 ## Что делать при взломе крипто-кошелька

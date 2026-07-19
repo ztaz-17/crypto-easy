@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Стейкинг vs фарминг: что выбрать"
 description: "Сравнение стейкинга и фарминга: разница в рисках, доходности, когда что использовать. Таблица сравнения"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - passive income crypto
   - APY comparison
   - crypto yield
-prev: "/ru/bonus/chto-takoe-orakuly"
-next: "/ru/bonus/chto-takoe-airdrop"
 ---
 
 ## Стейкинг vs фарминг: что выбрать новичку

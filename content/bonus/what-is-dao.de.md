@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Was ist eine DAO: Management ohne Chefs"
 description: "DAO (Dezentrale Autonome Organisation) — was es ist, wie es funktioniert, Beispiele wie MakerDAO und Uniswap. Governance-Token erklärt."
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - Uniswap
   - Governance-Token
   - Abstimmung
-prev: ""
-next: "/de/bonus/oracles-erklaert"
 ---
 
 ## Was ist eine DAO: Ein Unternehmen ohne Direktor

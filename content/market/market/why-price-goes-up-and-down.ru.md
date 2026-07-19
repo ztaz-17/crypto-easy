@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Почему цена крипты растёт и падает"
 description: "Что влияет на цену криптовалют: спрос и предложение, новости, спекуляции. Простое объяснение для новичков"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - speculation
   - crypto market
   - price drivers
-prev: ""
-next: "/ru/market/market/chto-takoe-likvidnost"
 ---
 
 ## Почему цена крипты растёт и падает

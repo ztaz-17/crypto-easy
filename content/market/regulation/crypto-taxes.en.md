@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Crypto Taxes: General Principles"
 description: "How cryptocurrencies are taxed: general principles, when to file a tax return, where to pay based on residency. A simple guide to crypto tax reporting."
 category: "regulation"
@@ -11,8 +11,6 @@ keywords:
   - capital gains
   - crypto income
   - tax liability
-prev: "/en/market/regulation/how-governments-treat-crypto"
-next: ""
 ---
 
 ## Crypto Taxes: General Principles

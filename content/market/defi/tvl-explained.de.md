@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Was ist TVL und wie liest man es richtig"
 description: "TVL (Total Value Locked) — was es ist, wie man TVL vor einer Investition prüft und warum ein plötzlicher TVL-Absturz ein Warnsignal ist"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - Protokoll-Gesundheit
   - Liquiditätsprüfung
   - DefiLlama
-prev: "/de/market/defi/was-ist-defi"
-next: "/de/market/defi/kredite-ohne-bank-defi"
 ---
 
 ## TVL: Wie man erkennt, wie viel Geld einem Protokoll vertraut

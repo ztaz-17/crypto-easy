@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Почему иногда перевод крипты стоит 30$"
 description: "Разбираемся, из чего складываются комиссии в криптовалютах: газ, мемпул, приоритет транзакций и как не переплачивать"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - Ethereum gas
   - Bitcoin fee
   - crypto costs
-prev: "/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu"
-next: "/ru/learn/how-it-works/chto-takoe-podtverzhdeniya"
 ---
 
 ## Почему иногда перевод крипты стоит 30$

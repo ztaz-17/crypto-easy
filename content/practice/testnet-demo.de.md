@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Demo-Modus in Crypto: Testnet"
 description: "Wie du Krypto risikofrei ausprobieren kannst: Testnets, Faucets für kostenlose Test-Coins und sicheres Lernen durch praktische Übungen"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - Test-ETH
   - Krypto-Demo-Modus
   - sicheres Lernen
-prev: "/de/practice/seed-phrase-mistakes"
-next: "/de/practice/buy-first-crypto"
 ---
 
 ## Demo-Modus in Crypto: Testnet — Probier's aus, ganz ohne Risiko

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "Приватный ключ: почему это важнее пароля"
 description: "Что такое приватный ключ, чем отличается от пароля и почему его потеря = потеря денег — простое объяснение"
 translationKey: "private-key"
@@ -11,8 +11,6 @@ keywords:
   - seed phrase vs private key
   - crypto security
   - wallet security
-prev: "/ru/learn/basis/drugie-seti-solana-bnb-doge"
-next: "/ru/learn/how-it-works/chto-proishodit-kogda-otpravlyaesh-kriptu"
 ---
 
 ## Приватный ключ: почему это важнее пароля

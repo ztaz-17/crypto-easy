@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 260
 title: "How NOT to Lose Money: Different Networks (ERC20, TRC20, BSC)"
 description: "The number one beginner mistake — sending crypto to the wrong blockchain network. Learn how ERC20, TRC20, and BEP20 differ to avoid losing your funds forever."
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - wrong network
   - crypto loss
   - token standard
-prev: "/en/learn/how-it-works/why-transactions-get-stuck"
-next: "/en/learn/how-it-works/pay-10x-less"
 ---
 
 ## You Sent USDT — and the Money Vanished. How Is That Possible?

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Investing vs Trading: What Should a Beginner Choose"
 description: "Investing vs trading in crypto: differences in strategy, risk levels, time commitment. Why DCA works for beginners and trading is harder than it looks."
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - dollar cost averaging
   - candlestick chart
   - long term vs short term
-prev: "/en/market/market/buy-high-sell-low"
-next: "/en/market/market/what-is-crypto-etf"
 ---
 
 ## Investing vs Trading: What Should a Beginner Choose

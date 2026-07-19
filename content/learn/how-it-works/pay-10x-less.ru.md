@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 250
 title: "Как платить за переводы крипты в 10 раз меньше"
 description: "Как сэкономить на комиссиях: выбор сети, L2 решения, правильный тайминг — платите меньше за переводы крипты"
 category: "how-it-works"
@@ -14,8 +14,6 @@ keywords:
   - Arbitrum
   - Polygon
   - Lightning Network
-prev: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
-next: "/ru/learn/how-it-works/pos-vs-pow"
 ---
 
 ## Как платить за переводы крипты в 10 раз меньше

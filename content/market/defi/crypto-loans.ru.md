@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Кредиты без банка: как работает DeFi-кредитование"
 description: "Как работают крипто-кредиты без банка через DeFi: залог, ликвидация, риски. Aave, Compound"
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - collateral
   - liquidation
   - overcollateralization
-prev: "/ru/market/defi/chto-takoe-tvl"
-next: "/ru/market/defi/chto-takoe-farming"
 ---
 
 ## DeFi-кредиты: как взять кредит без банка и кредитной истории

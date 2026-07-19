@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Meme-коины: Doge, Shiba и почему это казино"
 description: "Что такое meme-коины, почему они растут, почему это казино и стоит ли в них вкладываться новичку"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - Shiba Inu
   - pump and dump
   - speculation
-prev: "/ru/bonus/chto-takoe-airdrop"
-next: "/ru/bonus/chto-takoe-nft"
 ---
 
 ## Meme-коины: Doge, Shiba и почему это казино

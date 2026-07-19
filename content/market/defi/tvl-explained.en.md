@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "What Is TVL and How to Read It"
 description: "TVL (Total Value Locked) explained: what it tells you about a DeFi protocol, how to check TVL before investing, and why a sharp drop signals potential risk."
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - protocol health
   - liquidity check
   - DefiLlama
-prev: "/en/market/defi/what-is-defi"
-next: "/en/market/defi/crypto-loans-without-banks"
 ---
 
 ## TVL: How to Tell How Much Money Trusts a Protocol

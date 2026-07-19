@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Bitcoin vs Ethereum: Don't Confuse Them"
 description: "Bitcoin vs Ethereum explained simply for beginners. Digital gold vs digital oil — learn the key differences in purpose, technology, and which crypto to choose."
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - ethereum smart contracts
   - crypto comparison
   - which crypto to buy
-prev: "/en/learn/basis/decentralization-simply"
-next: "/en/learn/basis/what-are-stablecoins"
 ---
 
 ## Bitcoin vs Ethereum (and why you shouldn't confuse them)

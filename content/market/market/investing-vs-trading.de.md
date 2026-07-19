@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Investieren vs Traden: Was Sollte ein Anfänger Wählen"
 description: "Der Unterschied zwischen Investieren und Traden in Crypto, Risiken, Ansätze. DCA als Strategie für Anfänger, wie man einen Kerzenchart liest"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - dollar cost averaging
   - Kerzenchart
   - langfristig vs kurzfristig
-prev: "/de/market/market/kaufen-hoch-verkaufen-tief"
-next: "/de/market/market/was-ist-krypto-etf"
 ---
 
 ## Investieren vs Traden: Was Sollte ein Anfänger Wählen

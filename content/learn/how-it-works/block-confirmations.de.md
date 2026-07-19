@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 230
 title: "Block-Bestätigungen: Was ein Block ist und warum du warten musst"
 description: "Was ein Block in einer Blockchain ist, wie Bestätigungen funktionieren und wann eine Transaktion als sicher gilt"
 category: "how-it-works"
@@ -12,8 +12,6 @@ keywords:
   - Bitcoin-Bestätigung
   - Blockzeit
   - 6 Bestätigungen
-prev: "/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann"
-next: "/de/learn/how-it-works/warum-transaktionen-haengen-bleiben"
 ---
 
 ## Block-Bestätigungen: Was ein Block ist und warum du warten musst

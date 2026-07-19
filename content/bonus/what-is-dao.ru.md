@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Что такое DAO: управление без начальников"
 description: "DAO (Decentralized Autonomous Organization) — что это, как работает, примеры MakerDAO, Uniswap. Управление токенами"
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - Uniswap
   - governance token
   - voting
-prev: ""
-next: "/ru/bonus/chto-takoe-orakuly"
 ---
 
 ## Что такое DAO: компания без директора

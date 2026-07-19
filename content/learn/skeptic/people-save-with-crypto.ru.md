@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Как люди спасают деньги через крипту: реальные кейсы"
 description: "Реальные истории из Венесуэлы, Турции, Аргентины и Африки — как люди спасают сбережения через криптовалюту"
 category: "skeptic"
@@ -15,8 +15,6 @@ keywords:
   - savings protection
   - economic crisis
   - crypto as alternative
-prev: "/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite"
-next: "/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu"
 ---
 
 ## Как люди спасают деньги через крипту: реальные кейсы

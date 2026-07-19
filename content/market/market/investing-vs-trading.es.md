@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Invertir vs Trading: ¿Qué Debe Elegir un Principiante?"
 description: "La diferencia entre invertir y hacer trading en cripto, riesgos, enfoques. DCA como estrategia para principiantes, cómo leer un gráfico de velas"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - promediar el costo
   - gráfico de velas
   - largo plazo vs corto plazo
-prev: "/es/market/market/compras-caro-vendes-barato"
-next: "/es/market/market/que-es-crypto-etf"
 ---
 
 ## Invertir vs Trading: ¿Qué Debe Elegir un Principiante?

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Andere Netzwerke und Coins: Übersicht der Top-Kryptowährungen"
 description: "Überblick über die größten Kryptowährungen nach Marktkapitalisierung: XRP, BNB, Solana, TRON, Dogecoin, Cardano, Avalanche und mehr — ihre Features und Anwendungsfälle"
 category: "basis"
@@ -17,8 +17,6 @@ keywords:
   - Krypto-Netzwerke
   - Layer 1
   - Altcoins
-prev: "/de/learn/basis/was-sind-stablecoins"
-next: "/de/learn/basis/privater-schluessel"
 ---
 
 ## Andere Netzwerke und Coins: Übersicht der Top-Kryptowährungen

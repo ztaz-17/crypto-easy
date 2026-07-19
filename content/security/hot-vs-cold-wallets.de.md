@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Hot vs Cold Wallets: Welche Solltest Du Wählen"
 description: "Der Unterschied zwischen Hot und Cold Wallets: MetaMask, Trust Wallet, Ledger, Trezor. Wann du was verwenden solltest"
 category: "security"
@@ -13,8 +13,6 @@ keywords:
   - Trezor
   - Krypto-Aufbewahrung
   - Sicherheit
-prev: ""
-next: "/de/security/haeufige-crypto-betrugsarten"
 ---
 
 ## Hot vs Cold Wallets: Welche Solltest Du Wählen

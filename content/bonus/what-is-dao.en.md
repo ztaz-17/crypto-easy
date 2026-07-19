@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "What Is a DAO: Management Without Bosses"
 description: "What is a DAO — how decentralized autonomous organizations work. Real examples like MakerDAO and Uniswap, and why DAOs matter for the future of governance."
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - Uniswap
   - governance token
   - voting
-prev: ""
-next: "/en/bonus/what-are-oracles"
 ---
 
 ## What Is a DAO: A Company With No Director

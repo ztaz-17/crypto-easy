@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 70
 title: "Trading P2P: Esquemas de Estafa y Cómo Evitarlos"
 description: "Cómo los estafadores engañan en plataformas P2P: transferencia falsa, chargeback. Cómo hacer trading P2P de forma segura"
 category: "bonus"
@@ -13,8 +13,6 @@ keywords:
   - transferencia falsa
   - Binance P2P
   - estafas cripto
-prev: "/es/bonus/que-son-nfts"
-next: ""
 ---
 
 ## Trading P2P: Esquemas de Estafa y Cómo Evitarlos

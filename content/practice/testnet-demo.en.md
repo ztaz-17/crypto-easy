@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Demo Mode in Crypto: Testnet"
 description: "How to try crypto without any risk: testnets explained, where to get free test tokens, and popular testnet dApps to practice before going live on mainnet."
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - test ETH
   - crypto demo mode
   - safe learning
-prev: "/en/practice/seed-phrase-mistakes"
-next: "/en/practice/buy-first-crypto"
 ---
 
 ## Demo Mode in Crypto: Testnet — Try It Without Risk

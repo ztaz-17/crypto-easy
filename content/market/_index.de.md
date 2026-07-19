@@ -10,8 +10,6 @@ keywords:
   - Kryptowährungsinvestitionen
   - Crypto Steuern
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Märkte und Preise

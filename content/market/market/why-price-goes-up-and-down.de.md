@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Warum Crypto-Preise steigen und fallen"
 description: "Was beeinflusst Kryptowährungspreise: Angebot und Nachfrage, Nachrichten, Spekulation. Eine einfache Erklärung für Anfänger"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - Spekulation
   - Krypto-Markt
   - Preistreiber
-prev: ""
-next: "/de/market/market/liquiditat-und-slippage"
 ---
 
 ## Warum Crypto-Preise steigen und fallen

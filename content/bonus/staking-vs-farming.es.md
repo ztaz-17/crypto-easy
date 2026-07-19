@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Staking vs Farming: Cuál Elegir"
 description: "Comparativa entre staking y farming: diferencias en riesgos, rendimientos, cuándo usar cada uno. Tabla comparativa"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - ingresos pasivos crypto
   - comparativa APY
   - rendimiento crypto
-prev: "/es/bonus/que-son-oraculos"
-next: "/es/bonus/que-es-airdrop"
 ---
 
 ## Staking vs Farming: Qué Elegir Como Principiante

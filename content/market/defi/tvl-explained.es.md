@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Qué es TVL y cómo interpretarlo"
 description: "TVL (Total Value Locked / Valor Total Bloqueado) — qué es, cómo revisarlo antes de invertir y por qué una caída repentina es una señal de alerta"
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - salud del protocolo
   - verificar liquidez
   - DefiLlama
-prev: "/es/market/defi/que-es-defi"
-next: "/es/market/defi/prestamos-sin-banco-defi"
 ---
 
 ## TVL: cómo saber cuánta confianza tiene un protocolo

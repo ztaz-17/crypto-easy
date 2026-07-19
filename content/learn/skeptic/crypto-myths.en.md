@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Top Crypto Myths Beginners Still Believe"
 description: "The biggest crypto myths beginners still believe: anonymity, crime, the bubble, energy use. Facts every new user should know before investing in cryptocurrency."
 category: "skeptic"
@@ -13,8 +13,6 @@ keywords:
   - crypto scam
   - beginner mistakes
   - misconceptions
-prev: "/en/learn/skeptic/why-governments-hate-crypto"
-next: "/en/learn/basis/what-is-money-really"
 ---
 
 ## Top Crypto Myths Beginners Still Believe

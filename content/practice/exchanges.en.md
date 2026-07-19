@@ -1,6 +1,10 @@
 ---
+weight: 70
 title: "Best Crypto Exchanges 2026: Comparison and Guide"
 description: "Compare the best crypto exchanges of 2026: Bybit, Kraken, Coinbase. In-depth review of fees, security features, supported currencies, and user experience."
+category: "practice"
+translationKey: "exchanges"
+slug: "exchanges"
 keywords:
   - best crypto exchanges
   - how to choose a crypto exchange
@@ -9,12 +13,6 @@ keywords:
   - crypto exchange comparison
   - safe crypto exchange
   - crypto exchange ranking 2026
-category: "practice"
-translationKey: "affiliate"
-slug: "exchanges"
-prev: "/en/practice/check-transaction-in-blockchain"
-next: ""
-weight: 100
 ---
 
 Choosing your first crypto exchange is like choosing a bank — your money's safety, speed, and convenience depend on it. A bad choice can cost you money, nerves, or both.

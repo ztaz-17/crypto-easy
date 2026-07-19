@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Meme Coins: Doge, Shiba y por qué es un casino"
 description: "Qué son las meme coins, por qué suben, por qué es un casino y si un principiante debería invertir en ellas"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - Shiba Inu
   - pump and dump
   - especulación
-prev: "/es/bonus/que-es-airdrop"
-next: "/es/bonus/que-son-nfts"
 ---
 
 ## Meme Coins: Doge, Shiba y por qué es un casino

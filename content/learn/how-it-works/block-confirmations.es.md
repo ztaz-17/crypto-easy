@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 230
 title: "Confirmaciones de Bloque: Qué es un Bloque y Por Qué Tienes que Esperar"
 description: "Qué es un bloque en una blockchain, cómo funcionan las confirmaciones y cuándo se considera segura una transacción"
 category: "how-it-works"
@@ -12,8 +12,6 @@ keywords:
   - confirmación Bitcoin
   - tiempo de bloque
   - 6 confirmaciones
-prev: "/es/learn/how-it-works/por-que-transferencia-puede-costar-30"
-next: "/es/learn/how-it-works/por-que-se-atascan-transacciones"
 ---
 
 ## Confirmaciones de Bloque: Qué es un Bloque y Por Qué Tienes que Esperar

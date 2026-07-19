@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Почему ты покупаешь на хаях и продаёшь в минус"
 description: "Психология крипто-трейдинга: FOMO, паника, эмоции. Почему новички покупают на пике и продают на дне — и как это прекратить"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - emotional trading
   - crypto behavior
   - market cycle
-prev: "/ru/market/market/chto-takoe-likvidnost"
-next: "/ru/market/market/investirovanie-vs-treiding"
 ---
 
 ## Почему ты покупаешь на хаях и продаёшь в минус

@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Modo Demo en Cripto: Testnet"
 description: "Cómo probar cripto sin riesgo: testnets, faucets para monedas de prueba gratis y aprendizaje práctico seguro"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - ETH de prueba
   - modo demo cripto
   - aprendizaje seguro
-prev: "/es/practice/seed-phrase-mistakes"
-next: "/es/practice/buy-first-crypto"
 ---
 
 ## Modo Demo en Cripto: Testnet — Pruébalo Sin Riesgo

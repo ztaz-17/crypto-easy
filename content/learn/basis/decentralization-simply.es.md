@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Descentralización explicada de forma simple"
 description: "Qué es la descentralización en términos simples: por qué no hay un servidor principal, y sus ventajas y desventajas"
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - peer to peer
   - punto único de fallo
   - conceptos básicos de cripto
-prev: "/es/learn/basis/blockchain-en-1-minuto"
-next: "/es/learn/basis/bitcoin-vs-ethereum"
 ---
 
 ## Descentralización explicada de forma simple

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 240
 title: "Why Transactions Get Stuck and What to Do About It"
 description: "Why crypto transactions get stuck and what to do. Low fees, network congestion, RBF, and CPFP — how to speed up a stuck transaction explained clearly."
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - transaction acceleration
   - Bitcoin stuck
   - Ethereum stuck
-prev: "/en/learn/how-it-works/block-confirmations"
-next: "/en/learn/how-it-works/different-networks-erc20-trc20-bsc"
 ---
 
 ## Why Transactions Get Stuck and What to Do About It

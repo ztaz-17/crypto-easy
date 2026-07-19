@@ -10,8 +10,6 @@ keywords:
   - cryptocurrency investing
   - crypto taxes
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Markets & Prices

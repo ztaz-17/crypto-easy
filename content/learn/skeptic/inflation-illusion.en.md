@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Why you’re losing money even if you’re saving"
 description: "Inflation silently eats your savings each year. Why bank deposits aren't protecting your money and how crypto offers an alternative store of value for savings."
 slug: "why-youre-losing-money-even-if-saving"
@@ -12,8 +12,6 @@ keywords:
   - purchasing power
   - real return
   - fiat money
-prev: "/en/learn/skeptic/why-banks-freeze-your-money"
-next: "/en/learn/skeptic/how-people-save-money-with-crypto"
 ---
 
 # Why you're losing money even if you're saving

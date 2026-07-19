@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "Qué es DeFi: Finanzas Sin Bancos"
 description: "DeFi — finanzas descentralizadas: cómo funciona, ejemplos (Uniswap, Aave, MakerDAO), riesgos. Explicación sencilla"
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - MakerDAO
   - contratos inteligentes
   - inclusión financiera
-prev: "/es/market/market/que-es-crypto-etf"
-next: "/es/market/defi/que-es-tvl"
 ---
 
 ## DeFi: Cómo funcionan las finanzas cuando no necesitas un banco

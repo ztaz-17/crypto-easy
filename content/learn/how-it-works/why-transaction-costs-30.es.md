@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Por qué una transferencia de cripto puede costar $30"
 description: "Desglosando las comisiones de transacciones cripto: gas, mempool, tarifa prioritaria y cómo evitar pagar de más"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - gas de Ethereum
   - comisión de Bitcoin
   - costos cripto
-prev: "/es/learn/how-it-works/que-ocurre-cuando-envias-crypto"
-next: "/es/learn/how-it-works/confirmaciones-de-bloque"
 ---
 
 ## Por qué una transferencia de cripto puede costar $30

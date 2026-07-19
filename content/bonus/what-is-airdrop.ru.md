@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Что такое Airdrop и как не попасть в скам"
 description: "Airdrop — бесплатная раздача токенов. Как отличить легитимный airdrop от мошеннического"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - airdrop scam
   - legit airdrop
   - token distribution
-prev: "/ru/bonus/steiking-vs-farming"
-next: "/ru/bonus/chto-takoe-meme-coiny"
 ---
 
 ## Что такое Airdrop: бесплатные токены или ловушка?

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Другие сети и монеты: обзор топовых криптовалют"
 description: "Обзор крупнейших криптовалют по капитализации: XRP, BNB, Solana, TRON, Dogecoin, Cardano, Avalanche и другие — их особенности и применение"
 category: "basis"
@@ -17,8 +17,6 @@ keywords:
   - crypto networks
   - Layer 1
   - altcoins
-prev: "/ru/learn/basis/chto-takoe-stabilcoiny"
-next: "/ru/learn/basis/privatnyj-klyuch"
 ---
 
 ## Другие сети и монеты: обзор топовых криптовалют

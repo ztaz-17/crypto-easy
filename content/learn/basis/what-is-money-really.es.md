@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "¿Qué es el dinero realmente (y por qué solo son números)?"
 description: "Entiende qué es realmente el dinero: registros en bases de datos, el rol de los bancos y quién controla el sistema financiero"
 category: "basis"
@@ -13,8 +13,6 @@ keywords:
   - bancos centrales
   - sistema monetario
   - creación de dinero
-prev: "/es/learn/skeptic/mitos-crypto-que-los-principiantes-creen"
-next: "/es/learn/basis/blockchain-en-1-minuto"
 ---
 
 ## ¿Qué es el dinero realmente (y por qué solo son números)?

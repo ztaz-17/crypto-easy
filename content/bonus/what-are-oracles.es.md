@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Qué Son los Oráculos en Crypto"
 description: "Oráculos — cómo los smart contracts conocen el precio real de Bitcoin. Chainlink, price feeds, datos del mundo real"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - datos de smart contracts
   - price feed
   - datos off-chain
-prev: "/es/bonus/que-es-dao"
-next: "/es/bonus/staking-vs-farming"
 ---
 
 ## Qué Son los Oráculos: Cómo los Smart Contracts Ven el Mundo Real

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 70
 title: "P2P Trading: Scam Schemes and How to Avoid Them"
 description: "How scammers cheat on P2P platforms: fake transfer, chargeback, and phishing schemes. Learn how to trade P2P safely and avoid losing your crypto to fraud."
 category: "bonus"
@@ -12,8 +12,6 @@ keywords:
   - chargeback
   - fake transfer
   - Binance P2P
-prev: "/en/bonus/what-are-nfts"
-next: ""
 ---
 
 ## P2P Trading: Scam Schemes and How to Avoid Them

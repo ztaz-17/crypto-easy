@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 60
 title: "Cómo Verificar una Transacción en la Blockchain"
 description: "Cómo verificar cualquier transacción cripto usando Etherscan y herramientas similares: qué mirar, cómo leer el estado y las confirmaciones"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - estado de transacción
   - TxID
   - seguimiento de wallets
-prev: "/es/practice/first-transaction-without-mistakes"
-next: "/es/exchanges"
 ---
 
 ## Cómo Verificar una Transacción en la Blockchain: Todo lo Que Necesitas Saber

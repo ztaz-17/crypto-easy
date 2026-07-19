@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Was tun, wenn dein Crypto-Wallet gehackt wurde"
 description: "Notfallmaßnahmen, wenn dein Crypto-Wallet gehackt wurde: So rettest du deine Vermögenswerte, welche Schritte in den ersten Minuten zählen"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - gestohlene Kryptowährung
   - Zugriff entziehen
   - Gelder verschieben
-prev: "/de/security/token-berechtigungen-erklaert"
-next: "/de/security/haeufige-fehler"
 ---
 
 ## Was tun, wenn dein Crypto-Wallet gehackt wurde

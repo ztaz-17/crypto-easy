@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Wie Du Deine Erste Crypto Kaufst"
 description: "Wo und wie kauft man Kryptowährung als Anfänger: Börsen, KYC, P2P, Sofort-Swaps. Vor- und Nachteile jeder Methode."
 category: "practice"
@@ -11,8 +11,6 @@ keywords:
   - KYC
   - P2P crypto
   - anfänger
-prev: "/de/practice/testnet-demo-ohne-risiko-ueben"
-next: "/de/practice/first-transaction-without-mistakes"
 ---
 
 ## Wie Du Deine Erste Crypto Kaufst

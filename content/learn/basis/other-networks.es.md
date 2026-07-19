@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Otras Redes y Monedas: Resumen de las Principales Criptomonedas"
 description: "Resumen de las criptomonedas más grandes por capitalización de mercado: XRP, BNB, Solana, TRON, Dogecoin, Cardano, Avalanche y más — sus características y casos de uso"
 category: "basis"
@@ -17,8 +17,6 @@ keywords:
   - redes cripto
   - Capa 1
   - altcoins
-prev: "/es/learn/basis/que-son-stablecoins"
-next: "/es/learn/basis/clave-privada"
 ---
 
 ## Otras Redes y Monedas: Resumen de las Principales Criptomonedas

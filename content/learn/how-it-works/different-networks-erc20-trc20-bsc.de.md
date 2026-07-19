@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 260
 title: "Wie du KEIN Geld verlierst: Unterschiedliche Netzwerke (ERC20, TRC20, BSC)"
 description: "Der häufigste Anfängerfehler — Krypto ins falsche Netzwerk schicken. Finde heraus, warum du Geld verlieren kannst und wie du das Netzwerk prüfst."
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - falsches Netzwerk
   - Krypto-Verlust
   - Token-Standard
-prev: "/de/learn/how-it-works/warum-transaktionen-haengen-bleiben"
-next: "/de/learn/how-it-works/10x-weniger-zahlen"
 ---
 
 ## Du hast USDT geschickt — und das Geld ist weg. Wie kann das sein?

@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Ilusión de la inflación: estás perdiendo dinero aunque ahorres"
 description: "La inflación se come tus ahorros en silencio. Aprende por qué los depósitos bancarios no te protegen y cómo calcular tus pérdidas reales."
 slug: "ilusion-de-la-inflacion"
@@ -14,8 +14,6 @@ keywords:
   - dinero fiduciario
   - pérdida silenciosa
   - tipo de interés real
-prev: "/es/learn/skeptic/por-que-los-bancos-congelan-tu-dinero"
-next: "/es/learn/skeptic/como-la-gente-ahorra-dinero-con-crypto"
 ---
 
 ## Ilusión de la inflación: estás perdiendo dinero aunque ahorres

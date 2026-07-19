@@ -1,16 +1,14 @@
 ---
-weight: 100
+weight: 230
 title: "Impuestos Crypto: Lo que un Principiante Debe Saber"
 description: "Impuestos sobre criptomonedas explicados para principiantes: cuándo pagar, cómo calcular ganancias, qué documentos guardar. Lenguaje sencillo y ejemplos claros."
+category: "market"
+translationKey: "crypto-taxes-beginners"
+slug: "krypto-steuern-fur-anfanger"
 keywords:
   - impuestos crypto para principiantes
   - cómo pagar impuestos con cripto
   - declaración de criptomonedas
-category: "market"
-translationKey: "crypto-taxes-beginners"
-slug: "impuestos-crypto-para-principiantes"
-prev: "/es/market/regulation/impuestos-crypto"
-next: ""
 ---
 
 ## Impuestos Crypto para Principiantes: Por Dónde Empezar

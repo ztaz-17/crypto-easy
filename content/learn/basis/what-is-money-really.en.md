@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "What Is Money Really (and Why It's Just Numbers)"
 description: "What is money really — database entries, bank deposits, and who decides value. A deep look at how the modern monetary system works and who controls your money."
 category: "basis"
@@ -13,8 +13,6 @@ keywords:
   - central banks
   - monetary system
   - money creation
-prev: "/en/learn/skeptic/crypto-myths-beginners-believe"
-next: "/en/learn/basis/blockchain-in-1-minute"
 ---
 
 ## What Is Money Really (and Why It's Just Numbers)

@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Основные виды скама в крипте"
 description: "Как распознать крипто-мошенников: фишинг, фейковые сайты, airdrop-ловушки, фейковая поддержка, скримеры. Полный гид по защите"
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - airdrop scam
   - support scam
   - crypto security
-prev: "/ru/security/goryachie-vs-holodnye-koshelki"
-next: "/ru/security/razresheniya-tokenov"
 ---
 
 ## Основные виды скама в крипте

@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Billeteras Calientes vs Frías: Cuál Elegir"
 description: "Diferencia entre billeteras calientes y frías: MetaMask, Trust Wallet, Ledger, Trezor. Cuándo usar cada una"
 category: "security"
@@ -13,8 +13,6 @@ keywords:
   - Trezor
   - almacenamiento cripto
   - seguridad
-prev: ""
-next: "/es/security/principales-tipos-de-estafa-crypto"
 ---
 
 ## Billeteras Calientes vs Frías: Cuál Elegir

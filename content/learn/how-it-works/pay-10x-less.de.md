@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 250
 title: "10x weniger für Krypto-Transfers bezahlen"
 description: "Gebühren sparen: das richtige Netzwerk wählen, L2-Lösungen nutzen, Timing beachten — zahle weniger für Krypto-Transfers"
 category: "how-it-works"
@@ -14,8 +14,6 @@ keywords:
   - Arbitrum
   - Polygon
   - Lightning Network
-prev: "/de/learn/how-it-works/verschiedene-netzwerke-erc20-trc20-bsc"
-next: "/de/learn/how-it-works/pos-vs-pow"
 ---
 
 ## 10x weniger für Krypto-Transfers bezahlen

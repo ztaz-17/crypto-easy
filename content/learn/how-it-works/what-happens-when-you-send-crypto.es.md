@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Qué ocurre cuando envías cripto"
 description: "Detrás de escena de una transacción cripto: creación, firma, difusión en la red y confirmación — explicado de forma sencilla"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - minería
   - confirmación
   - difusión en la red
-prev: "/es/learn/basis/clave-privada"
-next: "/es/learn/how-it-works/por-que-transferencia-puede-costar-30"
 ---
 
 ## Qué ocurre cuando envías cripto

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 240
 title: "Por qué se atascan las transacciones y qué hacer al respecto"
 description: "Por qué se atascan las transacciones crypto: comisiones bajas, congestión de red. Cómo acelerar o cancelar una transacción atascada"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - aceleración de transacciones
   - Bitcoin atascado
   - Ethereum atascado
-prev: "/es/learn/how-it-works/confirmaciones-de-bloque"
-next: "/es/learn/how-it-works/diferentes-redes-erc20-trc20-bsc"
 ---
 
 ## Por qué se atascan las transacciones y qué hacer al respecto

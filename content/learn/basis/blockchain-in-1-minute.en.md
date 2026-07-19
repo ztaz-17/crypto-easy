@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Blockchain in 1 Minute (The Simplest Explanation)"
 description: "Blockchain explained in 1 minute for beginners. What is a shared ledger, why records cannot be rewritten, and how it all works. No jargon, just the basics."
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - immutable ledger
   - blockchain for beginners
   - cryptocurrency technology
-prev: "/en/learn/basis/what-is-money-really"
-next: "/en/learn/basis/decentralization-simply"
 ---
 
 ## Blockchain in 1 minute (the simplest explanation)

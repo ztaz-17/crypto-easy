@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 260
 title: "Cómo NO Perder Dinero: Redes Diferentes (ERC20, TRC20, BSC)"
 description: "El error #1 de los principiantes — enviar cripto a la red equivocada. Veamos por qué puedes perder dinero y cómo verificar la red"
 category: "how-it-works"
@@ -15,8 +15,6 @@ keywords:
   - estándar de token
   - USDT red equivocada
   - recuperar fondos
-prev: "/es/learn/how-it-works/por-que-se-atascan-transacciones"
-next: "/es/learn/how-it-works/pagar-10-veces-menos"
 ---
 
 ## Enviaste USDT — y el Dinero Desapareció. ¿Cómo es Posible?

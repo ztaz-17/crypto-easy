@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "How People Save Money with Crypto: Real-Life Cases"
 description: "Real stories from Venezuela, Turkey, Argentina, and Africa — how ordinary people protect their savings with crypto when local currencies rapidly lose value."
 category: "skeptic"
@@ -15,8 +15,6 @@ keywords:
   - savings protection
   - economic crisis
   - crypto as alternative
-prev: "/en/learn/skeptic/why-youre-losing-money-even-if-saving"
-next: "/en/learn/skeptic/why-governments-hate-crypto"
 ---
 
 ## How People Save Money with Crypto: Real-Life Cases

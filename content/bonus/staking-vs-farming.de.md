@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Staking vs Farming: Welche Methode ist die Richtige"
 description: "Staking und Farming im Vergleich: Unterschiede in Risiken, Renditen, wann man was nutzt. Vergleichstabelle"
 category: "bonus"
@@ -11,8 +11,6 @@ keywords:
   - passives Einkommen Krypto
   - APY Vergleich
   - Krypto Rendite
-prev: "/de/bonus/oracles-erklaert"
-next: "/de/bonus/was-ist-airdrop"
 ---
 
 ## Staking vs Farming: Was soll ein Anfänger wählen

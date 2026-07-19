@@ -1,16 +1,14 @@
 ---
-weight: 100
+weight: 230
 title: "Krypto-Steuern: Was Anfänger Wissen Müssen"
 description: "Krypto-Steuern für Anfänger erklärt: wann zahlen, wie Gewinne und Verluste berechnen, welche Dokumente aufbewahren. Steuern auf Kryptowährungen einfach gemacht."
+category: "market"
+translationKey: "crypto-taxes-beginners"
+slug: "krypto-steuern-fur-anfanger"
 keywords:
   - Krypto-Steuern für Anfänger
   - wie Krypto-Steuern zahlen
   - Krypto Steuererklärung
-category: "market"
-translationKey: "crypto-taxes-beginners"
-slug: "krypto-steuern-fur-anfanger"
-prev: "/de/market/regulation/crypto-steuern"
-next: ""
 ---
 
 ## Krypto-Steuern für Anfänger: Wo anfangen

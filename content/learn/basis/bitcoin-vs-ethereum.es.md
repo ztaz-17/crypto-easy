@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Bitcoin vs Ethereum: No Los Confundas"
 description: "Bitcoin es oro digital, Ethereum es petróleo digital. Aprende las diferencias clave y cuál elegir para cada caso."
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - ethereum contratos inteligentes
   - comparación crypto
   - qué crypto comprar
-prev: "/es/learn/basis/descentralizacion-explicada-simple"
-next: "/es/learn/basis/que-son-stablecoins"
 ---
 
 ## Bitcoin vs Ethereum (y por qué no deberías confundirlos)

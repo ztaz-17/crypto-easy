@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "How to Create a Crypto Wallet in 5 Minutes"
 description: "Step-by-step guide to creating your first crypto wallet in minutes. Set up MetaMask or Trust Wallet and learn how to properly secure your seed phrase safely."
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - create wallet
   - browser extension
   - mobile wallet
-prev: ""
-next: "/en/practice/seed-phrase-mistakes"
 ---
 
 ## How to Create a Crypto Wallet in 5 Minutes — and Do It Safely

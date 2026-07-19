@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "Что такое деньги на самом деле (и почему это просто цифры)"
 description: "Разбираемся, что такое деньги на самом деле: записи в базах данных, роль банков и кто контролирует финансовую систему"
 category: "basis"
@@ -13,8 +13,6 @@ keywords:
   - central banks
   - monetary system
   - money creation
-prev: "/ru/learn/skeptic/glavnye-mify-o-kripte"
-next: "/ru/learn/basis/blockchain-za-1-minutu"
 ---
 
 ## Что такое деньги на самом деле (и почему это просто цифры)

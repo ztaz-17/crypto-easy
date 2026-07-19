@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Other Networks and Coins: Overview of Top Cryptocurrencies"
 description: "Overview of the largest cryptocurrencies by market cap: XRP, BNB, Solana, TRON, Cardano, and Avalanche. What each network does best and their unique features."
 category: "basis"
@@ -17,8 +17,6 @@ keywords:
   - crypto networks
   - Layer 1
   - altcoins
-prev: "/en/learn/basis/what-are-stablecoins"
-next: "/en/learn/basis/private-key"
 ---
 
 ## Other Networks and Coins: Overview of Top Cryptocurrencies

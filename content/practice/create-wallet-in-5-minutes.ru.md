@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Как создать крипто-кошелёк за 5 минут"
 description: "Пошаговая инструкция по созданию крипто-кошелька: MetaMask и Trust Wallet. Установка, настройка, первая проверка"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - create wallet
   - browser extension
   - mobile wallet
-prev: ""
-next: "/ru/practice/seed-phrase-moment-gde-teryaut-dengi"
 ---
 
 ## Как создать криптокошелёк за 5 минут — и сделать это безопасно

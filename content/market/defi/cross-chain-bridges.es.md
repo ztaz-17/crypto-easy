@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Puentes entre redes: Cómo mover cripto entre blockchains"
 description: "Cómo funcionan los puentes entre redes, los riesgos principales (hacks a puentes) y cuándo es seguro usarlos"
 category: "defi"
@@ -11,8 +11,6 @@ keywords:
   - Wormhole
   - hack de puente
   - puente de red
-prev: "/es/market/defi/riesgos-defi"
-next: "/es/market/defi/dex-vs-cex-cual-elegir"
 ---
 
 ## Puentes entre redes: Cómo mover cripto entre blockchains

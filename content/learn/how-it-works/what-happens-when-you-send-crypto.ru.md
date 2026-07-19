@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 210
 title: "Что происходит, когда ты отправляешь крипту"
 description: "Как проходит крипто-транзакция: создание, подпись, распространение по сети и подтверждение — простое объяснение"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - mining
   - confirmation
   - broadcasting
-prev: "/ru/learn/basis/privatnyj-klyuch"
-next: "/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov"
 ---
 
 ## Что происходит, когда ты отправляешь крипту

@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 130
 title: "Dezentralisierung einfach erklärt"
 description: "Was Dezentralisierung in einfachen Worten bedeutet: warum es keinen Hauptserver gibt und welche Vor- und Nachteile sie hat"
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - peer to peer
   - single point of failure
   - krypto grundlagen
-prev: "/de/learn/basis/blockchain-in-1-minute"
-next: "/de/learn/basis/bitcoin-vs-ethereum"
 ---
 
 ## Dezentralisierung einfach erklärt

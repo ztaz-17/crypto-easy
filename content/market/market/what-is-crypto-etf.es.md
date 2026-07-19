@@ -1,6 +1,10 @@
 ---
+weight: 50
 title: "¿Qué es un ETF de Cripto y por qué la Aprobación del ETF de Solana es Importante?"
 description: "Qué es un ETF de criptomonedas, cómo funciona un ETF spot de Solana, y por qué la aprobación de la SEC el 18 de julio de 2026 cambia el mercado. Explicación simple para principiantes."
+category: "market"
+translationKey: "crypto-etf"
+slug: "que-es-crypto-etf"
 keywords:
   - qué es un ETF cripto
   - ETF de Solana
@@ -9,12 +13,6 @@ keywords:
   - ETF cripto para principiantes
   - cómo funciona un ETF
   - invertir en cripto a través de ETF
-category: "market"
-translationKey: "crypto-etf"
-slug: "que-es-crypto-etf"
-prev: "/es/market/market/invertir-vs-trading"
-next: "/es/market/defi/que-es-defi"
-weight: 30
 ---
 
 El 18 de julio de 2026 ocurrió algo que muchos esperaban desde hace años: la SEC aprobó los primeros ETF spot de Solana. Esto no son solo noticias para traders — es un evento que cambia las reglas del juego para toda la industria cripto. Pero, ¿qué es exactamente un ETF y por qué es importante incluso si no planeas comprar Solana?

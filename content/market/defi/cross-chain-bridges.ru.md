@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Мосты между сетями: как переносить крипту"
 description: "Как работают кросс-чейн мосты, основные риски (взломы мостов) и когда их безопасно использовать"
 category: "defi"
@@ -11,8 +11,6 @@ keywords:
   - Wormhole
   - bridge hack
   - network bridge
-prev: "/ru/market/defi/riski-defi"
-next: "/ru/market/defi/dex-vs-cex"
 ---
 
 ## Мосты между сетями: как переносить крипту

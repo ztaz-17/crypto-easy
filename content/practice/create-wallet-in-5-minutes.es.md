@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 10
 title: "Cómo Crear una Cartera de Cripto en 5 Minutos"
 description: "Guía paso a paso para crear tu primera cartera de criptomonedas: MetaMask y Trust Wallet. Instalación, configuración y primera verificación."
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - crear cartera
   - extensión navegador
   - cartera móvil
-prev: ""
-next: "/es/practice/seed-phrase-mistakes"
 ---
 
 ## Cómo Crear una Cartera de Cripto en 5 Minutos — y Hacerlo de Forma Segura

@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 160
 title: "Cross-Chain-Brücken: So bewegst du Krypto zwischen Netzwerken"
 description: "Wie Cross-Chain-Brücken funktionieren, die größten Risiken (Bridge-Hacks) und wann du sie sicher nutzen kannst"
 category: "defi"
@@ -11,8 +11,6 @@ keywords:
   - Wormhole
   - Bridge-Hack
   - Netzwerkbrücke
-prev: "/de/market/defi/defi-risiken"
-next: "/de/market/defi/dex-vs-cex-was-wahlen"
 ---
 
 ## Cross-Chain-Brücken: So bewegst du Krypto zwischen Netzwerken

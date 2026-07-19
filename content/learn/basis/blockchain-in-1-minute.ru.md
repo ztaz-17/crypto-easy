@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 120
 title: "Блокчейн за 1 минуту (самое простое объяснение)"
 description: "Блокчейн для новичков: что такое общая тетрадь, почему записи нельзя переписать и как это работает — самое простое объяснение"
 category: "basis"
@@ -12,8 +12,6 @@ keywords:
   - immutable ledger
   - blockchain for beginners
   - cryptocurrency technology
-prev: "/ru/learn/basis/chto-takoe-dengi-na-samom-dele"
-next: "/ru/learn/basis/decentralizaciya-bez-slozhnyh-slov"
 ---
 
 ## Блокчейн за 1 минуту (самое простое объяснение)

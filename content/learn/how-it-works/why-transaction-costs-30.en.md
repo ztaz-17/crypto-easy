@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Why a Crypto Transfer Can Cost $30"
 description: "Why a crypto transfer can cost $30 — understand transaction fees: gas, mempool, priority fees. A simple breakdown of network fees and how to avoid overpaying."
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - Ethereum gas
   - Bitcoin fee
   - crypto costs
-prev: "/en/learn/how-it-works/what-happens-when-you-send-crypto"
-next: "/en/learn/how-it-works/block-confirmations"
 ---
 
 ## Why a Crypto Transfer Can Cost $30

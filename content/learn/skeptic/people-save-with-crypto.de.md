@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Wie Menschen mit Crypto Geld retten: Echte Fälle"
 description: "Wahre Geschichten aus Venezuela, der Türkei, Argentinien und Afrika — wie Menschen ihre Ersparnisse mit Kryptowährung schützen"
 category: "skeptic"
@@ -15,8 +15,6 @@ keywords:
   - Ersparnisse schützen
   - Wirtschaftskrise
   - Crypto als Alternative
-prev: "/de/learn/skeptic/inflation-illusion"
-next: "/de/learn/skeptic/warum-regierungen-crypto-nicht-moegen"
 ---
 
 ## Wie Menschen mit Crypto Geld retten: Echte Fälle

@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 30
 title: "Token Allowances: What They Are and Why They're Dangerous"
 description: "What token allowances are, why unlimited approvals are dangerous, and how to revoke them using Etherscan or Revoke.cash to protect your crypto wallet."
 category: "security"
@@ -12,8 +12,6 @@ keywords:
   - smart contract risk
   - Ethereum approval
   - ERC20 approval
-prev: "/en/security/common-crypto-scams"
-next: "/en/security/hacked-wallet-what-to-do"
 ---
 
 ## Token Allowances: What They Are and Why They're Dangerous

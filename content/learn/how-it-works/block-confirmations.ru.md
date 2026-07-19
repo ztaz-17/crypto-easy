@@ -1,5 +1,5 @@
 ---
-weight: 3
+weight: 230
 title: "Подтверждения транзакций: что такое блок и почему нужно ждать"
 description: "Что такое блок в блокчейне, как работают подтверждения и когда транзакция считается надёжной"
 category: "how-it-works"
@@ -12,8 +12,6 @@ keywords:
   - Bitcoin confirmation
   - block time
   - 6 confirmations
-prev: "/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov"
-next: "/ru/learn/how-it-works/pochemu-tranzakcii-zavisaut"
 ---
 
 ## Подтверждения транзакций: что такое блок и почему нужно ждать

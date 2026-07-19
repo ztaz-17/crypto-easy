@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Erste Transaktion Ohne Fehler: So Sendest Du Krypto in 10 Minuten"
 description: "Wie du $1 an jeden auf der Welt in 10 Minuten sendest: Schritt-für-Schritt-Anleitung, Adress- und Netzwerkprüfung"
 category: "practice"
@@ -12,8 +12,6 @@ keywords:
   - Netzwerk prüfen
   - erste Überweisung
   - Blockchain Explorer
-prev: "/de/practice/buy-first-crypto"
-next: "/de/practice/transaktion-ueberpruefen-blockchain"
 ---
 
 ## Erste Transaktion Ohne Fehler: So Sendest Du Krypto in 10 Minuten

@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "DEX vs CEX — что выбрать для торговли криптой"
 description: "Разница между централизованными и децентрализованными биржами: безопасность, комиссии, KYC, ликвидность — что подходит именно вам"
 category: "defi"
@@ -14,8 +14,6 @@ keywords:
   - Binance
   - AMM
   - order book
-prev: "/ru/market/defi/mosty-mezhdu-setyami"
-next: "/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte"
 ---
 
 ## DEX vs CEX — что выбрать для торговли криптой

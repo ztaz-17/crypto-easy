@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 40
 title: "Инвестирование vs трейдинг: что выбрать новичку"
 description: "Разница между инвестированием и трейдингом в крипте, риски, подходы. DCA как стратегия для новичков, как читать график свечей"
 category: "market"
@@ -12,8 +12,6 @@ keywords:
   - dollar cost averaging
   - candlestick chart
   - long term vs short term
-prev: "/ru/market/market/pochemu-pokupaesh-na-hayah-prodaesh-v-minus"
-next: "/ru/market/market/chto-takoe-crypto-etf"
 ---
 
 ## Инвестирование vs трейдинг: что выбрать новичку

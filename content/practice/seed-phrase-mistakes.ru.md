@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 20
 title: "Сид-фраза: момент, где теряют деньги"
 description: "Как правильно хранить сид-фразу (seed phrase), где нельзя её хранить и самые частые ошибки новичков, которые ведут к потере денег"
 category: "practice"
@@ -13,8 +13,6 @@ keywords:
   - wallet recovery
   - 12 words
   - cold storage
-prev: "/ru/practice/kak-sozdat-koshelek-za-5-minut"
-next: "/ru/practice/demo-rezhim-testovaya-set"
 ---
 
 ## Сид-фраза: момент, где теряют деньги

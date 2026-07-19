@@ -1,5 +1,5 @@
 ---
-weight: 1
+weight: 110
 title: "What Is DeFi: Finance Without Banks"
 description: "DeFi — decentralized finance explained in simple terms. How DeFi works, popular protocols (Uniswap, Aave, MakerDAO), and why it matters for your money."
 category: "defi"
@@ -13,8 +13,6 @@ keywords:
   - MakerDAO
   - smart contracts
   - financial inclusion
-prev: "/en/market/market/what-is-crypto-etf"
-next: "/en/market/defi/tvl-explained"
 ---
 
 ## DeFi: How Finance Works When You Don't Need a Bank

@@ -10,8 +10,6 @@ keywords:
   - crear wallet crypto
   - guía testnet crypto
 menu: main
-prev: ""
-next: ""
 ---
 
 ## Practicar

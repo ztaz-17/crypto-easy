@@ -1,5 +1,5 @@
 ---
-weight: 2
+weight: 220
 title: "Налоги на криптовалюту: общие принципы"
 description: "Как облагаются налогом криптовалюты: общие принципы, когда платить, где платить, различия по странам"
 category: "regulation"
@@ -11,8 +11,6 @@ keywords:
   - capital gains
   - crypto income
   - tax liability
-prev: "/ru/market/regulation/kak-gosudarstva-otnosyatsya-k-kripte"
-next: ""
 ---
 
 ## Налоги на криптовалюту: общие принципы

@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 140
 title: "Yield Farming: How to Earn in DeFi"
 description: "Yield farming in DeFi explained: how it works, where the returns actually come from, the main risks involved, and whether it makes sense for total beginners."
 category: "defi"
@@ -12,8 +12,6 @@ keywords:
   - APY
   - impermanent loss
   - farming risks
-prev: "/en/market/defi/crypto-loans-without-banks"
-next: "/en/market/defi/defi-risks"
 ---
 
 ## Yield Farming: How to Earn in DeFi

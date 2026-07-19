@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 240
 title: "Почему транзакции зависают и что с этим делать"
 description: "Почему крипто-транзакции зависают: низкая комиссия, перегруз сети. Как ускорить или отменить зависшую транзакцию"
 category: "how-it-works"
@@ -13,8 +13,6 @@ keywords:
   - transaction acceleration
   - Bitcoin stuck
   - Ethereum stuck
-prev: "/ru/learn/how-it-works/chto-takoe-podtverzhdeniya"
-next: "/ru/learn/how-it-works/raznye-seti-erc20-trc20-bsc"
 
 ## Почему транзакции зависают и что с этим делать
 

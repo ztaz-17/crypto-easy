@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 50
 title: "Krypto-Mythen, an die Anfänger immer noch glauben"
 description: "Die größten Krypto-Mythen entlarvt: Anonymität, Kriminalität, die Blase und andere Missverständnisse, auf die Einsteiger hereinfallen"
 category: "skeptic"
@@ -13,8 +13,6 @@ keywords:
   - Krypto-Betrug
   - Anfängerfehler
   - Missverständnisse
-prev: "/de/learn/skeptic/warum-regierungen-crypto-nicht-moegen"
-next: "/de/learn/basis/was-geld-wirklich-ist"
 ---
 
 ## Krypto-Mythen, an die Anfänger immer noch glauben

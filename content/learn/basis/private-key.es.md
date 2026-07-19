@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 170
 title: "Clave privada: por qué es más importante que una contraseña"
 description: "Qué es una clave privada, en qué se diferencia de una contraseña y por qué perderla significa perder tu dinero — explicación simple"
 category: "basis"
@@ -11,8 +11,6 @@ keywords:
   - frase semilla vs clave privada
   - seguridad cripto
   - seguridad de billetera
-prev: "/es/learn/basis/otras-redes-y-monedas"
-next: "/es/learn/how-it-works/que-ocurre-cuando-envias-crypto"
 ---
 
 ## Clave privada: por qué es más importante que una contraseña
