@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Seed Phrase: the Moment People Lose Money"
-description: "How to properly store your seed phrase, where NOT to store it, and the most common beginner mistakes that lead to losing money"
+description: "How to safely store your seed phrase, where NOT to keep it (no screenshots, cloud, or email), and mistakes that cause permanent loss of funds and crypto."
 category: "practice"
 translationKey: "seed-phrase-mistakes"
 slug: "seed-phrase-mistakes"

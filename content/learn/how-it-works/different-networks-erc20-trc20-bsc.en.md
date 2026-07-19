@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "How NOT to Lose Money: Different Networks (ERC20, TRC20, BSC)"
-description: "The #1 beginner mistake — sending crypto to the wrong network. Let's figure out why you can lose money and how to check the network"
+description: "The number one beginner mistake — sending crypto to the wrong blockchain network. Learn how ERC20, TRC20, and BEP20 differ to avoid losing your funds forever."
 category: "how-it-works"
 translationKey: "different-networks-erc20-trc20-bsc"
 slug: "different-networks-erc20-trc20-bsc"

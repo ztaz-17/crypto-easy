@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "How to Buy Your First Crypto"
-description: "Where and how to buy cryptocurrency as a beginner: exchanges, KYC, P2P, instant swaps. Pros and cons of each method."
+description: "Where and how to buy cryptocurrency as a complete beginner: exchanges with KYC, P2P platforms, instant buy options, and what pitfalls to watch out for."
 category: "practice"
 translationKey: "buy-first-crypto"
 slug: "buy-first-crypto"

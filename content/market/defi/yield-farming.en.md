@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "Yield Farming: How to Earn in DeFi"
-description: "Yield farming in DeFi: how it works, where the returns come from, risks, and whether beginners should give it a shot"
+description: "Yield farming in DeFi explained: how it works, where the returns actually come from, the main risks involved, and whether it makes sense for total beginners."
 category: "defi"
 translationKey: "yield-farming"
 slug: "yield-farming"

@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "First Transaction Without Mistakes"
-description: "How to send $1 to anyone in the world in 10 minutes: step-by-step guide, address and network verification"
+description: "How to send crypto in 10 minutes: step-by-step guide covering address format, fees, confirmation, and common mistakes beginners make with their first transfer."
 category: "practice"
 translationKey: "first-transaction"
 slug: "first-transaction-without-mistakes"

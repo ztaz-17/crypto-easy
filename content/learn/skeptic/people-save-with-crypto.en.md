@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "How People Save Money with Crypto: Real-Life Cases"
-description: "Real stories from Venezuela, Turkey, Argentina, and Africa — how people protect their savings with cryptocurrency"
+description: "Real stories from Venezuela, Turkey, Argentina, and Africa — how ordinary people protect their savings with crypto when local currencies rapidly lose value."
 category: "skeptic"
 translationKey: "people-save-with-crypto"
 slug: "how-people-save-money-with-crypto"

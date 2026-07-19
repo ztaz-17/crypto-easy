@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Hot vs Cold Wallets: Which One to Choose"
-description: "The difference between hot and cold crypto wallets — MetaMask, Trust Wallet, Ledger, Trezor. When to use which and how to keep your coins safe."
+description: "Hot wallets vs cold wallets compared: MetaMask, Trust Wallet, Ledger, Trezor. Which wallet type suits your needs and how beginners can use both together safely."
 category: "security"
 translationKey: "hot-vs-cold-wallets"
 slug: "hot-vs-cold-wallets"

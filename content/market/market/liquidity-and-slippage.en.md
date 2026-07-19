@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "What Is Liquidity and Why It Matters for Price"
-description: "What liquidity means in crypto, market depth, slippage, and why low liquidity is dangerous — explained in plain English"
+description: "What liquidity means in crypto trading, how market depth and order books work, what slippage is, and why low liquidity makes trading dangerous for beginners."
 category: "market"
 translationKey: "liquidity-and-slippage"
 slug: "liquidity-and-slippage"

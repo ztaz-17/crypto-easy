@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "What Is DeFi: Finance Without Banks"
-description: "DeFi — decentralized finance: how it works, examples (Uniswap, Aave, MakerDAO), risks. Simple explanation"
+description: "DeFi — decentralized finance explained in simple terms. How DeFi works, popular protocols (Uniswap, Aave, MakerDAO), and why it matters for your money."
 category: "defi"
 translationKey: "what-is-defi"
 slug: "what-is-defi"

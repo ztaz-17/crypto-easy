@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "Beginner Mistakes: Real-Life Cases and Solutions"
-description: "The most common crypto beginner mistakes: wrong network, lost seed phrase, unlimited token approvals, falling for scams — with solutions for each"
+description: "Crypto beginner mistakes: wrong network, lost seed phrase, unlimited approvals, scam websites. Real cases and practical solutions you can apply starting today."
 category: "security"
 translationKey: "common-mistakes"
 slug: "common-mistakes"

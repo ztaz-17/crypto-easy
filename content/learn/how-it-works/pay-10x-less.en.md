@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "How to pay 10x less for crypto transfers"
-description: "How to save on fees: choosing the right network, L2 solutions, proper timing — pay less for your crypto transfers"
+description: "How to save 10x on crypto transaction fees by choosing the right network, using L2 solutions like Arbitrum and Optimism, and timing your transfers wisely."
 category: "how-it-works"
 translationKey: "pay-10x-less"
 slug: "pay-10x-less"

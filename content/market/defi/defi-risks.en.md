@@ -1,7 +1,7 @@
 ---
 weight: 5
 title: "DeFi Risks: What You Need to Know Before Jumping In"
-description: "Key DeFi risks: rug pull, smart contract bugs, impermanent loss, liquidation, lost funds. How to minimize risks"
+description: "Key DeFi risks for beginners: rug pulls, smart contract bugs, impermanent loss, liquidation. Learn to spot risks and protect your funds before investing."
 category: "defi"
 translationKey: "defi-risks"
 slug: "defi-risks"

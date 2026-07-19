@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "Why you’re losing money even if you’re saving"
-description: "Inflation silently eats your savings. Learn why bank deposits aren't protecting you and how to calculate your real losses."
+description: "Inflation silently eats your savings each year. Why bank deposits aren't protecting your money and how crypto offers an alternative store of value for savings."
 slug: "why-youre-losing-money-even-if-saving"
 translationKey: "inflation-illusion"
 category: "skeptic"

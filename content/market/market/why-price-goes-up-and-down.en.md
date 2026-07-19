@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "Why Crypto Prices Go Up and Down"
-description: "What affects cryptocurrency prices: supply and demand, news, speculation. A simple explanation for beginners"
+description: "What affects cryptocurrency prices: supply and demand, news events, market sentiment, speculation. A simple explanation of crypto price movements for beginners."
 category: "market"
 translationKey: "why-price-goes-up-and-down"
 slug: "why-crypto-price-goes-up-and-down"

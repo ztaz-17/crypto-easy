@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "What Is Money Really (and Why It's Just Numbers)"
-description: "Understanding what money really is: database entries, the role of banks, and who controls the financial system"
+description: "What is money really — database entries, bank deposits, and who decides value. A deep look at how the modern monetary system works and who controls your money."
 category: "basis"
 translationKey: "what-is-money-really"
 slug: "what-is-money-really"

@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "How Governments Treat Crypto Around the World"
-description: "Different approaches to crypto regulation: from complete bans to full legalization. USA, EU, UAE, Singapore, China"
+description: "Different approaches to crypto regulation worldwide: from complete bans to full legalization. Compare how the US, EU, China, and others regulate cryptocurrency."
 category: "regulation"
 translationKey: "how-governments-treat-crypto"
 slug: "how-governments-treat-crypto"

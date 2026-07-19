@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: "DEX vs CEX — Which Exchange to Use for Crypto Trading"
-description: "The difference between centralized and decentralized exchanges: security, fees, KYC, liquidity — what's right for you"
+description: "Centralized vs decentralized crypto exchanges compared: security, fees, liquidity, ease of use. Which type suits beginners better? A complete comparison guide."
 category: "defi"
 translationKey: "dex-vs-cex"
 slug: "dex-vs-cex-which-to-choose"

@@ -1,7 +1,7 @@
 ---
 weight: 1
 title: "What Happens When You Send Crypto"
-description: "Behind the scenes of a crypto transaction: creation, signing, network broadcast, and confirmation — explained simply"
+description: "Behind the scenes of a crypto transaction: creation, signing, broadcast, mempool, confirmation. What actually happens under the hood from click to completion."
 category: "how-it-works"
 translationKey: "what-happens-when-you-send-crypto"
 slug: "what-happens-when-you-send-crypto"
