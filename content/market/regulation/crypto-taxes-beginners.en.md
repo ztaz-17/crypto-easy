@@ -4,7 +4,9 @@ title: "Crypto Taxes: What Beginners Must Know"
 description: "Crypto taxes for beginners: when to pay, how to calculate capital gains, what documents to keep, and common mistakes. Simple explanations for a complex topic."
 category: "market"
 translationKey: "crypto-taxes-beginners"
-slug: "krypto-steuern-fur-anfanger"
+aliases:
+  - /en/market/regulation/krypto-steuern-fur-anfanger/
+slug: "crypto-taxes-for-beginners"
 keywords:
   - crypto taxes for beginners
   - how to pay crypto taxes
