@@ -28,7 +28,7 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 - **Low fees**: 0.1% spot, 0.02% futures
 - **P2P trading**: buy crypto with local payment methods
 - **User-friendly interface**: beginner mode available
-- **Security**: cold wallets, 2FA, $700M+ insurance fund
+- **Security**: [cold wallets](/en/glossary/#cold-wallet), 2FA, $700M+ insurance fund
 - **Education**: built-in courses and trading simulator
 
 **Welcome bonus**: up to $100 on first deposit of $50+.

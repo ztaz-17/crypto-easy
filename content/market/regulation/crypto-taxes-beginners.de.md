@@ -72,14 +72,14 @@ Dazu gehören:
 - Gehalt in Krypto
 - Staking-Belohnungen (Ethereum 2.0, Solana usw.)
 - Mining
-- Airdrops
-- DeFi-Erträge (Verleih, Farming)
+- [Airdrops](/de/glossary/#airdrop)
+- [DeFi](/de/glossary/#defi)-Erträge (Verleih, Farming)
 
 All das zählt als **Einkommen** und wird wie dein normales Gehalt besteuert. Der Satz entspricht deinem persönlichen Einkommensteuersatz.
 
 ### Du hast ein NFT gekauft oder GameFi gespielt
 
-Wenn du ein NFT mit Krypto gekauft hast — kann das ein steuerpflichtiges Ereignis sein (je nach Land). Wenn du das NFT teurer verkauft hast als gekauft — ist der Gewinn steuerpflichtig.
+Wenn du ein [NFT](/de/glossary/#nft) mit Krypto gekauft hast — kann das ein steuerpflichtiges Ereignis sein (je nach Land). Wenn du das [NFT](/de/glossary/#nft) teurer verkauft hast als gekauft — ist der Gewinn steuerpflichtig.
 
 Bei GameFi (Spielen wie Axie Infinity) gelten Token-Belohnungen als Einkommen zum Zeitpunkt des Erhalts.
 
@@ -91,8 +91,8 @@ Nicht alles löst eine Steuerpflicht aus:
 
 | Transaktion | Steuer? | Erklärung |
 |------------|---------|-----------|
-| Nur gekauft und gehalten (HODL) | ❌ Nein | Bis zum Verkauf — keine Steuer |
-| Überweisung zwischen eigenen Wallets | ❌ Nein | Vom Exchange zur Cold Wallet ist kein Verkauf |
+| Nur gekauft und gehalten ([HODL](/de/glossary/#hodl)) | ❌ Nein | Bis zum Verkauf — keine Steuer |
+| Überweisung zwischen eigenen Wallets | ❌ Nein | Vom Exchange zur [Cold Wallet](/de/glossary/#cold-wallet) ist kein Verkauf |
 | Krypto verschenkt (bis zur Grenze) | ❌ Nein in manchen Ländern | Variiert je nach Land |
 | Krypto gekauft und Zugang verloren | ❌ Nein | Es ist ein Verlust, kein Gewinn |
 
@@ -186,7 +186,7 @@ Das sind die typischen Fehler:
 
 ### Fehler 1: «Krypto ist anonym, das Finanzamt erfährt nichts»
 
-Das ist der gefährlichste Mythos. Alle großen Börsen geben Daten an Aufsichtsbehörden weiter. Binance, Coinbase, Kraken — alle halten KYC ein. Wenn du Geld auf dein Konto abgehoben hast — weiß die Bank bereits Bescheid. Die Blockchain ist ein öffentliches Hauptbuch und spezielle Software verfolgt verdächtige Transaktionen.
+Das ist der gefährlichste Mythos. Alle großen Börsen geben Daten an Aufsichtsbehörden weiter. Binance, Coinbase, Kraken — alle halten [KYC](/de/glossary/#kyc) ein. Wenn du Geld auf dein Konto abgehoben hast — weiß die Bank bereits Bescheid. Die [Blockchain](/de/glossary/#blockchain) ist ein öffentliches Hauptbuch und spezielle Software verfolgt verdächtige Transaktionen.
 
 ### Fehler 2: «Ich habe nur BTC gegen USDT getauscht — das ist kein Verkauf»
 

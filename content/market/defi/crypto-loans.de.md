@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Stell dir vor: Du brauchst schnell Geld, aber die Bank lehnt dich ab wegen einer schlechten Bonität. Oder du willst einen Kredit aufnehmen, hast aber keine Lust auf KYC und ellenlange Formulare.
+Stell dir vor: Du brauchst schnell Geld, aber die Bank lehnt dich ab wegen einer schlechten Bonität. Oder du willst einen Kredit aufnehmen, hast aber keine Lust auf [KYC](/de/glossary/#kyc) und ellenlange Formulare.
 
-In DeFi ist das kein Problem.
+In [DeFi](/de/glossary/#defi) ist das kein Problem.
 
 > **Ein Krypto-Darlehen** ist Geld, das du dir gegen deine Kryptos als Sicherheit leihst – ohne eine einzige Frage zu deiner Kreditgeschichte.
 
@@ -232,7 +232,7 @@ DeFi-Darlehen sind eine Revolution im Finanzwesen:
 | Sofortige Genehmigung                  | Liquidationsrisiko bei Marktcrash            |
 | Keine Bonitätsprüfung nötig            | Risiko von Smart-Contract-Fehlern            |
 | Von überall auf der Welt zugänglich    | Erfordert aktive Überwachung der Position    |
-| Transparenz (alles auf der Blockchain) | Volatilität von Kryptowährungen              |
+| Transparenz (alles auf der [Blockchain](/de/glossary/#blockchain)) | Volatilität von Kryptowährungen              |
 | Oft niedrigere Zinsen als bei Banken   | Verlust der Sicherheiten bei Liquidation     |
 
 > Ein DeFi-Darlehen ist kein free money. Es ist ein Werkzeug, das dir Freiheit gibt – aber auch Verantwortung verlangt.

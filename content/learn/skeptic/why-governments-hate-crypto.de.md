@@ -117,7 +117,7 @@ Bei Crypto ist das völlig anders.
 
 Kryptowährungen sind von Natur aus **pseudonym**. Du verbindest eine Wallet nicht mit deinem Pass (außer du nutzt zentralisierte Börsen).
 
-Ja, alle Transaktionen werden auf der Blockchain aufgezeichnet. Aber wer hinter einer bestimmten Adresse steckt – weiß niemand.
+Ja, alle Transaktionen werden auf der [Blockchain](/de/glossary/#blockchain) aufgezeichnet. Aber wer hinter einer bestimmten Adresse steckt – weiß niemand.
 
 > **Die Regierung kann nicht einfach mit einer Steuerrechnung vor deiner Tür stehen, wenn sie nicht weiß, dass du Crypto besitzt.**
 
@@ -130,7 +130,7 @@ Ein besonderer Kopfschmerz für Steuerbehörden kommt von **DeFi** (dezentralisi
 - Staking;
 - Kreditvergabe und -aufnahme;
 - Yield Farming;
-- Swaps über DEXs.
+- Swaps über [DEXs](/de/glossary/#dex).
 
 All das geschieht ohne Vermittler. Ohne Banken. Ohne Meldepflicht. Die Regierung sieht diese Transaktionen schlichtweg nicht.
 
@@ -138,7 +138,7 @@ Und wenn sie sie nicht sieht – kann sie sie nicht besteuern.
 
 ### Wie Regierungen zu regulieren versuchen
 
-Hier kommen die **Börsen** ins Spiel. Da Steuern über P2P und DeFi fast nicht einzutreiben sind, üben Regierungen Druck auf den einen Einstiegspunkt aus – zentralisierte Börsen (CEXs).
+Hier kommen die **Börsen** ins Spiel. Da Steuern über P2P und [DeFi](/de/glossary/#defi) fast nicht einzutreiben sind, üben Regierungen Druck auf den einen Einstiegspunkt aus – zentralisierte Börsen ([CEXs](/de/glossary/#cex)).
 
 Anforderungen an Börsen:
 

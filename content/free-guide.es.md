@@ -37,7 +37,7 @@ En la guía explicamos cómo crear una billetera personal y transferir tus fondo
 Compraste Bitcoin — cayó. Vendiste por miedo — subió. ¿Te suena?
 
 Las decisiones emocionales son el enemigo #1 del inversor novato en cripto.  
-La guía desglosa una estrategia simple de gestión de capital que te protege de las ventas por pánico y el FOMO.
+La guía desglosa una estrategia simple de gestión de capital que te protege de las ventas por pánico y el [FOMO](/es/glossary/#fomo).
 
 ---
 

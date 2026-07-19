@@ -57,7 +57,7 @@ Sobald diese Adresse aber mit deiner Identität verknüpft wird (über eine Bör
 
 ### Wie Chain-Analyse funktioniert
 
-Es gibt Unternehmen – Chainalysis, Elliptic, CipherTrace – die genau das machen. Sie analysieren die Blockchain:
+Es gibt Unternehmen – Chainalysis, Elliptic, CipherTrace – die genau das machen. Sie analysieren die [Blockchain](/de/glossary/#blockchain):
 
 - verknüpfen Adressen mit Börsen;
 - verfolgen Geldbewegungen;
@@ -136,7 +136,7 @@ Bitcoin dagegen:
 
 - hat ein funktionierendes Netzwerk mit tausenden Knoten weltweit;
 - wird von Millionen Menschen genutzt;
-- hat eine ausgebaute Infrastruktur (Börsen, Wallets, DeFi);
+- hat eine ausgebaute Infrastruktur (Börsen, Wallets, [DeFi](/de/glossary/#defi));
 - wird von institutionellen Anlegern anerkannt (ETFs in den USA, Investitionen großer Unternehmen).
 
 > Der Unterschied zwischen Tulpen und Bitcoin: Bitcoin hat Funktionalität, Nutzen und Infrastruktur. Tulpen – nur Schönheit.
@@ -182,7 +182,7 @@ Das geht schneller, als ein Bankkonto zu eröffnen.
 Vor fünf Jahren bedeutete Krypto-Kauf:
 
 - Anmeldung auf einer Börse;
-- KYC-Durchlauf (mit Passfoto);
+- [KYC](/de/glossary/#kyc)-Durchlauf (mit Passfoto);
 - Warten auf Freischaltung;
 - Auftragsarten verstehen müssen.
 
@@ -218,7 +218,7 @@ Das sind grundverschiedene Dinge:
 Die meisten, die „alles verloren“ haben:
 
 - sind während des Hype in Krypto eingestiegen;
-- haben zum Höchststand gekauft (FOMO);
+- haben zum Höchststand gekauft ([FOMO](/de/glossary/#fomo));
 - haben in Panik verkauft (als alles abgestürzt ist);
 - hatten keine Ahnung, was sie da eigentlich kaufen.
 

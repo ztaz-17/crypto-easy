@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Picture this: you need money fast, but the bank turns you down because of a bad credit score. Or maybe you want to take out a loan but don't feel like going through KYC and filling out endless forms.
+Picture this: you need money fast, but the bank turns you down because of a bad credit score. Or maybe you want to take out a loan but don't feel like going through [KYC](/en/glossary/#kyc) and filling out endless forms.
 
-In DeFi, that's not a problem.
+In [DeFi](/en/glossary/#defi), that's not a problem.
 
 > **A crypto loan** is money you borrow against your crypto as collateral — without a single question about your credit history.
 

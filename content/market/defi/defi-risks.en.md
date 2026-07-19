@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Picture this: you find a DeFi protocol promising **500% APY**. You deposit your savings — and a week later the pool balance is zero. The "withdraw" button doesn't work anymore.
+Picture this: you find a [DeFi](/en/glossary/#defi) protocol promising **500% APY**. You deposit your savings — and a week later the pool balance is zero. The "withdraw" button doesn't work anymore.
 
 Or another scenario: you take out a loan backed by ETH, the market takes a sharp downturn, and the smart contract instantly sells your collateral at the lowest price. You're left with neither collateral nor loan.
 
@@ -98,7 +98,7 @@ A smart contract audit is a code review by security experts. But:
 
 ## Impermanent Loss: Losing Out When Prices Move
 
-**Impermanent loss (IL)** is what happens when you provide liquidity to a DEX pool and end up with less value than if you'd just held the tokens.
+**Impermanent loss (IL)** is what happens when you provide liquidity to a [DEX](/en/glossary/#dex) pool and end up with less value than if you'd just held the tokens.
 
 ### How It Works
 
@@ -177,7 +177,7 @@ DeFi isn't a casino if you approach it smartly. Here are the basic safety princi
 Use this checklist:
 
 - [ ] Has it been audited by a reputable firm? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] What's the TVL (total value locked)? Low TVL (< $1M) means high risk
+- [ ] What's the [TVL](/en/glossary/#tvl) (total value locked)? Low [TVL](/en/glossary/#tvl) (< $1M) means high risk
 - [ ] How long has the protocol been running? (6+ months is better)
 - [ ] Is the code open source? Can you verify it?
 - [ ] Is liquidity locked?
@@ -219,7 +219,7 @@ Deposit a small amount ($50–100) in a new protocol. Try withdrawing it after a
 | **Liquidation** | Forced sale of collateral when prices drop | Keep 200%+ collateral ratio; use stablecoins as collateral; don't max out loans |
 | **Protocol token dump** | Reward token crashes, your yield goes negative | Don't hold reward tokens long; convert to stablecoins |
 | **High gas fees** | Network fees eat your profits | Use L2s (Arbitrum, Optimism, Polygon); deposit larger amounts |
-| **Lost access** | Lost seed phrase or key means permanent loss | Store seed phrase securely (metal, safe); never in the cloud or on screenshots |
+| **Lost access** | Lost [seed phrase](/en/glossary/#seed-phrase) or key means permanent loss | Store [seed phrase](/en/glossary/#seed-phrase) securely (metal, safe); never in the cloud or on screenshots |
 
 ---
 

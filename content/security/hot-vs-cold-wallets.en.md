@@ -52,7 +52,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 | Wallet            | Type              | Key Feature                           |
 |-------------------|-------------------|---------------------------------------|
 | **MetaMask**      | Browser extension | Most popular for Ethereum and EVM networks |
-| **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in DApp browser |
+| **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in [DApp](/en/glossary/#dapp) browser |
 | **Exodus**        | Desktop / Mobile  | Beautiful interface, built-in exchange |
 | **Phantom**       | Browser / Mobile  | Optimized for Solana                  |
 | **Coinbase Wallet**| Mobile / Extension| Integrated with exchange, non-custodial |
@@ -63,7 +63,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 
 1. You install the app or extension.
 2. The wallet generates a **[seed phrase](/en/glossary/#seed-phrase)** (12 or 24 words).
-3. Private keys are created from the seed phrase.
+3. [Private keys](/en/glossary/#private-key) are created from the [seed phrase](/en/glossary/#seed-phrase).
 4. Every time you send crypto, the wallet signs the transaction **right on your device**.
 5. The signed transaction is sent to the network.
 
@@ -73,7 +73,7 @@ All of this happens in seconds. Convenient? Very.
 
 - fast transactions;
 - convenient access from phone or computer;
-- integration with DApps, DeFi, NFTs;
+- integration with DApps, [DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft);
 - free (except network fees);
 - great for daily use.
 
@@ -142,7 +142,7 @@ Even if your computer is infected with a virus, the attacker cannot steal the ke
 
 ## Hot vs Cold: Comparison Table
 
-| Criteria                 | Hot Wallet                            | Cold Wallet                            |
+| Criteria                 | [Hot Wallet](/en/glossary/#hot-wallet)                            | [Cold Wallet](/en/glossary/#cold-wallet)                            |
 |--------------------------|---------------------------------------|----------------------------------------|
 | **Internet connection**  | Always online                         | Offline (connects only to sign)        |
 | **Security**             | Medium (depends on device)            | High (keys never leave the device)     |
@@ -229,7 +229,7 @@ Yes. The seed phrase is universal.
 
 ### What if my Ledger breaks?
 
-No problem. The device is just a "key." The coins themselves are stored on the blockchain.
+No problem. The device is just a "key." The coins themselves are stored on the [blockchain](/en/glossary/#blockchain).
 
 Buy a new Ledger (or any other BIP39-compatible wallet) and restore access using your seed phrase.
 

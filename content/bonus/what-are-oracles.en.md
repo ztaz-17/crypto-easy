@@ -23,7 +23,7 @@ It's smart. It follows instructions perfectly. But it has no idea what's happeni
 
 > **A smart contract is exactly that kind of robot.**
 
-It lives inside a blockchain and can only interact with what's already on-chain. Data from the outside world — prices, exchange rates, sports results — is off-limits.
+It lives inside a [blockchain](/en/glossary/#blockchain) and can only interact with what's already on-chain. Data from the outside world — prices, exchange rates, sports results — is off-limits.
 
 So how do you get a smart contract to tell you the price of Bitcoin right now?
 
@@ -153,7 +153,7 @@ Chainlink uses multiple layers of protection:
 2. **Aggregation** — the final price is the median of all sources;
 3. **Incentives** — nodes earn rewards for honest work and lose their deposit for cheating.
 
-👉 Thanks to this, Chainlink is the de facto standard for DeFi applications.
+👉 Thanks to this, Chainlink is the de facto standard for [DeFi](/en/glossary/#defi) applications.
 
 ---
 

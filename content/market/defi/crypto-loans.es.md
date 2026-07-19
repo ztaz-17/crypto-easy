@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Imagina esto: necesitas dinero urgente, pero el banco te rechaza por mal historial crediticio. O quizás quieres pedir un préstamo pero no te apetece pasar por KYC ni llenar formularios interminables.
+Imagina esto: necesitas dinero urgente, pero el banco te rechaza por mal historial crediticio. O quizás quieres pedir un préstamo pero no te apetece pasar por [KYC](/es/glossary/#kyc) ni llenar formularios interminables.
 
-En DeFi, eso no es un problema.
+En [DeFi](/es/glossary/#defi), eso no es un problema.
 
 > **Un préstamo cripto** es dinero que pides prestado dejando tus criptos como garantía — sin que nadie pregunte por tu historial crediticio.
 

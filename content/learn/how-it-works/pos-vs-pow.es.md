@@ -32,7 +32,7 @@ Los dos mecanismos principales son **Proof of Work (PoW)** y **Proof of Stake (P
 
 ### Cómo funciona
 
-Proof of Work es exactamente lo que parece: tienes que **realizar trabajo computacional real** para añadir un nuevo bloque a la blockchain.
+[Proof of Work](/es/glossary/#proof-of-work) es exactamente lo que parece: tienes que **realizar trabajo computacional real** para añadir un nuevo bloque a la [blockchain](/es/glossary/#blockchain).
 
 Imagina que tienes frente a ti una caja fuerte gigante con una cerradura de combinación que tiene mil millones de códigos posibles. Pruebas combinación tras combinación — pasan horas, días, semanas. Pero en el momento en que encuentras la clave, cualquiera puede verificar que es correcta.
 
@@ -73,7 +73,7 @@ Los mineros no son programadores ni desarrolladores. Son **operadores de hardwar
 
 ### Cómo funciona
 
-Proof of Stake no implica calcular números. En su lugar, los participantes **bloquean (apuestan) sus monedas** en la red y ganan el derecho a confirmar bloques en proporción a su participación.
+[Proof of Stake](/es/glossary/#proof-of-stake) no implica calcular números. En su lugar, los participantes **bloquean (apuestan) sus monedas** en la red y ganan el derecho a confirmar bloques en proporción a su participación.
 
 Piénsalo como un **depósito bancario** en lugar de una lotería con papeletas. Cuanto mayor es tu depósito, más a menudo te eligen para confirmar transacciones. Intentas hacer trampa — y tu depósito se reduce (slashing).
 

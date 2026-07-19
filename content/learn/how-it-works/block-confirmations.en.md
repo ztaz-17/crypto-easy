@@ -26,7 +26,7 @@ And the coins still haven't arrived.
 
 Why can't we just send things instantly? They're digital money, after all!
 
-The answer lies in how the blockchain itself works. Your transaction doesn't fly directly from wallet to wallet. First it has to land inside a **block** — and only then does it become part of the history.
+The answer lies in how the [blockchain](/en/glossary/#blockchain) itself works. Your transaction doesn't fly directly from wallet to wallet. First it has to land inside a **block** — and only then does it become part of the history.
 
 > In this article we'll cover: what a block is, why confirmations are needed, how many you should wait for, and when a transaction can be considered safe.
 
@@ -70,7 +70,7 @@ This process requires enormous computing power. That's why a new block in Bitcoi
 
 ### Ethereum: Validators (Proof of Stake)
 
-After switching to Proof of Stake, blocks in Ethereum are created by **validators** — participants who have staked at least 32 ETH. They don't "mine" — they simply confirm blocks.
+After switching to [Proof of Stake](/en/glossary/#proof-of-stake), blocks in Ethereum are created by **validators** — participants who have staked at least 32 ETH. They don't "mine" — they simply confirm blocks.
 
 A new block in Ethereum appears roughly every **~12 seconds**.
 

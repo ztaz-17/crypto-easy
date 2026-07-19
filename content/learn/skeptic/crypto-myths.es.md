@@ -57,7 +57,7 @@ Pero si esa dirección alguna vez se vincula con tu identidad (a través de un e
 
 ### Cómo Funciona el Análisis de Cadena
 
-Hay empresas — Chainalysis, Elliptic, CipherTrace — que hacen exactamente esto. Analizan la blockchain:
+Hay empresas — Chainalysis, Elliptic, CipherTrace — que hacen exactamente esto. Analizan la [blockchain](/es/glossary/#blockchain):
 
 - conectan direcciones con exchanges;
 - rastrean el movimiento del dinero;
@@ -136,7 +136,7 @@ Bitcoin, en cambio:
 
 - tiene una red funcional con miles de nodos en todo el mundo;
 - es usado por millones de personas;
-- tiene una infraestructura desarrollada (exchanges, wallets, DeFi);
+- tiene una infraestructura desarrollada (exchanges, wallets, [DeFi](/es/glossary/#defi));
 - es reconocido por inversores institucionales (ETFs en EE.UU., inversiones de grandes empresas).
 
 > La diferencia entre los tulipanes y Bitcoin: Bitcoin tiene funcionalidad, utilidad e infraestructura. Los tulipanes — solo belleza.
@@ -182,7 +182,7 @@ Tarda menos que abrir una cuenta bancaria.
 Hace cinco años, comprar crypto implicaba:
 
 - registrarse en un exchange;
-- pasar por KYC (con foto del pasaporte);
+- pasar por [KYC](/es/glossary/#kyc) (con foto del pasaporte);
 - esperar la aprobación;
 - aprender los tipos de órdenes.
 
@@ -218,7 +218,7 @@ Son cosas fundamentalmente distintas:
 La mayoría de los que "lo perdieron todo":
 
 - se metieron al crypto durante el hype;
-- compraron en el pico (FOMO);
+- compraron en el pico ([FOMO](/es/glossary/#fomo));
 - vendieron en pánico (cuando todo se desplomó);
 - no tenían idea de lo que estaban comprando.
 

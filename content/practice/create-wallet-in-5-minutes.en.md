@@ -21,7 +21,7 @@ keywords:
 
 Congratulations! If you're reading this — you're ready to take the first real step into the crypto world.
 
-You don't need to buy Bitcoin right now. You don't need to understand blockchain. You only need one thing: **create your first crypto wallet**.
+You don't need to buy Bitcoin right now. You don't need to understand [blockchain](/en/glossary/#blockchain). You only need one thing: **create your first crypto wallet**.
 
 It will take less time than brewing a cup of tea.
 
@@ -35,7 +35,7 @@ Important: the coins themselves are not stored in the wallet — they live on th
 
 A wallet has two keys:
 - **Public key** (wallet address) — you can give this to anyone to receive money.
-- **Private key** (seed phrase) — this is the password to all your money. Never show it to anyone.
+- **Private key** ([seed phrase](/en/glossary/#seed-phrase)) — this is the password to all your money. Never show it to anyone.
 
 > Remember: **whoever holds the keys — holds the coins**.
 
@@ -50,7 +50,7 @@ We'll look at the two most popular options.
 | Parameter | MetaMask | Trust Wallet |
 |---|---|---|
 | Where it works | Browser (Chrome, Firefox, Brave) and mobile app | Mobile app only (iOS/Android) |
-| Best for | DeFi, NFT, web applications | Everyday transfers, storage, payments |
+| Best for | [DeFi](/en/glossary/#defi), [NFT](/en/glossary/#nft), web applications | Everyday transfers, storage, payments |
 | Difficulty | Very low | Very low |
 | Security | [Non-custodial](/en/glossary/#non-custodial-wallet) | [Non-custodial](/en/glossary/#non-custodial-wallet) |
 

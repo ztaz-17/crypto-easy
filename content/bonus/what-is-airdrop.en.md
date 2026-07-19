@@ -31,7 +31,7 @@ But most of the time, it's a **trap**.
 
 ---
 
-In the crypto world, an airdrop is a distribution of free tokens to a large number of wallets. But so many myths, scams, and fakes have piled up around this term that it's easy for a beginner to lose money.
+In the crypto world, an [airdrop](/en/glossary/#airdrop) is a distribution of free tokens to a large number of wallets. But so many myths, scams, and fakes have piled up around this term that it's easy for a beginner to lose money.
 
 In this article, we'll cover:
 
@@ -107,7 +107,7 @@ Projects need tokens to be held by **lots of different people**, not just one te
 |---|---|
 | Attract users | Rapid audience growth |
 | Reward early adopters | Retain loyal users |
-| Distribute governance | Decentralization |
+| Distribute governance | [Decentralization](/en/glossary/#decentralization) |
 | Build a community | Organic marketing |
 
 ---
@@ -124,7 +124,7 @@ Requirements:
 
 - you just had to make at least one trade on Uniswap before a certain date;
 - no connecting wallets through random links;
-- no seed phrase requests.
+- no [seed phrase](/en/glossary/#seed-phrase) requests.
 
 > **Result:** thousands of people received real money. Tokens were traded on exchanges from day one.
 

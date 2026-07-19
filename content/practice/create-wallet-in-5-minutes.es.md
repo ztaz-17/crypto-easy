@@ -20,7 +20,7 @@ keywords:
 
 ¡Felicidades! Si estás leyendo esto — estás listo para dar el primer paso real en el mundo cripto.
 
-No necesitas comprar Bitcoin ahora mismo. No necesitas entender blockchain. Solo necesitas una cosa: **crear tu primera cartera de criptomonedas**.
+No necesitas comprar Bitcoin ahora mismo. No necesitas entender [blockchain](/es/glossary/#blockchain). Solo necesitas una cosa: **crear tu primera cartera de criptomonedas**.
 
 Te tomará menos tiempo que prepararte una taza de té.
 
@@ -49,7 +49,7 @@ Veamos las dos opciones más populares.
 | Parámetro | MetaMask | Trust Wallet |
 |---|---|---|
 | Dónde funciona | Navegador (Chrome, Firefox, Brave) y app móvil | Solo app móvil (iOS/Android) |
-| Ideal para | DeFi, NFT, aplicaciones web | Transferencias diarias, almacenamiento, pagos |
+| Ideal para | [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft), aplicaciones web | Transferencias diarias, almacenamiento, pagos |
 | Dificultad | Muy baja | Muy baja |
 | Seguridad | [No custodia](/es/glossary/#non-custodial-wallet) | [No custodia](/es/glossary/#non-custodial-wallet) |
 

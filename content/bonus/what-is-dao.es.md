@@ -30,7 +30,7 @@ Y sin embargo, funciona, genera dinero y crece.
 
 > **DAO (Organización Autónoma Descentralizada)** — de eso exactamente estamos hablando.
 
-Una DAO es una organización autónoma descentralizada que no funciona por personas, sino por **código y votación de los miembros**.
+Una [DAO](/es/glossary/#dao) es una organización autónoma descentralizada que no funciona por personas, sino por **código y votación de los miembros**.
 
 En este artículo veremos:
 
@@ -44,7 +44,7 @@ En este artículo veremos:
 
 ### Definición
 
-Una DAO es una organización que vive en una blockchain y funciona mediante **contratos inteligentes**.
+Una DAO es una organización que vive en una [blockchain](/es/glossary/#blockchain) y funciona mediante **contratos inteligentes**.
 
 En lugar de gerentes — **reglas escritas en código**.
 En lugar de órdenes — **votación ponderada por tokens**.
@@ -142,7 +142,7 @@ Cómo funciona:
 
 ### Uniswap
 
-**Uniswap** es un exchange descentralizado (DEX) que también opera como DAO.
+**Uniswap** es un exchange descentralizado ([DEX](/es/glossary/#dex)) que también opera como DAO.
 
 Qué se decide mediante votación:
 

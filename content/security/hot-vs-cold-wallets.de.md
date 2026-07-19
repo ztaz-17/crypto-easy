@@ -52,7 +52,7 @@ Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echt
 | Wallet            | Typ              | Besonderheit                            |
 |-------------------|------------------|-----------------------------------------|
 | **MetaMask**      | Browser-Erweiterung | Die beliebteste für Ethereum und EVM-Netzwerke |
-| **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter DApp-Browser |
+| **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter [DApp](/de/glossary/#dapp)-Browser |
 | **Exodus**        | Desktop / Mobil  | Schöne Oberfläche, eingebauter Tausch   |
 | **Phantom**       | Browser / Mobil  | Optimiert für Solana                    |
 | **Coinbase Wallet**| Mobil / Erweiterung | Integration mit der Börse, nicht-verwahrend |
@@ -73,7 +73,7 @@ All das geschieht in Sekunden. Bequem? Sehr.
 
 - schnelle Transaktionen;
 - bequemer Zugriff vom Handy oder Computer;
-- Integration mit DApps, DeFi, NFTs;
+- Integration mit DApps, [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft);
 - kostenlos (außer Netzwerkgebühren);
 - geeignet für den täglichen Gebrauch.
 
@@ -142,7 +142,7 @@ Selbst wenn dein Computer mit einem Virus infiziert ist – der Angreifer kann d
 
 ## Hot vs Cold: Vergleichstabelle
 
-| Kriterium                    | Hot Wallet                             | Cold Wallet                            |
+| Kriterium                    | [Hot Wallet](/de/glossary/#hot-wallet)                             | [Cold Wallet](/de/glossary/#cold-wallet)                            |
 |------------------------------|----------------------------------------|----------------------------------------|
 | **Internetverbindung**       | Immer online                           | Offline (nur zum Signieren verbunden)  |
 | **Sicherheit**               | Mittel (abhängig vom Gerät)            | Hoch (Schlüssel verlassen nie das Gerät) |
@@ -229,7 +229,7 @@ Ja. Die Seed-Phrase ist universell.
 
 ### Was, wenn der Ledger kaputtgeht?
 
-Kein Problem. Das Gerät ist nur ein «Schlüssel». Die Münzen selbst werden in der Blockchain aufbewahrt.
+Kein Problem. Das Gerät ist nur ein «Schlüssel». Die Münzen selbst werden in der [Blockchain](/de/glossary/#blockchain) aufbewahrt.
 
 Kaufe einen neuen Ledger (oder eine andere BIP39-kompatible Wallet) und stelle den Zugriff mit der Seed-Phrase wieder her.
 

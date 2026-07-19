@@ -200,7 +200,7 @@ La gente:
 Según Chainalysis (2023):
 
 - Nigeria ocupa el 2° lugar del mundo en volumen de transacciones P2P de cripto;
-- Kenia está entre los 10 primeros en uso de DeFi;
+- Kenia está entre los 10 primeros en uso de [DeFi](/es/glossary/#defi);
 - el volumen total de remesas en cripto en África supera los $100 mil millones al año.
 
 ---

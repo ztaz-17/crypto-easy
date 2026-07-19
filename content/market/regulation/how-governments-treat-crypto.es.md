@@ -101,7 +101,7 @@ Lo que hicieron los EAU:
 Pero hay trampas:
 
 - las empresas necesitan una licencia (no es barata de obtener);
-- reglas estrictas de KYC y AML (nada de anonimato);
+- reglas estrictas de [KYC](/es/glossary/#kyc) y [AML](/es/glossary/#aml) (nada de anonimato);
 - las privacy coins están prohibidas (Monero, Zcash).
 
 **En resumen:** los EAU son uno de los países más convenientes para el negocio crypto — pero solo si estás dispuesto a operar dentro de la ley.
@@ -145,7 +145,7 @@ Pero hay matices importantes:
 - China tiene **su propia moneda digital** — e-CNY (yuan digital), totalmente controlada por el banco central;
 - muchos ciudadanos chinos siguen comerciando crypto mediante plataformas P2P y VPNs;
 - empresas chinas tienen cantidades significativas de Bitcoin (a través de entidades offshore);
-- la prohibición no impidió que China sea un actor importante en tecnología blockchain (patentes, investigación).
+- la prohibición no impidió que China sea un actor importante en tecnología [blockchain](/es/glossary/#blockchain) (patentes, investigación).
 
 > **La paradoja:** China prohibió la crypto para sus ciudadanos pero sigue desarrollando la tecnología a nivel estatal.
 

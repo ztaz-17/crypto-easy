@@ -173,7 +173,7 @@ Everyone wants to sell — nobody wants to buy. The spread blows out to ridiculo
 On low-liquidity coins, it's easy to manipulate the price. A large player (whale) can:
 
 - boost the price 50% with a single order;
-- wait for newcomers to pile in on FOMO;
+- wait for newcomers to pile in on [FOMO](/en/glossary/#fomo);
 - sell everything at the high price — and the price crashes back down.
 
 This is the classic **Pump & Dump** scheme, and it only works on coins with low liquidity.
@@ -253,7 +253,7 @@ For Bitcoin and top coins — fractions of a percent. For altcoins — up to 0.5
 
 ### Why is slippage higher on DEXs (decentralized exchanges)?
 
-DEXs don't have a centralized order book. Price is determined by the size of the liquidity pool. The smaller the pool, the more slippage on any trade.
+[DEXs](/en/glossary/#dex) don't have a centralized order book. Price is determined by the size of the liquidity pool. The smaller the pool, the more slippage on any trade.
 
 ### Can you lose money from low liquidity even if the price is going up?
 

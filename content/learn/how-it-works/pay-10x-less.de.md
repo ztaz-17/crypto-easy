@@ -28,7 +28,7 @@ Eine Minute vergeht — und du siehst: deiner Wallet wurden nicht 200 $, sonde
 
 Dein Freund hat 172 $ bekommen.
 
-Du hast **14 %** nur dafür bezahlt, dass jemand die Transaktion in die Blockchain schreibt.
+Du hast **14 %** nur dafür bezahlt, dass jemand die Transaktion in die [Blockchain](/de/glossary/#blockchain) schreibt.
 
 Klingt nach Raub?
 
@@ -50,7 +50,7 @@ In diesem Artikel zeigen wir dir vier Spartricks:
 Eine Blockchain-Gebühr ist das, was du den **Validatoren** zahlst (die Transaktionen bestätigen).  
 Je beliebter das Netzwerk — desto mehr Leute wollen eine Überweisung tätigen. Je mehr mitmachen wollen — desto höher der Preis für einen Platz im nächsten Block.
 
-**Ethereum** — das am stärksten ausgelastete Netzwerk für DeFi, NFTs und Stablecoin-Transfers.  
+**Ethereum** — das am stärksten ausgelastete Netzwerk für [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft) und Stablecoin-Transfers.  
 An Spitzentagen kostet eine einfache USDT-Überweisung **30–50 $**.
 
 Bitcoin ist eine andere Geschichte: Die Gebühren schnellen in die Höhe, wenn viele Leute gleichzeitig Coins schicken. An ruhigen Tagen — 1–3 $, an Spitzentagen — 20 $+.

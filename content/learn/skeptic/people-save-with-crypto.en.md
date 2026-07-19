@@ -197,7 +197,7 @@ People:
 
 According to Chainalysis (2023):
 - Nigeria ranks 2nd in the world by P2P crypto transaction volume;
-- Kenya is in the top 10 for DeFi usage;
+- Kenya is in the top 10 for [DeFi](/en/glossary/#defi) usage;
 - total crypto remittance volume in Africa exceeds $100 billion per year.
 
 ---

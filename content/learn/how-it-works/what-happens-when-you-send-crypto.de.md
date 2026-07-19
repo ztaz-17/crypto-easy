@@ -50,7 +50,7 @@ Die Transaktion wurde noch nicht gesendet. Es ist nur ein Entwurf – ein Datenp
 
 Deine Wallet „zieht" kein Geld von einem Konto ab. Stattdessen durchsucht sie die gesamte Historie früherer Transaktionen, die jemals an deine Adresse gingen, und wählt unverbrauchte Guthaben aus.
 
-Stell es dir vor wie mehrere Geldscheine in deiner Tasche – du suchst dir den aus, mit dem du bezahlen willst. In der Crypto-Welt sind diese „Scheine" Einträge auf der Blockchain.
+Stell es dir vor wie mehrere Geldscheine in deiner Tasche – du suchst dir den aus, mit dem du bezahlen willst. In der Crypto-Welt sind diese „Scheine" Einträge auf der [Blockchain](/de/glossary/#blockchain).
 
 > Mehr zu Adressen und Schlüsseln findest du im Glossar: [öffentliche Adresse](/de/glossary/#public-address), [privater Schlüssel](/de/glossary/#private-key).
 
@@ -117,7 +117,7 @@ Die Transaktion ist im Mempool. Jetzt muss sie von einem **Miner** (bei Bitcoin)
 
 Miner sammeln Transaktionen aus dem Mempool und packen sie in einen Block. Die Priorität hängt von der Gebühr ab – je höher die Gebühr, desto höher die Priorität.
 
-Sobald der Block zusammengestellt ist, beginnt der Miner, ein mathematisches Rätsel (Proof of Work) zu lösen, um den Block zu versiegeln. Dafür ist massive Rechenleistung nötig. Wer es zuerst schafft, bekommt:
+Sobald der Block zusammengestellt ist, beginnt der Miner, ein mathematisches Rätsel ([Proof of Work](/de/glossary/#proof-of-work)) zu lösen, um den Block zu versiegeln. Dafür ist massive Rechenleistung nötig. Wer es zuerst schafft, bekommt:
 
 - die Blockbelohnung (neu geschaffene Coins);
 - alle Gebühren der enthaltenen Transaktionen.

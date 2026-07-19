@@ -37,7 +37,7 @@ In this article we'll cover:
 
 ## What Is a Blockchain Explorer and Why Do You Need It
 
-A **blockchain explorer** is like "Google for the blockchain." A public website that shows everything happening in the network:
+A **blockchain explorer** is like "Google for the [blockchain](/en/glossary/#blockchain)." A public website that shows everything happening in the network:
 
 - every transaction;
 - every wallet and its balance;
@@ -226,7 +226,7 @@ If you're moving crypto **from an exchange** to an external wallet or vice versa
 ### Why Transactions Get Stuck
 
 - **Low gas fee.** In networks like Ethereum, miners process the highest-fee transactions first. If you set the gas too low — the transaction sits in the queue.
-- **Network congestion.** During hype moments (e.g. a popular NFT drop), the queue can get massive.
+- **Network congestion.** During hype moments (e.g. a popular [NFT](/en/glossary/#nft) drop), the queue can get massive.
 - **Node issues.** Rare, but sometimes a specific validator slows things down.
 
 ### What You Can Do

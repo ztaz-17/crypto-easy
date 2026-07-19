@@ -43,7 +43,7 @@ En este artículo veremos:
 
 ## Qué es una frase semilla y por qué ES tu dinero
 
-La frase semilla (seed phrase, frase de recuperación, frase mnemónica) son **12 o 24 palabras** a partir de las cuales se generan matemáticamente todas las claves de tu cartera.
+La frase semilla ([seed phrase](/es/glossary/#seed-phrase), frase de recuperación, frase mnemónica) son **12 o 24 palabras** a partir de las cuales se generan matemáticamente todas las claves de tu cartera.
 
 No es una «contraseña de la cartera». Es **la cartera misma**.
 

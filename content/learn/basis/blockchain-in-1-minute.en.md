@@ -44,7 +44,7 @@ Traditionally, every bank kept its **own** ledger. If you transferred money from
 
 ### How blockchain is different
 
-Blockchain is a **shared ledger** that exists with every network participant simultaneously.
+[Blockchain](/en/glossary/#blockchain) is a **shared ledger** that exists with every network participant simultaneously.
 
 Key features:
 

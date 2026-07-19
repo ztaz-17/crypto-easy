@@ -44,7 +44,7 @@ In this article, we'll cover:
 
 This is the number one reason.
 
-Every blockchain transaction is a request for a spot in a block. Block space is limited. Miners (Bitcoin) or validators (Ethereum) choose which transactions to include first.
+Every [blockchain](/en/glossary/#blockchain) transaction is a request for a spot in a block. Block space is limited. Miners (Bitcoin) or validators (Ethereum) choose which transactions to include first.
 
 The rule is simple: **whoever pays more goes first.**
 
@@ -58,7 +58,7 @@ Learn more about how fees are determined: [Why Sending Crypto Sometimes Costs $3
 
 Even with a decent fee, your transaction can get stuck during peak hours.
 
-When thousands of transactions are being sent at the same time (e.g., during a memecoin hype cycle, an NFT mint, or a major event), the mempool gets flooded. Block size stays the same, but the number of people trying to get in is 10 times higher than usual.
+When thousands of transactions are being sent at the same time (e.g., during a memecoin hype cycle, an [NFT](/en/glossary/#nft) mint, or a major event), the mempool gets flooded. Block size stays the same, but the number of people trying to get in is 10 times higher than usual.
 
 At times like this, miners only pick the juiciest transactions — everyone else waits.
 

@@ -19,7 +19,7 @@ keywords:
 
 Las cripto te dan libertad financiera. Pero no eliminan los impuestos.
 
-Mucha gente piensa: "las cripto son anónimas, Hacienda no se va a enterar". Eso es un mito peligroso. Los exchanges entregan datos a los reguladores, la blockchain es pública y las autoridades fiscales están persiguiendo los activos crypto con más fuerza que nunca.
+Mucha gente piensa: "las cripto son anónimas, Hacienda no se va a enterar". Eso es un mito peligroso. Los exchanges entregan datos a los reguladores, la [blockchain](/es/glossary/#blockchain) es pública y las autoridades fiscales están persiguiendo los activos crypto con más fuerza que nunca.
 
 > **Realidad:** los impuestos crypto no son cuestión de "si" — son cuestión de "cuándo".
 

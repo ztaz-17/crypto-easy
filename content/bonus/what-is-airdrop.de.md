@@ -32,7 +32,7 @@ Aber in den meisten Fällen ist es eine **Falle**.
 
 ---
 
-In der Krypto-Welt ist ein Airdrop die Verteilung kostenloser Token an eine große Anzahl von Wallets. Um diesen Begriff haben sich jedoch so viele Mythen, Betrugsfälle und Fälschungen angesammelt, dass ein Anfänger leicht Geld verlieren kann.
+In der Krypto-Welt ist ein [Airdrop](/de/glossary/#airdrop) die Verteilung kostenloser Token an eine große Anzahl von Wallets. Um diesen Begriff haben sich jedoch so viele Mythen, Betrugsfälle und Fälschungen angesammelt, dass ein Anfänger leicht Geld verlieren kann.
 
 In diesem Artikel erfährst du:
 

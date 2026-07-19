@@ -30,7 +30,7 @@ Klingt nach Science-Fiction?
 
 > **DAO (Dezentrale Autonome Organisation)** — genau darum geht es.
 
-Eine DAO ist eine dezentrale autonome Organisation, die nicht von Menschen, sondern von **Code und Mitgliederabstimmungen** gesteuert wird.
+Eine [DAO](/de/glossary/#dao) ist eine dezentrale autonome Organisation, die nicht von Menschen, sondern von **Code und Mitgliederabstimmungen** gesteuert wird.
 
 In diesem Artikel erfährst du:
 
@@ -44,7 +44,7 @@ In diesem Artikel erfährst du:
 
 ### Definition
 
-Eine DAO ist eine Organisation, die auf einer Blockchain lebt und von **Smart Contracts** betrieben wird.
+Eine DAO ist eine Organisation, die auf einer [Blockchain](/de/glossary/#blockchain) lebt und von **Smart Contracts** betrieben wird.
 
 Statt Managern — **in Code geschriebene Regeln**.
 Statt Anweisungen — **tokengewichtete Abstimmungen**.
@@ -142,7 +142,7 @@ Wie es funktioniert:
 
 ### Uniswap
 
-**Uniswap** ist eine dezentrale Börse (DEX), die ebenfalls als DAO funktioniert.
+**Uniswap** ist eine dezentrale Börse ([DEX](/de/glossary/#dex)), die ebenfalls als DAO funktioniert.
 
 Was per Abstimmung entschieden wird:
 

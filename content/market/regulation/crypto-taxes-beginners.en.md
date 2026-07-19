@@ -72,14 +72,14 @@ This includes:
 - Salary paid in crypto
 - Staking rewards (Ethereum 2.0, Solana, etc.)
 - Mining
-- Airdrops
-- DeFi yields (lending, farming)
+- [Airdrops](/en/glossary/#airdrop)
+- [DeFi](/en/glossary/#defi) yields (lending, farming)
 
 All of this counts as **income** and is taxed just like your regular salary. The rate is your ordinary income tax rate.
 
 ### You Bought an NFT or Played GameFi
 
-If you bought an NFT with crypto — that may be a taxable event (depends on the country). If you sold the NFT for more than you paid — the profit is taxable.
+If you bought an [NFT](/en/glossary/#nft) with crypto — that may be a taxable event (depends on the country). If you sold the [NFT](/en/glossary/#nft) for more than you paid — the profit is taxable.
 
 In GameFi (games like Axie Infinity), token rewards are considered income when you receive them.
 
@@ -91,8 +91,8 @@ Not everything triggers a tax bill:
 
 | Transaction | Tax? | Explanation |
 |------------|------|-------------|
-| Just bought and holding (HODL) | ❌ No | Until you sell — no tax |
-| Transfer between your own wallets | ❌ No | Moving from exchange to cold wallet isn't a sale |
+| Just bought and holding ([HODL](/en/glossary/#hodl)) | ❌ No | Until you sell — no tax |
+| Transfer between your own wallets | ❌ No | Moving from exchange to [cold wallet](/en/glossary/#cold-wallet) isn't a sale |
 | Gifted crypto (within limits) | ❌ No in some countries | Varies by country |
 | Bought crypto and lost access | ❌ No | It's a loss, not profit |
 
@@ -186,7 +186,7 @@ Here's what usually goes wrong:
 
 ### Mistake 1: "Crypto is anonymous, the taxman won't know"
 
-This is the most dangerous myth. All major exchanges share data with regulators. Binance, Coinbase, Kraken — all comply with KYC. If you withdrew money to your bank — the bank already knows. The blockchain is a public ledger, and specialized software tracks suspicious transactions.
+This is the most dangerous myth. All major exchanges share data with regulators. Binance, Coinbase, Kraken — all comply with [KYC](/en/glossary/#kyc). If you withdrew money to your bank — the bank already knows. The [blockchain](/en/glossary/#blockchain) is a public ledger, and specialized software tracks suspicious transactions.
 
 ### Mistake 2: "I only swapped BTC for USDT — that's not a sale"
 

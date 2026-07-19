@@ -183,7 +183,7 @@ Deine Wallet zeigt nach dem Senden:
 
 ### Wie du sie im Explorer überprüfst
 
-Ein Blockchain-Explorer ist eine öffentliche «Suchmaschine» für die Blockchain.  \
+Ein [Blockchain](/de/glossary/#blockchain)-Explorer ist eine öffentliche «Suchmaschine» für die [Blockchain](/de/glossary/#blockchain).  \
 Jedes Netzwerk hat seinen eigenen:
 
 | Netzwerk | Explorer |

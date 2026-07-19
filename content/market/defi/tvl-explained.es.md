@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Encontraste un nuevo protocolo DeFi. Web bonita, comisiones bajas, promete un 500% APY.
+Encontraste un nuevo protocolo [DeFi](/es/glossary/#defi). Web bonita, comisiones bajas, promete un 500% APY.
 
 Te surge una pregunta:
 
@@ -43,7 +43,7 @@ En palabras simples:
 
 > **cuánto dinero los usuarios le han confiado a este protocolo.**
 
-El TVL incluye:
+El [TVL](/es/glossary/#tvl) incluye:
 - tokens en pools de liquidez (como en Uniswap);
 - depósitos en protocolos de préstamos (como Aave);
 - garantías en protocolos de stablecoins (como MakerDAO);
@@ -94,7 +94,7 @@ Lo que puedes hacer:
 - consultar el TVL de cualquier protocolo;
 - comparar TVL entre varios protocolos;
 - ver el **historial del TVL** — cómo ha cambiado con el tiempo;
-- filtrar por blockchain (Ethereum, Solana, Arbitrum, etc.).
+- filtrar por [blockchain](/es/glossary/#blockchain) (Ethereum, Solana, Arbitrum, etc.).
 
 La mayor ventaja de DefiLlama es que es **independiente**. Los datos vienen directo de la blockchain, a través de contratos inteligentes.
 

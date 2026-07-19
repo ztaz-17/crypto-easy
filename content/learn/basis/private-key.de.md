@@ -31,11 +31,11 @@ Ein **Private Key** ist eine lange Zeichenkette (Ziffern und Buchstaben), die di
 
 > Ein Private Key ist deine Unterschrift. Eine Unterschrift, die der Blockchain beweist: „Diese Coins gehören mir, und ich autorisiere ihre Übertragung."
 
-Auf einer Blockchain gibt es kein „Konto" mit Login und Passwort. Da sitzt niemand und prüft, ob du es wirklich bist. Das ganze System basiert auf Kryptografie: Du hast ein Schlüsselpaar – **öffentlich** (den kannst du allen zeigen) und **privat** (den zeigst du niemandem).
+Auf einer [Blockchain](/de/glossary/#blockchain) gibt es kein „Konto" mit Login und Passwort. Da sitzt niemand und prüft, ob du es wirklich bist. Das ganze System basiert auf Kryptografie: Du hast ein Schlüsselpaar – **öffentlich** (den kannst du allen zeigen) und **privat** (den zeigst du niemandem).
 
 Öffentlicher Schlüssel – wie deine Kontonummer. Du gibst sie weiter, damit Leute dir Geld senden können.
 
-Private Key – **die Unterschrift auf dem Scheck**. Wenn jemand ihn bekommt, kann er jede Überweisung in deinem Namen unterschreiben.
+[Private Key](/de/glossary/#private-key) – **die Unterschrift auf dem Scheck**. Wenn jemand ihn bekommt, kann er jede Überweisung in deinem Namen unterschreiben.
 
 ---
 
@@ -97,7 +97,7 @@ Deshalb:
 
 - Mach niemals ein Foto von deiner Seed-Phrase.
 - Speichere sie niemals in den Notizen deines Handys.
-- Gib deinen Private Key niemals auf Webseiten ein, die versprechen, „dein Wallet zu verifizieren" oder „nach Airdrops zu suchen".
+- Gib deinen Private Key niemals auf Webseiten ein, die versprechen, „dein Wallet zu verifizieren" oder „nach [Airdrops](/de/glossary/#airdrop) zu suchen".
 - Sende ihn niemals an irgendjemanden in Messengern.
 - Speichere ihn niemals in der Cloud (Google Drive, iCloud, Dropbox).
 

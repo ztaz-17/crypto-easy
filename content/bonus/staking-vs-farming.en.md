@@ -34,7 +34,7 @@ In this article, we'll break down:
 
 ## What Is Staking
 
-Staking is when you **lock up your coins** in the blockchain and earn a percentage on them.
+Staking is when you **lock up your coins** in the [blockchain](/en/glossary/#blockchain) and earn a percentage on them.
 
 Here's how it works:
 
@@ -66,7 +66,7 @@ You don't have to do anything complicated. You just lock up your coins and earn 
 
 ## What Is Farming (Yield Farming)
 
-Farming is a more active strategy. You **provide liquidity** to DeFi protocols (decentralized finance apps) and earn income.
+Farming is a more active strategy. You **provide liquidity** to [DeFi](/en/glossary/#defi) protocols (decentralized finance apps) and earn income.
 
 Here's how it looks:
 
@@ -170,7 +170,7 @@ Staking is a good fit if:
 
 - you're a beginner just starting to learn the ropes;
 - you don't want to constantly monitor the market;
-- you plan to hold coins long-term (HODL);
+- you plan to hold coins long-term ([HODL](/en/glossary/#hodl));
 - a 5–15 % return is enough for you.
 
 > **Staking is "set it and forget it."**

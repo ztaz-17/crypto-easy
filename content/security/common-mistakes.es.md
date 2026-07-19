@@ -53,7 +53,7 @@ Redes no coincidentes. Enviaste tokens a la dirección correcta pero a la red eq
 
 ### Cuándo no tiene remedio
 
-Solo si enviaste a una **dirección que no es tuya** (error al escribir la dirección). Las transacciones en blockchain son irreversibles.
+Solo si enviaste a una **dirección que no es tuya** (error al escribir la dirección). Las transacciones en [blockchain](/es/glossary/#blockchain) son irreversibles.
 
 > **Regla:** siempre verifica tres veces la red y la dirección antes de enviar.
 
@@ -93,13 +93,13 @@ Sin copia de la frase semilla + sin billetera instalada con contraseña guardada
 
 ### La situación
 
-Probaste un nuevo proyecto DeFi. Sitio web de aspecto profesional, whitepaper, ticker del token. Conectaste MetaMask, hiciste clic en "Confirmar" en la ventana de approve — no revisaste el límite.
+Probaste un nuevo proyecto [DeFi](/es/glossary/#defi). Sitio web de aspecto profesional, [whitepaper](/es/glossary/#whitepaper), ticker del token. Conectaste MetaMask, hiciste clic en "Confirmar" en la ventana de approve — no revisaste el límite.
 
 Una semana después: todo el USDT desapareció. El contrato era malicioso: aprobaste gasto ilimitado (MAX_UINT_256) y el atacante vació todo.
 
 ### Por qué sucedió
 
-Al usar dApps, firmas un `approve` — permitiendo que un contrato gaste tus tokens. La mayoría de los proyectos piden **ilimitado** por conveniencia. Si el contrato es malicioso, el atacante puede tomar **todos** tus tokens.
+Al usar [dApps](/es/glossary/#dapp), firmas un `approve` — permitiendo que un contrato gaste tus tokens. La mayoría de los proyectos piden **ilimitado** por conveniencia. Si el contrato es malicioso, el atacante puede tomar **todos** tus tokens.
 
 ### Cómo solucionarlo
 
@@ -127,7 +127,7 @@ Al usar dApps, firmas un `approve` — permitiendo que un contrato gaste tus tok
 Recibes un mensaje de Telegram de "Soporte de Binance": "Cuenta bloqueada, verifica mediante este enlace". El enlace lleva a un sitio que se ve **exactamente como Binance**. Ingresas usuario, contraseña, 2FA — y 5 minutos después, todos los fondos desaparecieron.
 
 ### Escenario 2: Airdrop falso
-Una publicación en Twitter: "¡Airdrop urgente de $PEPE — conecta tu billetera!" Conectas MetaMask y firmas, pensando que estás recibiendo tokens. En realidad firmaste un `approve` para un contrato malicioso — y todo el ETH fue robado.
+Una publicación en Twitter: "¡[Airdrop](/es/glossary/#airdrop) urgente de $PEPE — conecta tu billetera!" Conectas MetaMask y firmas, pensando que estás recibiendo tokens. En realidad firmaste un `approve` para un contrato malicioso — y todo el ETH fue robado.
 
 ### Qué hacer si ya fuiste estafado
 

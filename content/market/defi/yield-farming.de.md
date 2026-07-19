@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Klar, du hast schon die Anzeigen gesehen: „1000 % APY!“, „Verdiene Krypto mit null Aufwand!“, „DeFi ist das neue Öl!“
+Klar, du hast schon die Anzeigen gesehen: „1000 % APY!“, „Verdiene Krypto mit null Aufwand!“, „[DeFi](/de/glossary/#defi) ist das neue Öl!“
 
 Klingt zu schön, um wahr zu sein. Aber hinter diesen Zahlen steckt tatsächlich ein funktionierendes Prinzip – **Yield Farming**. Und ja, einige Leute verdienen damit wirklich Geld.
 
@@ -34,7 +34,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist Yield Farming
 
-**Yield Farming** (auch **Liquiditäts-Mining** genannt) bedeutet, dass du deine Krypto-Assets an Liquiditätspools auf dezentralen Protokollen (DEXs, Kreditplattformen) verleihst und dafür Belohnungen bekommst.
+**Yield Farming** (auch **Liquiditäts-Mining** genannt) bedeutet, dass du deine Krypto-Assets an Liquiditätspools auf dezentralen Protokollen ([DEXs](/de/glossary/#dex), Kreditplattformen) verleihst und dafür Belohnungen bekommst.
 
 Einfach gesagt:
 
@@ -176,7 +176,7 @@ Eine Checkliste vor der Einzahlung:
 
 - [ ] Hat das Protokoll ein Audit? (von CertiK, Trail of Bits, OpenZeppelin)
 - [ ] Wie lange existiert das Projekt schon?
-- [ ] Wie viel Liquidität steckt im Pool? (TVL – Total Value Locked)
+- [ ] Wie viel Liquidität steckt im Pool? ([TVL](/de/glossary/#tvl) – Total Value Locked)
 - [ ] Wie hoch ist das Handelsvolumen?
 - [ ] Wer steckt hinter dem Projekt? Gibt es Infos über das Team?
 - [ ] Wie viel des APY stammt aus Belohnungs-Token und wie viel aus echten Gebühren?

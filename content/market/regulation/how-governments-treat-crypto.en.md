@@ -101,7 +101,7 @@ What the UAE did:
 But there are catches:
 
 - businesses need a license (not cheap to get);
-- strict KYC and AML rules (no anonymity);
+- strict [KYC](/en/glossary/#kyc) and [AML](/en/glossary/#aml) rules (no anonymity);
 - privacy coins are banned (Monero, Zcash).
 
 **Bottom line:** the UAE is one of the most convenient countries for crypto business — but only if you're willing to operate above board.
@@ -145,7 +145,7 @@ But there are important nuances:
 - China has **its own digital currency** — e-CNY (digital yuan), fully controlled by the central bank;
 - many Chinese citizens still trade crypto through P2P platforms and VPNs;
 - Chinese companies hold significant amounts of Bitcoin (through offshore entities);
-- the ban didn't stop China from being a major player in blockchain technology (patents, research).
+- the ban didn't stop China from being a major player in [blockchain](/en/glossary/#blockchain) technology (patents, research).
 
 > **The paradox:** China banned crypto for its citizens but keeps developing the technology at the state level.
 

@@ -42,7 +42,7 @@ En este artículo veremos:
 
 ## ¿Qué es DeFi?
 
-**DeFi** (Finanzas Descentralizadas) se refiere a servicios financieros que funcionan sobre una blockchain usando **contratos inteligentes**.
+**DeFi** (Finanzas Descentralizadas) se refiere a servicios financieros que funcionan sobre una [blockchain](/es/glossary/#blockchain) usando **contratos inteligentes**.
 
 En lugar de bancos, corredores y aseguradoras — código.
 
@@ -61,7 +61,7 @@ Las finanzas tradicionales se basan en intermediarios:
 | Seguro          | Cubre riesgos                        |
 | Notario         | Certifica transacciones              |
 
-DeFi reemplaza a cada uno con un **contrato inteligente** — un programa que se ejecuta automáticamente y no depende de personas.
+[DeFi](/es/glossary/#defi) reemplaza a cada uno con un **contrato inteligente** — un programa que se ejecuta automáticamente y no depende de personas.
 
 > Si un banco es una empresa con empleados y reglas, DeFi es solo código que cualquiera puede usar.
 
@@ -103,7 +103,7 @@ Cómo funciona:
 
 No hay «libros de órdenes» como en un exchange tradicional. No hay «tu orden está pendiente». Solo enviar y recibir.
 
-👉 Uniswap es el DEX (exchange descentralizado) más grande, con miles de millones de dólares en volumen diario de operaciones.
+👉 Uniswap es el [DEX](/es/glossary/#dex) (exchange descentralizado) más grande, con miles de millones de dólares en volumen diario de operaciones.
 
 ---
 
@@ -149,7 +149,7 @@ Lo clave: DAI no lo emite un banco ni una empresa. Los propios usuarios lo crean
 | Criterio              | Finanzas tradicionales      | DeFi                             |
 |-----------------------|-----------------------------|----------------------------------|
 | Control               | Banco / Gobierno            | Usuario (tú mismo)               |
-| Acceso                | Necesitas ID, KYC, edad mín | Solo necesitas internet          |
+| Acceso                | Necesitas ID, [KYC](/es/glossary/#kyc), edad mín | Solo necesitas internet          |
 | Horario               | Horas hábiles, fines libres | 24/7, sin días festivos          |
 | Velocidad de envío    | Horas–días (internacional)  | Segundos–minutos                 |
 | Comisiones            | A menudo ocultas            | Transparentes (gas + comisión)   |

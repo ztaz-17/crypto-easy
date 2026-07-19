@@ -17,11 +17,11 @@ keywords:
 
 ---
 
-You've probably heard this story: in 2021, a digital image — a collage of 5,000 pictures — sold for **$69 million**. The buyer didn't get a physical canvas; they got a file and a record on the blockchain. The world gasped: "Why?"
+You've probably heard this story: in 2021, a digital image — a collage of 5,000 pictures — sold for **$69 million**. The buyer didn't get a physical canvas; they got a file and a record on the [blockchain](/en/glossary/#blockchain). The world gasped: "Why?"
 
 That was an **NFT** — a non-fungible token.
 
-But reducing NFTs to just expensive pictures is like reducing the internet to email. Let's break down what this technology actually is and where it's already being used.
+But reducing [NFTs](/en/glossary/#nft) to just expensive pictures is like reducing the internet to email. Let's break down what this technology actually is and where it's already being used.
 
 ---
 
@@ -105,7 +105,7 @@ An NFT can work as a **digital pass**:
 
 - access to a private club or chat;
 - discounts with project partners;
-- voting rights in a DAO (decentralized autonomous organization).
+- voting rights in a [DAO](/en/glossary/#dao) (decentralized autonomous organization).
 
 Example: Bored Ape Yacht Club — NFT holders get access to exclusive events, merchandise, and community.
 

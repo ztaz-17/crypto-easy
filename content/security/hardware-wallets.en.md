@@ -20,7 +20,7 @@ keywords:
 
 ## What Is a Hardware Wallet?
 
-A hardware wallet is a physical device about the size of a USB stick that stores your private keys completely offline, isolated from the internet. It's the gold standard of security in the crypto world.
+A hardware wallet is a physical device about the size of a USB stick that stores your [private keys](/en/glossary/#private-key) completely offline, isolated from the internet. It's the gold standard of security in the crypto world.
 
 When you use a regular crypto wallet on your phone or in a browser — your keys sit in the memory of a device that's connected to the internet. A hacker, a virus, or a phishing site can steal them. With a hardware wallet, your keys **physically never leave the device**.
 
@@ -67,7 +67,7 @@ Ledger is the market leader with the widest coin support and the slick Ledger Li
 
 ### When to Go with Trezor
 
-Trezor is the OG of hardware wallets (the first model dropped back in 2014). Fully open source — anyone can audit the code for security. The Model T's touchscreen makes entering your seed phrase way more pleasant.
+Trezor is the OG of hardware wallets (the first model dropped back in 2014). Fully open source — anyone can audit the code for security. The Model T's touchscreen makes entering your [seed phrase](/en/glossary/#seed-phrase) way more pleasant.
 
 **Best for:** Security enthusiasts, people who mainly hold BTC/ETH, anyone who cares about open source.
 
@@ -149,7 +149,7 @@ For amounts above $1000, it's not even an option anymore — it's a necessity.
 
 ### Can I recover my wallet without the device?
 
-Yes. If your Ledger or Trezor breaks, gets lost, or burns — buy a new device (any brand) and restore access using your seed phrase. Your coins aren't "inside" the device — they live on the blockchain, and the keys are rebuilt from the seed phrase.
+Yes. If your Ledger or Trezor breaks, gets lost, or burns — buy a new device (any brand) and restore access using your seed phrase. Your coins aren't "inside" the device — they live on the [blockchain](/en/glossary/#blockchain), and the keys are rebuilt from the seed phrase.
 
 ### What if I lose my seed phrase?
 
@@ -163,14 +163,14 @@ Both offer bank-grade security. Trezor is fully open source, which theoretically
 
 Honestly: if you have less than $300, a mobile wallet (Trust Wallet, MetaMask) is fine — as long as you:
 - Don't click on shady links
-- Don't connect your wallet to sketchy dApps
+- Don't connect your wallet to sketchy [dApps](/en/glossary/#dapp)
 - Keep your seed phrase stored offline
 
 But once you cross $500 — start thinking about a hardware wallet.
 
 ---
 
-**A hardware wallet isn't a luxury — it's basic security hygiene in crypto.** Just like you wouldn't keep cash under your mattress in a high-crime area, you shouldn't keep crypto on a hot wallet if it represents real savings.
+**A hardware wallet isn't a luxury — it's basic security hygiene in crypto.** Just like you wouldn't keep cash under your mattress in a high-crime area, you shouldn't keep crypto on a [hot wallet](/en/glossary/#hot-wallet) if it represents real savings.
 
 Pick yours:
 - [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus) — the best entry into cold storage

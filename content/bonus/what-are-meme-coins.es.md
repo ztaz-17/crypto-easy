@@ -103,7 +103,7 @@ No hay razones fundamentales para que las meme coins suban. Solo psicología.
 
 Cada meme coin tiene un ejército de fans en Twitter, Telegram, Reddit y TikTok. Ellos:
 - publican memes;
-- se convencen mutuamente de «HODL»;
+- se convencen mutuamente de «[HODL](/es/glossary/#hodl)»;
 - atacan a cualquiera que venda.
 
 Esto crea la sensación de que «estamos juntos en esto» y «vamos a ganar».
@@ -141,7 +141,7 @@ El esquema es simple:
 
 1. Los grandes jugadores (ballenas) compran en el suelo;
 2. Inflan la moneda con redes sociales, anuncios pagados e influencers;
-3. Los compradores minoristas entran por FOMO;
+3. Los compradores minoristas entran por [FOMO](/es/glossary/#fomo);
 4. Las ballenas venden — el precio se desploma;
 5. Los pequeños inversores se quedan con tokens sin valor.
 
@@ -208,7 +208,7 @@ Y la regla de oro:
 
 - **¿Tiene tecnología?** — Bitcoin / Ethereum: Sí | Meme Coin: No (o casi nada)
 - **¿Tiene equipo?** — Bitcoin / Ethereum: Sí | Meme Coin: A menudo anónimo
-- **¿Tiene uso real?** — Bitcoin / Ethereum: Sí (pagos, DeFi, contratos inteligentes) | Meme Coin: No
+- **¿Tiene uso real?** — Bitcoin / Ethereum: Sí (pagos, [DeFi](/es/glossary/#defi), contratos inteligentes) | Meme Coin: No
 - **Riesgo** — Bitcoin / Ethereum: Alto | Meme Coin: Extremo
 - **Rendimiento esperado** — Bitcoin / Ethereum: Moderado | Meme Coin: 0 % o -100 %
 - **Valor a largo plazo** — Bitcoin / Ethereum: Crece con la adopción | Meme Coin: Rara vez sobrevive un año

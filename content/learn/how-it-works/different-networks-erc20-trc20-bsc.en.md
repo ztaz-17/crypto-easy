@@ -23,7 +23,7 @@ You bought some USDT on an exchange, copied your friend's wallet address, and se
 
 An hour later your friend texts: **"There's no money."**
 
-You check the transaction on the blockchain — status: "Successful." Your friend checks their balance — zero. It's like the money evaporated into thin air.
+You check the transaction on the [blockchain](/en/glossary/#blockchain) — status: "Successful." Your friend checks their balance — zero. It's like the money evaporated into thin air.
 
 Sound familiar?
 
@@ -170,9 +170,9 @@ If the address belongs to an exchange or another service — contact their suppo
 
 ### If You Sent from Wallet to Wallet
 
-This is trickier. If you sent tokens on the wrong network but own the private key for the recipient address, you can:
+This is trickier. If you sent tokens on the wrong network but own the [private key](/en/glossary/#private-key) for the recipient address, you can:
 
-- import your seed phrase / private key into a wallet that supports the correct network;
+- import your [seed phrase](/en/glossary/#seed-phrase) / private key into a wallet that supports the correct network;
 - or use a multi-network wallet (e.g., MetaMask with the BSC network added).
 
 ### If You Sent to an Exchange on the Wrong Network

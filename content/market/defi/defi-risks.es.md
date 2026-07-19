@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Imagínate esto: encuentras un protocolo DeFi que promete un **500% APY**. Depositas tus ahorros — y una semana después el saldo del pool es cero. El botón de "retirar" ya no funciona.
+Imagínate esto: encuentras un protocolo [DeFi](/es/glossary/#defi) que promete un **500% APY**. Depositas tus ahorros — y una semana después el saldo del pool es cero. El botón de "retirar" ya no funciona.
 
 Otra situación: solicitas un préstamo respaldado por ETH, el mercado se desploma, y el smart contract vende tu garantía al instante al precio más bajo. Te quedas sin garantía y sin préstamo.
 
@@ -98,7 +98,7 @@ Una auditoría de smart contract es una revisión del código por expertos en se
 
 ## Pérdida Impermanente: Pierdes Cuando los Precios se Mueven
 
-La **pérdida impermanente (IL, por sus siglas en inglés)** es lo que ocurre cuando aportas liquidez a un pool de DEX y terminas con menos valor que si simplemente hubieras conservado los tokens.
+La **pérdida impermanente (IL, por sus siglas en inglés)** es lo que ocurre cuando aportas liquidez a un pool de [DEX](/es/glossary/#dex) y terminas con menos valor que si simplemente hubieras conservado los tokens.
 
 ### Cómo Funciona
 
@@ -177,7 +177,7 @@ DeFi no es un casino si lo abordas con inteligencia. Estos son los principios b�
 Usa esta lista de verificación:
 
 - [ ] ¿Ha sido auditado por una firma reconocida? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] ¿Cuál es el TVL (valor total bloqueado)? TVL bajo (< $1M) significa alto riesgo
+- [ ] ¿Cuál es el [TVL](/es/glossary/#tvl) (valor total bloqueado)? [TVL](/es/glossary/#tvl) bajo (< $1M) significa alto riesgo
 - [ ] ¿Cuánto tiempo lleva funcionando el protocolo? (6+ meses es mejor)
 - [ ] ¿El código es open source? ¿Puedes verificarlo?
 - [ ] ¿La liquidez está bloqueada?
@@ -219,7 +219,7 @@ Deposita una cantidad pequeña ($50–100) en un protocolo nuevo. Intenta retira
 | **Liquidación** | Venta forzada de la garantía cuando los precios caen | Mantén un ratio de garantía del 200%+; usa stablecoins como garantía; no maxees préstamos |
 | **Desplome del token del protocolo** | El token de recompensa se desploma, tu rendimiento se vuelve negativo | No conserves tokens de recompensa por mucho tiempo; conviértelos a stablecoins |
 | **Comisiones de gas altas** | Las tarifas de red se comen tus ganancias | Usa L2 (Arbitrum, Optimism, Polygon); deposita montos mayores |
-| **Pérdida de acceso** | Perder la seed phrase o la clave significa pérdida permanente | Guarda la seed phrase de forma segura (metal, caja fuerte); nunca en la nube ni en capturas de pantalla |
+| **Pérdida de acceso** | Perder la [seed phrase](/es/glossary/#seed-phrase) o la clave significa pérdida permanente | Guarda la [seed phrase](/es/glossary/#seed-phrase) de forma segura (metal, caja fuerte); nunca en la nube ni en capturas de pantalla |
 
 ---
 

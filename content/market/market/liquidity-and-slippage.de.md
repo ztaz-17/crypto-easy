@@ -173,7 +173,7 @@ Alle wollen verkaufen — niemand will kaufen. Der Spread weitet sich auf läche
 Bei Coins mit niedriger Liquidität lässt sich der Preis leicht manipulieren. Ein großer Spieler (Wal) kann:
 
 - den Preis mit einer einzigen Order um 50 % nach oben treiben;
-- warten, bis Neueinsteiger aus FOMO einsteigen;
+- warten, bis Neueinsteiger aus [FOMO](/de/glossary/#fomo) einsteigen;
 - alles zum hohen Preis verkaufen — und der Preis stürzt wieder ab.
 
 Das ist das klassische **Pump & Dump**-Schema, und es funktioniert nur bei Coins mit niedriger Liquidität.
@@ -253,7 +253,7 @@ Bei Bitcoin und den Top-Coins — Bruchteile eines Prozents. Bei Altcoins — bi
 
 ### Warum ist der Slippage auf DEXs (dezentralen Börsen) höher?
 
-DEXs haben kein zentrales Orderbuch. Der Preis wird durch die Größe des Liquiditätspools bestimmt. Je kleiner der Pool, desto mehr Slippage bei jedem Trade.
+[DEXs](/de/glossary/#dex) haben kein zentrales Orderbuch. Der Preis wird durch die Größe des Liquiditätspools bestimmt. Je kleiner der Pool, desto mehr Slippage bei jedem Trade.
 
 ### Kann man auch dann Geld verlieren, wenn der Preis steigt?
 

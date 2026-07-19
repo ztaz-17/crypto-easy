@@ -183,7 +183,7 @@ Your wallet will show:
 
 ### How to Check Using the Explorer
 
-A blockchain explorer is a public "search engine" for the blockchain.  \
+A [blockchain](/en/glossary/#blockchain) explorer is a public "search engine" for the [blockchain](/en/glossary/#blockchain).  \
 Each network has its own:
 
 | Network | Explorer |

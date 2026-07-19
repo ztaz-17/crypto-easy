@@ -28,7 +28,7 @@ $28 — the fee for a single transfer.
 
 Your friend got $172.
 
-You **paid 14%** just for someone to write the transaction into a blockchain.
+You **paid 14%** just for someone to write the transaction into a [blockchain](/en/glossary/#blockchain).
 
 Sounds like robbery?
 
@@ -50,7 +50,7 @@ In this article we'll cover four main money-saving tools:
 A blockchain fee is what you pay **validators** (the people who confirm transactions).  
 The more popular the network — the more people want to send a transfer. The more people want in — the higher the price for a spot in the next block.
 
-**Ethereum** — the most congested network for DeFi, NFTs, and stablecoin transfers.  
+**Ethereum** — the most congested network for [DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft), and stablecoin transfers.  
 On peak days, a simple USDT transfer costs **$30–50**.
 
 Bitcoin is a different story: fees spike when lots of people send coins at the same time. On quiet days — $1–3, at peak — $20+.

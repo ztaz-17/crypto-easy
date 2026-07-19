@@ -103,7 +103,7 @@ There are no fundamental reasons for meme coin pumps. Only psychology.
 
 Every meme coin has an army of fans on Twitter, Telegram, Reddit, and TikTok. They:
 - post memes;
-- convince each other to "HODL";
+- convince each other to "[HODL](/en/glossary/#hodl)";
 - attack anyone who sells.
 
 It creates a feeling that "we're in this together" and "we're going to win."
@@ -141,7 +141,7 @@ The scheme is simple:
 
 1. Big players (whales) buy in at the bottom;
 2. They hype the coin through social media, paid ads, and influencers;
-3. Retail buyers pile in on FOMO;
+3. Retail buyers pile in on [FOMO](/en/glossary/#fomo);
 4. Whales sell — the price crashes;
 5. Small investors are left holding worthless tokens.
 
@@ -210,7 +210,7 @@ And the golden rule:
 |----------|-------------------|-----------|
 | Does it have technology? | Yes | No (or negligible) |
 | Does it have a team? | Yes | Often anonymous |
-| Does it have real-world use? | Yes (payments, DeFi, smart contracts) | No |
+| Does it have real-world use? | Yes (payments, [DeFi](/en/glossary/#defi), smart contracts) | No |
 | Risk | High | Extreme |
 | Expected return | Moderate | 0% or -100% |
 | Long-term value | Grows with adoption | Rarely survives a year |

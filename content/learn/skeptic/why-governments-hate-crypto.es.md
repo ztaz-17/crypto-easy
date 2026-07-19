@@ -117,7 +117,7 @@ En las crypto, es completamente diferente.
 
 Las criptomonedas son **pseudónimas** por naturaleza. No vinculas una billetera a tu pasaporte (a menos que uses exchanges centralizados).
 
-Sí, todas las transacciones quedan registradas en la blockchain. Pero quién está detrás de una dirección determinada — nadie lo sabe.
+Sí, todas las transacciones quedan registradas en la [blockchain](/es/glossary/#blockchain). Pero quién está detrás de una dirección determinada — nadie lo sabe.
 
 > **El gobierno no puede simplemente aparecer en tu puerta con una factura de impuestos si no sabe que tienes crypto.**
 
@@ -130,7 +130,7 @@ Un dolor de cabeza especial para las autoridades fiscales viene de **DeFi** (fin
 - staking;
 - préstamos y empréstitos;
 - yield farming;
-- intercambios a través de DEXs.
+- intercambios a través de [DEXs](/es/glossary/#dex).
 
 Todo esto ocurre sin intermediarios. Sin bancos. Sin reportes. El gobierno simplemente no ve estas transacciones.
 
@@ -138,7 +138,7 @@ Y si no las ve — no puede gravarlas.
 
 ### Cómo Intentan Regular los Gobiernos
 
-Aquí es donde entran en juego los **exchanges**. Como es casi imposible cobrar impuestos a través de P2P y DeFi, los gobiernos presionan el único punto de entrada — los exchanges centralizados (CEXs).
+Aquí es donde entran en juego los **exchanges**. Como es casi imposible cobrar impuestos a través de P2P y [DeFi](/es/glossary/#defi), los gobiernos presionan el único punto de entrada — los exchanges centralizados ([CEXs](/es/glossary/#cex)).
 
 Requisitos para los exchanges:
 

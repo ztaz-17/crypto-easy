@@ -26,7 +26,7 @@ Und die Coins sind immer noch nicht angekommen.
 
 Warum können wir Dinge nicht einfach sofort senden? Es ist doch digitales Geld!
 
-Die Antwort liegt in der Funktionsweise der Blockchain selbst. Deine Transaktion fliegt nicht direkt von Wallet zu Wallet. Zuerst muss sie in einem **Block** landen – und erst dann wird sie Teil der Geschichte.
+Die Antwort liegt in der Funktionsweise der [Blockchain](/de/glossary/#blockchain) selbst. Deine Transaktion fliegt nicht direkt von Wallet zu Wallet. Zuerst muss sie in einem **Block** landen – und erst dann wird sie Teil der Geschichte.
 
 > In diesem Artikel erfährst du: Was ein Block ist, warum Bestätigungen nötig sind, wie viele du abwarten solltest und wann eine Transaktion als sicher gilt.
 
@@ -70,7 +70,7 @@ Dieser Prozess erfordert enorme Rechenleistung. Deshalb erscheint bei Bitcoin im
 
 ### Ethereum: Validatoren (Proof of Stake)
 
-Seit der Umstellung auf Proof of Stake werden Blöcke in Ethereum von **Validatoren** erstellt – Teilnehmern, die mindestens 32 ETH eingesetzt haben. Sie „minen" nicht – sie bestätigen lediglich Blöcke.
+Seit der Umstellung auf [Proof of Stake](/de/glossary/#proof-of-stake) werden Blöcke in Ethereum von **Validatoren** erstellt – Teilnehmern, die mindestens 32 ETH eingesetzt haben. Sie „minen" nicht – sie bestätigen lediglich Blöcke.
 
 Ein neuer Block in Ethereum erscheint etwa alle **~12 Sekunden**.
 

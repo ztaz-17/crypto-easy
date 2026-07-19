@@ -19,7 +19,7 @@ keywords:
 
 Crypto gives you financial freedom. But it doesn't cancel taxes.
 
-A lot of people think: "crypto is anonymous, the taxman won't know." That's a dangerous myth. Exchanges hand over data to regulators, the blockchain is public, and tax authorities are tracking crypto assets more aggressively than ever.
+A lot of people think: "crypto is anonymous, the taxman won't know." That's a dangerous myth. Exchanges hand over data to regulators, the [blockchain](/en/glossary/#blockchain) is public, and tax authorities are tracking crypto assets more aggressively than ever.
 
 > **Reality:** crypto taxes aren't a matter of "if" — they're a matter of "when."
 

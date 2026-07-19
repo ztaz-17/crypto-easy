@@ -26,7 +26,7 @@ It could be worse: you're watching someone drain your funds right now.
 
 > **In crypto, nobody is getting your stolen money back.**
 
-Not a bank. Not the police. Not the blockchain developers.
+Not a bank. Not the police. Not the [blockchain](/en/glossary/#blockchain) developers.
 
 But that doesn't mean there's nothing you can do. This article lays out a clear action plan for the first minutes after discovering a hack.
 
@@ -39,7 +39,7 @@ Your biggest enemy in this situation is panic. It's what makes you mess up:
 - moving your remaining funds to a "safe" wallet that actually belongs to the scammer;
 - clicking links in shady "recover your funds" messages;
 - paying "gas fees" to get your stolen money back;
-- giving your seed phrase to "support staff."
+- giving your [seed phrase](/en/glossary/#seed-phrase) to "support staff."
 
 All of these are traps that will only make things worse.
 
@@ -51,7 +51,7 @@ All of these are traps that will only make things worse.
 
 The moment you notice suspicious activity, your goal is to **cut off** the attacker's access to your funds.
 
-If a hot wallet was compromised (MetaMask, Trust Wallet, Phantom, etc.):
+If a [hot wallet](/en/glossary/#hot-wallet) was compromised (MetaMask, Trust Wallet, Phantom, etc.):
 
 1. **Turn off the internet** on the device (airplane mode) if you see a transaction that hasn't confirmed yet. This won't help if the seed phrase is already out there, but it might buy you seconds.
 2. **Immediately create a new wallet** — on a different device or in a different app.
@@ -156,7 +156,7 @@ The odds aren't great, but they're not zero — especially if the amount is larg
 
 ## Step 7. Warn the Community
 
-If you fell victim to a specific scam, phishing site, or malicious dApp:
+If you fell victim to a specific scam, phishing site, or malicious [dApp](/en/glossary/#dapp):
 
 - report it on [Scam Sniffer](https://scamsniffer.io) (a database of known scams);
 - post on X (Twitter) tagging the project or wallet involved;

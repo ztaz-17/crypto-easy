@@ -117,7 +117,7 @@ In crypto, it's completely different.
 
 Cryptocurrencies are **pseudonymous** by nature. You don't tie a wallet to your passport (unless you use centralized exchanges).
 
-Yes, all transactions are recorded on the blockchain. But who stands behind a given address — nobody knows.
+Yes, all transactions are recorded on the [blockchain](/en/glossary/#blockchain). But who stands behind a given address — nobody knows.
 
 > **The government can't just show up at your door with a tax bill if it doesn't know you have crypto.**
 
@@ -130,7 +130,7 @@ A special headache for tax authorities comes from **DeFi** (decentralized financ
 - staking;
 - lending and borrowing;
 - yield farming;
-- swaps through DEXs.
+- swaps through [DEXs](/en/glossary/#dex).
 
 All of this happens without intermediaries. Without banks. Without reporting. The government simply doesn't see these transactions.
 
@@ -138,7 +138,7 @@ And if it doesn't see them — it can't tax them.
 
 ### How Governments Try to Regulate
 
-This is where **exchanges** come into play. Since taxes are nearly impossible to collect via P2P and DeFi, governments put pressure on the one point of entry — centralized exchanges (CEXs).
+This is where **exchanges** come into play. Since taxes are nearly impossible to collect via P2P and [DeFi](/en/glossary/#defi), governments put pressure on the one point of entry — centralized exchanges ([CEXs](/en/glossary/#cex)).
 
 Requirements for exchanges:
 
@@ -189,7 +189,7 @@ Most developed countries have adopted these recommendations.
 
 On one hand — regulation legitimizes crypto, makes it more "official."
 
-On the other — regulation kills the very idea of decentralization. If every exchange is forced to collect your data and hand it over to the government — how is that different from a bank?
+On the other — regulation kills the very idea of [decentralization](/en/glossary/#decentralization). If every exchange is forced to collect your data and hand it over to the government — how is that different from a bank?
 
 ### Exchange Licensing
 

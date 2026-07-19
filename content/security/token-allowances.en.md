@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-**"Confirm access to your USDT"** — you've probably seen this message when connecting your wallet to a new DeFi service, DEX (Uniswap, PancakeSwap), or NFT marketplace.
+**"Confirm access to your USDT"** — you've probably seen this message when connecting your wallet to a new [DeFi](/en/glossary/#defi) service, [DEX](/en/glossary/#dex) (Uniswap, PancakeSwap), or [NFT](/en/glossary/#nft) marketplace.
 
 Many people click "Confirm" without even reading it. And that can cost you every single token in your wallet.
 
@@ -66,7 +66,7 @@ A token allowance is the same thing, just virtual. You let a contract take a spe
 
 ### Unlimited Allowances
 
-The biggest problem: most dApps don't ask for a **limited** approval — they ask for an unlimited one:
+The biggest problem: most [dApps](/en/glossary/#dapp) don't ask for a **limited** approval — they ask for an unlimited one:
 
 ```
 approve(DEX, MAX_UINT_256)

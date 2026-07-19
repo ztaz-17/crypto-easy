@@ -17,11 +17,11 @@ keywords:
 
 ---
 
-Du hast diese Geschichte bestimmt schon gehört: 2021 wurde ein digitales Bild – eine Collage aus 5.000 Einzelbildern – für **69 Millionen Dollar** verkauft. Der Käufer bekam keine Leinwand, sondern eine Datei und einen Eintrag auf der Blockchain. Die Welt fragte: „Warum?"
+Du hast diese Geschichte bestimmt schon gehört: 2021 wurde ein digitales Bild – eine Collage aus 5.000 Einzelbildern – für **69 Millionen Dollar** verkauft. Der Käufer bekam keine Leinwand, sondern eine Datei und einen Eintrag auf der [Blockchain](/de/glossary/#blockchain). Die Welt fragte: „Warum?"
 
 Das war ein **NFT** – ein Non-Fungible Token.
 
-Aber NFTs nur auf teure Bilder zu reduzieren, ist, als würde man das Internet auf E-Mail reduzieren. Lass uns mal anschauen, was diese Technologie eigentlich kann und wo sie schon heute genutzt wird.
+Aber [NFTs](/de/glossary/#nft) nur auf teure Bilder zu reduzieren, ist, als würde man das Internet auf E-Mail reduzieren. Lass uns mal anschauen, was diese Technologie eigentlich kann und wo sie schon heute genutzt wird.
 
 ---
 
@@ -105,7 +105,7 @@ Ein NFT kann als **digitaler Ausweis** fungieren:
 
 - Zugang zu einem privaten Club oder Chat;
 - Rabatte bei Projektpartnern;
-- Stimmrecht in einer DAO (Dezentralen Autonomen Organisation).
+- Stimmrecht in einer [DAO](/de/glossary/#dao) (Dezentralen Autonomen Organisation).
 
 Beispiel: Bored Ape Yacht Club – NFT-Inhaber erhalten Zugang zu exklusiven Events, Merchandise und Community.
 

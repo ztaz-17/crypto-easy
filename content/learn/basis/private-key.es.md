@@ -31,7 +31,7 @@ Una **clave privada** es una cadena larga de caracteres (dígitos y letras) que 
 
 > Una clave privada es tu firma. Una firma que le demuestra a la blockchain: "estas monedas son mías y autorizo su transferencia".
 
-En una blockchain no existe una "cuenta" con usuario y contraseña. No hay nadie sentado verificando si eres realmente tú. Todo el sistema se basa en criptografía: tienes un par de claves — **pública** (se la puedes mostrar a todos) y **privada** (no se la muestras a nadie).
+En una [blockchain](/es/glossary/#blockchain) no existe una "cuenta" con usuario y contraseña. No hay nadie sentado verificando si eres realmente tú. Todo el sistema se basa en criptografía: tienes un par de claves — **pública** (se la puedes mostrar a todos) y **privada** (no se la muestras a nadie).
 
 Clave pública — como tu número de cuenta bancaria. La compartes para que te puedan enviar dinero.
 
@@ -97,7 +97,7 @@ Por lo tanto:
 
 - Nunca tomes una foto de tu frase semilla.
 - Nunca la guardes en las notas de tu teléfono.
-- Nunca ingreses tu clave privada en sitios que prometen "verificar tu billetera" o "revisar airdrops".
+- Nunca ingreses tu clave privada en sitios que prometen "verificar tu billetera" o "revisar [airdrops](/es/glossary/#airdrop)".
 - Nunca la envíes a nadie por mensajería.
 - Nunca la almacenes en la nube (Google Drive, iCloud, Dropbox).
 

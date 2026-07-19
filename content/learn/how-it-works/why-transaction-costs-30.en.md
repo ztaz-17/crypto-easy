@@ -29,7 +29,7 @@ Where do these numbers come from? And more importantly — **why does the exact 
 
 ## Who Are We Even Paying?
 
-Crypto isn't "free." Every transaction requires someone to be paid for the network's work. Depending on the blockchain, that's:
+Crypto isn't "free." Every transaction requires someone to be paid for the network's work. Depending on the [blockchain](/en/glossary/#blockchain), that's:
 
 - **Miners** (Bitcoin) — they solve mathematical puzzles to confirm blocks;
 - **Validators** (Ethereum, Solana) — they verify and confirm transactions.
@@ -181,7 +181,7 @@ Same money, same smart contracts — but fees 50–100 times lower.
 
 ### 5. Don't Send Pocket Change During Peak Hours
 
-If the mempool is clogged (e.g., during a hot NFT mint or memecoin frenzy), just wait a few hours.
+If the mempool is clogged (e.g., during a hot [NFT](/en/glossary/#nft) mint or memecoin frenzy), just wait a few hours.
 
 ---
 

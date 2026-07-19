@@ -60,7 +60,7 @@ Compraste Bitcoin a $30,000, subió a $70,000. Quieres tomar ganancias pero no q
 
 La mayoría de los exchanges no intercambian Bitcoin directamente por efectivo. La ruta habitual:
 1. Compras USDT por P2P o con tarjeta.
-2. Intercambias USDT por Bitcoin en un exchange centralizado (CEX) o descentralizado (DEX).
+2. Intercambias USDT por Bitcoin en un exchange centralizado ([CEX](/es/glossary/#cex)) o descentralizado ([DEX](/es/glossary/#dex)).
 
 USDT es el "centro de tránsito" universal entre el dinero tradicional y las cripto.
 
@@ -70,9 +70,9 @@ USDT es el "centro de tránsito" universal entre el dinero tradicional y las cri
 
 ### Qué es
 
-**USDT** (Tether) — la stablecoin más popular del mundo. Capitalización de mercado a abril de 2026: $190 mil millones. Está en todos los exchanges, todas las billeteras, todos los protocolos DeFi.
+**USDT** (Tether) — la stablecoin más popular del mundo. Capitalización de mercado a abril de 2026: $190 mil millones. Está en todos los exchanges, todas las billeteras, todos los protocolos [DeFi](/es/glossary/#defi).
 
-USDT funciona en múltiples blockchains: Ethereum (ERC-20), Tron (TRC-20 — la más popular, comisiones bajas), BSC (BEP-20), Solana, Polygon, Avalanche y más.
+USDT funciona en múltiples [blockchains](/es/glossary/#blockchain): Ethereum (ERC-20), Tron (TRC-20 — la más popular, comisiones bajas), BSC (BEP-20), Solana, Polygon, Avalanche y más.
 
 ### Cómo funciona
 

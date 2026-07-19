@@ -67,7 +67,7 @@ Esto se llama **bloquear + acuñar / quemar + desbloquear**.
 |------|-------------|---------|
 | **Centralizado** | Una empresa controla una cartera multi-firma | Binance Bridge, Portal (WBTC) |
 | **Descentralizado** | Contratos inteligentes + validadores (oráculos) | Wormhole, Synapse, Stargate |
-| **Oficial** | Creado por el propio equipo de la blockchain | Arbitrum Bridge, Optimism Bridge |
+| **Oficial** | Creado por el propio equipo de la [blockchain](/es/glossary/#blockchain) | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ Esto se llama **bloquear + acuñar / quemar + desbloquear**.
 
 ### Acceso a otros ecosistemas
 
-Cada red es su propio mundo con sus propias apps DeFi:
+Cada red es su propio mundo con sus propias apps [DeFi](/es/glossary/#defi):
 
 - **Ethereum** — la más segura, pero cara.
 - **Arbitrum / Optimism** — mismas capacidades, más baratas (L2s).
@@ -172,7 +172,7 @@ Regla de seguridad:
 
 - **Puentes nuevos sin historial** — el código no ha sido auditado por profesionales ni por la comunidad.
 - **Puentes que prometen "rendimientos altísimos"** — a menudo son estafas.
-- **Puentes hacia redes oscuras** — cuanto menor el TVL, mayor el riesgo.
+- **Puentes hacia redes oscuras** — cuanto menor el [TVL](/es/glossary/#tvl), mayor el riesgo.
 
 ---
 
@@ -207,7 +207,7 @@ Redes distintas — tokens distintos:
 | Puente oficial | Arbitrum Bridge | 10–30 min | Media | Alta |
 | Puente descentralizado | Stargate | 1–10 min | Media | Media |
 | Puente centralizado | Binance Bridge | Instantáneo | Baja | Baja (el exchange tiene tus fondos) |
-| CEX (exchange centralizado) | Binance → retirar a otra red | 5–30 min | Baja | Baja (riesgo de custodia) |
+| [CEX](/es/glossary/#cex) (exchange centralizado) | Binance → retirar a otra red | 5–30 min | Baja | Baja (riesgo de custodia) |
 
 ---
 

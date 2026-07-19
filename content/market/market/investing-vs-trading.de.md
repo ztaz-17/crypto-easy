@@ -52,7 +52,7 @@ Investieren ist ein Ansatz, bei dem du:
 
 Der Begriff **[HODL](/de/glossary/#hodl)** entstand 2013, als ein User im Bitcointalk-Forum betrunken „I AM HODLING" statt „holding" tippte. Das Wort blieb hängen und wurde zum Symbol der Langzeithalter-Bewegung.
 
-HODL bedeutet nicht Faulheit. Es geht um **Vertrauen**, dass das Asset über mehrere Jahre hinweg wachsen wird — trotz vorübergehender Dips.
+[HODL](/de/glossary/#hodl) bedeutet nicht Faulheit. Es geht um **Vertrauen**, dass das Asset über mehrere Jahre hinweg wachsen wird — trotz vorübergehender Dips.
 
 ### Vorteile des Investierens
 

@@ -113,7 +113,7 @@ Ejemplos:
 
 ### Actualizaciones técnicas
 
-Las actualizaciones importantes de blockchains también afectan el precio. Por ejemplo, la transición de Ethereum a Proof-of-Stake (The Merge) provocó una subida significativa de ETH.
+Las actualizaciones importantes de [blockchains](/es/glossary/#blockchain) también afectan el precio. Por ejemplo, la transición de Ethereum a Proof-of-Stake (The Merge) provocó una subida significativa de ETH.
 
 👉 **Importante:** Las reacciones del mercado a las noticias pueden ser ilógicas. A veces las buenas noticias bajan el precio ("compra el rumor, vende la noticia").
 
@@ -139,7 +139,7 @@ Miedo, incertidumbre, duda.
 
 Difundir información negativa (a menudo a propósito) para provocar pánico y una caída del precio.
 
-FUD común:
+[FUD](/es/glossary/#fud) común:
 - "Bitcoin está muerto";
 - "Las cripto son una burbuja a punto de estallar";
 - "Los reguladores van a prohibirlo todo".
@@ -203,7 +203,7 @@ A veces las ballenas manipulan el precio deliberadamente.
 | Liquidez              | Mercado       | Baja liquidez → alta volatilidad              | Corto plazo        |
 | Noticias              | Eventos       | Depende del contexto                          | Instantáneo        |
 | Decisiones regulatorias | Eventos     | Aprobación = subida, prohibición = caída      | Medio plazo        |
-| FOMO / FUD            | Psicológico   | Las emociones mueven el precio                | Corto plazo        |
+| [FOMO](/es/glossary/#fomo) / FUD            | Psicológico   | Las emociones mueven el precio                | Corto plazo        |
 | Pump & Dump           | Manipulación  | Pico artificial y luego desplome              | Corto plazo        |
 | Ballenas              | Mercado       | Grandes órdenes mueven el mercado             | Cualquier plazo    |
 | Adopción corporativa  | Fundamental   | Mayor confianza → crecimiento del precio      | Largo plazo        |

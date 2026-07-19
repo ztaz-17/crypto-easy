@@ -113,7 +113,7 @@ Beispiele:
 
 ### Technische Upgrades
 
-Auch große Blockchain-Upgrades beeinflussen den Preis. Die Umstellung von Ethereum auf Proof-of-Stake (The Merge) zum Beispiel löste einen deutlichen Anstieg von ETH aus.
+Auch große [Blockchain](/de/glossary/#blockchain)-Upgrades beeinflussen den Preis. Die Umstellung von Ethereum auf Proof-of-Stake (The Merge) zum Beispiel löste einen deutlichen Anstieg von ETH aus.
 
 👉 **Wichtig:** Die Reaktionen des Marktes auf Nachrichten können völlig unlogisch sein. Manchmal drücken gute Nachrichten den Preis nach unten („buy the rumor, sell the news").
 
@@ -139,7 +139,7 @@ Angst, Unsicherheit, Zweifel.
 
 Hier werden negative Informationen (oft absichtlich) gestreut, um Panik und einen Preisverfall auszulösen.
 
-Typische FUD:
+Typische [FUD](/de/glossary/#fud):
 - „Bitcoin ist tot";
 - „Crypto ist eine Blase, die bald platzt";
 - „Die Behörden werden alles verbieten."
@@ -247,7 +247,7 @@ Die wichtigsten:
 
 Diese Faktoren zu verstehen, gibt dir keine 100 % genauen Vorhersagen. Aber es hilft dir dabei:
 - bei einem Rückgang nicht in Panik zu verfallen;
-- nicht von FOMO getrieben am Höchststand zu kaufen;
+- nicht von [FOMO](/de/glossary/#fomo) getrieben am Höchststand zu kaufen;
 - und letztlich fundiertere Entscheidungen zu treffen.
 
 > **Der Krypto-Markt ist ein Marathon, kein Sprint.**

@@ -42,7 +42,7 @@ In this article, we'll cover:
 
 ## What Is DeFi
 
-**DeFi** (Decentralized Finance) refers to financial services that run on a blockchain using **smart contracts**.
+**DeFi** (Decentralized Finance) refers to financial services that run on a [blockchain](/en/glossary/#blockchain) using **smart contracts**.
 
 Instead of banks, brokers, and insurance companies — code.
 
@@ -61,7 +61,7 @@ Traditional finance is built on intermediaries:
 | Insurance      | Covers risks                        |
 | Notary         | Certifies transactions              |
 
-DeFi replaces each of them with a **smart contract** — a program that runs automatically and doesn't rely on humans.
+[DeFi](/en/glossary/#defi) replaces each of them with a **smart contract** — a program that runs automatically and doesn't rely on humans.
 
 > If a bank is a company with employees and rules, DeFi is just code that anyone can use.
 
@@ -103,7 +103,7 @@ How it works:
 
 No "order books" like on a traditional exchange. No "your order is pending." Just send and receive.
 
-👉 Uniswap is the largest DEX (decentralized exchange) with billions of dollars in daily trading volume.
+👉 Uniswap is the largest [DEX](/en/glossary/#dex) (decentralized exchange) with billions of dollars in daily trading volume.
 
 ---
 
@@ -149,7 +149,7 @@ The key point: DAI isn't issued by a bank or company. Users create it themselves
 | Criteria                  | Traditional Finance         | DeFi                             |
 |---------------------------|-----------------------------|----------------------------------|
 | Control                   | Bank / Government           | User (self)                      |
-| Access                    | Need ID, KYC, minimum age   | Just need internet               |
+| Access                    | Need ID, [KYC](/en/glossary/#kyc), minimum age   | Just need internet               |
 | Operating hours           | Business hours, weekends off| 24/7, no days off                |
 | Transfer speed            | Hours–days (international)  | Seconds–minutes                  |
 | Fees                      | Often hidden                | Transparent (gas + pool fee)     |
@@ -173,7 +173,7 @@ Smart contracts are written by people. People make mistakes. If the code has a v
 
 ### Loss of Access
 
-You control your funds through your wallet's private key. If you lose your key or seed phrase, your money is gone forever. The bank won't help you.
+You control your funds through your wallet's [private key](/en/glossary/#private-key). If you lose your key or [seed phrase](/en/glossary/#seed-phrase), your money is gone forever. The bank won't help you.
 
 ### Price Crashes (Liquidations)
 

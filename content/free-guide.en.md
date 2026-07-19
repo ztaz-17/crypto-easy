@@ -37,7 +37,7 @@ In the guide, we explain how to set up a personal wallet and transfer your funds
 You bought Bitcoin — it dropped. You sold in panic — it went up. Sound familiar?
 
 Emotional decisions are the #1 enemy of beginner crypto investors.  
-The guide breaks down a simple capital management strategy that protects you from panic selling and FOMO.
+The guide breaks down a simple capital management strategy that protects you from panic selling and [FOMO](/en/glossary/#fomo).
 
 ---
 
@@ -64,7 +64,7 @@ We break down what fees exist, how to minimize them, and what you need to know a
 
 The most expensive mistake of all. Billions of dollars in Bitcoin are permanently lost exactly this way.
 
-Storing your seed phrase on your phone? In the cloud? In notes?  
+Storing your [seed phrase](/en/glossary/#seed-phrase) on your phone? In the cloud? In notes?  
 The guide includes a step-by-step seed phrase security checklist used by professionals.
 
 ---

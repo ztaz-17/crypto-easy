@@ -29,7 +29,7 @@ But here's the good news:
 
 > **You can practice for free, with zero risk and zero investment.**
 
-Cryptocurrencies have a built-in "demo mode" — **testnets**. These are exact copies of real blockchains, except the coins have no real value. You can get them for free, send them around, deploy contracts, and make mistakes — all without any financial consequences.
+Cryptocurrencies have a built-in "demo mode" — **testnets**. These are exact copies of real [blockchains](/en/glossary/#blockchain), except the coins have no real value. You can get them for free, send them around, deploy contracts, and make mistakes — all without any financial consequences.
 
 In this article we'll cover:
 
@@ -76,7 +76,7 @@ Here's how it works:
 
 The most popular ones:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no need to sign up on third-party platforms; you can get ETH, tokens (PYUSD, WBTC, etc.) and NFTs. Just need a Google account.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no need to sign up on third-party platforms; you can get ETH, tokens (PYUSD, WBTC, etc.) and [NFTs](/en/glossary/#nft). Just need a Google account.
 - **sepoliafaucet.com** — one of the most reliable.
 - **infura.io/faucet/sepolia** — requires an Infura account, but gives regular drips.
 - **alchemy.com/faucets/ethereum-sepolia** — from Alchemy, also after registration.
@@ -199,7 +199,7 @@ The biggest advantage of testnets:
 You can:
 
 - send coins to the wrong address (and lose nothing);
-- lose the seed phrase for your test wallet (just create a new one);
+- lose the [seed phrase](/en/glossary/#seed-phrase) for your test wallet (just create a new one);
 - click a phishing link (test coins are worthless anyway);
 - deploy a broken contract (free practice).
 
@@ -264,4 +264,4 @@ No. If you're only working with the testnet — there are zero real coins there.
 
 ### Why do testnets exist?
 
-To test smart contracts and dApps before launch. A bug in a mainnet contract can cost millions of dollars. On a testnet — nothing.
+To test smart contracts and [dApps](/en/glossary/#dapp) before launch. A bug in a mainnet contract can cost millions of dollars. On a testnet — nothing.

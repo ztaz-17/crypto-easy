@@ -23,7 +23,7 @@ Du hast auf einer Börse USDT gekauft, die Wallet-Adresse deines Freundes kopier
 
 Eine Stunde später schreibt dein Freund: **"Da ist kein Geld."**
 
-Du prüfst die Transaktion in der Blockchain — Status: "Erfolgreich." Dein Freund checkt sein Guthaben — null. Als ob sich das Geld in Luft aufgelöst hätte.
+Du prüfst die Transaktion in der [Blockchain](/de/glossary/#blockchain) — Status: "Erfolgreich." Dein Freund checkt sein Guthaben — null. Als ob sich das Geld in Luft aufgelöst hätte.
 
 Kommt dir bekannt vor?
 

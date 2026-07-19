@@ -60,7 +60,7 @@ Musst du 10.000 € ins Ausland senden? Banküberweisung – 3–5 Tage und 2–
 
 Die meisten Börsen handeln Bitcoin nicht direkt gegen Bargeld. Der übliche Weg:
 1. Kaufe USDT via P2P oder Karte.
-2. Tausche USDT gegen Bitcoin an einer CEX oder DEX.
+2. Tausche USDT gegen Bitcoin an einer [CEX](/de/glossary/#cex) oder [DEX](/de/glossary/#dex).
 
 USDT ist der universelle „Transitknoten" zwischen normalem Geld und Krypto.
 
@@ -70,9 +70,9 @@ USDT ist der universelle „Transitknoten" zwischen normalem Geld und Krypto.
 
 ### Was es ist
 
-**USDT** (Tether) – der beliebteste Stablecoin der Welt. Marktkapitalisierung Stand April 2026: 190 Milliarden $. Er ist an jeder Börse, in jedem Wallet, in jedem DeFi-Protokoll.
+**USDT** (Tether) – der beliebteste Stablecoin der Welt. Marktkapitalisierung Stand April 2026: 190 Milliarden $. Er ist an jeder Börse, in jedem Wallet, in jedem [DeFi](/de/glossary/#defi)-Protokoll.
 
-USDT läuft auf mehreren Blockchains: Ethereum (ERC-20), Tron (TRC-20 – am beliebtesten, niedrige Gebühren), BSC (BEP-20), Solana, Polygon, Avalanche und mehr.
+USDT läuft auf mehreren [Blockchains](/de/glossary/#blockchain): Ethereum (ERC-20), Tron (TRC-20 – am beliebtesten, niedrige Gebühren), BSC (BEP-20), Solana, Polygon, Avalanche und mehr.
 
 ### Wie es funktioniert
 

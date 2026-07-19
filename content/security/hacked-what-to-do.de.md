@@ -26,7 +26,7 @@ Es könnte noch schlimmer sein: Du siehst live zu, wie jemand dein Guthaben abzi
 
 > **Bei Crypto bekommst du dein gestohlenes Geld von niemandem zurück.**
 
-Keine Bank. Nicht die Polizei. Nicht die Blockchain-Entwickler.
+Keine Bank. Nicht die Polizei. Nicht die [Blockchain](/de/glossary/#blockchain)-Entwickler.
 
 Aber das heißt nicht, dass du nichts tun kannst. Dieser Artikel gibt dir einen klaren Aktionsplan für die ersten Minuten nach der Entdeckung eines Hacks.
 
@@ -156,7 +156,7 @@ Die Chancen sind nicht groß, aber sie sind nicht Null — besonders wenn der Be
 
 ## Schritt 7. Die Community warnen
 
-Wenn du Opfer eines bestimmten Betrugs, einer Phishing-Seite oder einer bösartigen dApp geworden bist:
+Wenn du Opfer eines bestimmten Betrugs, einer Phishing-Seite oder einer bösartigen [dApp](/de/glossary/#dapp) geworden bist:
 
 - melde es auf [Scam Sniffer](https://scamsniffer.io) (einer Datenbank bekannter Betrugsmaschen);
 - poste auf X (Twitter) und tagge das beteiligte Projekt oder Wallet;

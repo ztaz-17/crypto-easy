@@ -34,7 +34,7 @@ Regístrate, fondea tu cuenta y compra Bitcoin, USDT o cualquier moneda.
 | **Coinbase** | El más fácil — compra directa con tarjeta |
 | **Binance** | El más grande, comisiones más bajas |
 | **Bybit** | Interfaz limpia, popular en Europa y Asia |
-| **KuCoin** | Muchas altcoins, sin KYC para poco monto |
+| **KuCoin** | Muchas altcoins, sin [KYC](/es/glossary/#kyc) para poco monto |
 
 ### Pros ✅
 - Miles de monedas
@@ -124,4 +124,4 @@ Mercuryo, MoonPay — pagas con tarjeta, crypto llega en minutos. Dentro de Meta
 
 **¿Se puede con tarjeta?** Sí. Coinbase, Binance, Mercuryo, MoonPay aceptan Visa/Mastercard.
 
-**¿Y después de comprar?** Retira a tu wallet no custodiado, guarda la seed phrase.
+**¿Y después de comprar?** Retira a tu wallet no custodiado, guarda la [seed phrase](/es/glossary/#seed-phrase).

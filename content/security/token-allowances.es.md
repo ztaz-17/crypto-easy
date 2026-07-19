@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-**"Confirma el acceso a tus USDT"** — seguramente has visto este mensaje al conectar tu wallet a un nuevo servicio DeFi, un DEX (Uniswap, PancakeSwap) o un marketplace de NFT.
+**"Confirma el acceso a tus USDT"** — seguramente has visto este mensaje al conectar tu wallet a un nuevo servicio [DeFi](/es/glossary/#defi), un [DEX](/es/glossary/#dex) (Uniswap, PancakeSwap) o un marketplace de [NFT](/es/glossary/#nft).
 
 Mucha gente le da a "Confirmar" sin leerlo siquiera. Y eso puede costarte absolutamente todos los tokens de tu wallet.
 
@@ -67,7 +67,7 @@ Un permiso de token es exactamente lo mismo, pero en versión virtual. Dejas que
 
 ### Aprobaciones Ilimitadas
 
-El problema más grande: la mayoría de las dApps no te piden una aprobación **limitada** — te piden una ilimitada:
+El problema más grande: la mayoría de las [dApps](/es/glossary/#dapp) no te piden una aprobación **limitada** — te piden una ilimitada:
 
 ```
 approve(DEX, MAX_UINT_256)

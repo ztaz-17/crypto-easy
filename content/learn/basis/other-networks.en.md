@@ -46,12 +46,12 @@ XRP isn't just a cryptocurrency — it's a whole platform for international bank
 
 BNB is the native token of Binance, the world's largest crypto exchange. Initially it gave you a discount on trading fees, but over time it grew into a full ecosystem: BNB is used on the BNB Chain network, for gas fees, staking, and Launchpad participation.
 
-**Main selling point:** BNB Chain is one of the most popular networks for DeFi and NFTs — cheap and fast. Plus, Binance burns a portion of tokens every quarter, reducing supply.
+**Main selling point:** BNB Chain is one of the most popular networks for [DeFi](/en/glossary/#defi) and [NFTs](/en/glossary/#nft) — cheap and fast. Plus, Binance burns a portion of tokens every quarter, reducing supply.
 
 **Key events in 2025–2026:**
 - The BNB Chain v2.2 upgrade ("Prague" hard fork) cut block time to 1 second and lowered fees by 40%.
 - Binance obtained full VASP licenses in the UAE and Turkey.
-- The auto-burn mechanism was updated — the formula now accounts for DEX and CEX volume, removing the human factor.
+- The auto-burn mechanism was updated — the formula now accounts for [DEX](/en/glossary/#dex) and [CEX](/en/glossary/#cex) volume, removing the human factor.
 
 > BNB is a bet on Binance as a company and on BNB Chain as an ecosystem.
 
@@ -59,7 +59,7 @@ BNB is the native token of Binance, the world's largest crypto exchange. Initial
 
 ## Solana (SOL) — the Fastest L1
 
-Solana is a blockchain designed from the ground up for speed. It handles tens of thousands of transactions per second with pennies in fees. That makes it an ideal environment for DeFi exchanges, games, and mass-market applications.
+Solana is a [blockchain](/en/glossary/#blockchain) designed from the ground up for speed. It handles tens of thousands of transactions per second with pennies in fees. That makes it an ideal environment for DeFi exchanges, games, and mass-market applications.
 
 **Main selling point:** Firedancer — a new validator client that pushed throughput to 50,000 TPS.
 
@@ -185,7 +185,7 @@ Sui is a next-generation blockchain built on the Move language (originally devel
 
 **Key events in 2025–2026:**
 - Mysticeti consensus — 390 ms to finality, making Sui officially the fastest L1.
-- BlackRock launched a BUIDL fund on Sui — $200 million TVL in the first month.
+- BlackRock launched a BUIDL fund on Sui — $200 million [TVL](/en/glossary/#tvl) in the first month.
 - MoveGPT — the first AI agent framework on Sui, letting you deploy trading bots and NFT minters directly on-chain.
 
 > Sui is a dark horse. Lower market cap, but one of the most advanced technologies out there. Part of the Move ecosystem (Aptos, Sui).

@@ -72,14 +72,14 @@ Esto incluye:
 - Sueldo pagado en crypto
 - Recompensas por staking (Ethereum 2.0, Solana, etc.)
 - Minería
-- Airdrops
-- Rendimientos DeFi (préstamos, farming)
+- [Airdrops](/es/glossary/#airdrop)
+- Rendimientos [DeFi](/es/glossary/#defi) (préstamos, farming)
 
 Todo esto cuenta como **ingreso** y tributa como tu salario normal. La tasa es la de tu impuesto sobre la renta.
 
 ### Compraste un NFT o Jugaste a GameFi
 
-Si compraste un NFT con crypto — puede ser un hecho imponible (depende del país). Si vendiste el NFT por más de lo que pagaste — la ganancia tributa.
+Si compraste un [NFT](/es/glossary/#nft) con crypto — puede ser un hecho imponible (depende del país). Si vendiste el [NFT](/es/glossary/#nft) por más de lo que pagaste — la ganancia tributa.
 
 En GameFi (juegos como Axie Infinity), las recompensas en tokens se consideran ingresos en el momento en que las recibes.
 
@@ -91,7 +91,7 @@ No todo genera impuestos:
 
 | Operación | ¿Impuesto? | Explicación |
 |-----------|-----------|-------------|
-| Solo comprar y mantener (HODL) | ❌ No | Hasta que vendas — no hay impuesto |
+| Solo comprar y mantener ([HODL](/es/glossary/#hodl)) | ❌ No | Hasta que vendas — no hay impuesto |
 | Transferir entre tus propias carteras | ❌ No | Mover del exchange a la cartera fría no es una venta |
 | Regalar crypto (dentro de límites) | ❌ No en algunos países | Varía según el país |
 | Comprar crypto y perder el acceso | ❌ No | Es una pérdida, no una ganancia |
@@ -186,7 +186,7 @@ Esto es lo que suele salir mal:
 
 ### Error 1: «Las crypto son anónimas, Hacienda no se va a enterar»
 
-Este es el mito más peligroso. Todos los exchanges importantes comparten datos con los reguladores. Binance, Coinbase, Kraken — todos cumplen con KYC. Si retiraste dinero a tu banco — el banco ya lo sabe. La blockchain es un libro público y hay software especializado que rastrea transacciones sospechosas.
+Este es el mito más peligroso. Todos los exchanges importantes comparten datos con los reguladores. Binance, Coinbase, Kraken — todos cumplen con [KYC](/es/glossary/#kyc). Si retiraste dinero a tu banco — el banco ya lo sabe. La [blockchain](/es/glossary/#blockchain) es un libro público y hay software especializado que rastrea transacciones sospechosas.
 
 ### Error 2: «Solo cambié BTC por USDT — eso no es una venta»
 

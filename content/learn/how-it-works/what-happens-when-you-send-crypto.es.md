@@ -50,7 +50,7 @@ La transacción aún no se ha enviado. Es solo un borrador — un conjunto de da
 
 Tu cartera no «saca» dinero de una cuenta. En cambio, revisa todo el historial de transacciones anteriores que alguna vez llegaron a tu dirección y selecciona los saldos no gastados.
 
-Piensa que es como tener varios billetes diferentes en el bolsillo, y eliges con cuál pagar. En cripto, esos «billetes» son registros en la blockchain.
+Piensa que es como tener varios billetes diferentes en el bolsillo, y eliges con cuál pagar. En cripto, esos «billetes» son registros en la [blockchain](/es/glossary/#blockchain).
 
 > Para más información sobre cómo funcionan las direcciones y las claves, consulta el glosario: [dirección pública](/es/glossary/#direccion-publica), [clave privada](/es/glossary/#clave-privada).
 

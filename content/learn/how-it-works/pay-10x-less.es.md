@@ -28,7 +28,7 @@ $28 — la comisión por una sola transferencia.
 
 Tu amigo recibió $172.
 
-Pagaste **un 14%** solo para que alguien escribiera la transacción en una blockchain.
+Pagaste **un 14%** solo para que alguien escribiera la transacción en una [blockchain](/es/glossary/#blockchain).
 
 ¿Suena a robo?
 
@@ -50,7 +50,7 @@ En este artículo cubriremos cuatro herramientas principales para ahorrar:
 Una comisión de blockchain es lo que pagas a los **validadores** (las personas que confirman transacciones).
 Cuanto más popular es la red — más gente quiere enviar una transferencia. Cuanta más gente quiere entrar — más alto es el precio por un lugar en el siguiente bloque.
 
-**Ethereum** — la red más congestionada para DeFi, NFT y transferencias de stablecoins.
+**Ethereum** — la red más congestionada para [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft) y transferencias de stablecoins.
 En días pico, una transferencia simple de USDT cuesta **$30–50**.
 
 Bitcoin es otra historia: las comisiones se disparan cuando mucha gente envía monedas al mismo tiempo. En días tranquilos — $1–3, en pico — $20+.

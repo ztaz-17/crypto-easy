@@ -28,7 +28,7 @@ Wir haben einen objektiven Vergleich der drei besten Börsen 2026 erstellt. Alle
 - **Niedrige Gebühren**: 0,1% Spot, 0,02% Futures
 - **P2P-Handel**: Krypto mit lokalen Zahlungsmethoden kaufen
 - **Benutzerfreundlich**: Anfängermodus verfügbar
-- **Sicherheit**: Cold Wallets, 2FA, Versicherungsfonds $700M+
+- **Sicherheit**: [Cold Wallets](/de/glossary/#cold-wallet), 2FA, Versicherungsfonds $700M+
 - **Bildung**: integrierte Kurse und Trading-Simulator
 
 **Begrüßungsbonus**: bis zu $100 bei Ersteinzahlung von $50+.

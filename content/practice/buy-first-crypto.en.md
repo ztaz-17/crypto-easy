@@ -36,7 +36,7 @@ The most popular and convenient way. Register on an exchange, fund your account,
 | **Coinbase** | Easiest start — buy directly with card, licensed in US and EU |
 | **Binance** | Largest, lowest fees |
 | **Bybit** | Clean interface, popular in Europe and Asia |
-| **KuCoin** | Many altcoins, no KYC for small amounts |
+| **KuCoin** | Many altcoins, no [KYC](/en/glossary/#kyc) for small amounts |
 | **OKX** | Good P2P marketplace |
 
 ### Pros ✅
@@ -193,4 +193,4 @@ $10-20. Enough to test everything.
 Yes. Coinbase, Binance, and swap services (Mercuryo, MoonPay) take Visa/Mastercard.
 
 ### What after buying?
-Withdraw to your non-custodial wallet, write down your seed phrase, keep it safe.
+Withdraw to your non-custodial wallet, write down your [seed phrase](/en/glossary/#seed-phrase), keep it safe.

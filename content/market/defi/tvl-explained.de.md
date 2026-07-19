@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Du hast ein neues DeFi-Protokoll gefunden. Schicke Website, niedrige Gebühren, verspricht 500 % APY.
+Du hast ein neues [DeFi](/de/glossary/#defi)-Protokoll gefunden. Schicke Website, niedrige Gebühren, verspricht 500 % APY.
 
 Eine Frage taucht auf:
 
@@ -43,7 +43,7 @@ Einfach gesagt:
 
 > **wie viel Geld Nutzer diesem Protokoll anvertraut haben.**
 
-TVL umfasst:
+[TVL](/de/glossary/#tvl) umfasst:
 - Token in Liquiditätspools (wie auf Uniswap);
 - Einlagen in Kreditprotokollen (wie Aave);
 - Sicherheiten in Stablecoin-Protokollen (wie MakerDAO);
@@ -94,7 +94,7 @@ Was du machen kannst:
 - TVL eines beliebigen Protokolls prüfen;
 - TVL über mehrere Protokolle hinweg vergleichen;
 - **TVL-Verlauf** ansehen — wie er sich im Laufe der Zeit verändert hat;
-- nach Blockchain filtern (Ethereum, Solana, Arbitrum usw.).
+- nach [Blockchain](/de/glossary/#blockchain) filtern (Ethereum, Solana, Arbitrum usw.).
 
 DefiLlama größter Vorteil — es ist **unabhängig**. Die Daten kommen direkt von der Blockchain, über Smart Contracts.
 

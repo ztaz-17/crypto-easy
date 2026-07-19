@@ -67,7 +67,7 @@ This is called **lock + mint / burn + unlock**.
 |------|-------------|---------|
 | **Centralized** | A company controls a multi-sig wallet | Binance Bridge, Portal (WBTC) |
 | **Decentralized** | Smart contracts + validators (oracles) | Wormhole, Synapse, Stargate |
-| **Official** | Built by the blockchain's own team | Arbitrum Bridge, Optimism Bridge |
+| **Official** | Built by the [blockchain](/en/glossary/#blockchain)'s own team | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ This is called **lock + mint / burn + unlock**.
 
 ### Access to Other Ecosystems
 
-Each network is its own world with its own DeFi apps:
+Each network is its own world with its own [DeFi](/en/glossary/#defi) apps:
 
 - **Ethereum** — the most secure, but expensive.
 - **Arbitrum / Optimism** — same capabilities, cheaper (L2s).
@@ -172,7 +172,7 @@ Safety rule:
 
 - **New bridges with no track record** — code hasn't been audited by professionals or the community.
 - **Bridges promising "超高 yield"** — often scams.
-- **Bridges to obscure networks** — the lower the TVL, the higher the risk.
+- **Bridges to obscure networks** — the lower the [TVL](/en/glossary/#tvl), the higher the risk.
 
 ---
 
@@ -207,7 +207,7 @@ Different networks — different tokens:
 | Official bridge | Arbitrum Bridge | 10–30 min | Medium | High |
 | Decentralized bridge | Stargate | 1–10 min | Medium | Medium |
 | Centralized bridge | Binance Bridge | Instant | Low | Low (exchange holds your funds) |
-| CEX (centralized exchange) | Binance → withdraw to another network | 5–30 min | Low | Low (custodial risk) |
+| [CEX](/en/glossary/#cex) (centralized exchange) | Binance → withdraw to another network | 5–30 min | Low | Low (custodial risk) |
 
 ---
 

@@ -25,7 +25,7 @@ An ETF (Exchange Traded Fund) is an investment fund whose shares can be traded o
 
 The main difference from buying crypto directly:
 - No need to create a wallet
-- No need to remember a seed phrase
+- No need to remember a [seed phrase](/en/glossary/#seed-phrase)
 - No need to deal with gas fees and network complexities
 - Everything is done through a regular brokerage account
 

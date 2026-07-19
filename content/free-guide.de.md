@@ -37,7 +37,7 @@ Im Leitfaden erklären wir, wie du in 5 Minuten eine persönliche Wallet einrich
 Du hast Bitcoin gekauft — er fiel. Du hast aus Panik verkauft — er stieg. Kommt dir bekannt vor?
 
 Emotionale Entscheidungen sind der größte Feind von Krypto-Anfängern.  
-Der Leitfaden zeigt eine einfache Kapitalmanagement-Strategie, die vor Panikverkäufen und FOMO schützt.
+Der Leitfaden zeigt eine einfache Kapitalmanagement-Strategie, die vor Panikverkäufen und [FOMO](/de/glossary/#fomo) schützt.
 
 ---
 

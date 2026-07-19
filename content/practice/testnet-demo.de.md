@@ -29,7 +29,7 @@ Aber hier kommt die gute Nachricht:
 
 > **Du kannst kostenlos üben — mit null Risiko und null Investition.**
 
-Kryptowährungen haben einen eingebauten »Demo-Modus« — die **Testnets**. Das sind exakte Kopien der echten Blockchains, nur haben die Coins keinen realen Wert. Du bekommst sie gratis, schickst sie hin und her, setzt Contracts ein und machst Fehler — ganz ohne finanzielle Folgen.
+Kryptowährungen haben einen eingebauten »Demo-Modus« — die **Testnets**. Das sind exakte Kopien der echten [Blockchains](/de/glossary/#blockchain), nur haben die Coins keinen realen Wert. Du bekommst sie gratis, schickst sie hin und her, setzt Contracts ein und machst Fehler — ganz ohne finanzielle Folgen.
 
 In diesem Artikel erfährst du:
 
@@ -76,7 +76,7 @@ So funktioniert's:
 
 Die beliebtesten:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — keine Anmeldung auf Drittanbieter-Plattformen nötig; du bekommst ETH, Tokens (PYUSD, WBTC usw.) und NFTs. Brauchst nur ein Google-Konto.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — keine Anmeldung auf Drittanbieter-Plattformen nötig; du bekommst ETH, Tokens (PYUSD, WBTC usw.) und [NFTs](/de/glossary/#nft). Brauchst nur ein Google-Konto.
 - **sepoliafaucet.com** — einer der zuverlässigsten.
 - **infura.io/faucet/sepolia** — erfordert ein Infura-Konto, gibt aber regelmäßige Dosen.
 - **alchemy.com/faucets/ethereum-sepolia** — von Alchemy, ebenfalls nach Registrierung.
@@ -262,4 +262,4 @@ Nein. Wenn du nur mit dem Testnet arbeitest — sind dort null echte Coins. Gefa
 
 ### Warum gibt es Testnets?
 
-Zum Testen von Smart Contracts und dApps vor dem Start. Ein Bug in einem Mainnet-Contract kann Millionen kosten. Im Testnet — nichts.
+Zum Testen von Smart Contracts und [dApps](/de/glossary/#dapp) vor dem Start. Ein Bug in einem Mainnet-Contract kann Millionen kosten. Im Testnet — nichts.

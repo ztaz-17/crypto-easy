@@ -57,7 +57,7 @@ But if that address ever gets linked to your identity (through an exchange, wall
 
 ### How Chain Analysis Works
 
-There are companies — Chainalysis, Elliptic, CipherTrace — that do exactly this. They analyze the blockchain:
+There are companies — Chainalysis, Elliptic, CipherTrace — that do exactly this. They analyze the [blockchain](/en/glossary/#blockchain):
 
 - connect addresses to exchanges;
 - track money movement;
@@ -136,7 +136,7 @@ Bitcoin, on the other hand:
 
 - has a working network with thousands of nodes worldwide;
 - is used by millions of people;
-- has a developed infrastructure (exchanges, wallets, DeFi);
+- has a developed infrastructure (exchanges, wallets, [DeFi](/en/glossary/#defi));
 - is recognized by institutional investors (ETFs in the US, major company investments).
 
 > The difference between tulips and Bitcoin: Bitcoin has functionality, utility, and infrastructure. Tulips — just beauty.
@@ -182,7 +182,7 @@ It takes less time than opening a bank account.
 Five years ago, buying crypto meant:
 
 - signing up on an exchange;
-- going through KYC (with a passport photo);
+- going through [KYC](/en/glossary/#kyc) (with a passport photo);
 - waiting for approval;
 - figuring out order types.
 
@@ -218,7 +218,7 @@ These are fundamentally different things:
 Most of the people who "lost everything":
 
 - jumped into crypto during the hype;
-- bought at the peak (FOMO);
+- bought at the peak ([FOMO](/en/glossary/#fomo));
 - sold in a panic (when everything crashed);
 - had no idea what they were buying.
 

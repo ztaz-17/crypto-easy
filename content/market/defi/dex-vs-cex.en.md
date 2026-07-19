@@ -53,11 +53,11 @@ Centralized exchanges have to follow the laws of the countries they operate in. 
 > - pass verification (passport, selfie);
 > - sometimes — confirm your residential address.
 
-Without KYC you can't withdraw more than a certain limit (usually 1–2 BTC per day).
+Without [KYC](/en/glossary/#kyc) you can't withdraw more than a certain limit (usually 1–2 BTC per day).
 
 **Custodial Storage**
 
-Your crypto assets live on the exchange's wallets. You don't have direct access to the private keys. In practice, you're trusting the exchange with your money.
+Your crypto assets live on the exchange's wallets. You don't have direct access to the [private keys](/en/glossary/#private-key). In practice, you're trusting the exchange with your money.
 
 > When you deposit 1 BTC on Binance, Binance credits it to your "account." But on the blockchain, that BTC sits in a wallet that Binance controls, not you.
 
@@ -65,7 +65,7 @@ Your crypto assets live on the exchange's wallets. You don't have direct access 
 
 ## What Is a DEX (Decentralized Exchange)
 
-**DEX** is a set of smart contracts that let you swap tokens directly, without a middleman. No company, no server — just code on the blockchain.
+**DEX** is a set of smart contracts that let you swap tokens directly, without a middleman. No company, no server — just code on the [blockchain](/en/glossary/#blockchain).
 
 Examples: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multichain), **Curve** (stablecoins).
 
@@ -91,13 +91,13 @@ Your funds stay in your wallet the whole time. You connect MetaMask, Rabby, Phan
 
 **No KYC**
 
-No passports, no registrations. Connect your wallet — start trading. All a DEX needs to see is your wallet address.
+No passports, no registrations. Connect your wallet — start trading. All a [DEX](/en/glossary/#dex) needs to see is your wallet address.
 
 ---
 
 ## Comparison: CEX vs DEX
 
-| Criterion | CEX | DEX |
+| Criterion | [CEX](/en/glossary/#cex) | DEX |
 |-----------|-----|-----|
 | **Control of funds** | Exchange (custodial) | You (non-custodial) |
 | **Registration** | Email + KYC (passport) | Not needed |
@@ -161,7 +161,7 @@ Your money — yours. The exchange can't freeze your account, limit withdrawals,
 
 ### 4️⃣ You Work with DeFi Protocols
 
-If you want to farm, stake, or lend — these operations happen inside the blockchain. DEXs are the natural interface for DeFi.
+If you want to farm, stake, or lend — these operations happen inside the blockchain. DEXs are the natural interface for [DeFi](/en/glossary/#defi).
 
 > You can swap tokens on Uniswap, then immediately send them to Aave for lending — all in one transaction, without moving funds to an exchange.
 

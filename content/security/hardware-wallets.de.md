@@ -149,7 +149,7 @@ Ab $1000 ist es keine Option mehr, sondern eine Notwendigkeit.
 
 ### Kann ich meine Wallet ohne das Gerät wiederherstellen?
 
-Ja. Falls dein Ledger/Trezor kaputtgeht, verloren geht oder verbrennt – kaufst du ein neues Gerät (egal von welchem Hersteller) und stellst den Zugang über die Seed-Phrase wieder her. Deine Coins sind nicht verloren, denn sie sind nicht „im" Gerät – sie sind in der Blockchain, und die Schlüssel werden aus der Seed-Phrase wiederhergestellt.
+Ja. Falls dein Ledger/Trezor kaputtgeht, verloren geht oder verbrennt – kaufst du ein neues Gerät (egal von welchem Hersteller) und stellst den Zugang über die Seed-Phrase wieder her. Deine Coins sind nicht verloren, denn sie sind nicht „im" Gerät – sie sind in der [Blockchain](/de/glossary/#blockchain), und die Schlüssel werden aus der Seed-Phrase wiederhergestellt.
 
 ### Was ist, wenn ich meine Seed-Phrase verliere?
 
@@ -163,7 +163,7 @@ Beide Geräte bieten Sicherheit auf Bankniveau. Trezor ist vollständig Open Sou
 
 Subjektiv: Liegt die Summe unter $300, kannst du mit einer mobilen Wallet (Trust Wallet, MetaMask) starten, vorausgesetzt du:
 - Klickst nicht auf verdächtige Links
-- Verbindest deine Wallet nicht mit dubiosen dApps
+- Verbindest deine Wallet nicht mit dubiosen [dApps](/de/glossary/#dapp)
 - Bewahrst die Seed-Phrase offline auf
 
 Aber sobald die Summe $500 übersteigt – denk über eine Hardware-Wallet nach.

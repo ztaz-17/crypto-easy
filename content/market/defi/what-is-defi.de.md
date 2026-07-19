@@ -42,7 +42,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist DeFi
 
-**DeFi** (Decentralized Finance) bezeichnet Finanzdienstleistungen, die auf einer Blockchain mit **Smart Contracts** laufen.
+**DeFi** (Decentralized Finance) bezeichnet Finanzdienstleistungen, die auf einer [Blockchain](/de/glossary/#blockchain) mit **Smart Contracts** laufen.
 
 Statt Banken, Maklern und Versicherungen — Code.
 
@@ -61,7 +61,7 @@ Traditionelle Finanzen basieren auf Vermittlern:
 | Versicherung     | Deckt Risiken ab                   |
 | Notar            | Beglaubigt Transaktionen            |
 
-DeFi ersetzt jeden von ihnen durch einen **Smart Contract** — ein Programm, das automatisch abläuft und nicht auf Menschen angewiesen ist.
+[DeFi](/de/glossary/#defi) ersetzt jeden von ihnen durch einen **Smart Contract** — ein Programm, das automatisch abläuft und nicht auf Menschen angewiesen ist.
 
 > Wenn eine Bank ein Unternehmen mit Angestellten und Regeln ist, dann ist DeFi einfach Code, den jeder nutzen kann.
 
@@ -103,7 +103,7 @@ So funktioniert's:
 
 Kein „Orderbuch" wie an einer traditionellen Börse. Kein „Ihre Order wird bearbeitet." Einfach senden und empfangen.
 
-👉 Uniswap ist die größte DEX (dezentrale Börse) mit Milliardenumsätzen pro Tag.
+👉 Uniswap ist die größte [DEX](/de/glossary/#dex) (dezentrale Börse) mit Milliardenumsätzen pro Tag.
 
 ---
 
@@ -149,7 +149,7 @@ Der entscheidende Punkt: DAI wird nicht von einer Bank oder einem Unternehmen au
 | Kriterium              | Traditionelle Finanzen        | DeFi                             |
 |------------------------|-------------------------------|----------------------------------|
 | Kontrolle              | Bank / Staat                  | Nutzer (selbst)                  |
-| Zugang                 | Ausweis, KYC, Mindestalter    | Nur Internet nötig               |
+| Zugang                 | Ausweis, [KYC](/de/glossary/#kyc), Mindestalter    | Nur Internet nötig               |
 | Öffnungszeiten         | Geschäftszeiten, Wochenende zu| 24/7, keine freien Tage          |
 | Überweisungsdauer      | Stunden–Tage (international)  | Sekunden–Minuten                 |
 | Gebühren               | Oft versteckt                 | Transparent (Gas + Poolgebühr)   |

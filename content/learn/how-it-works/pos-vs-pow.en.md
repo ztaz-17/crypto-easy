@@ -32,7 +32,7 @@ The two main mechanisms are **Proof of Work (PoW)** and **Proof of Stake (PoS)**
 
 ### How It Works
 
-Proof of Work is exactly what it sounds like: you have to **do real computational work** to add a new block to the blockchain.
+[Proof of Work](/en/glossary/#proof-of-work) is exactly what it sounds like: you have to **do real computational work** to add a new block to the [blockchain](/en/glossary/#blockchain).
 
 Imagine you're facing a giant safe with a combination lock that has a billion possible codes. You try one combination after another — hours, days, weeks go by. But the moment you crack the code, anyone can check that it's correct.
 
@@ -73,7 +73,7 @@ Miners aren't programmers or developers. They're **hardware operators**. They:
 
 ### How It Works
 
-Proof of Stake doesn't involve crunching numbers. Instead, participants **lock up (stake) their coins** in the network and earn the right to confirm blocks in proportion to their stake.
+[Proof of Stake](/en/glossary/#proof-of-stake) doesn't involve crunching numbers. Instead, participants **lock up (stake) their coins** in the network and earn the right to confirm blocks in proportion to their stake.
 
 Think of it like a **bank deposit** instead of a lottery with tickets. The bigger your deposit, the more often you're chosen to confirm transactions. Try to cheat — and your deposit gets slashed.
 

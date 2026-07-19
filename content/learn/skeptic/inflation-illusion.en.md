@@ -313,7 +313,7 @@ A deposit is like:
 > holding ice in a warm room and being happy it's melting slowly
 
 Cryptocurrency as a deposit alternative:
-* gives access to yield (staking, DeFi);
+* gives access to yield (staking, [DeFi](/en/glossary/#defi));
 * doesn't require intermediaries;
 * gives you **control over your money**.
 

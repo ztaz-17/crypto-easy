@@ -51,7 +51,7 @@ Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para 
 | Cartera             | Tipo                | Característica                          |
 |---------------------|----------------------|----------------------------------------|
 | **MetaMask**        | Extensión de navegador | La más popular para Ethereum y redes EVM |
-| **Trust Wallet**    | Aplicación móvil       | Cómoda, multimoneda, navegador DApp integrado |
+| **Trust Wallet**    | Aplicación móvil       | Cómoda, multimoneda, navegador [DApp](/es/glossary/#dapp) integrado |
 | **Exodus**          | Escritorio / móvil   | Interfaz bonita, intercambio integrado |
 | **Phantom**         | Navegador / móvil    | Optimizada para Solana                 |
 | **Coinbase Wallet** | Móvil / extensión    | Integración con el exchange, no custodial |
@@ -72,7 +72,7 @@ Todo esto ocurre en segundos. ¿Cómodo? Mucho.
 
 - transacciones rápidas;
 - acceso cómodo desde el teléfono u ordenador;
-- integración con DApps, DeFi, NFT;
+- integración con DApps, [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft);
 - gratuitas (excepto comisiones de red);
 - ideales para uso diario.
 
@@ -226,7 +226,7 @@ Sí. La frase semilla es universal.
 
 ### ¿Qué pasa si el Ledger se rompe?
 
-No pasa nada. El dispositivo es solo una «llave». Las monedas en sí se almacenan en la blockchain.
+No pasa nada. El dispositivo es solo una «llave». Las monedas en sí se almacenan en la [blockchain](/es/glossary/#blockchain).
 
 Compra un Ledger nuevo (o cualquier otra cartera compatible con BIP39) y restaura el acceso con tu frase semilla.
 

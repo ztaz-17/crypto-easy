@@ -53,7 +53,7 @@ Zentralisierte Börsen müssen die Gesetze der Länder einhalten, in denen sie t
 > - eine Verifizierung durchlaufen (Pass, Selfie);
 > - manchmal — deine Wohnadresse bestätigen.
 
-Ohne KYC kannst du nur bis zu einem bestimmten Limit abheben (normalerweise 1–2 BTC pro Tag).
+Ohne [KYC](/de/glossary/#kyc) kannst du nur bis zu einem bestimmten Limit abheben (normalerweise 1–2 BTC pro Tag).
 
 **Verwahrende Aufbewahrung**
 
@@ -65,7 +65,7 @@ Deine Krypto-Assets liegen auf den Wallets der Börse. Du hast keinen direkten Z
 
 ## Was ist eine DEX (Decentralized Exchange)
 
-**DEX** ist eine Reihe von Smart Contracts, mit denen du Token direkt tauschen kannst — ohne Zwischenhändler. Kein Unternehmen, kein Server — nur Code auf der Blockchain.
+**DEX** ist eine Reihe von Smart Contracts, mit denen du Token direkt tauschen kannst — ohne Zwischenhändler. Kein Unternehmen, kein Server — nur Code auf der [Blockchain](/de/glossary/#blockchain).
 
 Beispiele: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (Multichain), **Curve** (Stablecoins).
 
@@ -91,13 +91,13 @@ Deine Gelder bleiben die ganze Zeit in deiner Wallet. Du verbindest MetaMask, Ra
 
 **Kein KYC**
 
-Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginnen. Alles, was eine DEX sehen muss, ist deine Wallet-Adresse.
+Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginnen. Alles, was eine [DEX](/de/glossary/#dex) sehen muss, ist deine Wallet-Adresse.
 
 ---
 
 ## Vergleich: CEX vs DEX
 
-| Kriterium | CEX | DEX |
+| Kriterium | [CEX](/de/glossary/#cex) | DEX |
 |-----------|-----|-----|
 | **Kontrolle über Gelder** | Börse (verwahrend) | Du (nicht-verwahrend) |
 | **Registrierung** | E-Mail + KYC (Pass) | Nicht nötig |
@@ -161,7 +161,7 @@ Dein Geld — deins. Die Börse kann dein Konto nicht einfrieren, Auszahlungen n
 
 ### 4️⃣ Du arbeitest mit DeFi-Protokollen
 
-Wenn du farmen, staken oder verleihen willst — diese Operationen finden innerhalb der Blockchain statt. DEXs sind die natürliche Schnittstelle für DeFi.
+Wenn du farmen, staken oder verleihen willst — diese Operationen finden innerhalb der Blockchain statt. DEXs sind die natürliche Schnittstelle für [DeFi](/de/glossary/#defi).
 
 > Du kannst Token auf Uniswap tauschen und sie sofort an Aave zum Verleihen senden — alles in einer Transaktion, ohne Gelder zu einer Börse zu verschieben.
 

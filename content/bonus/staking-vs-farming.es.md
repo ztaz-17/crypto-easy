@@ -34,7 +34,7 @@ En este artículo, desglosaremos:
 
 ## Qué Es el Staking
 
-El staking es cuando **bloqueas tus monedas** en la blockchain y ganas un porcentaje sobre ellas.
+El staking es cuando **bloqueas tus monedas** en la [blockchain](/es/glossary/#blockchain) y ganas un porcentaje sobre ellas.
 
 Así funciona:
 
@@ -66,7 +66,7 @@ No tienes que hacer nada complicado. Solo bloqueas tus monedas y ganas intereses
 
 ## Qué Es el Farming (Yield Farming)
 
-El farming es una estrategia más activa. **Aportas liquidez** a protocolos DeFi (aplicaciones financieras descentralizadas) y obtienes ingresos.
+El farming es una estrategia más activa. **Aportas liquidez** a protocolos [DeFi](/es/glossary/#defi) (aplicaciones financieras descentralizadas) y obtienes ingresos.
 
 Así se ve:
 
@@ -165,7 +165,7 @@ El staking es una buena opción si:
 
 - eres principiante y estás empezando a aprender los conceptos básicos;
 - no quieres estar monitoreando el mercado constantemente;
-- planeas mantener monedas a largo plazo (HODL);
+- planeas mantener monedas a largo plazo ([HODL](/es/glossary/#hodl));
 - un rendimiento del 5–15 % es suficiente para ti.
 
 > **El staking es "lo configuras y te olvidas".**

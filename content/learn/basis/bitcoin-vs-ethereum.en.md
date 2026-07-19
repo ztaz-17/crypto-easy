@@ -41,7 +41,7 @@ Bitcoin is **simple by design**. It does one thing and does it well.
 
 - Created: 2009 by Satoshi Nakamoto
 - Supply: capped at 21 million
-- Consensus: Proof of Work (energy-intensive, very secure)
+- Consensus: [Proof of Work](/en/glossary/#proof-of-work) (energy-intensive, very secure)
 - Transactions: ~7 per second
 - Average block time: 10 minutes
 
@@ -49,12 +49,12 @@ Bitcoin is **simple by design**. It does one thing and does it well.
 
 ## Ethereum — digital oil
 
-Ethereum launched in 2015 as a **world computer** — a platform for decentralized applications (dApps).
+Ethereum launched in 2015 as a **world computer** — a platform for decentralized applications ([dApps](/en/glossary/#dapp)).
 
 Its main purpose:
 
 - **Smart contracts** — programs that run exactly as programmed, without downtime or fraud.
-- **dApps** — decentralized apps (DeFi, NFTs, games, social networks).
+- **dApps** — decentralized apps ([DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft), games, social networks).
 - **Programmable money** — tokens, loans, trading — all automated.
 
 Ethereum is **complex by design**. It's a platform, not just a currency.
@@ -65,7 +65,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 
 - Created: 2015 by Vitalik Buterin
 - Supply: uncapped (but has burning mechanism)
-- Consensus: Proof of Stake (energy-efficient)
+- Consensus: [Proof of Stake](/en/glossary/#proof-of-stake) (energy-efficient)
 - Transactions: ~15-30 per second
 - Average block time: ~12 seconds
 
@@ -90,7 +90,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 ### Choose Bitcoin if:
 
 - You want a **store of value** — like gold but digital
-- You want **maximum security** and decentralization
+- You want **maximum security** and [decentralization](/en/glossary/#decentralization)
 - You're investing long-term (3+ years)
 - You want **simplicity** — buy and hold
 

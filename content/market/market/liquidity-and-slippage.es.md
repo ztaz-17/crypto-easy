@@ -173,7 +173,7 @@ Todos quieren vender — nadie quiere comprar. El spread se dispara a niveles ri
 En monedas con baja liquidez, es fácil manipular el precio. Un jugador grande (ballena) puede:
 
 - subir el precio un 50% con una sola orden;
-- esperar a que los novatos entren por FOMO;
+- esperar a que los novatos entren por [FOMO](/es/glossary/#fomo);
 - vender todo al precio alto — y el precio se desploma de vuelta.
 
 Este es el clásico esquema de **Pump & Dump**, y solo funciona en monedas con baja liquidez.
@@ -253,7 +253,7 @@ Para Bitcoin y las monedas principales — fracciones de un porcentaje. Para alt
 
 ### ¿Por qué el deslizamiento es mayor en los DEX (exchanges descentralizados)?
 
-Los DEX no tienen un libro de órdenes centralizado. El precio se determina por el tamaño del pool de liquidez. Mientras más pequeño el pool, más deslizamiento en cualquier trade.
+Los [DEX](/es/glossary/#dex) no tienen un libro de órdenes centralizado. El precio se determina por el tamaño del pool de liquidez. Mientras más pequeño el pool, más deslizamiento en cualquier trade.
 
 ### ¿Se puede perder dinero por baja liquidez incluso si el precio está subiendo?
 

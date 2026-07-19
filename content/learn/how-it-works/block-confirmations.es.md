@@ -26,7 +26,7 @@ Y las monedas todavía no han llegado.
 
 ¿Por qué no podemos simplemente enviar cosas al instante? ¡Al fin y al cabo, son dinero digital!
 
-La respuesta está en cómo funciona la propia blockchain. Tu transacción no vuela directamente de cartera a cartera. Primero tiene que aterrizar dentro de un **bloque** — y solo entonces pasa a formar parte del historial.
+La respuesta está en cómo funciona la propia [blockchain](/es/glossary/#blockchain). Tu transacción no vuela directamente de cartera a cartera. Primero tiene que aterrizar dentro de un **bloque** — y solo entonces pasa a formar parte del historial.
 
 > En este artículo veremos: qué es un bloque, por qué se necesitan confirmaciones, cuántas deberías esperar y cuándo una transacción puede considerarse segura.
 
@@ -70,7 +70,7 @@ Este proceso requiere una potencia informática enorme. Por eso un nuevo bloque 
 
 ### Ethereum: Validadores (Proof of Stake)
 
-Después de migrar a Proof of Stake, los bloques en Ethereum los crean **validadores** — participantes que han apostado al menos 32 ETH. No "minan" — simplemente confirman bloques.
+Después de migrar a [Proof of Stake](/es/glossary/#proof-of-stake), los bloques en Ethereum los crean **validadores** — participantes que han apostado al menos 32 ETH. No "minan" — simplemente confirman bloques.
 
 Un nuevo bloque en Ethereum aparece aproximadamente cada **~12 segundos**.
 

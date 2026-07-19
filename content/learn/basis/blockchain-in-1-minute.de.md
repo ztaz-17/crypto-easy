@@ -42,7 +42,7 @@ Früher führte jede Bank ihr **eigenes** Hauptbuch. Wenn du Geld von Bank A zu 
 
 ### Was ist anders bei Blockchain?
 
-Blockchain ist ein **gemeinsames Hauptbuch**, das bei allen Netzwerkteilnehmern gleichzeitig existiert.
+[Blockchain](/de/glossary/#blockchain) ist ein **gemeinsames Hauptbuch**, das bei allen Netzwerkteilnehmern gleichzeitig existiert.
 
 Besonderheiten:
 

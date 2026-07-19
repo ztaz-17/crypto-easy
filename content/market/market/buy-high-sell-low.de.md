@@ -79,7 +79,7 @@ Und sie treten als Paar auf.
 
 ### Wie es sich anfühlt
 
-FOMO ist die Angst, deine Chance auf Reichtum zu verpassen.
+[FOMO](/de/glossary/#fomo) ist die Angst, deine Chance auf Reichtum zu verpassen.
 
 Symptome:
 

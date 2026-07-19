@@ -38,7 +38,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist ein Blockchain-Explorer und warum brauchst du ihn?
 
-Ein **Blockchain-Explorer** ist wie „Google für die Blockchain" – eine öffentliche Website, die alles zeigt, was im Netzwerk passiert:
+Ein **Blockchain-Explorer** ist wie „Google für die [Blockchain](/de/glossary/#blockchain)" – eine öffentliche Website, die alles zeigt, was im Netzwerk passiert:
 
 - jede Transaktion;
 - jedes Wallet und dessen Guthaben;
@@ -229,7 +229,7 @@ Der Status **Pending** kann von einigen Sekunden bis zu mehreren Tagen dauern. H
 ### Warum bleiben Transaktionen hängen?
 
 - **Zu niedrige Gas-Gebühr.** In Netzwerken wie Ethereum verarbeiten Miner zuerst die Transaktionen mit den höchsten Gebühren. Wenn du das Gas zu niedrig ansetzt, bleibt die Transaktion in der Warteschlange.
-- **Netzwerküberlastung.** In Hype-Momenten (z. B. bei einem beliebten NFT-Drop) kann die Warteschlange enorm werden.
+- **Netzwerküberlastung.** In Hype-Momenten (z. B. bei einem beliebten [NFT](/de/glossary/#nft)-Drop) kann die Warteschlange enorm werden.
 - **Node-Probleme.** Selten, aber manchmal bremst ein bestimmter Validator die Verarbeitung.
 
 ### Was du tun kannst

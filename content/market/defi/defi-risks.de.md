@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Stell dir vor: Du findest ein DeFi-Protokoll, das **500 % APY** verspricht. Du zahlst deine Ersparnisse ein – und eine Woche später ist der Pool leer. Der „Auszahlen"-Button funktioniert nicht mehr.
+Stell dir vor: Du findest ein [DeFi](/de/glossary/#defi)-Protokoll, das **500 % APY** verspricht. Du zahlst deine Ersparnisse ein – und eine Woche später ist der Pool leer. Der „Auszahlen"-Button funktioniert nicht mehr.
 
 Oder ein anderes Szenario: Du leihst dir Geld, besichert mit ETH, der Markt bricht plötzlich ein, und der Smart Contract verkauft deine Sicherheiten sofort zum niedrigsten Kurs. Übrig bleibt weder Sicherheit noch Darlehen.
 
@@ -98,7 +98,7 @@ Ein Smart-Contract-Audit ist eine Code-Überprüfung durch Sicherheitsexperten. 
 
 ## Impermanent Loss: Verluste bei Kursbewegungen
 
-**Impermanent Loss (IL)** tritt auf, wenn du einem DEX-Pool Liquidität zur Verfügung stellst und am Ende weniger Wert hast, als wenn du die Token einfach gehalten hättest.
+**Impermanent Loss (IL)** tritt auf, wenn du einem [DEX](/de/glossary/#dex)-Pool Liquidität zur Verfügung stellst und am Ende weniger Wert hast, als wenn du die Token einfach gehalten hättest.
 
 ### Wie es funktioniert
 
@@ -177,7 +177,7 @@ DeFi ist kein Glücksspiel, wenn du es klug angehst. Hier sind die grundlegenden
 Nutze diese Checkliste:
 
 - [ ] Wurde es von einer seriösen Firma geprüft? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] Wie hoch ist der TVL (Total Value Locked)? Niedriger TVL (< 1 Mio. $) bedeutet hohes Risiko
+- [ ] Wie hoch ist der [TVL](/de/glossary/#tvl) (Total Value Locked)? Niedriger [TVL](/de/glossary/#tvl) (< 1 Mio. $) bedeutet hohes Risiko
 - [ ] Wie lange läuft das Protokoll schon? (6+ Monate ist besser)
 - [ ] Ist der Code quelloffen? Kannst du ihn überprüfen?
 - [ ] Ist die Liquidität gesperrt?

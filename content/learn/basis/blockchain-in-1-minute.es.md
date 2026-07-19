@@ -42,7 +42,7 @@ Tradicionalmente, cada banco llevaba su **propio** libro. Si transferías dinero
 
 ### ¿En qué se diferencia blockchain?
 
-Blockchain es un **libro contable compartido** que existe simultáneamente con todos los participantes de la red.
+[Blockchain](/es/glossary/#blockchain) es un **libro contable compartido** que existe simultáneamente con todos los participantes de la red.
 
 Características clave:
 

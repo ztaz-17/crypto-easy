@@ -103,7 +103,7 @@ Es gibt keine fundamentalen Gründe für Meme-Coin-Pumps. Nur Psychologie.
 
 Jeder Meme Coin hat eine Armee von Fans auf Twitter, Telegram, Reddit und TikTok. Sie:
 - posten Memes;
-- überzeugen sich gegenseitig zu »HODL«;
+- überzeugen sich gegenseitig zu »[HODL](/de/glossary/#hodl)«;
 - greifen jeden an, der verkauft.
 
 Das erzeugt das Gefühl: »Wir sitzen im selben Boot« und »Wir werden gewinnen«.
@@ -141,7 +141,7 @@ Das Schema ist einfach:
 
 1. Große Spieler (Wale) kaufen am Tiefpunkt ein;
 2. Sie hypen den Coin über soziale Medien, bezahlte Werbung und Influencer;
-3. Kleine Anleger steigen aus FOMO ein;
+3. Kleine Anleger steigen aus [FOMO](/de/glossary/#fomo) ein;
 4. Die Wale verkaufen — der Preis stürzt ab;
 5. Die Kleinanleger bleiben auf wertlosen Tokens sitzen.
 
@@ -209,7 +209,7 @@ Und die goldene Regel:
 **Bitcoin / Ethereum:**
 - Hat Technologie? ✅ Ja
 - Hat ein Team? ✅ Ja
-- Hat echten Nutzen? ✅ Ja (Zahlungen, DeFi, Smart Contracts)
+- Hat echten Nutzen? ✅ Ja (Zahlungen, [DeFi](/de/glossary/#defi), Smart Contracts)
 - Risiko: Hoch
 - Erwartete Rendite: Mäßig
 - Langzeitwert: Wächst mit der Akzeptanz

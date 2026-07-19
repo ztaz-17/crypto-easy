@@ -60,7 +60,7 @@ Need to send $10,000 abroad? Bank transfer — 3–5 days and 2–5% fee. USDT t
 
 Most exchanges don't trade Bitcoin directly for cash. The usual route:
 1. Buy USDT via P2P or card.
-2. Swap USDT for Bitcoin on a CEX or DEX.
+2. Swap USDT for Bitcoin on a [CEX](/en/glossary/#cex) or [DEX](/en/glossary/#dex).
 
 USDT is the universal "transit hub" between regular money and crypto.
 
@@ -70,9 +70,9 @@ USDT is the universal "transit hub" between regular money and crypto.
 
 ### What it is
 
-**USDT** (Tether) — the most popular stablecoin in the world. Market cap as of April 2026: $190 billion. It's on every exchange, every wallet, every DeFi protocol.
+**USDT** (Tether) — the most popular stablecoin in the world. Market cap as of April 2026: $190 billion. It's on every exchange, every wallet, every [DeFi](/en/glossary/#defi) protocol.
 
-USDT runs on multiple blockchains: Ethereum (ERC-20), Tron (TRC-20 — most popular, low fees), BSC (BEP-20), Solana, Polygon, Avalanche, and more.
+USDT runs on multiple [blockchains](/en/glossary/#blockchain): Ethereum (ERC-20), Tron (TRC-20 — most popular, low fees), BSC (BEP-20), Solana, Polygon, Avalanche, and more.
 
 ### How it works
 
@@ -193,7 +193,7 @@ But stablecoins are not a "free dollar." Behind them are companies, algorithms, 
 
 - **USDT** — bet on Tether. Reliable for trading, transparency questions remain.
 - **USDC** — bet on US regulation. More transparent, but less widespread.
-- **DAI** — bet on decentralization. Works without companies, but more complex and riskier in crises.
+- **DAI** — bet on [decentralization](/en/glossary/#decentralization). Works without companies, but more complex and riskier in crises.
 
 Stablecoins aren't a 100% bank deposit replacement. But for crypto work — they're irreplaceable.
 

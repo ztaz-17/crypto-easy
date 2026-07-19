@@ -40,7 +40,7 @@ So funktioniert es:
 
 - du wählst eine Kryptowährung, die auf **Proof-of-Stake** (PoS) basiert;
 - du überweist deine Coins zum Staking (über eine Wallet oder Börse);
-- die Blockchain nutzt sie zur Validierung von Transaktionen;
+- die [Blockchain](/de/glossary/#blockchain) nutzt sie zur Validierung von Transaktionen;
 - du bekommst dafür Belohnungen ausgezahlt.
 
 Einfach gesagt:
@@ -66,7 +66,7 @@ Du musst nichts Kompliziertes tun. Du sperrst einfach deine Coins und bekommst Z
 
 ## Was ist Farming (Yield Farming)
 
-Farming ist eine aktivere Strategie. Du **stellst Liquidität** für DeFi-Protokolle (dezentrale Finanz-Apps) bereit und verdienst damit Einkommen.
+Farming ist eine aktivere Strategie. Du **stellst Liquidität** für [DeFi](/de/glossary/#defi)-Protokolle (dezentrale Finanz-Apps) bereit und verdienst damit Einkommen.
 
 So sieht das aus:
 
@@ -170,7 +170,7 @@ Staking ist die richtige Wahl, wenn:
 
 - du ein Anfänger bist und die Grundlagen erst lernst;
 - du den Markt nicht ständig beobachten willst;
-- du Coins langfristig halten möchtest (HODL);
+- du Coins langfristig halten möchtest ([HODL](/de/glossary/#hodl));
 - eine Rendite von 5–15 % für dich ausreicht.
 
 > **Staking ist „Einrichten und vergessen."**

@@ -41,7 +41,7 @@ Bitcoin ist **einfach im Design**. Es macht eine Sache und macht sie gut.
 
 - Erstellt: 2009 von Satoshi Nakamoto
 - Angebot: begrenzt auf 21 Millionen
-- Konsens: Proof of Work (energieintensiv, sehr sicher)
+- Konsens: [Proof of Work](/de/glossary/#proof-of-work) (energieintensiv, sehr sicher)
 - Transaktionen: ~7 pro Sekunde
 - Durchschnittliche Blockzeit: 10 Minuten
 
@@ -49,12 +49,12 @@ Bitcoin ist **einfach im Design**. Es macht eine Sache und macht sie gut.
 
 ## Ethereum — digitales Öl
 
-Ethereum wurde 2015 als **Weltcomputer** gestartet — eine Plattform für dezentrale Anwendungen (dApps).
+Ethereum wurde 2015 als **Weltcomputer** gestartet — eine Plattform für dezentrale Anwendungen ([dApps](/de/glossary/#dapp)).
 
 Sein Hauptzweck:
 
 - **Smart Contracts** — Programme, die genau wie programmiert ausgeführt werden, ohne Ausfallzeiten oder Betrug.
-- **dApps** — dezentrale Apps (DeFi, NFTs, Spiele, soziale Netzwerke).
+- **dApps** — dezentrale Apps ([DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft), Spiele, soziale Netzwerke).
 - **Programmierbares Geld** — Token, Kredite, Handel — alles automatisiert.
 
 Ethereum ist **komplex im Design**. Es ist eine Plattform, nicht nur eine Währung.
@@ -65,7 +65,7 @@ Ethereum ist **komplex im Design**. Es ist eine Plattform, nicht nur eine Währu
 
 - Erstellt: 2015 von Vitalik Buterin
 - Angebot: unbegrenzt (aber mit Verbrennungsmechanismus)
-- Konsens: Proof of Stake (energieeffizient)
+- Konsens: [Proof of Stake](/de/glossary/#proof-of-stake) (energieeffizient)
 - Transaktionen: ~15-30 pro Sekunde
 - Durchschnittliche Blockzeit: ~12 Sekunden
 

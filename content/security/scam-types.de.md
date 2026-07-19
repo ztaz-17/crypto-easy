@@ -24,7 +24,7 @@ Anonyme Transaktionen, unwiderrufliche Überweisungen und die Tatsache, dass es 
 
 > **Niemand wird dir dein gestohlenes Crypto zurückgeben.**
 
-Nicht die Bank. Nicht die Polizei. Nicht die Blockchain-Entwickler.
+Nicht die Bank. Nicht die Polizei. Nicht die [Blockchain](/de/glossary/#blockchain)-Entwickler.
 
 Deshalb muss jeder Nutzer selbst wissen, wie man Gefahren erkennt.
 
@@ -45,7 +45,7 @@ In diesem Artikel behandeln wir:
 Das Ziel – dich dazu zu bringen, Folgendes einzugeben:
 
 - deine Seed-Phrase;
-- deinen Private Key;
+- deinen [Private Key](/de/glossary/#private-key);
 - dein Exchange-Passwort.
 
 Sobald du das tust – sind deine Gelder in Sekunden weg.
@@ -95,7 +95,7 @@ Du landest auf einer solchen Seite über eine Anzeige, eine E-Mail oder eine Soc
 
 ### Wie es funktioniert
 
-Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüger missbrauchen dieses System:
+Ein [Airdrop](/de/glossary/#airdrop) ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüger missbrauchen dieses System:
 
 1. Sie versprechen kostenlose Tokens – du musst nur „dein Wallet verbinden."
 2. Du gehst auf die Seite und klickst auf „Claim."
@@ -105,7 +105,7 @@ Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüge
 ### Echte Beispiele
 
 - **Uniswap UNI Airdrop** – Dutzende Fake-Seiten tauchten nach dem echten Uniswap-Airdrop auf;
-- **Fake-NFT-Mints** – „kostenloser NFT-Mint", der dein ETH abzieht, wenn du signierst;
+- **Fake-NFT-Mints** – „kostenloser [NFT](/de/glossary/#nft)-Mint", der dein ETH abzieht, wenn du signierst;
 - **Token-Approval-Betrug** – die Seite bittet dich, ein `approve` für einen unbegrenzten Betrag zu signieren.
 
 ### So schützt du dich
@@ -124,7 +124,7 @@ Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüge
 
 ### Wie es funktioniert
 
-Betrüger erstellen gefälschte „Support"-Accounts für Börsen, Wallets und DeFi-Protokolle. Sie finden Nutzer auf Telegram, Discord oder Twitter (X) und bieten Hilfe an.
+Betrüger erstellen gefälschte „Support"-Accounts für Börsen, Wallets und [DeFi](/de/glossary/#defi)-Protokolle. Sie finden Nutzer auf Telegram, Discord oder Twitter (X) und bieten Hilfe an.
 
 Das Drehbuch:
 
@@ -274,7 +274,7 @@ Die goldenen Regeln:
 - vertraue keinen Fremden;
 - gib keine Daten auf verdächtigen Seiten ein;
 - signiere keine Transaktionen, die du nicht verstehst;
-- nutze Cold Wallets zur Aufbewahrung;
+- nutze [Cold Wallets](/de/glossary/#cold-wallet) zur Aufbewahrung;
 - überprüfe Informationen immer aus mehreren Quellen.
 
 Crypto-Betrüger existieren nur, weil ihre Maschen noch funktionieren. Gib ihnen keine Chance.

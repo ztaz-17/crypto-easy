@@ -50,7 +50,7 @@ The transaction hasn't been sent yet. It's just a draft — a bundle of data tha
 
 Your wallet doesn't "pull" money from some account. Instead, it looks through the entire history of previous transactions that ever came to your address and picks out unspent balances.
 
-Think of it like having several different bills in your pocket, and you choose which one to pay with. In crypto, those "bills" are records on the blockchain.
+Think of it like having several different bills in your pocket, and you choose which one to pay with. In crypto, those "bills" are records on the [blockchain](/en/glossary/#blockchain).
 
 > For more on how addresses and keys work, check the glossary: [public address](/en/glossary/#public-address), [private key](/en/glossary/#private-key).
 
@@ -64,7 +64,7 @@ Your wallet takes the transaction data and signs it with your **private key**. I
 
 ### Why signatures can't be faked
 
-Your private key is a long random string of characters. Only you know it. The network only knows your public address — a derivative of that key.
+Your [private key](/en/glossary/#private-key) is a long random string of characters. Only you know it. The network only knows your public address — a derivative of that key.
 
 When you sign a transaction:
 
@@ -117,7 +117,7 @@ The transaction is in the mempool. Now it needs to be confirmed by a **miner** (
 
 Miners collect transactions from the mempool and package them into a block. Priority depends on the fee — the higher the fee, the higher the priority.
 
-Once the block is assembled, the miner starts solving a mathematical puzzle (Proof of Work) to seal the block. This requires massive computing power. Whoever solves it first gets:
+Once the block is assembled, the miner starts solving a mathematical puzzle ([Proof of Work](/en/glossary/#proof-of-work)) to seal the block. This requires massive computing power. Whoever solves it first gets:
 
 - the block reward (newly minted coins);
 - all the fees from the included transactions.

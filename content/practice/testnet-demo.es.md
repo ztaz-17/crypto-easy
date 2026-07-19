@@ -29,7 +29,7 @@ Pero aquí está la buena noticia:
 
 > **Puedes practicar gratis, sin riesgo y sin invertir nada.**
 
-Las criptomonedas tienen un «modo demo» incorporado — las **testnets**. Son copias exactas de blockchains reales, solo que las monedas no tienen valor real. Puedes conseguirlas gratis, enviarlas por ahí, desplegar contratos y cometer errores — todo sin consecuencias económicas.
+Las criptomonedas tienen un «modo demo» incorporado — las **testnets**. Son copias exactas de [blockchains](/es/glossary/#blockchain) reales, solo que las monedas no tienen valor real. Puedes conseguirlas gratis, enviarlas por ahí, desplegar contratos y cometer errores — todo sin consecuencias económicas.
 
 En este artículo veremos:
 
@@ -76,7 +76,7 @@ Funciona así:
 
 Los más populares:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no necesitas registrarte en plataformas de terceros; puedes obtener ETH, tokens (PYUSD, WBTC, etc.) y NFTs. Solo necesitas una cuenta de Google.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no necesitas registrarte en plataformas de terceros; puedes obtener ETH, tokens (PYUSD, WBTC, etc.) y [NFTs](/es/glossary/#nft). Solo necesitas una cuenta de Google.
 - **sepoliafaucet.com** — uno de los más fiables.
 - **infura.io/faucet/sepolia** — requiere una cuenta de Infura, pero da dosis regulares.
 - **alchemy.com/faucets/ethereum-sepolia** — de Alchemy, también tras registrarse.
@@ -260,4 +260,4 @@ No. Si solo trabajas con la testnet — no hay nada de dinero real ahí. El peli
 
 ### ¿Por qué existen las testnets?
 
-Para probar contratos inteligentes y dApps antes del lanzamiento. Un bug en un contrato de mainnet puede costar millones de dólares. En una testnet — nada.
+Para probar contratos inteligentes y [dApps](/es/glossary/#dapp) antes del lanzamiento. Un bug en un contrato de mainnet puede costar millones de dólares. En una testnet — nada.

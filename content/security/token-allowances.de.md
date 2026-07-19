@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-**"Zugriff auf deine USDT bestätigen"** — diese Meldung hast du bestimmt schon gesehen, wenn du deine Wallet mit einem neuen DeFi-Dienst, einer DEX (Uniswap, PancakeSwap) oder einem NFT-Marktplatz verbunden hast.
+**"Zugriff auf deine USDT bestätigen"** — diese Meldung hast du bestimmt schon gesehen, wenn du deine Wallet mit einem neuen [DeFi](/de/glossary/#defi)-Dienst, einer [DEX](/de/glossary/#dex) (Uniswap, PancakeSwap) oder einem [NFT](/de/glossary/#nft)-Marktplatz verbunden hast.
 
 Viele klicken einfach auf "Bestätigen", ohne es überhaupt zu lesen. Und das kann dich jeden einzelnen Token in deiner Wallet kosten.
 
@@ -66,7 +66,7 @@ Eine Token-Berechtigung ist genau dasselbe, nur digital. Du lässt einen Vertrag
 
 ### Unbegrenzte Freigaben
 
-Das größte Problem: Die meisten dApps fragen nicht nach einer **begrenzten** Freigabe — sie verlangen eine unbegrenzte:
+Das größte Problem: Die meisten [dApps](/de/glossary/#dapp) fragen nicht nach einer **begrenzten** Freigabe — sie verlangen eine unbegrenzte:
 
 ```
 approve(DEX, MAX_UINT_256)

@@ -75,7 +75,7 @@ keywords:
 
 Самые популярные краны:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — не требует регистрации на сторонних платформах, даёт на выбор ETH, токены (PYUSD, WBTC и др.) и NFT. Достаточно Google-аккаунта.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — не требует регистрации на сторонних платформах, даёт на выбор ETH, токены (PYUSD, WBTC и др.) и [NFT](/ru/glossary/#nft). Достаточно Google-аккаунта.
 - **sepoliafaucet.com** — один из самых надёжных.
 - **infura.io/faucet/sepolia** — требует регистрацию на Infura, но даёт регулярные капли.
 - **alchemy.com/faucets/ethereum-sepolia** — от Alchemy, тоже после регистрации.
@@ -263,4 +263,4 @@ Ethereum — это блокчейн, который стал популярен
 
 ### Зачем нужны тестовые сети?
 
-Чтобы тестировать смарт-контракты и dApp перед запуском. Ошибка в коде контракта в основной сети может стоить миллионов долларов. В тестовой — ничего.
+Чтобы тестировать смарт-контракты и [dApp](/ru/glossary/#dapp) перед запуском. Ошибка в коде контракта в основной сети может стоить миллионов долларов. В тестовой — ничего.

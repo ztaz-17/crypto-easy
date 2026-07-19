@@ -113,7 +113,7 @@ Examples:
 
 ### Technical Upgrades
 
-Major blockchain upgrades also affect price. For example, Ethereum's transition to Proof-of-Stake (The Merge) triggered a significant rise in ETH.
+Major [blockchain](/en/glossary/#blockchain) upgrades also affect price. For example, Ethereum's transition to Proof-of-Stake (The Merge) triggered a significant rise in ETH.
 
 👉 **Important:** Market reactions to news can be illogical. Sometimes good news pushes the price down ("buy the rumor, sell the news").
 
@@ -139,7 +139,7 @@ Fear, uncertainty, doubt.
 
 Spreading negative information (often deliberately) to trigger panic and a price dump.
 
-Common FUD:
+Common [FUD](/en/glossary/#fud):
 - "Bitcoin is dead";
 - "Crypto is a bubble about to burst";
 - "Regulators are going to ban everything."
@@ -203,7 +203,7 @@ Sometimes whales deliberately manipulate the price.
 | Liquidity             | Market        | Low liquidity → high volatility             | Short-term         |
 | News                  | Event-driven  | Depends on context                          | Instant            |
 | Regulatory decisions  | Event-driven  | Approval = rise, ban = drop                 | Medium-term        |
-| FOMO / FUD            | Psychological | Emotions move the price                     | Short-term         |
+| [FOMO](/en/glossary/#fomo) / FUD            | Psychological | Emotions move the price                     | Short-term         |
 | Pump & Dump           | Manipulation  | Artificial spike then crash                 | Short-term         |
 | Whales                | Market        | Large trades move the market                | Any                |
 | Corporate adoption    | Fundamental   | Growing trust → price growth                | Long-term          |

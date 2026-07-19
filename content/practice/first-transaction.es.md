@@ -178,7 +178,7 @@ Después de enviar, tu cartera mostrará:
 
 ### Cómo verificar en el explorador
 
-Un explorador de blockchain es un «buscador» público de la cadena.  \
+Un explorador de [blockchain](/es/glossary/#blockchain) es un «buscador» público de la cadena.  \
 Cada red tiene su propio explorador:
 
 | Red | Explorador |

@@ -24,7 +24,7 @@ Anonymous transactions, irreversible transfers, and the fact that there's no "cu
 
 > **Nobody will return your stolen crypto.**
 
-Not the bank. Not the police. Not the blockchain creators.
+Not the bank. Not the police. Not the [blockchain](/en/glossary/#blockchain) creators.
 
 That's why every user needs to know how to spot threats themselves.
 
@@ -44,8 +44,8 @@ In this article we'll cover:
 
 The goal — trick you into entering:
 
-- your seed phrase;
-- your private key;
+- your [seed phrase](/en/glossary/#seed-phrase);
+- your [private key](/en/glossary/#private-key);
 - your exchange password.
 
 The moment you do — your funds are gone in seconds.
@@ -95,7 +95,7 @@ You land on one of these through an ad, an email, or a social media message. The
 
 ### How It Works
 
-An airdrop is a free token giveaway meant to attract users. Scammers abuse this mechanism:
+An [airdrop](/en/glossary/#airdrop) is a free token giveaway meant to attract users. Scammers abuse this mechanism:
 
 1. They promise free tokens — you just need to "connect your wallet."
 2. You go to the site and hit "Claim."
@@ -105,7 +105,7 @@ An airdrop is a free token giveaway meant to attract users. Scammers abuse this 
 ### Real-World Examples
 
 - **Uniswap UNI airdrop** — dozens of fake sites popped up after the real Uniswap airdrop;
-- **Fake NFT mints** — "free NFT mint" that drains your ETH when you sign;
+- **Fake NFT mints** — "free [NFT](/en/glossary/#nft) mint" that drains your ETH when you sign;
 - **Token approval scam** — the site asks you to sign an `approve` for an unlimited amount.
 
 ### How to Protect Yourself
@@ -124,7 +124,7 @@ An airdrop is a free token giveaway meant to attract users. Scammers abuse this 
 
 ### How It Works
 
-Scammers create fake "support" accounts for exchanges, wallets, and DeFi protocols. They find users on Telegram, Discord, or Twitter (X) and offer help.
+Scammers create fake "support" accounts for exchanges, wallets, and [DeFi](/en/glossary/#defi) protocols. They find users on Telegram, Discord, or Twitter (X) and offer help.
 
 The script:
 
@@ -274,7 +274,7 @@ The golden rules:
 - don't trust strangers;
 - don't enter data on suspicious sites;
 - don't sign transactions you don't understand;
-- use cold wallets for storage;
+- use [cold wallets](/en/glossary/#cold-wallet) for storage;
 - always verify information from multiple sources.
 
 Crypto scammers only exist because their schemes still work. Don't give them a chance.

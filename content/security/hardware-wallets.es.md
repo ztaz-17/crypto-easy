@@ -67,7 +67,7 @@ Ledger es el líder del mercado con la mayor selección de monedas y la práctic
 
 ### Cuándo elegir Trezor
 
-Trezor es el pionero de las carteras hardware (el primer modelo salió en 2014). Código completamente abierto — cualquiera puede verificar su seguridad. La Model T con pantalla táctil es más cómoda para introducir la seed phrase.
+Trezor es el pionero de las carteras hardware (el primer modelo salió en 2014). Código completamente abierto — cualquiera puede verificar su seguridad. La Model T con pantalla táctil es más cómoda para introducir la [seed phrase](/es/glossary/#seed-phrase).
 
 **Para quién es:** Entusiastas de la seguridad, quienes tienen principalmente BTC/ETH, quienes valoran el open-source.
 
@@ -149,7 +149,7 @@ Para cantidades a partir de $1000 ya no es una opción, sino una necesidad.
 
 ### ¿Se puede restaurar la cartera sin el dispositivo?
 
-Sí. Si tu Ledger/Trezor se rompe, se pierde o se quema — compras un dispositivo nuevo (de cualquier fabricante) y restauras el acceso mediante la seed phrase. Tus monedas no desaparecen porque no están «dentro» del dispositivo — están en la blockchain, y las claves se recuperan de la seed phrase.
+Sí. Si tu Ledger/Trezor se rompe, se pierde o se quema — compras un dispositivo nuevo (de cualquier fabricante) y restauras el acceso mediante la seed phrase. Tus monedas no desaparecen porque no están «dentro» del dispositivo — están en la [blockchain](/es/glossary/#blockchain), y las claves se recuperan de la seed phrase.
 
 ### ¿Qué pasa si pierdo la seed phrase?
 
@@ -163,7 +163,7 @@ Ambos dispositivos ofrecen seguridad de nivel bancario. Trezor tiene el código 
 
 Subjetivamente: si la cantidad es menor a $300, puedes empezar con una cartera móvil (Trust Wallet, MetaMask) siempre que:
 - No hagas clic en enlaces sospechosos
-- No conectes tu cartera a dApps dudosas
+- No conectes tu cartera a [dApps](/es/glossary/#dapp) dudosas
 - Guardes tu seed phrase offline
 
 Pero en cuanto la cantidad supere los $500 — piensa en una cartera hardware.

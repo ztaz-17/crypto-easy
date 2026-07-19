@@ -119,7 +119,7 @@ Works anywhere there's internet. Doesn't depend on national borders or currencie
 
 ## Conclusion
 
-Decentralization isn't a "magic button" that solves all problems. It's a **trade-off**: you give up speed for reliability, simplicity for control, support for freedom, convenience for security.
+[Decentralization](/en/glossary/#decentralization) isn't a "magic button" that solves all problems. It's a **trade-off**: you give up speed for reliability, simplicity for control, support for freedom, convenience for security.
 
 For everyday payments, centralization is more convenient. But for storing wealth and resilience — decentralization is the only option.
 

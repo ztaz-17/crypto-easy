@@ -67,7 +67,7 @@ Das nennt man **Sperren + Prägen / Verbrennen + Freigeben**.
 |-----|--------------------|-----------|
 | **Zentralisiert** | Ein Unternehmen kontrolliert eine Multi-Sig-Wallet | Binance Bridge, Portal (WBTC) |
 | **Dezentralisiert** | Smart Contracts + Validatoren (Orakel) | Wormhole, Synapse, Stargate |
-| **Offiziell** | Vom eigenen Team der Blockchain entwickelt | Arbitrum Bridge, Optimism Bridge |
+| **Offiziell** | Vom eigenen Team der [Blockchain](/de/glossary/#blockchain) entwickelt | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ Das nennt man **Sperren + Prägen / Verbrennen + Freigeben**.
 
 ### Zugang zu anderen Ökosystemen
 
-Jedes Netzwerk ist eine eigene Welt mit eigenen DeFi-Apps:
+Jedes Netzwerk ist eine eigene Welt mit eigenen [DeFi](/de/glossary/#defi)-Apps:
 
 - **Ethereum** — das sicherste, aber teuer.
 - **Arbitrum / Optimism** — gleiche Möglichkeiten, günstiger (L2s).
@@ -172,7 +172,7 @@ Sicherheitsregel:
 
 - **Neue Brücken ohne Erfolgsbilanz** — der Code wurde nicht von Fachleuten oder der Community geprüft.
 - **Brücken, die „Super-Renditen" versprechen** — oft Betrug.
-- **Brücken zu obskuren Netzwerken** — je niedriger der TVL, desto höher das Risiko.
+- **Brücken zu obskuren Netzwerken** — je niedriger der [TVL](/de/glossary/#tvl), desto höher das Risiko.
 
 ---
 
@@ -207,7 +207,7 @@ Verschiedene Netzwerke — verschiedene Token:
 | Offizielle Brücke | Arbitrum Bridge | 10–30 Min. | Mittel | Hoch |
 | Dezentrale Brücke | Stargate | 1–10 Min. | Mittel | Mittel |
 | Zentralisierte Brücke | Binance Bridge | Sofort | Niedrig | Niedrig (Börse hält deine Gelder) |
-| CEX (zentrale Börse) | Binance → in anderes Netzwerk abheben | 5–30 Min. | Niedrig | Niedrig (Verwahrungsrisiko) |
+| [CEX](/de/glossary/#cex) (zentrale Börse) | Binance → in anderes Netzwerk abheben | 5–30 Min. | Niedrig | Niedrig (Verwahrungsrisiko) |
 
 ---
 

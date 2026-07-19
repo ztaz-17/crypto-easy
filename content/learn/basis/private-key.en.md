@@ -31,11 +31,11 @@ A **private key** is a long string of characters (digits and letters) that gives
 
 > A private key is your signature. A signature that proves to the blockchain: "these coins are mine, and I authorize their transfer."
 
-There's no "account" with a login and password on a blockchain. Nobody sits there checking if it's really you. The entire system is built on cryptography: you have a pair of keys — **public** (you can show everyone) and **private** (you show no one).
+There's no "account" with a login and password on a [blockchain](/en/glossary/#blockchain). Nobody sits there checking if it's really you. The entire system is built on cryptography: you have a pair of keys — **public** (you can show everyone) and **private** (you show no one).
 
 Public key — like your bank account number. You give it out so people can send you money.
 
-Private key — **the signature on the check**. If someone gets it, they can sign any transfer in your name.
+[Private key](/en/glossary/#private-key) — **the signature on the check**. If someone gets it, they can sign any transfer in your name.
 
 ---
 
@@ -51,7 +51,7 @@ Many beginners think: "I signed up on an exchange, created a strong password —
 | Forgot? | Reset it | **Lost everything** |
 | Can be changed? | Company can change it | Only you control it |
 
-A password has an "escape hatch": "forgot password?" — you click, get a code on your email, set a new one. **Private keys have no such thing**. Cryptocurrency is designed so that nobody — not an exchange, not developers, not the police — can recover your private key if you lose it. That's the essence of decentralization.
+A password has an "escape hatch": "forgot password?" — you click, get a code on your email, set a new one. **Private keys have no such thing**. Cryptocurrency is designed so that nobody — not an exchange, not developers, not the police — can recover your private key if you lose it. That's the essence of [decentralization](/en/glossary/#decentralization).
 
 Real story: in 2013, British IT specialist James Howells accidentally threw away a hard drive containing the private key to a wallet with 7,500 Bitcoin. At the time, that was about $7.5 million. Today — **hundreds of millions of dollars**. The drive sits in a landfill, access is denied by city services, and the chance of recovery is zero.
 
@@ -71,7 +71,7 @@ E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
 
 Each pair of characters is one byte of information. 32 bytes total. Those 32 bytes control your coins.
 
-**But there's a simpler way** — a seed phrase. It's 12 or 24 common English words from which your wallet automatically generates your private key. For example:
+**But there's a simpler way** — a [seed phrase](/en/glossary/#seed-phrase). It's 12 or 24 common English words from which your wallet automatically generates your private key. For example:
 
 ```
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
@@ -97,7 +97,7 @@ Therefore:
 
 - Never take a photo of your seed phrase.
 - Never store it in your phone's notes.
-- Never enter your private key on sites that promise to "verify your wallet" or "check for airdrops."
+- Never enter your private key on sites that promise to "verify your wallet" or "check for [airdrops](/en/glossary/#airdrop)."
 - Never send it to anyone in messengers.
 - Never store it in the cloud (Google Drive, iCloud, Dropbox).
 

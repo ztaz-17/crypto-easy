@@ -101,7 +101,7 @@ Was die VAE gemacht haben:
 Aber es gibt Haken:
 
 - Unternehmen brauchen eine Lizenz (nicht billig zu bekommen);
-- strenge KYC- und AML-Regeln (keine Anonymität);
+- strenge [KYC](/de/glossary/#kyc)- und [AML](/de/glossary/#aml)-Regeln (keine Anonymität);
 - Privacy-Coins sind verboten (Monero, Zcash).
 
 **Fazit:** Die VAE sind eines der bequemsten Länder für Krypto-Business — aber nur, wenn du bereit bist, absolut legal zu arbeiten.
@@ -145,7 +145,7 @@ Aber es gibt wichtige Nuancen:
 - China hat **eine eigene digitale Währung** — e-CNY (digitaler Yuan), vollständig von der Zentralbank kontrolliert;
 - viele chinesische Bürger handeln trotzdem über P2P-Plattformen und VPNs mit Crypto;
 - chinesische Unternehmen halten beträchtliche Mengen Bitcoin (über Offshore-Gesellschaften);
-- das Verbot hat China nicht davon abgehalten, eine wichtige Rolle in der Blockchain-Technologie zu spielen (Patente, Forschung).
+- das Verbot hat China nicht davon abgehalten, eine wichtige Rolle in der [Blockchain](/de/glossary/#blockchain)-Technologie zu spielen (Patente, Forschung).
 
 > **Das Paradoxon:** China hat Crypto für seine Bürger verboten, entwickelt die Technologie aber auf staatlicher Ebene weiter.
 

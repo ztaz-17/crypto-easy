@@ -53,7 +53,7 @@ Nicht übereinstimmendes Netzwerk. Du hast Token an die richtige Adresse, aber d
 
 ### Wann es hoffnungslos ist
 
-Nur wenn du an eine **Adresse gesendet hast, die nicht deine ist** (Tippfehler in der Adresse). Blockchain-Transaktionen sind unumkehrbar.
+Nur wenn du an eine **Adresse gesendet hast, die nicht deine ist** (Tippfehler in der Adresse). [Blockchain](/de/glossary/#blockchain)-Transaktionen sind unumkehrbar.
 
 > **Regel:** Überprüfe Netzwerk und Adresse immer dreimal vor dem Senden.
 
@@ -93,13 +93,13 @@ Keine Kopie der Seed-Phrase + kein installiertes Wallet mit gespeichertem Passwo
 
 ### Die Situation
 
-Du hast ein neues DeFi-Projekt ausprobiert. Professionell aussehende Website, Whitepaper, Token-Ticker. MetaMask verbunden, bei der Genehmigungsabfrage auf „Bestätigen" geklickt – das Limit nicht geprüft.
+Du hast ein neues [DeFi](/de/glossary/#defi)-Projekt ausprobiert. Professionell aussehende Website, [Whitepaper](/de/glossary/#whitepaper), Token-Ticker. MetaMask verbunden, bei der Genehmigungsabfrage auf „Bestätigen" geklickt – das Limit nicht geprüft.
 
 Eine Woche später: Alle USDT weg. Der Contract war bösartig: Du hast unbegrenzte Ausgaben genehmigt (MAX_UINT_256), und der Angreifer hat alles abgeräumt.
 
 ### Warum es passiert ist
 
-Bei der Nutzung von dApps unterschreibst du ein `approve` – damit erlaubst du einem Contract, deine Token auszugeben. Die meisten Projekte fragen aus Bequemlichkeit nach **unbegrenzt**. Wenn der Contract bösartig ist, kann der Angreifer **alle** deine Token nehmen.
+Bei der Nutzung von [dApps](/de/glossary/#dapp) unterschreibst du ein `approve` – damit erlaubst du einem Contract, deine Token auszugeben. Die meisten Projekte fragen aus Bequemlichkeit nach **unbegrenzt**. Wenn der Contract bösartig ist, kann der Angreifer **alle** deine Token nehmen.
 
 ### Wie man es behebt
 
@@ -116,7 +116,7 @@ Bei der Nutzung von dApps unterschreibst du ein `approve` – damit erlaubst du 
 ### Prävention
 - Unterschreibe niemals approve, ohne den Betrag zu prüfen
 - Verwende Rabby Wallet – es warnt vor unbegrenzten Freigaben
-- Bewahre Hauptgelder in einem Cold Wallet auf; verwende eine separate Adresse für DeFi
+- Bewahre Hauptgelder in einem [Cold Wallet](/de/glossary/#cold-wallet) auf; verwende eine separate Adresse für DeFi
 - Überprüfe Freigaben monatlich via Revoke.cash
 
 ---
@@ -127,7 +127,7 @@ Bei der Nutzung von dApps unterschreibst du ein `approve` – damit erlaubst du 
 Du bekommst eine Telegram-Nachricht vom „Binance-Support": „Konto gesperrt, verifiziere über den Link." Der Link führt zu einer Seite, die **genau wie Binance** aussieht. Du gibst Login, Passwort, 2FA ein – und 5 Minuten später sind alle Gelder weg.
 
 ### Szenario 2: Fake-Airdrop
-Ein Twitter-Post: „Dringender $PEPE-Airdrop – verbinde dein Wallet!" Du verbindest MetaMask und unterschreibst, in dem Glauben, du erhältst Token. Tatsächlich hast du ein `approve` für einen bösartigen Contract unterschrieben – und alles ETH ist weg.
+Ein Twitter-Post: „Dringender $PEPE-[Airdrop](/de/glossary/#airdrop) – verbinde dein Wallet!" Du verbindest MetaMask und unterschreibst, in dem Glauben, du erhältst Token. Tatsächlich hast du ein `approve` für einen bösartigen Contract unterschrieben – und alles ETH ist weg.
 
 ### Was tun, wenn du bereits betrogen wurdest
 

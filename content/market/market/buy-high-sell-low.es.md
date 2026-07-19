@@ -79,7 +79,7 @@ Y funcionan como un par.
 
 ### Cómo se ve
 
-El FOMO es el miedo a estar perdiéndote tu oportunidad de hacerte rico.
+El [FOMO](/es/glossary/#fomo) es el miedo a estar perdiéndote tu oportunidad de hacerte rico.
 
 Síntomas:
 

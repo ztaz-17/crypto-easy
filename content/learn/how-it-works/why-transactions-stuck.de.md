@@ -44,7 +44,7 @@ In diesem Artikel erfährst du:
 
 Das ist der häufigste Grund.
 
-Jede Blockchain-Transaktion ist eine Anfrage auf einen Platz in einem Block. Der Platz im Block ist begrenzt. Miner (Bitcoin) oder Validatoren (Ethereum) entscheiden, welche Transaktionen zuerst aufgenommen werden.
+Jede [Blockchain](/de/glossary/#blockchain)-Transaktion ist eine Anfrage auf einen Platz in einem Block. Der Platz im Block ist begrenzt. Miner (Bitcoin) oder Validatoren (Ethereum) entscheiden, welche Transaktionen zuerst aufgenommen werden.
 
 Die Regel ist einfach: **Wer mehr zahlt, kommt zuerst.**
 
@@ -58,7 +58,7 @@ Mehr zur Gebührenermittlung: [Warum Krypto zu versenden manchmal 30 $ kostet](
 
 Selbst mit einer angemessenen Gebühr kann deine Transaktion zu Stoßzeiten hängen bleiben.
 
-Wenn tausende Transaktionen gleichzeitig gesendet werden (z. B. bei einem Memecoin-Hype, einem NFT-Mint oder einem Großereignis), wird der Mempool überschwemmt. Die Blockgröße bleibt gleich, aber die Anzahl der Leute, die reinwollen, ist zehnmal höher als sonst.
+Wenn tausende Transaktionen gleichzeitig gesendet werden (z. B. bei einem Memecoin-Hype, einem [NFT](/de/glossary/#nft)-Mint oder einem Großereignis), wird der Mempool überschwemmt. Die Blockgröße bleibt gleich, aber die Anzahl der Leute, die reinwollen, ist zehnmal höher als sonst.
 
 In solchen Zeiten picken sich Miner nur die fettesten Transaktionen heraus — alle anderen warten.
 

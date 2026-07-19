@@ -26,7 +26,7 @@ Podría ser peor: estás viendo cómo alguien vacía tus fondos en este mismo mo
 
 > **En cripto, nadie te va a devolver el dinero robado.**
 
-Ni un banco. Ni la policía. Ni los desarrolladores de la blockchain.
+Ni un banco. Ni la policía. Ni los desarrolladores de la [blockchain](/es/glossary/#blockchain).
 
 Pero eso no significa que no puedas hacer nada. Este artículo te da un plan de acción claro para los primeros minutos después de descubrir el hackeo.
 
@@ -156,7 +156,7 @@ Las probabilidades no son altas, pero no son cero — sobre todo si la cantidad 
 
 ## Paso 7. Advierte a la comunidad
 
-Si fuiste víctima de una estafa específica, un sitio de phishing o una dApp maliciosa:
+Si fuiste víctima de una estafa específica, un sitio de phishing o una [dApp](/es/glossary/#dapp) maliciosa:
 
 - repórtalo en [Scam Sniffer](https://scamsniffer.io) (una base de datos de estafas conocidas);
 - publica en X (Twitter) etiquetando al proyecto o wallet involucrado;

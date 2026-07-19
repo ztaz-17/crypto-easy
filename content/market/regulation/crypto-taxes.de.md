@@ -19,7 +19,7 @@ keywords:
 
 Krypto gibt dir finanzielle Freiheit. Aber Steuern fallen trotzdem an.
 
-Viele denken: „Krypto ist anonym, das Finanzamt erfährt nichts." Ein gefährlicher Mythos. Börsen geben Daten an Aufsichtsbehörden weiter, die Blockchain ist öffentlich, und die Steuerbehörden verfolgen Krypto-Assets aggressiver denn je.
+Viele denken: „Krypto ist anonym, das Finanzamt erfährt nichts." Ein gefährlicher Mythos. Börsen geben Daten an Aufsichtsbehörden weiter, die [Blockchain](/de/glossary/#blockchain) ist öffentlich, und die Steuerbehörden verfolgen Krypto-Assets aggressiver denn je.
 
 > **Realität:** Krypto-Steuern sind keine Frage des „ob" — sondern des „wann."
 

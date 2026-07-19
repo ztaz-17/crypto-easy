@@ -24,7 +24,7 @@ Las transacciones anónimas, las transferencias irreversibles y el hecho de que 
 
 > **Nadie te va a devolver tu crypto robado.**
 
-Ni el banco. Ni la policía. Ni los creadores de la blockchain.
+Ni el banco. Ni la policía. Ni los creadores de la [blockchain](/es/glossary/#blockchain).
 
 Por eso cada usuario necesita saber cómo identificar las amenazas por sí mismo.
 
@@ -95,7 +95,7 @@ Llegas a uno de estos a través de un anuncio, un correo electrónico o un mensa
 
 ### Cómo funciona
 
-Un airdrop es un sorteo gratuito de tokens para atraer usuarios. Los estafadores abusan de este mecanismo:
+Un [airdrop](/es/glossary/#airdrop) es un sorteo gratuito de tokens para atraer usuarios. Los estafadores abusan de este mecanismo:
 
 1. Prometen tokens gratis — solo necesitas "conectar tu wallet."
 2. Vas al sitio y pulsas "Reclamar."
@@ -105,7 +105,7 @@ Un airdrop es un sorteo gratuito de tokens para atraer usuarios. Los estafadores
 ### Ejemplos reales
 
 - **Airdrop de UNI de Uniswap** — aparecieron docenas de sitios falsos tras el airdrop real de Uniswap;
-- **Acuñaciones falsas de NFT** — "acuñación gratuita de NFT" que drena tu ETH cuando firmas;
+- **Acuñaciones falsas de NFT** — "acuñación gratuita de [NFT](/es/glossary/#nft)" que drena tu ETH cuando firmas;
 - **Estafa de aprobación de tokens** — el sitio te pide firmar un `approve` por una cantidad ilimitada.
 
 ### Cómo protegerte
@@ -124,7 +124,7 @@ Un airdrop es un sorteo gratuito de tokens para atraer usuarios. Los estafadores
 
 ### Cómo funciona
 
-Los estafadores crean cuentas falsas de "soporte" para exchanges, wallets y protocolos DeFi. Localizan a usuarios en Telegram, Discord o Twitter (X) y se ofrecen a ayudar.
+Los estafadores crean cuentas falsas de "soporte" para exchanges, wallets y protocolos [DeFi](/es/glossary/#defi). Localizan a usuarios en Telegram, Discord o Twitter (X) y se ofrecen a ayudar.
 
 El guion:
 

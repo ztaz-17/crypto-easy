@@ -25,7 +25,7 @@ Compraste USDT en un exchange, copiaste la dirección de tu amigo e hiciste la t
 
 Una hora después tu amigo te escribe: **"No hay dinero."**
 
-Revisas la transacción en la blockchain — estado: "Exitosa." Tu amigo revisa su saldo — cero. Como si el dinero se hubiera esfumado en el aire.
+Revisas la transacción en la [blockchain](/es/glossary/#blockchain) — estado: "Exitosa." Tu amigo revisa su saldo — cero. Como si el dinero se hubiera esfumado en el aire.
 
 ¿Te suena?
 

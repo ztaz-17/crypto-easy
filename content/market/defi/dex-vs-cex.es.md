@@ -53,7 +53,7 @@ Los exchanges centralizados deben cumplir con las leyes de los países donde ope
 > - pasar verificación (pasaporte, selfie);
 > - a veces — confirmar tu dirección de residencia.
 
-Sin KYC no puedes retirar más de cierto límite (normalmente 1–2 BTC al día).
+Sin [KYC](/es/glossary/#kyc) no puedes retirar más de cierto límite (normalmente 1–2 BTC al día).
 
 **Almacenamiento Custodial**
 
@@ -65,7 +65,7 @@ Tus activos cripto viven en las wallets del exchange. No tienes acceso directo a
 
 ## Qué es un DEX (Exchange Descentralizado)
 
-**DEX** es un conjunto de contratos inteligentes que te permiten intercambiar tokens directamente, sin intermediarios. Sin empresa, sin servidor — solo código en la blockchain.
+**DEX** es un conjunto de contratos inteligentes que te permiten intercambiar tokens directamente, sin intermediarios. Sin empresa, sin servidor — solo código en la [blockchain](/es/glossary/#blockchain).
 
 Ejemplos: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multicadena), **Curve** (stablecoins).
 
@@ -91,13 +91,13 @@ Tus fondos permanecen en tu wallet todo el tiempo. Conectas MetaMask, Rabby, Pha
 
 **Sin KYC**
 
-Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo que un DEX necesita ver es tu dirección de wallet.
+Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo que un [DEX](/es/glossary/#dex) necesita ver es tu dirección de wallet.
 
 ---
 
 ## Comparación: CEX vs DEX
 
-| Criterio | CEX | DEX |
+| Criterio | [CEX](/es/glossary/#cex) | DEX |
 |----------|-----|-----|
 | **Control de fondos** | Exchange (custodial) | Tú (no custodial) |
 | **Registro** | Correo + KYC (pasaporte) | No necesario |
@@ -161,7 +161,7 @@ Tu dinero — tuyo. El exchange no puede congelar tu cuenta, limitar retiros ni 
 
 ### 4️⃣ Trabajas con Protocolos DeFi
 
-Si quieres hacer farming, staking o préstamos — estas operaciones ocurren dentro de la blockchain. Los DEX son la interfaz natural para DeFi.
+Si quieres hacer farming, staking o préstamos — estas operaciones ocurren dentro de la blockchain. Los DEX son la interfaz natural para [DeFi](/es/glossary/#defi).
 
 > Puedes intercambiar tokens en Uniswap y luego enviarlos directamente a Aave para prestarlos — todo en una misma transacción, sin mover fondos a un exchange.
 

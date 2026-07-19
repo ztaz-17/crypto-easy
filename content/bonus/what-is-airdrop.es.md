@@ -31,7 +31,7 @@ Pero la mayoría de las veces, es una **trampa**.
 
 ---
 
-En el mundo cripto, un airdrop es una distribución de tokens gratis a un gran número de wallets. Pero tantos mitos, estafas y falsificaciones se han acumulado alrededor de este término que es fácil que un principiante pierda dinero.
+En el mundo cripto, un [airdrop](/es/glossary/#airdrop) es una distribución de tokens gratis a un gran número de wallets. Pero tantos mitos, estafas y falsificaciones se han acumulado alrededor de este término que es fácil que un principiante pierda dinero.
 
 En este artículo cubriremos:
 

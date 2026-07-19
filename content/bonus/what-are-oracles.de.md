@@ -23,7 +23,7 @@ Er ist intelligent. Er befolgt Anweisungen perfekt. Aber er hat keine Ahnung, wa
 
 > **Ein Smart Contract ist genau so ein Roboter.**
 
-Er lebt innerhalb einer Blockchain und kann nur mit dem interagieren, was bereits auf der Chain ist. Daten aus der Außenwelt — Preise, Wechselkurse, Sportergebnisse — sind tabu.
+Er lebt innerhalb einer [Blockchain](/de/glossary/#blockchain) und kann nur mit dem interagieren, was bereits auf der Chain ist. Daten aus der Außenwelt — Preise, Wechselkurse, Sportergebnisse — sind tabu.
 
 Wie bringt man also einen Smart Contract dazu, dir den aktuellen Bitcoin-Preis zu verraten?
 
@@ -153,7 +153,7 @@ Chainlink verwendet mehrere Schutzebenen:
 2. **Aggregation** — der endgültige Preis ist der Median aller Quellen;
 3. **Anreize** — Knoten erhalten Belohnungen für ehrliche Arbeit und verlieren ihre Hinterlegung bei Betrug.
 
-👉 Dadurch ist Chainlink der De-facto-Standard für DeFi-Anwendungen.
+👉 Dadurch ist Chainlink der De-facto-Standard für [DeFi](/de/glossary/#defi)-Anwendungen.
 
 ---
 

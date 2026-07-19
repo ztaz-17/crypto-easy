@@ -37,7 +37,7 @@ En este artículo cubriremos:
 
 ## ¿Qué Es un Explorador de Blockchain y Para Qué Lo Necesitas?
 
-Un **explorador de blockchain** es como el "Google de la blockchain." Un sitio web público que muestra todo lo que sucede en la red:
+Un **explorador de blockchain** es como el "Google de la [blockchain](/es/glossary/#blockchain)." Un sitio web público que muestra todo lo que sucede en la red:
 
 - cada transacción;
 - cada wallet y su saldo;
@@ -226,7 +226,7 @@ El estado **Pendiente** puede durar desde unos segundos hasta varios días. Esto
 ### Por Qué se Atascan las Transacciones
 
 - **Comisión de gas baja.** En redes como Ethereum, los mineros procesan primero las transacciones con comisiones más altas. Si pusiste el gas demasiado bajo — la transacción se queda en la cola.
-- **Congestión de la red.** En momentos de furor (como un lanzamiento popular de NFT), la cola se vuelve enorme.
+- **Congestión de la red.** En momentos de furor (como un lanzamiento popular de [NFT](/es/glossary/#nft)), la cola se vuelve enorme.
 - **Problemas de nodo.** Raro, pero a veces un validador específico ralentiza las cosas.
 
 ### Qué Puedes Hacer
