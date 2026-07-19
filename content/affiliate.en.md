@@ -73,6 +73,34 @@ Downside: no direct support for some local payment methods.
 | Staking | ✅ | ✅ up to 12% | ✅ up to 6% |
 | Licenses | US, Canada | US, Japan, UK | US (SEC, FinCEN) |
 
+## Best Hardware Wallets for Beginners
+
+If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not your coins" is real — exchanges can freeze accounts, get hacked, or lock withdrawals. A hardware wallet is the only way you truly own your crypto.
+
+### Ledger — The Industry Standard
+
+**Ledger** is the most trusted hardware wallet brand (sold 6M+ devices). Supports 5,500+ coins, has a built-in exchange through Ledger Live, and recently launched Ledger Stax with a curved E Ink display.
+
+- **Security**: certified secure element chip (CC EAL5+)
+- **Supported**: 5,500+ cryptocurrencies
+- **App**: Ledger Live — manage everything from one dashboard
+- **Staking**: earn up to 12% APY directly from the wallet
+- **Models**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
+
+👉 [Get Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (referral link)
+
+### Trezor — Fully Open Source
+
+**Trezor** (by SatoshiLabs) is completely open-source — every line of code can be audited independently. Ideal for privacy-conscious users.
+
+- **Security**: open-source firmware, community-verified
+- **Supported**: 1,800+ cryptocurrencies
+- **Advanced features**: Shamir Backup (split your seed into parts), U2F for general web security
+- **Models**: Trezor Safe 3 ($79), Trezor Safe 5 ($169)
+- **Extra**: supports FIDO2 for secure web login
+
+👉 [Get Trezor](https://trezor.io/go/affiliate/cryptoeasy) (referral link)
+
 ## Which Exchange Should a Beginner Choose?
 
 **If you just want to try crypto** — start with **Bybit**. Low fees, P2P options, and a nice first-deposit bonus.

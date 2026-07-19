@@ -1,7 +1,7 @@
 ---
 weight: 7
 title: "P2P Trading: Scam Schemes and How to Avoid Them"
-description: "How scammers cheat on P2P platforms: fake transfer, chargeback. How to trade P2P safely"
+description: "How scammers cheat on P2P platforms: fake transfer, chargeback, and phishing schemes. Learn how to trade P2P safely and avoid losing your crypto to fraud."
 category: "bonus"
 translationKey: "p2p-trading-scams"
 slug: "p2p-trading-scams"

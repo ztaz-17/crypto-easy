@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Staking vs Farming: Which One to Choose"
-description: "Comparing staking and farming: differences in risks, returns, when to use what. Comparison table"
+description: "Comparing staking and farming: key differences in risks, returns, and when to use each strategy. Includes a comparison table to help beginners choose the right option."
 category: "bonus"
 translationKey: "staking-vs-farming"
 slug: "staking-vs-farming"

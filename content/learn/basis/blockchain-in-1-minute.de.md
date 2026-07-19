@@ -108,8 +108,8 @@ Die Netzwerkteilnehmer vertrauen einander nicht. Stattdessen vertrauen sie der M
 
 Es gibt zwei Hauptmethoden, sich zu einigen:
 
-- **[Proof of Work](/en/glossary/#proof-of-work) (PoW)** — von Bitcoin verwendet. Teilnehmer lösen komplexe Mathematikaufgaben, um einen Block zu bestätigen. Wer zuerst löst, darf die "Seite schreiben".
-- **[Proof of Stake](/en/glossary/#proof-of-stake) (PoS)** — von Ethereum verwendet. Teilnehmer "sperren" ihre Coins als Sicherheit und bestätigen Blöcke proportional zu ihrem Anteil.
+- **[Proof of Work](/de/glossary/#proof-of-work) (PoW)** — von Bitcoin verwendet. Teilnehmer lösen komplexe Mathematikaufgaben, um einen Block zu bestätigen. Wer zuerst löst, darf die "Seite schreiben".
+- **[Proof of Stake](/de/glossary/#proof-of-stake) (PoS)** — von Ethereum verwendet. Teilnehmer "sperren" ihre Coins als Sicherheit und bestätigen Blöcke proportional zu ihrem Anteil.
 
 Beide Mechanismen funktionieren gleich gut: **Niemand kann falsche Informationen aufzeichnen**.
 

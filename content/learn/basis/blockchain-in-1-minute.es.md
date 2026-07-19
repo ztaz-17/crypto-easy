@@ -108,8 +108,8 @@ Los participantes de la red no confían unos en otros. En cambio, confían en la
 
 Hay dos formas principales de alcanzar el consenso:
 
-- **[Proof of Work](/en/glossary/#proof-of-work) (PoW)** — usado por Bitcoin. Los participantes resuelven problemas matemáticos complejos para confirmar un bloque. El primero en resolverlo "escribe la página".
-- **[Proof of Stake](/en/glossary/#proof-of-stake) (PoS)** — usado por Ethereum. Los participantes "bloquean" sus monedas como garantía y confirman bloques proporcionalmente a su participación.
+- **[Proof of Work](/es/glossary/#proof-of-work) (PoW)** — usado por Bitcoin. Los participantes resuelven problemas matemáticos complejos para confirmar un bloque. El primero en resolverlo "escribe la página".
+- **[Proof of Stake](/es/glossary/#proof-of-stake) (PoS)** — usado por Ethereum. Los participantes "bloquean" sus monedas como garantía y confirman bloques proporcionalmente a su participación.
 
 Ambos mecanismos funcionan igual de bien: **nadie puede registrar información falsa**.
 
