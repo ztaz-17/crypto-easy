@@ -70,7 +70,7 @@ So funktioniert's:
 1. Geh auf eine Faucet-Website.
 2. Gib deine Testnet-[Wallet](/de/glossary/#wallet)-Adresse ein.
 3. Klick auf »Anfordern« (oder »Send me test ETH«).
-4. Wenige Sekunden später landen die Coins in deinem Wallet.
+4. Wenige Sekunden später landen die Coins in deinem [Wallet](/de/glossary/#wallet).
 
 ### Faucets für Ethereum Testnet (Sepolia)
 
@@ -84,7 +84,7 @@ Die beliebtesten:
 
 > 💡 Manche Faucets verlangen ein Konto auf der Plattform (Alchemy, Infura) oder einen GitHub-Login — das ist normal, so halten sie Bots fern.
 
-Beim Google Cloud Faucet kannst du ETH + Tokens (z. B. PYUSD und WBTC) gleichzeitig anfordern. Wenn du Tokens abgeholt hast, musst du sie in MetaMask hinzufügen (siehe Abschnitt zum Token-Import weiter unten).
+Beim Google Cloud Faucet kannst du ETH + [Tokens](/de/glossary/#token) (z. B. PYUSD und WBTC) gleichzeitig anfordern. Wenn du Tokens abgeholt hast, musst du sie in MetaMask hinzufügen (siehe Abschnitt zum Token-Import weiter unten).
 
 ### Faucets für andere Netzwerke
 
@@ -173,10 +173,10 @@ Vergiss nicht, dir die Transaktion im [Block](/de/glossary/#block) Explorer anzu
 Öffne nach jeder Aktion **[sepolia.etherscan.io](https://sepolia.etherscan.io/)**, füge den Transaktions-Hash ein und schau dir an:
 
 - wie viel Gas du bezahlt hast;
-- wie viele Blöcke die Transaktion bestätigt haben;
+- wie viele [Blöcke](/de/glossary/#block) die Transaktion bestätigt haben;
 - den Status (Erfolg oder Fehlschlag).
 
-So lernst du, die Blockchain zu »lesen«.
+So lernst du, die [Blockchain](/de/glossary/#blockchain) zu »lesen«.
 
 #### 4. Eine DeFi-App ausprobieren (vorsichtig)
 

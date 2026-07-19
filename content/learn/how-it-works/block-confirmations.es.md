@@ -36,9 +36,9 @@ La respuesta está en cómo funciona la propia [blockchain](/es/glossary/#blockc
 
 Una [blockchain](/es/glossary/#blockchain) es una cadena de [bloques](/es/glossary/#block). Suena a tautología, pero es literalmente eso.
 
-Un **bloque** es un contenedor que agrupa transacciones. Piensa en él como una página de un libro de contabilidad. En una sola página se escriben varias transferencias. Cuando la página se llena, se añade al libro y se empieza una nueva.
+Un **[bloque](/es/glossary/#block)** es un contenedor que agrupa transacciones. Piensa en él como una página de un libro de contabilidad. En una sola página se escriben varias transferencias. Cuando la página se llena, se añade al libro y se empieza una nueva.
 
-En una blockchain:
+En una [blockchain](/es/glossary/#blockchain):
 
 - cada bloque contiene un **conjunto de transacciones** (desde unas pocas hasta miles);
 - los bloques vienen uno tras otro en secuencia;
@@ -196,7 +196,7 @@ Cuanto más alta sea la comisión, más rápido recogerán los mineros tu transa
 
 ### 2. Usa Replace-by-Fee (RBF)
 
-Bitcoin soporta RBF — un mecanismo que te permite reemplazar una transacción no confirmada por la misma pero con una comisión más alta. Activa esta opción en tu cartera de antemano.
+Bitcoin soporta RBF — un mecanismo que te permite reemplazar una transacción no confirmada por la misma pero con una comisión más alta. Activa esta opción en tu [cartera](/es/glossary/#wallet) de antemano.
 
 ### 3. Elige Redes Rápidas
 

@@ -85,7 +85,7 @@ Mercuryo, MoonPay — pagas con tarjeta, crypto llega en minutos. Dentro de Meta
 
 | | Exchange | [P2P](/es/glossary/#p2p) | Swap | Cajero BTC |
 |---|---------|-----|------|-----------|
-| KYC | Parcial | No | Parcial | No |
+| [KYC](/es/glossary/#kyc) | Parcial | No | Parcial | No |
 | Comisión | 0.1-0.5% | 1-3% | 2-5% | 10-15% |
 | Monedas | Miles | Docenas | 3-10 | Solo BTC |
 
@@ -95,7 +95,7 @@ Mercuryo, MoonPay — pagas con tarjeta, crypto llega en minutos. Dentro de Meta
 
 **Tienes tarjeta, aceptas verificación:** Coinbase o Binance → KYC → comprar → retirar.
 
-**Sin documento:** P2P en Bybit sin KYC, o swap desde MetaMask.
+**Sin documento:** [P2P](/es/glossary/#p2p) en Bybit sin KYC, o swap desde MetaMask.
 
 **Rápido y poco:** MetaMask → "Comprar" → Mercuryo/MoonPay → pagar con tarjeta.
 

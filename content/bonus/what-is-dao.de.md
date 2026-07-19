@@ -57,12 +57,12 @@ Jedes [DAO](/de/glossary/#dao)-Mitglied kann:
 
 ### Wie sich eine DAO von einem normalen Unternehmen unterscheidet
 
-| Kriterium              | Normales Unternehmen        | DAO                                    |
+| Kriterium              | Normales Unternehmen        | [DAO](/de/glossary/#dao)                                    |
 |------------------------|-----------------------------|----------------------------------------|
 | Wer hat das Sagen?     | CEO / Vorstand              | Community der [Token](/de/glossary/#token)-Inhaber            |
 | Regeln                 | In Dokumenten               | In Smart Contracts (Code)              |
 | Transparenz            | Geschlossene Berichterstattung | Alle Entscheidungen und Transaktionen On-Chain |
-| Teilnahme              | Nur Angestellte             | Jeder Token-Inhaber                    |
+| Teilnahme              | Nur Angestellte             | Jeder [Token](/de/glossary/#token)-Inhaber                    |
 | Regeländerungen        | Anordnung der Geschäftsführung | Community-Abstimmung                  |
 
 ---

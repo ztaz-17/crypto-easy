@@ -47,9 +47,9 @@ In diesem Artikel erfährst du:
 
 **[Airdrop](/de/glossary/#airdrop)** — eine kostenlose Verteilung von Token an Nutzer.
 
-Projekte führen Airdrops durch, um:
+Projekte führen [Airdrops](/de/glossary/#airdrop) durch, um:
 
-- Aufmerksamkeit auf ihren Token zu lenken;
+- Aufmerksamkeit auf ihren [Token](/de/glossary/#token) zu lenken;
 - frühe Nutzer zu belohnen;
 - die Governance zu dezentralisieren (Token in viele Hände zu geben);
 - eine Community um das Projekt aufzubauen.
@@ -124,7 +124,7 @@ Zum Zeitpunkt der Verteilung war das etwa **$1200** pro Person wert.
 Voraussetzungen:
 
 - du musstest vor einem bestimmten Datum mindestens einen Trade auf Uniswap getätigt haben;
-- kein Verbinden der Wallet über dubiose Links;
+- kein Verbinden der [Wallet](/de/glossary/#wallet) über dubiose Links;
 - keine [Seed-Phrase](/de/glossary/#seed-phrase)-Anfragen.
 
 > **Ergebnis:** Tausende Menschen erhielten echtes Geld. Die Token wurden ab dem ersten Tag an Börsen gehandelt.
@@ -171,7 +171,7 @@ Niemals, unter keinen Umständen:
 
 > **Kein seriöses Projekt wird jemals nach deiner Seed-Phrase fragen!**
 
-Deine Seed-Phrase bedeutet **vollen Zugriff auf dein Geld**.
+Deine [Seed-Phrase](/de/glossary/#seed-phrase) bedeutet **vollen Zugriff auf dein Geld**.
 
 Wer sie bekommt, nimmt alles mit.
 
@@ -297,4 +297,4 @@ Uniswap (UNI), Arbitrum (ARB), dYdX (DYDX), 1inch (1INCH), Apecoin (APE), Blur (
 
 ### Wer bekommt Airdrops?
 
-In der Regel Menschen, die das Protokoll vor dem Drop aktiv genutzt haben: Transaktionen durchgeführt, Liquidität bereitgestellt, am Testnetz teilgenommen haben.
+In der Regel Menschen, die das Protokoll vor dem Drop aktiv genutzt haben: Transaktionen durchgeführt, [Liquidität](/de/glossary/#liquidity) bereitgestellt, am Testnetz teilgenommen haben.

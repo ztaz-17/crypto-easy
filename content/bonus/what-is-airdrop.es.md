@@ -46,9 +46,9 @@ En este artículo cubriremos:
 
 **[Airdrop](/es/glossary/#airdrop)** — una distribución gratuita de tokens a los usuarios.
 
-Los proyectos hacen airdrops para:
+Los proyectos hacen [airdrops](/es/glossary/#airdrop) para:
 
-- atraer la atención hacia su token;
+- atraer la atención hacia su [token](/es/glossary/#token);
 - recompensar a los primeros usuarios;
 - descentralizar la gobernanza (poner tokens en muchas manos);
 - construir una comunidad alrededor del proyecto.
@@ -170,7 +170,7 @@ Nunca, bajo ninguna circunstancia:
 
 > **¡Ningún proyecto legítimo te pedirá jamás tu frase semilla!**
 
-Tu frase semilla es **acceso total a tu dinero**.
+Tu [frase semilla](/es/glossary/#seed-phrase) es **acceso total a tu dinero**.
 
 Quien la obtenga, se lo lleva todo.
 
@@ -296,4 +296,4 @@ Uniswap (UNI), Arbitrum (ARB), dYdX (DYDX), 1inch (1INCH), Apecoin (APE), Blur (
 
 ### ¿Quién recibe airdrops?
 
-Generalmente — personas que usaron activamente el protocolo antes del lanzamiento: hicieron transacciones, proporcionaron liquidez, participaron en la testnet.
+Generalmente — personas que usaron activamente el protocolo antes del lanzamiento: hicieron transacciones, proporcionaron [liquidez](/es/glossary/#liquidity), participaron en la testnet.

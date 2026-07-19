@@ -46,7 +46,7 @@ Por ejemplo:
 
 > **¿Cuál es el precio correcto? ¿Y quién decide?**
 
-La blockchain no puede responder eso por sí sola. Necesita un ayudante.
+La [blockchain](/es/glossary/#blockchain) no puede responder eso por sí sola. Necesita un ayudante.
 
 ---
 
@@ -182,7 +182,7 @@ Los oráculos son una parte invisible pero esencial del mundo crypto.
 - Chainlink es el proveedor de oráculos más popular y probado.
 
 Sin oráculos, nada de esto funcionaría:
-- protocolos DeFi (Aave, Compound);
+- protocolos [DeFi](/es/glossary/#defi) (Aave, Compound);
 - [stablecoins](/es/glossary/#stablecoin) (DAI verifica los precios de las garantías);
 - smart contracts de seguros;
 - mercados de predicción.

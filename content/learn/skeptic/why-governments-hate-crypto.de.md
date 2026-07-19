@@ -149,7 +149,7 @@ Anforderungen an Börsen:
 
 So arbeitet der **IRS** in den USA (verlangt Meldungen über jede Transaktion), so arbeiten die Regulierungsbehörden in Europa (MiCA), und so versuchen sie es in anderen Ländern.
 
-Das Problem ist jedoch, dass Crypto global ist. Wenn eine Börse schließt, wechseln die Nutzer zu dezentralen Börsen (DEXs) oder P2P-Plattformen.
+Das Problem ist jedoch, dass Crypto global ist. Wenn eine Börse schließt, wechseln die Nutzer zu dezentralen Börsen (DEXs) oder [P2P](/de/glossary/#p2p)-Plattformen.
 
 ---
 
@@ -211,7 +211,7 @@ Studien zufolge haben rund 50 Länder vollständige oder teilweise Crypto-Verbot
 
 Totalverbot (Crypto-Nutzung ist illegal):
 
-- **China** – Operationen, Mining und Börsen verboten;
+- **China** – Operationen, [Mining](/de/glossary/#mining) und Börsen verboten;
 - **Algerien** – strafrechtliche Verfolgung;
 - **Nepal** – alle Operationen verboten;
 - **Ägypten** – sowohl aus religiösen als auch aus rechtlichen Gründen verboten.
@@ -240,7 +240,7 @@ Crypto zu verbieten ist irgendwie wie das Internet zu verbieten. Man kann es tec
 Gründe:
 
 1. Crypto hat keinen zentralen Server. Man kann es nicht einfach „abschalten".
-2. Die Blockchain läuft auf Tausenden von Knoten auf der ganzen Welt.
+2. Die [Blockchain](/de/glossary/#blockchain) läuft auf Tausenden von Knoten auf der ganzen Welt.
 3. P2P-Austausch benötigt keine Vermittler.
 
 ### Beispiel: China

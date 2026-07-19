@@ -46,9 +46,9 @@ In this article, we'll cover:
 
 **[Airdrop](/en/glossary/#airdrop)** — a free distribution of tokens to users.
 
-Projects do airdrops to:
+Projects do [airdrops](/en/glossary/#airdrop) to:
 
-- draw attention to their token;
+- draw attention to their [token](/en/glossary/#token);
 - reward early users;
 - decentralize governance (put tokens in many hands);
 - build a community around the project.
@@ -116,14 +116,14 @@ Projects need tokens to be held by **lots of different people**, not just one te
 
 ### Uniswap (UNI) — $1200 Per Person
 
-In September 2020, **Uniswap** — the largest decentralized exchange on Ethereum — gave **400 UNI tokens** to everyone who had ever used their protocol.
+In September 2020, **Uniswap** — the largest [decentralized](/en/glossary/#decentralization) exchange on Ethereum — gave **400 UNI tokens** to everyone who had ever used their protocol.
 
 At the time of the drop, that was worth about **$1200** per person.
 
 Requirements:
 
 - you just had to make at least one trade on Uniswap before a certain date;
-- no connecting wallets through random links;
+- no connecting [wallets](/en/glossary/#wallet) through random links;
 - no [seed phrase](/en/glossary/#seed-phrase) requests.
 
 > **Result:** thousands of people received real money. Tokens were traded on exchanges from day one.
@@ -170,7 +170,7 @@ Never, under any circumstances:
 
 > **No legitimate project will ever ask for your seed phrase!**
 
-Your seed phrase is **full access to your money**.
+Your [seed phrase](/en/glossary/#seed-phrase) is **full access to your money**.
 
 Whoever gets it takes everything.
 
@@ -296,4 +296,4 @@ Uniswap (UNI), Arbitrum (ARB), dYdX (DYDX), 1inch (1INCH), Apecoin (APE), Blur (
 
 ### Who gets airdrops?
 
-Usually — people who actively used the protocol before the drop: made transactions, provided liquidity, participated in the testnet.
+Usually — people who actively used the protocol before the drop: made transactions, provided [liquidity](/en/glossary/#liquidity), participated in the testnet.

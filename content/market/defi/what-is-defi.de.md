@@ -69,7 +69,7 @@ Traditionelle Finanzen basieren auf Vermittlern:
 
 ## Wie DeFi funktioniert
 
-DeFi basiert auf drei Kernkomponenten:
+[DeFi](/de/glossary/#defi) basiert auf drei Kernkomponenten:
 
 ### 1. Blockchain
 
@@ -97,7 +97,7 @@ Nutzer verbinden sich über eine nicht-verwahrende [Wallet](/de/glossary/#wallet
 
 So funktioniert's:
 
-- Nutzer erstellen **Liquiditätspools** — sie hinterlegen Token-Paare (z. B. ETH und USDC);
+- Nutzer erstellen **Liquiditätspools** — sie hinterlegen [Token](/de/glossary/#token)-Paare (z. B. ETH und USDC);
 - andere Nutzer handeln direkt über diese Pools;
 - jeder Tausch erhebt eine kleine Gebühr, die an die Liquiditätsanbieter ausgeschüttet wird.
 
@@ -153,7 +153,7 @@ Der entscheidende Punkt: DAI wird nicht von einer Bank oder einem Unternehmen au
 | Öffnungszeiten         | Geschäftszeiten, Wochenende zu| 24/7, keine freien Tage          |
 | Überweisungsdauer      | Stunden–Tage (international)  | Sekunden–Minuten                 |
 | Gebühren               | Oft versteckt                 | Transparent (Gas + Poolgebühr)   |
-| Transparenz            | Geschlossene Datenbanken      | Code offen auf der Blockchain    |
+| Transparenz            | Geschlossene Datenbanken      | Code offen auf der [Blockchain](/de/glossary/#blockchain)    |
 | Kreditwürdigkeit       | Bonitätsauskunft nötig        | Nur Sicherheiten nötig           |
 | Zensur                 | Konto kann gesperrt werden    | Kann nicht gesperrt werden       |
 
@@ -226,8 +226,8 @@ Ja. Zu den Risiken gehören Fehler in Smart Contracts, Markteinbrüche, verloren
 
 ### Was brauche ich, um loszulegen?
 
-Internet, eine Wallet (MetaMask) und ein wenig Krypto für Gas-Gebühren. Kein Ausweis nötig.
+Internet, eine [Wallet](/de/glossary/#wallet) (MetaMask) und ein wenig Krypto für Gas-Gebühren. Kein Ausweis nötig.
 
 ### Ist DAI ein zuverlässiger Stablecoin?
 
-DAI gilt als einer der vertrauenswürdigsten dezentralen Stablecoins, ist aber nicht immun gegen Marktrisiken.
+DAI gilt als einer der vertrauenswürdigsten dezentralen [Stablecoins](/de/glossary/#stablecoin), ist aber nicht immun gegen Marktrisiken.

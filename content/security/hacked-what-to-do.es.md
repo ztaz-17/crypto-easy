@@ -55,7 +55,7 @@ Si se comprometió una wallet caliente (MetaMask, Trust Wallet, Phantom, etc.):
 
 1. **Apaga el internet** del dispositivo (modo avión) si ves una transacción que todavía no se confirmó. Esto no ayuda si la [frase semilla](/es/glossary/#seed-phrase) ya está expuesta, pero puede comprarte unos segundos.
 2. **Crea una wallet nueva de inmediato** — en otro dispositivo o en otra app.
-3. **Genera una frase semilla nueva.** Nunca reutilices la anterior.
+3. **Genera una [frase semilla](/es/glossary/#seed-phrase) nueva.** Nunca reutilices la anterior.
 
 > **Tu wallet vieja nunca volverá a ser segura. Nunca.**
 
@@ -66,7 +66,7 @@ Si se comprometió una wallet caliente (MetaMask, Trust Wallet, Phantom, etc.):
 Si todavía hay fondos en la wallet — actúa rápido:
 
 - Abre una wallet nueva y limpia (frase semilla nueva, dirección nueva).
-- Transfiere **todos los tokens restantes** a ella.
+- Transfiere **todos los [tokens](/es/glossary/#token) restantes** a ella.
 - Empieza por los activos de mayor valor.
 - Asegúrate de que la wallet vieja no tenga tokens reclamables ([staking](/es/glossary/#staking), recompensas de farming).
 
@@ -198,7 +198,7 @@ Una vez que hayas manejado la emergencia, vale la pena repensar tus hábitos de 
 ## FAQ
 
 ### ¿Puedo recuperar mis fondos robados?
-En la mayoría de los casos — no. La blockchain es irreversible. La excepción es si los fondos terminaron en un exchange centralizado y lo reportaste a tiempo.
+En la mayoría de los casos — no. La [blockchain](/es/glossary/#blockchain) es irreversible. La excepción es si los fondos terminaron en un exchange centralizado y lo reportaste a tiempo.
 
 ### ¿Qué pasa si robaron mi frase semilla pero mis fondos todavía están ahí?
 Crea una wallet nueva de inmediato y transfiere todo. La frase semilla anterior ahora está comprometida.

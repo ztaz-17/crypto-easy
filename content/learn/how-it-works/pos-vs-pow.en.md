@@ -39,7 +39,7 @@ Imagine you're facing a giant safe with a combination lock that has a billion po
 The [blockchain](/en/glossary/#blockchain) works the same way:
 
 1. A miner collects transactions from the mempool into a [block](/en/glossary/#block).
-2. They start trying numbers (nonces) until they find a block hash that meets the target condition (starts with a certain number of zeros).
+2. They start trying numbers (nonces) until they find a [block](/en/glossary/#block) hash that meets the target condition (starts with a certain number of zeros).
 3. The first one to find the right number broadcasts the block to the network.
 4. Other miners verify it — the block is valid, the work is confirmed.
 5. The miner gets the reward (new coins + fees).
@@ -62,7 +62,7 @@ Miners aren't programmers or developers. They're **hardware operators**. They:
 
 - buy and set up ASIC miners;
 - hunt down cheap electricity (near hydro plants, in sunny regions);
-- join mining pools for steady income;
+- join [mining](/en/glossary/#mining) pools for steady income;
 - sell the coins they mine to pay the power bill.
 
 > Solo mining is nearly impossible today — everyone works in **pools** (F2Pool, Antpool, ViaBTC) where rewards are split proportionally to contributed hashrate.
@@ -100,7 +100,7 @@ No ASIC miners, no fans, no $10,000-a-month electricity bills.
 
 ### Why Lock Up Coins
 
-Staking solves the **"nothing at stake" problem**. In PoS, if a validator acts dishonestly — they lose their coins. It's an economic incentive to play by the rules.
+[Staking](/en/glossary/#staking) solves the **"nothing at stake" problem**. In PoS, if a validator acts dishonestly — they lose their coins. It's an economic incentive to play by the rules.
 
 Staked coins act as **collateral**:
 
@@ -163,7 +163,7 @@ For everyday transfers (coffee, subscriptions, sending money to friends), PoS is
 
 ## Summary
 
-**Proof of Work** and **Proof of Stake** are two different approaches to the same problem: how to agree on who creates the next block.
+**[Proof of Work](/en/glossary/#proof-of-work)** and **[Proof of Stake](/en/glossary/#proof-of-stake)** are two different approaches to the same problem: how to agree on who creates the next block.
 
 - **PoW** (Bitcoin): "Prove it with work — burn electricity, get coins." Honest, secure, but power-hungry.
 - **PoS** (Ethereum, Solana): "Prove it with your stake — lock up coins, earn interest." Efficient, scalable, but requires economic discipline.

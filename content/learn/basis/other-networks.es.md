@@ -89,7 +89,7 @@ TRON es una [blockchain](/es/glossary/#blockchain) que apostó fuerte por las st
 
 ## Dogecoin (DOGE) — La Primera Meme Coin
 
-Dogecoin empezó como una broma en 2013 — una criptomoneda con un perro de un meme. Pero la comunidad y el apoyo de Elon Musk la convirtieron en una de las marcas más reconocibles del mundo cripto.
+Dogecoin empezó como una broma en 2013 — una [criptomoneda](/es/glossary/#cryptocurrency) con un perro de un meme. Pero la comunidad y el apoyo de Elon Musk la convirtieron en una de las marcas más reconocibles del mundo cripto.
 
 **Principal ventaja:** Una comunidad enorme, más la adopción como método de pago (Tesla, Dallas Mavericks, X Payments).
 
@@ -104,9 +104,9 @@ Dogecoin empezó como una broma en 2013 — una criptomoneda con un perro de un 
 
 ## Hyperliquid (HYPE) — Exchange Descentralizado
 
-Hyperliquid es una blockchain construida específicamente para el trading descentralizado de derivados. Funciona con su propio consenso HyperBFT, ofreciendo velocidad de exchange centralizado.
+Hyperliquid es una [blockchain](/es/glossary/#blockchain) construida específicamente para el trading descentralizado de derivados. Funciona con su propio consenso HyperBFT, ofreciendo velocidad de exchange centralizado.
 
-**Principal ventaja:** El primer DEX en procesar $1 billón en volumen de trading acumulado.
+**Principal ventaja:** El primer [DEX](/es/glossary/#dex) en procesar $1 billón en volumen de trading acumulado.
 
 **Eventos clave en 2025–2026:**
 - Hyperliquid superó la marca de $1 billón en volumen de trading acumulado, convirtiéndose en el DEX de derivados más grande.
@@ -119,7 +119,7 @@ Hyperliquid es una blockchain construida específicamente para el trading descen
 
 ## LEO Token (UNUS SED LEO) — El Token de Bitfinex
 
-LEO es el token del ecosistema de Bitfinex y sus proyectos relacionados (Tether, Bitfinex Securities, Capital Markets). Ofrece descuentos en comisiones de trading y se quema usando los ingresos de la plataforma.
+LEO es el [token](/es/glossary/#token) del ecosistema de Bitfinex y sus proyectos relacionados (Tether, Bitfinex Securities, Capital Markets). Ofrece descuentos en comisiones de trading y se quema usando los ingresos de la plataforma.
 
 **Principal ventaja:** LEO es prácticamente no volátil — en 2025–2026 se negoció en un rango estrecho de $8–10.5, porque su precio está respaldado por el programa de recompra de Bitfinex.
 
@@ -136,7 +136,7 @@ LEO es el token del ecosistema de Bitfinex y sus proyectos relacionados (Tether,
 
 Bitcoin Cash se separó de Bitcoin en 2017 por una disputa sobre el escalado. La idea central: [bloques](/es/glossary/#block) más grandes = más transacciones = un sistema de pagos para el uso diario.
 
-**Principal ventaja:** El tamaño de bloque se aumentó a 64 MB (tras la actualización de 2026) — hasta 15,000 TPS.
+**Principal ventaja:** El tamaño de [bloque](/es/glossary/#block) se aumentó a 64 MB (tras la actualización de 2026) — hasta 15,000 TPS.
 
 **Eventos clave en 2025–2026:**
 - El hard [fork](/es/glossary/#fork) «BlackRock»: bloques de 64 MB + multifirmas Schnorr para privacidad.
@@ -216,7 +216,7 @@ Toncoin es una blockchain creada por el equipo de Telegram (originalmente Telegr
 **Eventos clave en 2025–2026:**
 - 100 millones de [carteras](/es/glossary/#wallet) activas al mes — una tasa de crecimiento récord.
 - Las «Estrellas» de Telegram (moneda dentro de la app) migraron a la blockchain TON — 900 millones de usuarios obtuvieron una experiencia en cadena.
-- TON Society + DWF Labs lanzaron un fondo de $500 millones para DeFi, juegos y agentes de IA en TON.
+- TON Society + DWF Labs lanzaron un fondo de $500 millones para [DeFi](/es/glossary/#defi), juegos y agentes de IA en TON.
 
 > TON es cripto para las masas: una cartera dentro de Telegram con una audiencia ya preparada. Si quieres probar las criptomonedas sin instalar apps de terceros — empieza con TON.
 
@@ -229,7 +229,7 @@ Toncoin es una blockchain creada por el equipo de Telegram (originalmente Telegr
 | XRP | Transferencias bancarias | ~$85B | $1.39 |
 | BNB | Ecosistema Binance | ~$35B* | ~$452 |
 | Solana | Velocidad y escala | ~$48B | $83.78 |
-| TRON | Stablecoins y entretenimiento | ~$31B | $0.33 |
+| TRON | [Stablecoins](/es/glossary/#stablecoin) y entretenimiento | ~$31B | $0.33 |
 | Dogecoin | Meme coin con comunidad | ~$17B | $0.11 |
 | Hyperliquid | Derivados DEX | ~$9.8B | $41.16 |
 | LEO | Token de utilidad Bitfinex | ~$9.5B | $10.34 |

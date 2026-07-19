@@ -95,7 +95,7 @@ La gente que mantenía sus ahorros en liras perdía dinero sin moverse.
 
 ### Por Qué los Turcos Compran USDT Masivamente
 
-Turquía es uno de los mercados de **stablecoins** más grandes del mundo. Según Chainalysis, Turquía está entre los 5 principales países por volumen de transacciones cripto.
+Turquía es uno de los mercados de **[stablecoins](/es/glossary/#stablecoin)** más grandes del mundo. Según Chainalysis, Turquía está entre los 5 principales países por volumen de transacciones cripto.
 
 La razón es simple:
 
@@ -174,7 +174,7 @@ Así sortea los controles cambiarios y mantiene su negocio funcionando.
 | País | Nivel de adopción cripto | Motivo principal |
 |---|---|---|
 | Nigeria | Uno de los más altos del mundo (>30% de adultos) | Colapso de la naira, restricciones cambiarias |
-| Kenia | Transferencias P2P masivas | Falta de infraestructura bancaria |
+| Kenia | Transferencias [P2P](/es/glossary/#p2p) masivas | Falta de infraestructura bancaria |
 | Sudáfrica | Mercado en crecimiento | Inestabilidad del mercado, desconfianza en los bancos |
 
 ### Por Qué las Cripto Son Tan Populares en África
@@ -254,7 +254,7 @@ En países con economías problemáticas, las [criptomonedas](/es/glossary/#cryp
 
 ## Conclusión
 
-Estamos acostumbrados a pensar en las criptomonedas como algo lejano: "Bitcoin", "inversión", "volatilidad".
+Estamos acostumbrados a pensar en las [criptomonedas](/es/glossary/#cryptocurrency) como algo lejano: "Bitcoin", "inversión", "volatilidad".
 
 Pero para millones de personas en Venezuela, Turquía, Argentina y África, las cripto son la única forma de **aferrarse a su dinero**.
 

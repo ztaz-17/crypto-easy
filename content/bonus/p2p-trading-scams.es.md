@@ -41,7 +41,7 @@ En este artículo veremos:
 - le transfieres dinero a su tarjeta;
 - él te envía la [criptomoneda](/es/glossary/#cryptocurrency).
 
-La plataforma (Binance P2P, Bybit P2P, OKX P2P) actúa solo como **árbitro** — retiene las criptos del vendedor en garantía hasta que confirmes el pago.
+La plataforma (Binance [P2P](/es/glossary/#p2p), Bybit P2P, OKX P2P) actúa solo como **árbitro** — retiene las criptos del vendedor en garantía hasta que confirmes el pago.
 
 👉 Suena seguro. Pero los estafadores encuentran formas de saltarse la protección.
 
@@ -225,7 +225,7 @@ La protección es simple:
 > **no caigas en precios por debajo del mercado**;
 > **no salgas de la plataforma**.
 
-Las criptomonedas te dan libertad financiera. Pero la responsabilidad por la seguridad es tuya.
+Las [criptomonedas](/es/glossary/#cryptocurrency) te dan libertad financiera. Pero la responsabilidad por la seguridad es tuya.
 
 ---
 

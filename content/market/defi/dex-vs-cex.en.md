@@ -79,7 +79,7 @@ Swaps happen through a math formula:
 
 > **x * y = k**
 
-Where x is the amount of token A in the pool, y is the amount of token B, and k is a constant. When you buy token A, its amount in the pool goes down, and token B's amount goes up. The price shifts proportionally to the balance.
+Where x is the amount of [token](/en/glossary/#token) A in the pool, y is the amount of token B, and k is a constant. When you buy token A, its amount in the pool goes down, and token B's amount goes up. The price shifts proportionally to the balance.
 
 The deeper the pool — the less [slippage](/en/glossary/#slippage) on your swap.
 
@@ -89,7 +89,7 @@ Your funds stay in your [wallet](/en/glossary/#wallet) the whole time. You conne
 
 > A DEX never has control over your money. Only you do.
 
-**No KYC**
+**No [KYC](/en/glossary/#kyc)**
 
 No passports, no registrations. Connect your wallet — start trading. All a [DEX](/en/glossary/#dex) needs to see is your wallet address.
 
@@ -103,12 +103,12 @@ No passports, no registrations. Connect your wallet — start trading. All a [DE
 | **Registration** | Email + KYC (passport) | Not needed |
 | **Technology** | Order book | AMM ([liquidity](/en/glossary/#liquidity) pools) |
 | **Order types** | Limit, market, stop-loss | Market only (swap) |
-| **Liquidity** | High (exchanges bring millions of traders together) | Medium (depends on pool depth) |
+| **[Liquidity](/en/glossary/#liquidity)** | High (exchanges bring millions of traders together) | Medium (depends on pool depth) |
 | **Fees** | 0.02–0.1% (maker/taker) | 0.05–1% (pool fee) + network gas |
 | **Speed** | Instant (internal system) | Depends on the [blockchain](/en/glossary/#blockchain) (seconds–minutes) |
 | **Available pairs** | [Fiat](/en/glossary/#fiat) + crypto, many pairs | Crypto-to-crypto only |
 | **[Fiat](/en/glossary/#fiat) on-ramp** | Yes (cards, bank transfers) | No (crypto only) |
-| **Number of assets** | Hundreds–thousands (decided by the exchange) | Everything on the blockchain (any tokens) |
+| **Number of assets** | Hundreds–thousands (decided by the exchange) | Everything on the [blockchain](/en/glossary/#blockchain) (any tokens) |
 | **Advanced tools** | Futures, margin, [staking](/en/glossary/#staking), [P2P](/en/glossary/#p2p) | Basic service — swap |
 | **Regulation** | Follows local laws | De facto unregulated |
 | **Risks** | Exchange hacks, account freeze, withdrawal lock | Smart contract bugs, rug pulls, lost keys |
@@ -119,7 +119,7 @@ No passports, no registrations. Connect your wallet — start trading. All a [DE
 
 ### 1️⃣ You Want to Buy Crypto with Fiat
 
-CEX is the only easy way to buy bitcoin with rubles, dollars, or euros. Bank card → Binance → BTC. You can't go to a DEX with fiat — you need crypto ready to go.
+[CEX](/en/glossary/#cex) is the only easy way to buy bitcoin with rubles, dollars, or euros. Bank card → Binance → BTC. You can't go to a [DEX](/en/glossary/#dex) with [fiat](/en/glossary/#fiat) — you need crypto ready to go.
 
 ### 2️⃣ You Need High Liquidity and Precise Orders
 
@@ -145,7 +145,7 @@ If your account gets stolen, you lose access, or mess up a transfer — you can 
 
 ### 1️⃣ You Value Privacy
 
-No KYC, no passports. Nobody knows that wallet address belongs to you. If anonymity matters — go DEX.
+No KYC, no passports. Nobody knows that [wallet](/en/glossary/#wallet) address belongs to you. If anonymity matters — go DEX.
 
 ### 2️⃣ You Want to Trade Rare Tokens
 
@@ -203,7 +203,7 @@ Yes. Under most countries' laws, any crypto sale or swap is a taxable event. A D
 
 ### Why is the price on a DEX sometimes worse than on a CEX?
 
-Because of the AMM mechanism. On large swaps, the pool experiences slippage — the price moves against you. On a CEX, the order book is usually deeper, especially for popular pairs.
+Because of the AMM mechanism. On large swaps, the pool experiences [slippage](/en/glossary/#slippage) — the price moves against you. On a CEX, the order book is usually deeper, especially for popular pairs.
 
 ### Can I use both exchanges?
 

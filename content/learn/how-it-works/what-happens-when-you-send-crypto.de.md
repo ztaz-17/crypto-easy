@@ -37,7 +37,7 @@ Schauen wir uns an, was wirklich passiert, wenn du Crypto sendest.
 
 ## Phase 1: Erstellung der Transaktion
 
-Es beginnt damit, dass deine Wallet Daten sammelt. Sie baut ein digitales „Paket" – eine Transaktion. In diesem Paket:
+Es beginnt damit, dass deine [Wallet](/de/glossary/#wallet) Daten sammelt. Sie baut ein digitales „Paket" – eine Transaktion. In diesem Paket:
 
 - **von** – deine öffentliche Adresse;
 - **an** – die Adresse des Empfängers;
@@ -71,7 +71,7 @@ Wenn du eine Transaktion signierst:
 1. Wendet deine Wallet eine mathematische Formel auf die Transaktionsdaten und deinen Schlüssel an.
 2. Das Ergebnis ist eine **digitale Signatur** – eine einzigartige Zeichenkette.
 3. Jeder Netzwerkteilnehmer kann diese Signatur mit deiner öffentlichen Adresse überprüfen.
-4. Aber niemand kann deinen privaten Schlüssel aus der Signatur zurückgewinnen.
+4. Aber niemand kann deinen [privaten Schlüssel](/de/glossary/#private-key) aus der Signatur zurückgewinnen.
 
 > **Wichtig:** Dein privater Schlüssel wird niemals irgendwohin gesendet. Er bleibt auf deinem Gerät. Das Netzwerk überprüft die Signatur, ohne den Schlüssel selbst zu sehen.
 
@@ -115,7 +115,7 @@ Die Transaktion ist im Mempool. Jetzt muss sie von einem **Miner** (bei Bitcoin)
 
 ### Wie Miner Transaktionen auswählen
 
-Miner sammeln Transaktionen aus dem Mempool und packen sie in einen Block. Die Priorität hängt von der Gebühr ab – je höher die Gebühr, desto höher die Priorität.
+Miner sammeln Transaktionen aus dem Mempool und packen sie in einen [Block](/de/glossary/#block). Die Priorität hängt von der Gebühr ab – je höher die Gebühr, desto höher die Priorität.
 
 Sobald der Block zusammengestellt ist, beginnt der Miner, ein mathematisches Rätsel ([Proof of Work](/de/glossary/#proof-of-work)) zu lösen, um den Block zu versiegeln. Dafür ist massive Rechenleistung nötig. Wer es zuerst schafft, bekommt:
 
@@ -191,7 +191,7 @@ Wenn das Netzwerk überlastet ist und deine Gebühr minimal, kann die Transaktio
 
 ### Annullierte Transaktion
 
-Du kannst eine signierte und gesendete Transaktion nicht annullieren. Das ist die Natur der Blockchain – der Eintrag ist unveränderlich. Hast du an die falsche Adresse gesendet, kann nur der Empfänger die Coins zurückgeben.
+Du kannst eine signierte und gesendete Transaktion nicht annullieren. Das ist die Natur der [Blockchain](/de/glossary/#blockchain) – der Eintrag ist unveränderlich. Hast du an die falsche Adresse gesendet, kann nur der Empfänger die Coins zurückgeben.
 
 > Überprüfe die Adresse immer doppelt vor dem Senden. Mindestens die ersten 4 und die letzten 4 Zeichen.
 

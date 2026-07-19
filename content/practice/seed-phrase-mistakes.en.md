@@ -46,9 +46,9 @@ In this article:
 
 A [seed phrase](/en/glossary/#seed-phrase) (recovery phrase) is **12 or 24 words** from which all your [wallet](/en/glossary/#wallet) keys are derived.
 
-It's not a "wallet password." It **is the wallet itself**.
+It's not a "[wallet](/en/glossary/#wallet) password." It **is the wallet itself**.
 
-Lose your MetaMask password — just reset it, you have the seed phrase.
+Lose your MetaMask password — just reset it, you have the [seed phrase](/en/glossary/#seed-phrase).
 
 Lose your seed phrase — **your password won't help**. The wallet cannot be recovered. By anyone. Ever.
 

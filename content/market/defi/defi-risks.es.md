@@ -46,7 +46,7 @@ Así es como ocurre:
 - prometen rendimientos disparatados (1000%+ APY);
 - los usuarios depositan sus fondos;
 - los desarrolladores usan una función oculta en el smart contract que les permite drenar todo el dinero;
-- el pool llega a cero, el token se desploma a nada;
+- el pool llega a cero, el [token](/es/glossary/#token) se desploma a nada;
 - el equipo se esfuma.
 
 > **Los rug pulls son el tipo de estafa más común en DeFi.**
@@ -61,7 +61,7 @@ Según analistas, entre 2021 y 2023, millones de usuarios fueron víctimas de ru
 | Equipo anónimo | Nadie sabe quién construyó el proyecto |
 | Sin auditoría | El código no ha sido revisado por auditores independientes |
 | [Liquidez](/es/glossary/#liquidity) recién creada | El proyecto tiene días o semanas de vida |
-| Liquidez no bloqueada | La liquidez no está bloqueada — los fundadores pueden retirarla cuando quieran |
+| [Liquidez](/es/glossary/#liquidity) no bloqueada | La liquidez no está bloqueada — los fundadores pueden retirarla cuando quieran |
 
 ---
 
@@ -69,7 +69,7 @@ Según analistas, entre 2021 y 2023, millones de usuarios fueron víctimas de ru
 
 Los smart contracts son software. El software lo escriben personas. Las personas se equivocan.
 
-Una sola línea de código defectuosa puede costar millones. Y a diferencia de los bancos — en DeFi **no hay seguro** ni **equipo de soporte** que te devuelva tu dinero.
+Una sola línea de código defectuosa puede costar millones. Y a diferencia de los bancos — en [DeFi](/es/glossary/#defi) **no hay seguro** ni **equipo de soporte** que te devuelva tu dinero.
 
 ### Ejemplos Famosos
 
@@ -162,7 +162,7 @@ No puedes "cancelarla" ni "esperar a que pase". Si el mercado se desploma, tu ga
 ### Cómo Evitar la Liquidación
 
 - mantén siempre un margen saludable (200%+ de ratio garantía-deuda);
-- usa stablecoins como garantía;
+- usa [stablecoins](/es/glossary/#stablecoin) como garantía;
 - configura alertas para cuando te acerques al umbral;
 - no pidas prestado el monto máximo.
 
@@ -258,4 +258,4 @@ No. Las auditorías reducen la probabilidad de bugs pero no garantizan la seguri
 Generalmente no — su precio suele caer más rápido que el rendimiento que generan. Es mejor convertir los tokens de recompensa en stablecoins o activos probados (ETH, BTC).
 
 ### ¿Qué TVL se considera seguro?
-Guía aproximada: TVL > $100M para protocolos importantes, > $10M para medianos. TVL por debajo de $1M es extremadamente riesgoso.
+Guía aproximada: [TVL](/es/glossary/#tvl) > $100M para protocolos importantes, > $10M para medianos. TVL por debajo de $1M es extremadamente riesgoso.

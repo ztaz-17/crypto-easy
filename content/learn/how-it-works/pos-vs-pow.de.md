@@ -39,7 +39,7 @@ Stell dir einen Safe mit einem Zahlenschloss vor, das eine Milliarde mögliche C
 Die [Blockchain](/de/glossary/#blockchain) funktioniert genauso:
 
 1. Ein Miner sammelt Transaktionen aus dem Mempool in einen [Block](/de/glossary/#block).
-2. Er probiert Zahlen (Nonces) durch, bis er einen Block-Hash findet, der die Zielbedingung erfüllt (beginnt mit einer bestimmten Anzahl Nullen).
+2. Er probiert Zahlen (Nonces) durch, bis er einen [Block](/de/glossary/#block)-Hash findet, der die Zielbedingung erfüllt (beginnt mit einer bestimmten Anzahl Nullen).
 3. Der Erste, der die richtige Zahl findet, sendet den Block an das Netzwerk.
 4. Andere Miner überprüfen ihn — der Block ist gültig, die Arbeit bestätigt.
 5. Der Miner erhält die Belohnung (neue Coins + Gebühren).
@@ -79,7 +79,7 @@ Stell dir das wie eine **Bankeinlage** vor, statt einer Lotterie mit Losen. Je g
 
 Bei PoS:
 
-1. Teilnehmer schicken Coins ins Staking (meist über einen Smart Contract).
+1. Teilnehmer schicken Coins ins [Staking](/de/glossary/#staking) (meist über einen Smart Contract).
 2. Der Algorithmus wählt einen **Validator** aus, um den nächsten Block zu erstellen (zufällig, aber gewichtet nach Einsatz).
 3. Der Validator bestätigt den Block und erhält eine Belohnung.
 4. Bestätigt der Validator eine betrügerische Transaktion oder ist er offline, wird ein Teil seines Einsatzes **geslasht**.
@@ -163,7 +163,7 @@ Für alltägliche Überweisungen (Kaffee, Abos, Geld an Freunde schicken) ist Po
 
 ## Zusammenfassung
 
-**Proof of Work** und **Proof of Stake** sind zwei verschiedene Ansätze für dasselbe Problem: Wie einigt man sich darauf, wer den nächsten Block erstellt?
+**[Proof of Work](/de/glossary/#proof-of-work)** und **[Proof of Stake](/de/glossary/#proof-of-stake)** sind zwei verschiedene Ansätze für dasselbe Problem: Wie einigt man sich darauf, wer den nächsten Block erstellt?
 
 - **PoW** (Bitcoin): „Beweise es mit Arbeit — verbrenne Strom, bekomme Coins." Ehrlich, sicher, aber stromhungrig.
 - **PoS** (Ethereum, Solana): „Beweise es mit deinem Einsatz — sperre Coins, verdiene Zinsen." Effizient, skalierbar, erfordert aber wirtschaftliche Disziplin.
@@ -186,7 +186,7 @@ Proof of Stake (PoS) ist ein Mechanismus, bei dem Teilnehmer (Validatoren) ihre 
 
 ### Was ist profitabler — Mining oder Staking?
 
-Staking ist zugänglicher: keine teure Hardware oder Stromkosten. Mining erfordert eine ernsthafte Investition (ASICs + günstiger Strom), kann sich aber mehr auszahlen, wenn der Coin-Preis steigt. Für Anfänger ist Staking einfacher und sicherer.
+Staking ist zugänglicher: keine teure Hardware oder Stromkosten. [Mining](/de/glossary/#mining) erfordert eine ernsthafte Investition (ASICs + günstiger Strom), kann sich aber mehr auszahlen, wenn der Coin-Preis steigt. Für Anfänger ist Staking einfacher und sicherer.
 
 ### Kann ich Bitcoin auf einem heimischen PC minen?
 

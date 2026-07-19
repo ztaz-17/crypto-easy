@@ -37,7 +37,7 @@ Veamos qué pasa realmente cuando envías cripto.
 
 ## Etapa 1: Creación de la transacción
 
-Todo empieza con tu cartera recopilando datos. Construye un «paquete» digital — una transacción. Dentro de este paquete:
+Todo empieza con tu [cartera](/es/glossary/#wallet) recopilando datos. Construye un «paquete» digital — una transacción. Dentro de este paquete:
 
 - **desde** — tu dirección pública;
 - **hasta** — la dirección del destinatario;
@@ -71,7 +71,7 @@ Cuando firmas una transacción:
 1. Tu cartera aplica una fórmula matemática a los datos de la transacción y a tu clave.
 2. El resultado es una **firma digital** — una cadena única de caracteres.
 3. Cualquier participante de la red puede verificar esta firma usando tu dirección pública.
-4. Pero nadie puede reconstruir tu clave privada a partir de la firma.
+4. Pero nadie puede reconstruir tu [clave privada](/es/glossary/#private-key) a partir de la firma.
 
 > **Importante:** tu clave privada nunca se envía a ningún lado. Se queda en tu dispositivo. La red verifica la firma sin ver nunca la clave en sí.
 
@@ -115,7 +115,7 @@ La transacción está en el mempool. Ahora necesita ser confirmada por un **mine
 
 ### Cómo eligen los mineros las transacciones
 
-Los mineros recogen transacciones del mempool y las empaquetan en un bloque. La prioridad depende de la comisión — cuanto más alta es la comisión, mayor es la prioridad.
+Los mineros recogen transacciones del mempool y las empaquetan en un [bloque](/es/glossary/#block). La prioridad depende de la comisión — cuanto más alta es la comisión, mayor es la prioridad.
 
 Una vez montado el bloque, el minero empieza a resolver un rompecabezas matemático ([Prueba de Trabajo](/es/glossary/#proof-of-work)) para sellar el bloque. Esto requiere una potencia de cálculo masiva. Quien lo resuelva primero recibe:
 
@@ -191,7 +191,7 @@ Si la red está congestionada y tu comisión es mínima, la transacción puede s
 
 ### Transacción cancelada
 
-No puedes cancelar una transacción firmada y enviada. Así es la naturaleza de la blockchain — el registro es inmutable. Si enviaste a la dirección equivocada, solo el destinatario puede devolver las monedas.
+No puedes cancelar una transacción firmada y enviada. Así es la naturaleza de la [blockchain](/es/glossary/#blockchain) — el registro es inmutable. Si enviaste a la dirección equivocada, solo el destinatario puede devolver las monedas.
 
 > Revisa siempre la dirección antes de enviar. Como mínimo, los primeros 4 y los últimos 4 caracteres.
 

@@ -54,8 +54,8 @@ The moment you notice suspicious activity, your goal is to **cut off** the attac
 If a [hot wallet](/en/glossary/#hot-wallet) was compromised (MetaMask, Trust Wallet, Phantom, etc.):
 
 1. **Turn off the internet** on the device (airplane mode) if you see a transaction that hasn't confirmed yet. This won't help if the [seed phrase](/en/glossary/#seed-phrase) is already out there, but it might buy you seconds.
-2. **Immediately create a new wallet** — on a different device or in a different app.
-3. **Generate a fresh seed phrase.** Never reuse the old one.
+2. **Immediately create a new [wallet](/en/glossary/#wallet)** — on a different device or in a different app.
+3. **Generate a fresh [seed phrase](/en/glossary/#seed-phrase).** Never reuse the old one.
 
 > **Your old wallet can never be considered safe again. Ever.**
 
@@ -66,7 +66,7 @@ If a [hot wallet](/en/glossary/#hot-wallet) was compromised (MetaMask, Trust Wal
 If there are still funds in the wallet — move fast:
 
 - Open a new, clean wallet (fresh seed phrase, fresh address).
-- Transfer **all remaining tokens** to it.
+- Transfer **all remaining [tokens](/en/glossary/#token)** to it.
 - Start with the most valuable assets.
 - Make sure the old wallet doesn't have any claimable tokens ([staking](/en/glossary/#staking), farming rewards).
 
@@ -198,7 +198,7 @@ Once you've dealt with the emergency, it's worth rethinking your security habits
 ## FAQ
 
 ### Can I get my stolen funds back?
-In most cases — no. The blockchain is irreversible. The exception is if the funds ended up on a centralized exchange and you reported it in time.
+In most cases — no. The [blockchain](/en/glossary/#blockchain) is irreversible. The exception is if the funds ended up on a centralized exchange and you reported it in time.
 
 ### What if my seed phrase was stolen but my funds are still there?
 Create a new wallet immediately and transfer everything to it. The old seed phrase is now compromised.

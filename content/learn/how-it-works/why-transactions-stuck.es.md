@@ -88,7 +88,7 @@ Pero hasta que envíes una nueva transacción, tus fondos están efectivamente "
 
 ## Cómo saber si una transacción está realmente atascada
 
-Antes de entrar en pánico, revisa el estado de la transacción en un explorador de bloques:
+Antes de entrar en pánico, revisa el estado de la transacción en un explorador de [bloques](/es/glossary/#block):
 
 **Bitcoin** — [mempool.space](https://mempool.space)
 **Ethereum** — [etherscan.io](https://etherscan.io)

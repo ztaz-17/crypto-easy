@@ -80,7 +80,7 @@ Examples:
 - `opensea.io` → `opensea.xyz`, `opensea-nft.net`;
 - `etherscan.io` → `etherscan.pro`, `etherscan.live`.
 
-You land on one of these through an ad, an email, or a social media message. Then it's either phishing or connecting your wallet and signing a malicious transaction.
+You land on one of these through an ad, an email, or a social media message. Then it's either phishing or connecting your [wallet](/en/glossary/#wallet) and signing a malicious transaction.
 
 ### How to Protect Yourself
 
@@ -97,7 +97,7 @@ You land on one of these through an ad, an email, or a social media message. The
 
 An [airdrop](/en/glossary/#airdrop) is a free [token](/en/glossary/#token) giveaway meant to attract users. Scammers abuse this mechanism:
 
-1. They promise free tokens — you just need to "connect your wallet."
+1. They promise free [tokens](/en/glossary/#token) — you just need to "connect your wallet."
 2. You go to the site and hit "Claim."
 3. The site asks you to sign a transaction or "verify your address."
 4. In reality you're signing approval to transfer all your tokens away.
@@ -112,7 +112,7 @@ An [airdrop](/en/glossary/#airdrop) is a free [token](/en/glossary/#token) givea
 
 - never sign a transaction you don't fully understand;
 - check what you're actually signing: amount, contract address, fee;
-- if an airdrop promises too much — it's a scam;
+- if an [airdrop](/en/glossary/#airdrop) promises too much — it's a scam;
 - use transaction simulation extensions like Blowfish or Pocket Universe;
 - real airdrops never ask you to "pay for gas by connecting your wallet."
 
@@ -159,7 +159,7 @@ It goes like this:
 
 1. Someone offers help over Telegram, Zoom, or AnyDesk.
 2. They ask you to share your screen.
-3. While you watch, they record your seed phrase, private keys, or passwords.
+3. While you watch, they record your [seed phrase](/en/glossary/#seed-phrase), [private keys](/en/glossary/#private-key), or passwords.
 4. Sometimes they ask you to go to a site and sign a transaction — "it's safe, don't worry."
 
 ### Real-World Examples
@@ -287,7 +287,7 @@ Crypto scammers only exist because their schemes still work. Don't give them a c
 Check the URL, the domain registration date (Whois), look for typos and missing HTTPS. When in doubt — open the official site from your bookmarks.
 
 ### My wallet was hacked — can I get my money back?
-Almost never. Blockchain transactions are irreversible. The only exception is if you sent to an exchange — the exchange admins may freeze the scammer's account, but this is rare.
+Almost never. [Blockchain](/en/glossary/#blockchain) transactions are irreversible. The only exception is if you sent to an exchange — the exchange admins may freeze the scammer's account, but this is rare.
 
 ### What if I accidentally signed a dangerous transaction?
 1. Immediately revoke the approval on Revoke.cash or Etherscan.

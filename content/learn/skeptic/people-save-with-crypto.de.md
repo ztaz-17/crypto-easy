@@ -95,7 +95,7 @@ Menschen, die ihre Ersparnisse in Lira hielten, verloren Geld, ohne etwas zu tun
 
 ### Warum Türken massenhaft USDT kaufen
 
-Die Türkei ist einer der größten **Stablecoin**-Märkte der Welt. Laut Chainalysis gehört die Türkei zu den Top-5-Ländern nach Crypto-Transaktionsvolumen.
+Die Türkei ist einer der größten **[Stablecoin](/de/glossary/#stablecoin)**-Märkte der Welt. Laut Chainalysis gehört die Türkei zu den Top-5-Ländern nach Crypto-Transaktionsvolumen.
 
 Der Grund ist einfach:
 
@@ -173,7 +173,7 @@ Afrika ist die am schnellsten wachsende Region für Crypto-Adoption weltweit.
 | Land | Crypto-Adoptionsgrad | Hauptgrund |
 |---|---|---|
 | Nigeria | Einer der höchsten weltweit (>30 % der Erwachsenen) | Naira-Kollaps, Devisenbeschränkungen |
-| Kenia | Massenhafte P2P-Überweisungen | Fehlende Bankeninfrastruktur |
+| Kenia | Massenhafte [P2P](/de/glossary/#p2p)-Überweisungen | Fehlende Bankeninfrastruktur |
 | Südafrika | Wachsender Markt | Marktinstabilität, Misstrauen gegenüber Banken |
 
 ### Warum Crypto in Afrika so beliebt ist
@@ -251,7 +251,7 @@ In Ländern mit angeschlagenen Volkswirtschaften ist [Kryptowährung](/de/glossa
 
 ## Fazit
 
-Wir denken oft an Kryptowährung als etwas Abstraktes: „Bitcoin", „Investieren", „Volatilität".
+Wir denken oft an [Kryptowährung](/de/glossary/#cryptocurrency) als etwas Abstraktes: „Bitcoin", „Investieren", „Volatilität".
 
 Aber für Millionen von Menschen in Venezuela, der Türkei, Argentinien und Afrika ist Crypto der einzige Weg, **ihr Geld zu behalten**.
 

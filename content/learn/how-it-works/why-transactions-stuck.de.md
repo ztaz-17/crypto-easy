@@ -82,13 +82,13 @@ In diesen Fällen wird die Transaktion vielleicht sogar nach der Bestätigung no
 
 Wenn der Mempool vollgestopft ist und deine Gebühr extrem niedrig, kann es passieren, dass einige Knoten die Transaktion einfach aus dem Pool werfen. Sie verschwindet nicht für immer — wenn sie nie erneut gesendet wird, »verdampft« sie und die Coins bleiben auf deiner Adresse.
 
-Aber bis du eine neue Transaktion sendest, sind deine Gelder praktisch »eingefroren«: Das Netzwerk ignoriert die alte, und du kannst keine neue senden, weil dein Wallet denkt, diese Coins seien bereits weg.
+Aber bis du eine neue Transaktion sendest, sind deine Gelder praktisch »eingefroren«: Das Netzwerk ignoriert die alte, und du kannst keine neue senden, weil dein [Wallet](/de/glossary/#wallet) denkt, diese Coins seien bereits weg.
 
 ---
 
 ## Wie du erkennst, ob eine Transaktion wirklich feststeckt
 
-Bevor du in Panik gerätst, prüfe den Transaktionsstatus in einem Blockchain-Explorer:
+Bevor du in Panik gerätst, prüfe den Transaktionsstatus in einem [Blockchain](/de/glossary/#blockchain)-Explorer:
 
 | Netzwerk | Explorer |
 |----------|----------|
@@ -190,7 +190,7 @@ So geht's:
 
 Ja, das ist auch eine Option.
 
-Bei Bitcoin können Transaktionen mit niedrigen Gebühren stunden- oder tagelang hängen. Aber früher oder später — wenn das Netzwerk sich leert oder jemand die Gebühr in diesem Block erhöht — kommt deine Transaktion durch.
+Bei Bitcoin können Transaktionen mit niedrigen Gebühren stunden- oder tagelang hängen. Aber früher oder später — wenn das Netzwerk sich leert oder jemand die Gebühr in diesem [Block](/de/glossary/#block) erhöht — kommt deine Transaktion durch.
 
 Voraussichtliche Wartezeiten:
 

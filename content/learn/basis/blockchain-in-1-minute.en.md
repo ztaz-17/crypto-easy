@@ -56,7 +56,7 @@ Simple analogy:
 
 > **A classroom gradebook that's duplicated for every student.**
 
-In a normal school, the teacher keeps the gradebook. If the teacher wants to change a grade — they do it, and nobody knows. On a blockchain, everyone has the book. Any change is immediately noticed.
+In a normal school, the teacher keeps the gradebook. If the teacher wants to change a grade — they do it, and nobody knows. On a [blockchain](/en/glossary/#blockchain), everyone has the book. Any change is immediately noticed.
 
 ---
 
@@ -68,7 +68,7 @@ Blockchain is made of [blocks](/en/glossary/#block). Each block is like a page i
 
 - **several transactions** (who sent what to whom);
 - **a timestamp** (when the [block](/en/glossary/#block) was created);
-- **the previous block's hash** (a digital "fingerprint" of the last page).
+- **the previous [block](/en/glossary/#block)'s hash** (a digital "fingerprint" of the last page).
 
 ### What is a hash and why it matters
 

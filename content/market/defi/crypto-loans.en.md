@@ -64,7 +64,7 @@ Nobody asks where you work or how much you earn. Just connect your [wallet](/en/
 
 ## Overcollateralization: Why You Need to Put Up More Than You Borrow
 
-There are no debt collectors or courts in DeFi. If a borrower doesn't repay, a smart contract can't take them to court.
+There are no debt collectors or courts in [DeFi](/en/glossary/#defi). If a borrower doesn't repay, a smart contract can't take them to court.
 
 That's why the system works differently:
 
@@ -153,7 +153,7 @@ Highlights:
 
 **[MakerDAO](https://makerdao.com)** — a slightly different model.
 
-Here you don't just take out a loan — you **create the DAI stablecoin** by locking up ETH (or other assets) as collateral. It's essentially the same as a loan: you lock ETH, get DAI, and when you return the DAI plus interest — your collateral is unlocked.
+Here you don't just take out a loan — you **create the DAI [stablecoin](/en/glossary/#stablecoin)** by locking up ETH (or other assets) as collateral. It's essentially the same as a loan: you lock ETH, get DAI, and when you return the DAI plus interest — your collateral is unlocked.
 
 > MakerDAO is the backbone of the entire DeFi ecosystem. Hundreds of protocols use DAI.
 
@@ -200,7 +200,7 @@ Oracles are services that feed price data to smart contracts (Chainlink, for exa
 
 ### 4. Inability to Repay the Loan
 
-If you lose access to your wallet or simply don't have the funds to repay — your collateral gets liquidated. Nobody can help you, and there's no bank to restore your access.
+If you lose access to your [wallet](/en/glossary/#wallet) or simply don't have the funds to repay — your collateral gets liquidated. Nobody can help you, and there's no bank to restore your access.
 
 ### 5. "Junk" Collateral Assets
 
@@ -232,7 +232,7 @@ DeFi loans are a revolution in finance:
 | Instant approval                     | Risk of liquidation in a market crash   |
 | No credit history required           | Risk of smart contract bugs             |
 | Accessible from anywhere in the world| Requires active position monitoring     |
-| Transparency (everything on-chain)   | Cryptocurrency volatility               |
+| Transparency (everything on-chain)   | [Cryptocurrency](/en/glossary/#cryptocurrency) volatility               |
 | Interest rates often lower than banks| Loss of collateral during liquidation   |
 
 > A DeFi loan isn't free money. It's a tool that gives you freedom — but demands responsibility.

@@ -40,10 +40,10 @@ In this article we'll cover:
 A **[blockchain](/en/glossary/#blockchain) explorer** is like "Google for the blockchain." A public website that shows everything happening in the network:
 
 - every transaction;
-- every wallet and its balance;
+- every [wallet](/en/glossary/#wallet) and its balance;
 - every [block](/en/glossary/#block) and its contents.
 
-Unlike a bank where you only see your own activity, in the blockchain **everything is visible**. The data is just encoded into addresses — no link to your identity.
+Unlike a bank where you only see your own activity, in the [blockchain](/en/glossary/#blockchain) **everything is visible**. The data is just encoded into addresses — no link to your identity.
 
 You need an explorer when:
 
@@ -82,7 +82,7 @@ Here's what you'll see on the transaction page:
 | Status | What it means |
 |--------|---------------|
 | ✅ **Success** | Transaction executed, funds credited |
-| ⏳ **Pending** | Waiting — not yet included in a block |
+| ⏳ **Pending** | Waiting — not yet included in a [block](/en/glossary/#block) |
 | ❌ **Failed** | Error — transaction didn't go through (gas fee burned) |
 
 > **Important:** Failed ≠ lost money. If the transaction failed, the funds return to the sender (minus the gas fee).
@@ -114,7 +114,7 @@ Click on any address — you'll see its full history and balance.
 
 #### Value
 
-The transfer amount: `0 ETH ($0.00)` because it was a token transfer (ERC-20): `6,000,000.25342 ($5,997,252.25) Tether USD (USDT)`.
+The transfer amount: `0 ETH ($0.00)` because it was a [token](/en/glossary/#token) transfer (ERC-20): `6,000,000.25342 ($5,997,252.25) Tether USD (USDT)`.
 
 #### Transaction Fee (Gas Fee)
 

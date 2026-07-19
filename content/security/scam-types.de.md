@@ -80,7 +80,7 @@ Beispiele:
 - `opensea.io` → `opensea.xyz`, `opensea-nft.net`;
 - `etherscan.io` → `etherscan.pro`, `etherscan.live`.
 
-Du landest auf einer solchen Seite über eine Anzeige, eine E-Mail oder eine Social-Media-Nachricht. Dann heißt es entweder Phishing oder dein Wallet verbinden und eine schädliche Transaktion signieren.
+Du landest auf einer solchen Seite über eine Anzeige, eine E-Mail oder eine Social-Media-Nachricht. Dann heißt es entweder Phishing oder dein [Wallet](/de/glossary/#wallet) verbinden und eine schädliche Transaktion signieren.
 
 ### So schützt du dich
 
@@ -97,7 +97,7 @@ Du landest auf einer solchen Seite über eine Anzeige, eine E-Mail oder eine Soc
 
 Ein [Airdrop](/de/glossary/#airdrop) ist eine kostenlose [Token](/de/glossary/#token)-Verteilung, um Nutzer anzulocken. Betrüger missbrauchen dieses System:
 
-1. Sie versprechen kostenlose Tokens – du musst nur „dein Wallet verbinden."
+1. Sie versprechen kostenlose [Tokens](/de/glossary/#token) – du musst nur „dein Wallet verbinden."
 2. Du gehst auf die Seite und klickst auf „Claim."
 3. Die Seite bittet dich, eine Transaktion zu signieren oder „deine Adresse zu verifizieren."
 4. In Wirklichkeit unterschreibst du eine Genehmigung, alle deine Tokens zu übertragen.
@@ -112,7 +112,7 @@ Ein [Airdrop](/de/glossary/#airdrop) ist eine kostenlose [Token](/de/glossary/#t
 
 - signiere niemals eine Transaktion, die du nicht vollständig verstehst;
 - überprüfe, was du tatsächlich signierst: Betrag, Vertragsadresse, Gebühr;
-- wenn ein Airdrop zu viel verspricht – ist es Betrug;
+- wenn ein [Airdrop](/de/glossary/#airdrop) zu viel verspricht – ist es Betrug;
 - nutze Transaktions-Simulationstools wie Blowfish oder Pocket Universe;
 - echte Airdrops bitten dich nie, „Gas durch das Verbinden deines Wallets zu bezahlen."
 
@@ -136,7 +136,7 @@ Das Drehbuch:
 ### Woran du es erkennst
 
 - echter Support **schreibt dich niemals zuerst an**;
-- echter Support fragt nie nach deiner Seed-Phrase, deinem Private Key oder Passwort;
+- echter Support fragt nie nach deiner [Seed-Phrase](/de/glossary/#seed-phrase), deinem Private Key oder Passwort;
 - offizielle Accounts haben einen Verifikationshaken;
 - Support-Links sollten nur von der offiziellen Website kommen.
 
@@ -287,7 +287,7 @@ Crypto-Betrüger existieren nur, weil ihre Maschen noch funktionieren. Gib ihnen
 Überprüfe die URL, das Domain-Registrierungsdatum (Whois), achte auf Tippfehler und fehlendes HTTPS. Bei Unsicherheit – öffne die offizielle Seite aus deinen Lesezeichen.
 
 ### Mein Wallet wurde gehackt – bekomme ich mein Geld zurück?
-Fast nie. Blockchain-Transaktionen sind unumkehrbar. Die einzige Ausnahme: wenn du an eine Börse gesendet hast – die Admins der Börse können das Konto des Betrügers einfrieren, aber das ist selten.
+Fast nie. [Blockchain](/de/glossary/#blockchain)-Transaktionen sind unumkehrbar. Die einzige Ausnahme: wenn du an eine Börse gesendet hast – die Admins der Börse können das Konto des Betrügers einfrieren, aber das ist selten.
 
 ### Was, wenn ich versehentlich eine gefährliche Transaktion signiert habe?
 1. Widerrufe die Genehmigung sofort auf Revoke.cash oder Etherscan.

@@ -51,7 +51,7 @@ Always **copy** it:
 
 - on a phone — long press → "Copy";
 - on a computer — select → Ctrl+C / Cmd+C;
-- for a QR code — scan it with your wallet's camera.
+- for a QR code — scan it with your [wallet](/en/glossary/#wallet)'s camera.
 
 > If the address came in a message — copy it in full, don't edit.
 
@@ -234,7 +234,7 @@ Before hitting "Send," run through this list:
 
 ### What if I send it to the wrong address?
 
-If the address is valid but belongs to someone else — **the funds can't be recovered**. The blockchain has no "undo" button.
+If the address is valid but belongs to someone else — **the funds can't be recovered**. The [blockchain](/en/glossary/#blockchain) has no "undo" button.
 
 ### What if I sent it on the wrong network?
 

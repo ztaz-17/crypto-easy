@@ -68,7 +68,7 @@ Hier kommt noch ein wichtiger Punkt: **[Liquidität](/de/glossary/#liquidity)**.
 
 [Liquidität](/de/glossary/#liquidity) bedeutet, wie schnell du einen Vermögenswert kaufen oder verkaufen kannst, ohne den Preis zu stark zu beeinflussen.
 
-Auf großen Börsen (Binance, Bybit) ist die Liquidität hoch – du kannst 100.000 $ verkaufen, und der Preis zuckt kaum.
+Auf großen Börsen (Binance, Bybit) ist die [Liquidität](/de/glossary/#liquidity) hoch – du kannst 100.000 $ verkaufen, und der Preis zuckt kaum.
 
 Aber bei kleinen Coins mit geringer Liquidität kann ein einziger großer Verkäufer den Preis innerhalb von Sekunden um 20–30 % crashen.
 
@@ -99,7 +99,7 @@ Crypto befindet sich in vielen Ländern noch in einer rechtlichen Grauzone. Und 
 - **positive Nachrichten:** Legalisierung von Bitcoin in einem Land, ETF-Einführung, Börsengenehmigungen;
 - **negative Nachrichten:** Verbote, Einschränkungen, Schließung von Börsen.
 
-Beispiel: Als China 2021 ein Mining-Verbot ankündigte, fiel Bitcoin innerhalb weniger Wochen von 65.000 $ auf 30.000 $.
+Beispiel: Als China 2021 ein [Mining](/de/glossary/#mining)-Verbot ankündigte, fiel Bitcoin innerhalb weniger Wochen von 65.000 $ auf 30.000 $.
 
 Und als die USA Anfang 2024 Spot-Bitcoin-ETFs genehmigten, kletterte der Preis von 44.000 $ auf 73.000 $.
 
@@ -181,7 +181,7 @@ Wenn ein Wal kauft:
 Manchmal manipulieren [Wale](/de/glossary/#whale) den Preis bewusst.
 
 **Bullenfalle:**
-- Wale treiben den Preis nach oben;
+- [Wale](/de/glossary/#whale) treiben den Preis nach oben;
 - Neulinge denken, der Aufwärtstrend setzt sich fort, und kaufen;
 - Wale verkaufen an der Spitze – der Preis stürzt ab.
 

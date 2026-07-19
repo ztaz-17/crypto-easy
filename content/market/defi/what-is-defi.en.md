@@ -69,7 +69,7 @@ Traditional finance is built on intermediaries:
 
 ## How DeFi Works
 
-DeFi rests on three core components:
+[DeFi](/en/glossary/#defi) rests on three core components:
 
 ### 1. Blockchain
 
@@ -116,7 +116,7 @@ No "order books" like on a traditional exchange. No "your order is pending." Jus
 
 How it works:
 
-- you deposit tokens into a pool (e.g., USDC);
+- you deposit [tokens](/en/glossary/#token) into a pool (e.g., USDC);
 - borrowers take them out by putting up other tokens as collateral;
 - interest is paid out automatically;
 - if the collateral drops in value — the smart contract automatically sells it (liquidation).
@@ -153,7 +153,7 @@ The key point: DAI isn't issued by a bank or company. Users create it themselves
 | Operating hours           | Business hours, weekends off| 24/7, no days off                |
 | Transfer speed            | Hours–days (international)  | Seconds–minutes                  |
 | Fees                      | Often hidden                | Transparent (gas + pool fee)     |
-| Transparency              | Closed databases            | All code open on the blockchain  |
+| Transparency              | Closed databases            | All code open on the [blockchain](/en/glossary/#blockchain)  |
 | Credit                    | Need credit history         | Only need collateral             |
 | Censorship                | Account can be frozen       | Can't be frozen                  |
 
@@ -222,7 +222,7 @@ Not at all. DeFi also exists on Solana, Polygon, Avalanche, BNB Chain, Arbitrum,
 Yes. Risks include smart contract bugs, market crashes, lost keys, and scams.
 
 ### What do I need to get started?
-Internet, a wallet (MetaMask), and a little crypto for gas fees. No ID required.
+Internet, a [wallet](/en/glossary/#wallet) (MetaMask), and a little crypto for gas fees. No ID required.
 
 ### Is DAI a reliable stablecoin?
 DAI is considered one of the most reliable [decentralized](/en/glossary/#decentralization) stablecoins, but it's not immune to market risks.

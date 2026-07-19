@@ -57,9 +57,9 @@ Every [DAO](/en/glossary/#dao) member can:
 
 ### How a DAO Is Different From a Regular Company
 
-| Criterion               | Regular Company             | DAO                                    |
+| Criterion               | Regular Company             | [DAO](/en/glossary/#dao)                                    |
 |-------------------------|-----------------------------|----------------------------------------|
-| Who's in charge?        | CEO / board                 | Community of token holders             |
+| Who's in charge?        | CEO / board                 | Community of [token](/en/glossary/#token) holders             |
 | Rules                   | In documents                | In smart contracts (code)              |
 | Transparency            | Closed reporting            | All decisions and transactions on-chain |
 | Participation           | Employees only              | Any token holder                       |

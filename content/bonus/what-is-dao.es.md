@@ -57,9 +57,9 @@ Cada miembro de una [DAO](/es/glossary/#dao) puede:
 
 ### En qué se diferencia una DAO de una empresa tradicional
 
-| Criterio               | Empresa tradicional           | DAO                                   |
+| Criterio               | Empresa tradicional           | [DAO](/es/glossary/#dao)                                   |
 |------------------------|-------------------------------|---------------------------------------|
-| ¿Quién manda?          | CEO / consejo                 | Comunidad de tenedores de tokens      |
+| ¿Quién manda?          | CEO / consejo                 | Comunidad de tenedores de [tokens](/es/glossary/#token)      |
 | Reglas                 | En documentos                 | En contratos inteligentes (código)    |
 | Transparencia          | Informes cerrados             | Todas las decisiones on-chain         |
 | Participación          | Solo empleados                | Cualquier tenedor de tokens           |

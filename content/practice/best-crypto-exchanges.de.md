@@ -86,12 +86,12 @@ Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-[Wallet](/de/gl
 {{< figure src="/images/ledger-logo.svg" alt="Ledger" width="200" >}}
 — Der Industriestandard
 
-**Ledger** ist die vertrauenswürdigste Marke für Hardware-Wallets (6M+ verkaufte Geräte). Unterstützt 5,500+ Coins, hat eine integrierte Börse über Ledger Live.
+**Ledger** ist die vertrauenswürdigste Marke für Hardware-[Wallets](/de/glossary/#wallet) (6M+ verkaufte Geräte). Unterstützt 5,500+ Coins, hat eine integrierte Börse über Ledger Live.
 
 - **Sicherheit**: zertifizierter Secure-Element-Chip (CC EAL5+)
 - **Unterstützt**: 5,500+ Kryptowährungen
 - **App**: Ledger Live — alles von einem Dashboard aus verwalten
-- **Staking**: bis zu 12% APY direkt aus dem Wallet
+- **[Staking](/de/glossary/#staking)**: bis zu 12% APY direkt aus dem Wallet
 - **Modelle**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
 
 👉 [Ledger Nano holen](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (Empfehlungslink)
@@ -113,7 +113,7 @@ Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-[Wallet](/de/gl
 
 ## Welche Börse Soll ein Anfänger Wählen?
 
-**Wenn du Krypto einfach ausprobieren willst** — starte mit **Bybit**. Niedrige Gebühren, P2P-Optionen und ein schöner Ersteinzahlungs-Bonus.
+**Wenn du Krypto einfach ausprobieren willst** — starte mit **Bybit**. Niedrige Gebühren, [P2P](/de/glossary/#p2p)-Optionen und ein schöner Ersteinzahlungs-Bonus.
 
 **Wenn Sicherheit deine oberste Priorität ist** — wähle **Kraken**. Die älteste Börse mit ausgezeichnetem Ruf, auch wenn die Oberfläche etwas komplexer ist.
 

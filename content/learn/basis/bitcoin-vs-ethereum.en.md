@@ -90,7 +90,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 ### Choose Bitcoin if:
 
 - You want a **store of value** — like gold but digital
-- You want **maximum security** and decentralization
+- You want **maximum security** and [decentralization](/en/glossary/#decentralization)
 - You're investing long-term (3+ years)
 - You want **simplicity** — buy and hold
 

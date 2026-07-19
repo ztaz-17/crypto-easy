@@ -39,7 +39,7 @@ Transferiste USDT de Binance a MetaMask. Elegiste **BEP-20** (BSC). Pero tu Meta
 
 ### Por qué sucede
 
-Redes no coincidentes. Enviaste tokens a la dirección correcta pero a la red equivocada — y "desaparecen" de la vista. **Los tokens NO están perdidos.** Están en tu dirección, solo que en una red diferente.
+Redes no coincidentes. Enviaste [tokens](/es/glossary/#token) a la dirección correcta pero a la red equivocada — y "desaparecen" de la vista. **Los tokens NO están perdidos.** Están en tu dirección, solo que en una red diferente.
 
 ### Cómo solucionarlo
 
@@ -63,7 +63,7 @@ Solo si enviaste a una **dirección que no es tuya** (error al escribir la direc
 
 ### La situación
 
-Escribiste tu frase semilla en un papel. Seis meses después, teléfono nuevo, reinstalas MetaMask — y el papel no aparece. ~2 ETH en la billetera.
+Escribiste tu [frase semilla](/es/glossary/#seed-phrase) en un papel. Seis meses después, teléfono nuevo, reinstalas MetaMask — y el papel no aparece. ~2 ETH en la [billetera](/es/glossary/#wallet).
 
 ### Por qué es crítico
 

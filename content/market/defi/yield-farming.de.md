@@ -52,7 +52,7 @@ Zum Beispiel **Uniswap**, **Curve**, **Aave**, **Compound** oder **PancakeSwap**
 
 ### 2. Du zahlst Liquidität ein
 
-Sagen wir, es gibt einen ETH/USDT-Pool. Du musst **einen gleichen Wert beider Token** einzahlen (50 % ETH, 50 % USDT). Dafür bekommst du **LP-Token** (Liquidity Provider-Token) – deine Quittung für einen Anteil am Pool.
+Sagen wir, es gibt einen ETH/USDT-Pool. Du musst **einen gleichen Wert beider [Token](/de/glossary/#token)** einzahlen (50 % ETH, 50 % USDT). Dafür bekommst du **LP-Token** (Liquidity Provider-Token) – deine Quittung für einen Anteil am Pool.
 
 ### 3. Das Protokoll zahlt dir
 
@@ -145,7 +145,7 @@ Auf Ethereum kostet jede Transaktion (Einzahlung, Auszahlung, Reinvestition) Gas
 
 ## Vergleich von Renditen und Risiken
 
-- **Stablecoins:** APY 2–10 %, Risiko sehr gering, Komplexität gering
+- **[Stablecoins](/de/glossary/#stablecoin):** APY 2–10 %, Risiko sehr gering, Komplexität gering
 - **Verleihen (Aave, Compound):** APY 5–30 %, Risiko gering, Komplexität gering
 - **[DEX](/de/glossary/#dex)-Pools mit starken Paaren (ETH/USDC):** APY 10–80 %, Risiko mittel (IL), Komplexität mittel
 - **Neue Token mit hohem APY:** APY 100–1000+ %, Risiko sehr hoch, Komplexität hoch
@@ -213,4 +213,4 @@ So ungefähr. Es erfordert Überwachung deiner Positionen, Beobachtung der Gebü
 In den meisten Ländern ist jede Transaktion (Einzahlung, Belohnungsclaim, Auszahlung) ein steuerpflichtiges Ereignis. Es wird empfohlen, alles mit Tools wie Koinly, CoinTracker oder Accointing zu verfolgen.
 
 ### Wo sollte ein Anfänger anfangen?
-Öffne Aave oder Compound, zahle USDC bei 4–8 % APY ein. Verstehe die Mechanik. Erst dann geht es zu DEX-Pools weiter.
+Öffne Aave oder Compound, zahle USDC bei 4–8 % APY ein. Verstehe die Mechanik. Erst dann geht es zu [DEX](/de/glossary/#dex)-Pools weiter.

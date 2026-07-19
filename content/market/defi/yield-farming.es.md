@@ -58,8 +58,8 @@ Supongamos que hay un pool de ETH/USDT. Necesitas depositar **un valor igual de 
 
 Tus ganancias vienen de dos fuentes:
 
-- **comisiones del protocolo** — cada intercambio en el pool cobra una comisión (normalmente 0.1–0.3%), que se reparte entre todos los proveedores de liquidez;
-- **tokens de gobernanza** — muchos protocolos también reparten sus tokens nativos (CRV, UNI, CAKE) como bonus.
+- **comisiones del protocolo** — cada intercambio en el pool cobra una comisión (normalmente 0.1–0.3%), que se reparte entre todos los proveedores de [liquidez](/es/glossary/#liquidity);
+- **[tokens](/es/glossary/#token) de gobernanza** — muchos protocolos también reparten sus tokens nativos (CRV, UNI, CAKE) como bonus.
 
 ### 4. Retiras tu ganancia
 
@@ -149,9 +149,9 @@ En Ethereum, cada operación (depositar, retirar, reinvertir) cuesta gas. Con fa
 
 | Tipo de Farming | APY | Riesgo | Complejidad |
 |---|---|---|---|
-| Stablecoins | 2–10% | Muy bajo | Baja |
+| [Stablecoins](/es/glossary/#stablecoin) | 2–10% | Muy bajo | Baja |
 | Préstamos (Aave, Compound) | 5–30% | Bajo | Baja |
-| Pools DEX con pares fuertes (ETH/USDC) | 10–80% | Medio (IL) | Media |
+| Pools [DEX](/es/glossary/#dex) con pares fuertes (ETH/USDC) | 10–80% | Medio (IL) | Media |
 | Nuevos tokens con APY alto | 100–1000+% | Muy alto | Alta |
 | Farming apalancado | 200–2000+% | Extremo | Extrema |
 

@@ -77,7 +77,7 @@ Was MiCA bringt:
 
 - viel Bürokratie für kleine Projekte;
 - strenge Berichtspflichten;
-- Stablecoins werden im Grunde wie Bankeinlagen behandelt.
+- [Stablecoins](/de/glossary/#stablecoin) werden im Grunde wie Bankeinlagen behandelt.
 
 **Fazit:** Die EU hat ein berechenbares Umfeld geschaffen. Die Firmen kennen die Regeln, aber die Eintrittshürde ist hoch.
 

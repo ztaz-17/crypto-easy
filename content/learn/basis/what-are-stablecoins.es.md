@@ -31,7 +31,7 @@ Entran las **[stablecoins](/es/glossary/#stablecoin)**.
 Compras USDT — y tu dinero deja de saltar. 1 USDT ≈ $1 USD. Siempre.
 
 En este artículo cubriremos:
-- qué son las stablecoins y para qué sirven;
+- qué son las [stablecoins](/es/glossary/#stablecoin) y para qué sirven;
 - las tres stablecoins principales: **USDT**, **USDC** y **DAI**;
 - en qué se diferencian y cuál elegir;
 - y por qué no todas las stablecoins son igual de seguras.
@@ -167,7 +167,7 @@ Ejemplo: depositas $200 de ETH. El contrato te permite crear 150 DAI (ratio de g
 
 ### La historia de Terra UST — cómo NO construir stablecoins
 
-En 2022, **Terra UST** (TerraUSD) prometía mantener $1 mediante un algoritmo y su token LUNA. Sin respaldo real — solo matemáticas.
+En 2022, **Terra UST** (TerraUSD) prometía mantener $1 mediante un algoritmo y su [token](/es/glossary/#token) LUNA. Sin respaldo real — solo matemáticas.
 
 Funcionó... hasta que dejó de funcionar. En mayo de 2022, llegó el pánico: grandes tenedores retiraron su UST. El algoritmo falló — UST se desplomó a $0. LUNA cayó de $80 a $0.0002 en días.
 
@@ -209,14 +209,14 @@ Más seguras que las altcoins, menos seguras que el efectivo físico o los depó
 
 ### ¿Se puede perder dinero en una stablecoin?
 
-Sí, varios escenarios: el emisor (Tether, Circle) quiebra — USDT/USDC pierden la paridad; colapso algorítmico (como Terra UST); hackeo del contrato inteligente (para DAI); error técnico al transferir (blockchain equivocada); congelamiento de activos por el emisor (Circle puede congelar USDC por orden regulatoria).
+Sí, varios escenarios: el emisor (Tether, Circle) quiebra — USDT/USDC pierden la paridad; colapso algorítmico (como Terra UST); hackeo del contrato inteligente (para DAI); error técnico al transferir ([blockchain](/es/glossary/#blockchain) equivocada); congelamiento de activos por el emisor (Circle puede congelar USDC por orden regulatoria).
 
 ### ¿Qué stablecoin debería elegir un principiante?
 
 **USDT** — para máxima disponibilidad en exchanges y comisiones bajas (por TRC-20).
 
-**USDC** — si te importa la transparencia y usas exchanges grandes o DeFi.
+**USDC** — si te importa la transparencia y usas exchanges grandes o [DeFi](/es/glossary/#defi).
 
-**DAI** — si valoras la descentralización y entiendes del tema.
+**DAI** — si valoras la [descentralización](/es/glossary/#decentralization) y entiendes del tema.
 
 > **Consejo: no guardes todas las stablecoins en un solo lugar. Combina: algo de USDT para operaciones, algo de USDC para almacenamiento.**

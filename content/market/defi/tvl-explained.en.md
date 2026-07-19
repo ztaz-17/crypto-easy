@@ -43,7 +43,7 @@ In simple terms:
 
 > **how much money users have trusted this protocol with.**
 
-TVL includes:
+[TVL](/en/glossary/#tvl) includes:
 - [tokens](/en/glossary/#token) in [liquidity](/en/glossary/#liquidity) pools (like on Uniswap);
 - deposits in lending protocols (like Aave);
 - collateral in [stablecoin](/en/glossary/#stablecoin) protocols (like MakerDAO);
@@ -139,7 +139,7 @@ Possible reasons:
 - **vulnerability or hack** — users withdrew in panic;
 - **yield decline** — farmers moved to another protocol;
 - **regulatory risk** — bans or restrictions in key jurisdictions;
-- **changing market conditions** — lending rates dropped, stablecoins lost their peg.
+- **changing market conditions** — lending rates dropped, [stablecoins](/en/glossary/#stablecoin) lost their peg.
 
 > **A sharp TVL drop is a red flag.** If 90% of funds left a protocol — that's no coincidence.
 

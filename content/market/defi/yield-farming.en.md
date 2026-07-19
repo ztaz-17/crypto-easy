@@ -58,8 +58,8 @@ Say there's an ETH/USDT pool. You need to deposit **an equal value of both token
 
 Your earnings come from two sources:
 
-- **protocol fees** — every swap in the pool charges a fee (usually 0.1–0.3%), which gets split among all liquidity providers;
-- **governance tokens** — many protocols also hand out their native tokens (CRV, UNI, CAKE) as a bonus.
+- **protocol fees** — every swap in the pool charges a fee (usually 0.1–0.3%), which gets split among all [liquidity](/en/glossary/#liquidity) providers;
+- **governance [tokens](/en/glossary/#token)** — many protocols also hand out their native tokens (CRV, UNI, CAKE) as a bonus.
 
 ### 4. You claim your profit
 
@@ -149,7 +149,7 @@ On Ethereum every operation (deposit, withdraw, reinvest) costs gas. With active
 
 | Farming Type | APY | Risk | Complexity |
 |---|---|---|---|
-| Stablecoins | 2–10% | Very low | Low |
+| [Stablecoins](/en/glossary/#stablecoin) | 2–10% | Very low | Low |
 | Lending (Aave, Compound) | 5–30% | Low | Low |
 | [DEX](/en/glossary/#dex) pools with strong pairs (ETH/USDC) | 10–80% | Medium (IL) | Medium |
 | New tokens with high APY | 100–1000+% | Very high | High |
@@ -217,4 +217,4 @@ Sort of. It requires monitoring your positions, tracking fees, and reinvesting. 
 In most countries, every operation (deposit, reward claim, withdrawal) is a taxable event. It's recommended to track everything with tools like Koinly, CoinTracker, or Accointing.
 
 ### Where should a beginner start?
-Open Aave or Compound, deposit USDC at 4–8% APY. Understand the mechanics. Only then move on to DEX pools.
+Open Aave or Compound, deposit USDC at 4–8% APY. Understand the mechanics. Only then move on to [DEX](/en/glossary/#dex) pools.

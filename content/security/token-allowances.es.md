@@ -36,7 +36,7 @@ En este artículo veremos:
 
 ### Cómo Funcionan los Tokens ERC-20
 
-Para entender los permisos, primero tienes que entender cómo funcionan los tokens en realidad.
+Para entender los permisos, primero tienes que entender cómo funcionan los [tokens](/es/glossary/#token) en realidad.
 
 El estándar **ERC-20** (y sus primos BEP-20, TRC-20, etc.) es un smart contract con dos funciones clave:
 
@@ -79,7 +79,7 @@ approve(DEX, MAX_UINT_256)
 
 - **comodidad** — no hay que confirmar cada intercambio individual;
 - **más barato** — una sola transacción `approve` en lugar de varias;
-- **es el estándar de facto** en DeFi.
+- **es el estándar de facto** en [DeFi](/es/glossary/#defi).
 
 Pero el precio de esa comodidad es que **tus tokens quedan secuestrados**.
 
@@ -105,7 +105,7 @@ Ejemplos reales:
 
 ### No Recuerdas a Quién Le Diste Acceso
 
-Si eres activo en DeFi, con los meses y años acumularás una docena o más de permisos: Uniswap, OpenSea, 1inch, alguna dApp de prueba random de la que ya te olvidaste.
+Si eres activo en DeFi, con los meses y años acumularás una docena o más de permisos: Uniswap, OpenSea, 1inch, alguna [dApp](/es/glossary/#dapp) de prueba random de la que ya te olvidaste.
 
 La pregunta es: ¿de verdad recuerdas a qué contratos aprobaste?
 
@@ -180,7 +180,7 @@ Listo. El contrato ya no puede gastar tus tokens.
 ### Cosas Importantes al Revocar
 
 - cada `approve` a 0 es una **transacción de gas** — tendrás que pagar la comisión;
-- si revocas una aprobación de un DEX en el que operas activamente, tendrás que volver a aprobar la próxima vez que hagas un swap;
+- si revocas una aprobación de un [DEX](/es/glossary/#dex) en el que operas activamente, tendrás que volver a aprobar la próxima vez que hagas un swap;
 - después de revocar, tus tokens se quedan en tu wallet — no se pierde nada.
 
 ---

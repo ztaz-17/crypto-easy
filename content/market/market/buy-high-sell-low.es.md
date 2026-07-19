@@ -94,7 +94,7 @@ Funciona exactamente una de cada diez veces. Las otras nueve, compras en el pico
 
 ### Por qué el FOMO golpea tan fuerte en cripto
 
-Cripto es el caldo de cultivo perfecto para el FOMO:
+Cripto es el caldo de cultivo perfecto para el [FOMO](/es/glossary/#fomo):
 
 - los precios oscilan **50–200%** en días;
 - las redes sociales son ruido, memes y gritos de "a la luna";

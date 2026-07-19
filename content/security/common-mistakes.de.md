@@ -39,7 +39,7 @@ Du hast USDT von Binance an MetaMask überwiesen. Du hast **BEP-20** (BSC) gewä
 
 ### Warum es passiert
 
-Nicht übereinstimmendes Netzwerk. Du hast Token an die richtige Adresse, aber das falsche Netzwerk gesendet – und sie „verschwinden" aus der Ansicht. **Die Token sind NICHT verloren.** Sie liegen auf deiner Adresse, nur in einem anderen Netzwerk.
+Nicht übereinstimmendes Netzwerk. Du hast [Token](/de/glossary/#token) an die richtige Adresse, aber das falsche Netzwerk gesendet – und sie „verschwinden" aus der Ansicht. **Die Token sind NICHT verloren.** Sie liegen auf deiner Adresse, nur in einem anderen Netzwerk.
 
 ### Wie man es behebt
 
@@ -63,7 +63,7 @@ Nur wenn du an eine **Adresse gesendet hast, die nicht deine ist** (Tippfehler i
 
 ### Die Situation
 
-Du hast deine Seed-Phrase auf Papier geschrieben. Sechs Monate später, neues Handy, MetaMask neu installiert – und das Papier ist weg. ~2 ETH im Wallet.
+Du hast deine [Seed-Phrase](/de/glossary/#seed-phrase) auf Papier geschrieben. Sechs Monate später, neues Handy, MetaMask neu installiert – und das Papier ist weg. ~2 ETH im [Wallet](/de/glossary/#wallet).
 
 ### Warum es kritisch ist
 

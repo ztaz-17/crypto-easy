@@ -46,7 +46,7 @@ For example:
 
 > **Which price is the right one? And who decides?**
 
-The blockchain can't answer that on its own. It needs a helper.
+The [blockchain](/en/glossary/#blockchain) can't answer that on its own. It needs a helper.
 
 ---
 
@@ -124,7 +124,7 @@ Instead of one data source, a network of independent nodes is used. Each node co
 
 ### What is Chainlink
 
-**Chainlink** is the largest decentralized oracle network.
+**Chainlink** is the largest [decentralized](/en/glossary/#decentralization) oracle network.
 
 Instead of a single server, Chainlink uses hundreds of independent nodes that:
 - collect data from multiple exchanges and APIs;
@@ -182,7 +182,7 @@ Oracles are an invisible but essential part of the crypto world.
 - Chainlink is the most popular and battle-tested oracle provider.
 
 Without oracles, none of these would work:
-- DeFi protocols (Aave, Compound);
+- [DeFi](/en/glossary/#defi) protocols (Aave, Compound);
 - [stablecoins](/en/glossary/#stablecoin) (DAI checks collateral prices);
 - insurance smart contracts;
 - prediction markets.

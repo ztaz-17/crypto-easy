@@ -31,7 +31,7 @@ Enter **[stablecoins](/en/glossary/#stablecoin)**.
 Buy USDT — and your money stops jumping. 1 USDT ≈ $1. Always.
 
 In this article we'll cover:
-- what stablecoins are and why they're needed;
+- what [stablecoins](/en/glossary/#stablecoin) are and why they're needed;
 - the three main stablecoins: **USDT**, **USDC**, and **DAI**;
 - how they differ and which to choose;
 - and why not all stablecoins are equally safe.
@@ -167,7 +167,7 @@ Example: you deposit $200 of ETH. The contract lets you create 150 DAI (collater
 
 ### The Terra UST story — how NOT to build stablecoins
 
-In 2022, **Terra UST** (TerraUSD) promised to hold $1 through an algorithm and its LUNA token. No real backing — just math.
+In 2022, **Terra UST** (TerraUSD) promised to hold $1 through an algorithm and its LUNA [token](/en/glossary/#token). No real backing — just math.
 
 It worked... until it didn't. In May 2022, panic hit: large holders pulled their UST. The algorithm failed — UST crashed to $0. LUNA fell from $80 to $0.0002 in days.
 
@@ -193,7 +193,7 @@ But stablecoins are not a "free dollar." Behind them are companies, algorithms, 
 
 - **USDT** — bet on Tether. Reliable for trading, transparency questions remain.
 - **USDC** — bet on US regulation. More transparent, but less widespread.
-- **DAI** — bet on decentralization. Works without companies, but more complex and riskier in crises.
+- **DAI** — bet on [decentralization](/en/glossary/#decentralization). Works without companies, but more complex and riskier in crises.
 
 Stablecoins aren't a 100% bank deposit replacement. But for crypto work — they're irreplaceable.
 
@@ -215,7 +215,7 @@ Yes, several scenarios: issuer (Tether, Circle) goes bankrupt — USDT/USDC lose
 
 **USDT** — for maximum exchange availability and low fees (via TRC-20).
 
-**USDC** — if transparency matters and you use major exchanges or DeFi.
+**USDC** — if transparency matters and you use major exchanges or [DeFi](/en/glossary/#defi).
 
 **DAI** — if you value decentralization and understand the topic.
 

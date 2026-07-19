@@ -73,7 +73,7 @@ Beispiele: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Sol
 
 **AMM (Automated Market Maker)**
 
-Statt eines Orderbuchs — **Liquiditätspools**. Jeder kann ein Paar Token (z. B. ETH und USDC) in einen Pool einzahlen und ein **Liquiditätsanbieter (LP)** werden.
+Statt eines Orderbuchs — **Liquiditätspools**. Jeder kann ein Paar [Token](/de/glossary/#token) (z. B. ETH und USDC) in einen Pool einzahlen und ein **Liquiditätsanbieter (LP)** werden.
 
 Swaps funktionieren über eine mathematische Formel:
 
@@ -89,7 +89,7 @@ Deine Gelder bleiben die ganze Zeit in deiner [Wallet](/de/glossary/#wallet). Du
 
 > Eine DEX hat niemals die Kontrolle über dein Geld. Nur du.
 
-**Kein KYC**
+**Kein [KYC](/de/glossary/#kyc)**
 
 Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginnen. Alles, was eine [DEX](/de/glossary/#dex) sehen muss, ist deine Wallet-Adresse.
 
@@ -108,7 +108,7 @@ Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginne
 | **Geschwindigkeit** | Sofort (intern) | Abhängig von der [Blockchain](/de/glossary/#blockchain) (Sek.–Min.) |
 | **Verfügbare Paare** | [Fiat](/de/glossary/#fiat) + Krypto, viele Paare | Nur Krypto-zu-Krypto |
 | **[Fiat](/de/glossary/#fiat)-Einzahlung** | Ja (Karten, Banküberweisungen) | Nein (nur Krypto) |
-| **Anzahl der Assets** | Hunderte–Tausende (von der Börse bestimmt) | Alles auf der Blockchain (alle Token) |
+| **Anzahl der Assets** | Hunderte–Tausende (von der Börse bestimmt) | Alles auf der [Blockchain](/de/glossary/#blockchain) (alle Token) |
 | **Erweiterte Tools** | Futures, Margin, [Staking](/de/glossary/#staking), [P2P](/de/glossary/#p2p) | Basisdienst — Swap |
 | **Regulierung** | Hält lokale Gesetze ein | De facto unreguliert |
 | **Risiken** | Börsen-Hacks, Kontosperrung, Auszahlungssperre | Smart-Contract-Fehler, Rug Pulls, verlorene Keys |
@@ -119,7 +119,7 @@ Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginne
 
 ### 1️⃣ Du willst Krypto mit Fiat kaufen
 
-CEX ist der einzige einfache Weg, Bitcoin mit Rubel, Dollar oder Euro zu kaufen. Bankkarte → Binance → BTC. Du kannst nicht zu einer DEX mit Fiat gehen — du brauchst bereits Krypto.
+[CEX](/de/glossary/#cex) ist der einzige einfache Weg, Bitcoin mit Rubel, Dollar oder Euro zu kaufen. Bankkarte → Binance → BTC. Du kannst nicht zu einer [DEX](/de/glossary/#dex) mit [Fiat](/de/glossary/#fiat) gehen — du brauchst bereits Krypto.
 
 ### 2️⃣ Du brauchst hohe Liquidität und präzise Orders
 
@@ -145,7 +145,7 @@ Wenn dein Konto gestohlen wird, du den Zugang verlierst oder eine Überweisung v
 
 ### 1️⃣ Privatsphäre ist dir wichtig
 
-Kein KYC, keine Pässe. Niemand weiß, dass diese Wallet-Adresse dir gehört. Wenn Anonymität zählt — geh zur DEX.
+Kein KYC, keine Pässe. Niemand weiß, dass diese [Wallet](/de/glossary/#wallet)-Adresse dir gehört. Wenn Anonymität zählt — geh zur DEX.
 
 ### 2️⃣ Du willst seltene Token handeln
 
@@ -203,7 +203,7 @@ Ja. Nach den Gesetzen der meisten Länder ist jeder Krypto-Verkauf oder -Tausch 
 
 ### Warum ist der Preis auf einer DEX manchmal schlechter als auf einer CEX?
 
-Wegen des AMM-Mechanismus. Bei großen Swaps erlebt der Pool Slippage — der Preis bewegt sich gegen dich. Auf einer CEX ist das Orderbuch normalerweise tiefer, besonders bei beliebten Paaren.
+Wegen des AMM-Mechanismus. Bei großen Swaps erlebt der Pool [Slippage](/de/glossary/#slippage) — der Preis bewegt sich gegen dich. Auf einer CEX ist das Orderbuch normalerweise tiefer, besonders bei beliebten Paaren.
 
 ### Kann ich beide Börsen nutzen?
 

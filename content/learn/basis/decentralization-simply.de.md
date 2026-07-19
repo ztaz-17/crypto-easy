@@ -121,7 +121,7 @@ Funktioniert überall, wo es Internet gibt. Unabhängig von Landesgrenzen oder W
 
 [Dezentralisierung](/de/glossary/#decentralization) ist kein „Zauberknopf", der alle Probleme löst. Sie ist ein **Kompromiss**: du gibst Geschwindigkeit für Zuverlässigkeit auf, Einfachheit für Kontrolle, Support für Freiheit, Bequemlichkeit für Sicherheit.
 
-Für alltägliche Zahlungen ist Zentralisierung bequemer. Aber für die Vermögensaufbewahrung und Krisenfestigkeit – ist Dezentralisierung die einzige Option.
+Für alltägliche Zahlungen ist Zentralisierung bequemer. Aber für die Vermögensaufbewahrung und Krisenfestigkeit – ist [Dezentralisierung](/de/glossary/#decentralization) die einzige Option.
 
 > **In einem zentralisierten System kannst du blockiert werden. In einem dezentralen – nicht.**
 
@@ -139,4 +139,4 @@ Ja. Wenn die meisten Nodes oder die [Mining](/de/glossary/#mining)-Power von ein
 
 ### Wie dezentral ist Bitcoin wirklich?
 
-Dezentral genug, dass keine einzelne Regierung es abschalten kann. Aber das Mining ist ziemlich stark in China, den USA und Kasachstan konzentriert. Perfekte Dezentralisierung existiert nicht.
+Dezentral genug, dass keine einzelne Regierung es abschalten kann. Aber das [Mining](/de/glossary/#mining) ist ziemlich stark in China, den USA und Kasachstan konzentriert. Perfekte Dezentralisierung existiert nicht.

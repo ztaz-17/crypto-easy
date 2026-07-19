@@ -43,7 +43,7 @@ Public key — like your bank account number. You give it out so people can send
 
 Many beginners think: "I signed up on an exchange, created a strong password — my crypto is safe." No. Let's break down the difference.
 
-| | Password | Private Key |
+| | Password | [Private Key](/en/glossary/#private-key) |
 |---|---------|------------|
 | Recovery | ✅ Via email, SMS | ❌ **Never** recoverable |
 | Protects | Access to a service | Ownership of assets |
@@ -95,7 +95,7 @@ No "security department," no "SMS confirmation," no "withdrawal limit." The [blo
 
 Therefore:
 
-- Never take a photo of your seed phrase.
+- Never take a photo of your [seed phrase](/en/glossary/#seed-phrase).
 - Never store it in your phone's notes.
 - Never enter your private key on sites that promise to "verify your wallet" or "check for [airdrops](/en/glossary/#airdrop)."
 - Never send it to anyone in messengers.
@@ -117,7 +117,7 @@ Seed phrase written on paper and hidden in a safe (or even better — a bank dep
 
 ### 3. Software wallet (hot storage)
 
-Metamask, Trust Wallet, Phantom — popular mobile or browser wallets. Convenient for small amounts and daily use, but less secure: viruses, phishing, phone hacks are real risks.
+Metamask, Trust [Wallet](/en/glossary/#wallet), Phantom — popular mobile or browser wallets. Convenient for small amounts and daily use, but less secure: viruses, phishing, phone hacks are real risks.
 
 ### 4. Exchange (riskiest)
 

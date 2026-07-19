@@ -43,7 +43,7 @@ Los objetos **no fungibles** son únicos:
 - un departamento en un edificio — cada uno tiene su número y distribución;
 - la firma de un artista en un cuadro — irrepetible.
 
-Los NFTs son el equivalente digital de un "objeto único".
+Los [NFTs](/es/glossary/#nft) son el equivalente digital de un "objeto único".
 
 ---
 
@@ -54,14 +54,14 @@ Un NFT es un **token** (un registro en la [blockchain](/es/glossary/#blockchain)
 - almacena metadatos (un enlace al archivo, descripción, atributos);
 - rastrea el historial de propiedad;
 - **no se puede dividir** en partes más pequeñas;
-- **no es intercambiable** con otro token.
+- **no es intercambiable** con otro [token](/es/glossary/#token).
 
 Estándares:
 
 - **ERC-721** (Ethereum) — el más popular;
 - **ERC-1155** — permite crear tokens únicos y fungibles en un solo contrato.
 
-👉 Importante: el archivo real (imagen, música, video) normalmente no se guarda en la blockchain, sino en un sistema de almacenamiento descentralizado (IPFS) o en un servidor común. La blockchain solo guarda un enlace.
+👉 Importante: el archivo real (imagen, música, video) normalmente no se guarda en la [blockchain](/es/glossary/#blockchain), sino en un sistema de almacenamiento descentralizado (IPFS) o en un servidor común. La blockchain solo guarda un enlace.
 
 ---
 
@@ -127,7 +127,7 @@ Algunas universidades ya han empezado a emitir títulos en la blockchain.
 
 ### 5. Dominios e identificadores
 
-Los dominios NFT (ejemplo: `tunombre.crypto`) no son direcciones DNS — son **nombres de cartera**. En vez de `0xAbc...123`, puedes enviar cripto a `alicia.eth`.
+Los dominios NFT (ejemplo: `tunombre.crypto`) no son direcciones DNS — son **nombres de [cartera](/es/glossary/#wallet)**. En vez de `0xAbc...123`, puedes enviar cripto a `alicia.eth`.
 
 Estos nombres:
 

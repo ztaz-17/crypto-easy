@@ -31,7 +31,7 @@ Hier kommen **[Stablecoins](/de/glossary/#stablecoin)** ins Spiel.
 Kauf USDT – und dein Geld hört auf zu springen. 1 USDT ≈ 1 $. Immer.
 
 In diesem Artikel behandeln wir:
-- was Stablecoins sind und warum sie gebraucht werden;
+- was [Stablecoins](/de/glossary/#stablecoin) sind und warum sie gebraucht werden;
 - die drei wichtigsten Stablecoins: **USDT**, **USDC** und **DAI**;
 - wie sie sich unterscheiden und welchen du wählen solltest;
 - und warum nicht alle Stablecoins gleich sicher sind.
@@ -167,7 +167,7 @@ Beispiel: Du hinterlegst 200 $ in ETH. Der Contract erlaubt dir, 150 DAI zu erst
 
 ### Die Terra-UST-Geschichte – wie man Stablecoins NICHT bauen sollte
 
-2022 versprach **Terra UST** (TerraUSD), den Wert von 1 $ durch einen Algorithmus und seinen LUNA-Token zu halten. Keine echte Deckung – nur Mathematik.
+2022 versprach **Terra UST** (TerraUSD), den Wert von 1 $ durch einen Algorithmus und seinen LUNA-[Token](/de/glossary/#token) zu halten. Keine echte Deckung – nur Mathematik.
 
 Es funktionierte... bis es nicht mehr funktionierte. Im Mai 2022 brach Panik aus: Große Halter zogen ihr UST ab. Der Algorithmus versagte – UST stürzte auf 0 $. LUNA fiel innerhalb weniger Tage von 80 $ auf 0,0002 $.
 
@@ -215,7 +215,7 @@ Ja, mehrere Szenarien: Emittent (Tether, Circle) geht pleite – USDT/USDC verli
 
 **USDT** – für maximale Börsenverfügbarkeit und niedrige Gebühren (via TRC-20).
 
-**USDC** – wenn Transparenz wichtig ist und du große Börsen oder DeFi nutzt.
+**USDC** – wenn Transparenz wichtig ist und du große Börsen oder [DeFi](/de/glossary/#defi) nutzt.
 
 **DAI** – wenn du [Dezentralisierung](/de/glossary/#decentralization) schätzt und das Thema verstehst.
 

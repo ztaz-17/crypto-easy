@@ -43,7 +43,7 @@ Un **explorador de [blockchain](/es/glossary/#blockchain)** es como el "Google d
 - cada wallet y su saldo;
 - cada [bloque](/es/glossary/#block) y su contenido.
 
-A diferencia de un banco donde solo ves tu propia actividad, en la blockchain **todo es visible**. Los datos solo están codificados en direcciones — sin vínculo con tu identidad.
+A diferencia de un banco donde solo ves tu propia actividad, en la [blockchain](/es/glossary/#blockchain) **todo es visible**. Los datos solo están codificados en direcciones — sin vínculo con tu identidad.
 
 Necesitas un explorador cuando:
 
@@ -82,7 +82,7 @@ Esto es lo que verás en la página de la transacción:
 | Estado | Qué significa |
 |--------|---------------|
 | ✅ **Éxito** | Transacción ejecutada, fondos acreditados |
-| ⏳ **Pendiente** | Esperando — aún no incluida en un bloque |
+| ⏳ **Pendiente** | Esperando — aún no incluida en un [bloque](/es/glossary/#block) |
 | ❌ **Fallido** | Error — la transacción no se completó (comisión de gas quemada) |
 
 > **Importante:** Fallido ≠ dinero perdido. Si la transacción falló, los fondos vuelven al remitente (menos la comisión de gas).
@@ -114,7 +114,7 @@ Haz clic en cualquier dirección — verás su historial completo y saldo.
 
 #### Valor
 
-El monto de la transferencia: `0 ETH ($0.00)` porque fue una transferencia de token (ERC-20): `6,000,000.25342 ($5,997,252.25) Tether USD (USDT)`.
+El monto de la transferencia: `0 ETH ($0.00)` porque fue una transferencia de [token](/es/glossary/#token) (ERC-20): `6,000,000.25342 ($5,997,252.25) Tether USD (USDT)`.
 
 #### Comisión de Transacción (Gas Fee)
 

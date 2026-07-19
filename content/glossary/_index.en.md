@@ -256,6 +256,12 @@ The ability of an asset to be quickly sold at market price without significant l
 A cryptocurrency with no serious utility, based on memes, hype, and community. Prices are extremely volatile. Examples: Dogecoin, Shiba Inu, PEPE. Pure speculation — be careful.
 
 ---
+### Mining
+
+The process of creating new blocks on a Proof of Work blockchain. Miners solve complex math problems using specialized hardware. The first to solve gets a block reward (new coins + fees). Mining secures the network but consumes significant electricity.
+
+---
+
 
 ### Network Fee
 
@@ -364,12 +370,24 @@ A type of scam where project creators drain all liquidity from the pool and disa
 The difference between the expected trade price and the actual execution price. Caused by low liquidity or high volatility. In DeFi, you can manually set the acceptable slippage percentage.
 
 ---
+### Stablecoin
+
+A cryptocurrency designed to maintain a stable value, typically pegged to a fiat currency (USD, EUR). Types: fiat-backed (USDT, USDC), crypto-backed (DAI), algorithmic. Used for trading and savings without volatility risk.
+
+---
+
 
 ### Staking
 
 Locking up coins in a network to support its operation (validating transactions) and earn income. Works on the Proof of Stake principle. Rewards are usually paid in the same coin you staked.
 
 ---
+### Token
+
+A digital asset built on top of an existing blockchain (e.g., Ethereum). Unlike a native coin (ETH), tokens rely on smart contracts and standards (ERC-20, BEP-20). Used for dApps, DeFi, governance, and representing assets.
+
+---
+
 
 ### Tokenomics
 

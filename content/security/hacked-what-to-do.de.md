@@ -51,11 +51,11 @@ All das sind Fallen, die die Sache nur noch schlimmer machen.
 
 Sobald du verdächtige Aktivitäten bemerkst, ist dein Ziel, den **Zugriff** des Angreifers auf deine Gelder zu **unterbrechen**.
 
-Falls eine Hot-Wallet kompromittiert wurde (MetaMask, Trust Wallet, Phantom usw.):
+Falls eine Hot-[Wallet](/de/glossary/#wallet) kompromittiert wurde (MetaMask, Trust Wallet, Phantom usw.):
 
 1. **Schalte das Internet auf dem Gerät aus** (Flugmodus), wenn du eine noch nicht bestätigte Transaktion siehst. Das hilft nicht, wenn der [Seed-Phrase](/de/glossary/#seed-phrase) bereits draußen ist, aber es könnte dir Sekunden verschaffen.
 2. **Erstelle sofort eine neue Wallet** — auf einem anderen Gerät oder in einer anderen App.
-3. **Generiere einen frischen Seed-Phrase.** Verwende niemals den alten wieder.
+3. **Generiere einen frischen [Seed-Phrase](/de/glossary/#seed-phrase).** Verwende niemals den alten wieder.
 
 > **Deine alte Wallet kann nie wieder als sicher betrachtet werden. Niemals.**
 
@@ -66,7 +66,7 @@ Falls eine Hot-Wallet kompromittiert wurde (MetaMask, Trust Wallet, Phantom usw.
 Wenn sich noch Gelder in der Wallet befinden — handle schnell:
 
 - Öffne eine neue, saubere Wallet (frischer Seed-Phrase, neue Adresse).
-- Übertrage **alle verbliebenen Tokens** dorthin.
+- Übertrage **alle verbliebenen [Tokens](/de/glossary/#token)** dorthin.
 - Beginne mit den wertvollsten Assets.
 - Stelle sicher, dass die alte Wallet keine beanspruchbaren Tokens hat ([Staking](/de/glossary/#staking), Farming-Belohnungen).
 
@@ -198,7 +198,7 @@ Sobald du den Notfall bewältigt hast, lohnt es sich, deine Sicherheitsgewohnhei
 ## FAQ
 
 ### Kann ich mein gestohlenes Geld zurückbekommen?
-In den meisten Fällen — nein. Die Blockchain ist unumkehrbar. Die Ausnahme ist, wenn die Gelder auf einer zentralisierten Exchange gelandet sind und du rechtzeitig Bescheid gegeben hast.
+In den meisten Fällen — nein. Die [Blockchain](/de/glossary/#blockchain) ist unumkehrbar. Die Ausnahme ist, wenn die Gelder auf einer zentralisierten Exchange gelandet sind und du rechtzeitig Bescheid gegeben hast.
 
 ### Was, wenn mein Seed-Phrase gestohlen wurde, aber mein Guthaben noch da ist?
 Erstelle sofort eine neue Wallet und übertrage alles dorthin. Der alte Seed-Phrase ist jetzt kompromittiert.

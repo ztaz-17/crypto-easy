@@ -97,7 +97,7 @@ Llegas a uno de estos a través de un anuncio, un correo electrónico o un mensa
 
 Un [airdrop](/es/glossary/#airdrop) es un sorteo gratuito de [tokens](/es/glossary/#token) para atraer usuarios. Los estafadores abusan de este mecanismo:
 
-1. Prometen tokens gratis — solo necesitas "conectar tu wallet."
+1. Prometen [tokens](/es/glossary/#token) gratis — solo necesitas "conectar tu wallet."
 2. Vas al sitio y pulsas "Reclamar."
 3. El sitio te pide firmar una transacción o "verificar tu dirección."
 4. En realidad estás firmando una autorización para transferir todos tus tokens.
@@ -112,7 +112,7 @@ Un [airdrop](/es/glossary/#airdrop) es un sorteo gratuito de [tokens](/es/glossa
 
 - nunca firmes una transacción que no entiendas completamente;
 - verifica qué estás firmando realmente: cantidad, dirección del contrato, comisión;
-- si un airdrop promete demasiado — es una estafa;
+- si un [airdrop](/es/glossary/#airdrop) promete demasiado — es una estafa;
 - usa extensiones de simulación de transacciones como Blowfish o Pocket Universe;
 - los airdrops reales nunca te piden "pagar el gas conectando tu wallet."
 
@@ -159,7 +159,7 @@ Funciona así:
 
 1. Alguien se ofrece a ayudarte por Telegram, Zoom o AnyDesk.
 2. Te pide que compartas tu pantalla.
-3. Mientras miras, graban tu frase semilla, claves privadas o contraseñas.
+3. Mientras miras, graban tu [frase semilla](/es/glossary/#seed-phrase), [claves privadas](/es/glossary/#private-key) o contraseñas.
 4. A veces te piden que entres a un sitio y firmes una transacción — "es seguro, no te preocupes."
 
 ### Ejemplos reales
@@ -287,7 +287,7 @@ Los estafadores crypto solo existen porque sus engaños aún funcionan. No les d
 Revisa la URL, la fecha de registro del dominio (Whois), busca errores tipográficos y la falta de HTTPS. Ante la duda — abre el sitio oficial desde tus marcadores.
 
 ### Hackearon mi wallet — ¿puedo recuperar mi dinero?
-Casi nunca. Las transacciones en blockchain son irreversibles. La única excepción es si enviaste a un exchange — los administradores del exchange pueden congelar la cuenta del estafador, pero es poco común.
+Casi nunca. Las transacciones en [blockchain](/es/glossary/#blockchain) son irreversibles. La única excepción es si enviaste a un exchange — los administradores del exchange pueden congelar la cuenta del estafador, pero es poco común.
 
 ### ¿Qué hago si firmé accidentalmente una transacción peligrosa?
 1. Revoca inmediatamente la aprobación en Revoke.cash o Etherscan.

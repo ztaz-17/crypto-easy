@@ -46,9 +46,9 @@ In diesem Artikel erfährst du:
 
 Die [Seed-Phrase](/de/glossary/#seed-phrase) (Wiederherstellungsphrase, mnemonische Phrase) besteht aus **12 oder 24 Wörtern**, aus denen mathematisch alle Schlüssel deiner [Wallet](/de/glossary/#wallet) generiert werden.
 
-Das ist kein «Passwort für die Wallet». Das **ist die Wallet selbst**.
+Das ist kein «Passwort für die [Wallet](/de/glossary/#wallet)». Das **ist die Wallet selbst**.
 
-Wenn du dein MetaMask-Passwort verlierst – setzt du es einfach zurück und meldest dich neu an, du hast ja die Seed-Phrase.
+Wenn du dein MetaMask-Passwort verlierst – setzt du es einfach zurück und meldest dich neu an, du hast ja die [Seed-Phrase](/de/glossary/#seed-phrase).
 
 Wenn du die Seed-Phrase verlierst – **hilft dir dein Passwort nicht mehr**. Die Wallet kann nicht wiederhergestellt werden. Von niemandem. Niemals.
 

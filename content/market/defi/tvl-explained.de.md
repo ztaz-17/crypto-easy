@@ -43,7 +43,7 @@ Einfach gesagt:
 
 > **wie viel Geld Nutzer diesem Protokoll anvertraut haben.**
 
-TVL umfasst:
+[TVL](/de/glossary/#tvl) umfasst:
 - [Token](/de/glossary/#token) in Liquiditätspools (wie auf Uniswap);
 - Einlagen in Kreditprotokollen (wie Aave);
 - Sicherheiten in [Stablecoin](/de/glossary/#stablecoin)-Protokollen (wie MakerDAO);
@@ -139,7 +139,7 @@ Mögliche Gründe:
 - **Sicherheitslücke oder Hack** — Nutzer haben panisch abgezogen;
 - **Rückgang der Erträge** — Farmer sind zu einem anderen Protokoll gewechselt;
 - **Regulatorisches Risiko** — Verbote oder Einschränkungen in wichtigen Rechtsräumen;
-- **Veränderte Marktbedingungen** — Kreditzinsen gefallen, Stablecoins haben ihre Bindung verloren.
+- **Veränderte Marktbedingungen** — Kreditzinsen gefallen, [Stablecoins](/de/glossary/#stablecoin) haben ihre Bindung verloren.
 
 > **Ein starker TVL-Abfall ist eine rote Flagge.** Wenn 90 % der Gelder ein Protokoll verlassen haben — ist das kein Zufall.
 

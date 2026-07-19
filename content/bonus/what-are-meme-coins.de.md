@@ -85,7 +85,7 @@ Nach dem Erfolg von Dogecoin begann der Goldrausch.
 
 Tausende Klone tauchten auf, aber der bekannteste ist **Shiba Inu (SHIB)**.
 
-Shiba Inu positionierte sich als der »Dogecoin-Killer«. Das Team verbrannte die Hälfte des Angebots und schickte die andere Hälfte an Vitalik Buterin (Ethereum-Erfinder), um Knappheit zu schaffen. Buterin spendete diese Tokens an Wohltätigkeitsorganisationen — und SHIB schoss in einem Jahr um **40.000.000 %** hoch (ja, vierzig Millionen Prozent).
+Shiba Inu positionierte sich als der »Dogecoin-Killer«. Das Team verbrannte die Hälfte des Angebots und schickte die andere Hälfte an Vitalik Buterin (Ethereum-Erfinder), um Knappheit zu schaffen. Buterin spendete diese [Tokens](/de/glossary/#token) an Wohltätigkeitsorganisationen — und SHIB schoss in einem Jahr um **40.000.000 %** hoch (ja, vierzig Millionen Prozent).
 
 > **Mit 100 $ hättest du 40 Millionen $ machen können.**
 
@@ -128,7 +128,7 @@ Lass uns ehrlich sein: Meme Coins sind keine Investments.
 
 ### Kein fundamentaler Wert
 
-Eine Kryptowährung kann wert sein:
+Eine [Kryptowährung](/de/glossary/#cryptocurrency) kann wert sein:
 - 1 $ (wie Doge);
 - 0,00001 $ (wie Shiba);
 - oder 0 $.

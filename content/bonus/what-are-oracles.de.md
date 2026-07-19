@@ -46,7 +46,7 @@ Zum Beispiel:
 
 > **Welcher Preis ist der richtige? Und wer entscheidet das?**
 
-Die Blockchain kann das nicht von alleine beantworten. Sie braucht einen Helfer.
+Die [Blockchain](/de/glossary/#blockchain) kann das nicht von alleine beantworten. Sie braucht einen Helfer.
 
 ---
 
@@ -182,7 +182,7 @@ Orakel sind ein unsichtbarer, aber essenzieller Teil der Kryptowelt.
 - Chainlink ist der beliebteste und am meisten erprobte Orakel-Anbieter.
 
 Ohne Orakel würde nichts davon funktionieren:
-- DeFi-Protokolle (Aave, Compound);
+- [DeFi](/de/glossary/#defi)-Protokolle (Aave, Compound);
 - [Stablecoins](/de/glossary/#stablecoin) (DAI prüft Sicherheitenpreise);
 - Versicherungs-Smart-Contracts;
 - Prognosemärkte.

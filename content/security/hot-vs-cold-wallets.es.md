@@ -56,7 +56,7 @@ Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para 
 | **Phantom**         | Navegador / móvil    | Optimizada para Solana                 |
 | **Coinbase Wallet** | Móvil / extensión    | Integración con el exchange, no custodial |
 
-👉 Todas estas carteras son **no custodiales**: las claves están en tu poder, no en el de la empresa.
+👉 Todas estas [carteras](/es/glossary/#wallet) son **no custodiales**: las claves están en tu poder, no en el de la empresa.
 
 ### Cómo funcionan
 
@@ -108,7 +108,7 @@ La opción más popular es la **billetera hardware** (hardware wallet).
 
 1. Compras el dispositivo (por ejemplo, Ledger).
 2. Al encenderlo por primera vez, genera las claves **dentro de sí mismo**, sin conexión a internet.
-3. El dispositivo te muestra la frase semilla — la escribes en papel.
+3. El dispositivo te muestra la [frase semilla](/es/glossary/#seed-phrase) — la escribes en papel.
 4. Para enviar una transacción:
    - la creas en la aplicación (Ledger Live);
    - conectas el dispositivo por USB;
@@ -168,9 +168,9 @@ La regla es simple:
 Tú:
 - compras café con cripto;
 - envías dinero a amigos;
-- usas aplicaciones DeFi.
+- usas aplicaciones [DeFi](/es/glossary/#defi).
 
-👉 Necesitas una **billetera caliente** (MetaMask, Trust Wallet). Ten allí una cantidad pequeña — lo que estés dispuesto a perder en caso de hackeo.
+👉 Necesitas una **[billetera caliente](/es/glossary/#hot-wallet)** (MetaMask, Trust Wallet). Ten allí una cantidad pequeña — lo que estés dispuesto a perder en caso de hackeo.
 
 ### Escenario 2: «Hucha a largo plazo»
 
@@ -179,7 +179,7 @@ Tú:
 - guardas ahorros en [stablecoins](/es/glossary/#stablecoin);
 - temes que el exchange sea hackeado.
 
-👉 Necesitas una **billetera fría** (Ledger, Trezor). Guarda allí el 80–90% de tus activos.
+👉 Necesitas una **[billetera fría](/es/glossary/#cold-wallet)** (Ledger, Trezor). Guarda allí el 80–90% de tus activos.
 
 ### Escenario 3: «Término medio» (recomendado)
 

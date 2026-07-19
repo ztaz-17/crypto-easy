@@ -97,7 +97,7 @@ Die Gelder sind **nicht für immer verloren**, aber du musst sie wiederherstelle
 
 ### Szenario 3: Die Börse akzeptiert keine Token in einem anderen Netzwerk
 
-Manche Börsen akzeptieren USDT nur in bestimmten Netzwerken. Wenn du USDT auf Solana an eine Börsen-Wallet schickst, die nur ERC20 akzeptiert, **wird die Einzahlung nicht gutgeschrieben**.
+Manche Börsen akzeptieren USDT nur in bestimmten Netzwerken. Wenn du USDT auf Solana an eine Börsen-[Wallet](/de/glossary/#wallet) schickst, die nur ERC20 akzeptiert, **wird die Einzahlung nicht gutgeschrieben**.
 
 Der Börsen-Support kann helfen, aber:
 
@@ -254,7 +254,7 @@ In den meisten Fällen — nein. Wenn du es an deine eigene Adresse oder eine B�
 
 ### Warum gibt es verschiedene Netzwerke für denselben Token?
 
-Jede Blockchain ist ein unabhängiges System. USDT wird auf vielen Blockchains ausgegeben, damit Nutzer das Netzwerk mit den für sie passenden Gebühren und der passenden Geschwindigkeit wählen können.
+Jede [Blockchain](/de/glossary/#blockchain) ist ein unabhängiges System. USDT wird auf vielen Blockchains ausgegeben, damit Nutzer das Netzwerk mit den für sie passenden Gebühren und der passenden Geschwindigkeit wählen können.
 
 ### Welches Netzwerk ist am besten für USDT?
 

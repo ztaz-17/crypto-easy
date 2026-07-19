@@ -63,7 +63,7 @@ Pero en ambas cadenas **casi siempre puedes pagar menos**.
 
 La forma más obvia (y a menudo ignorada) de ahorrar es **elegir la red correcta** al enviar.
 
-El stablecoin **USDT** vive en docenas de blockchains. Las comisiones varían por un factor de 10 o más:
+El [stablecoin](/es/glossary/#stablecoin) **USDT** vive en docenas de blockchains. Las comisiones varían por un factor de 10 o más:
 
 | Red | Comisión aproximada | Tiempo de transferencia |
 |-----|--------------------|------------------------|
@@ -86,7 +86,7 @@ Cómo usar esto:
 
 ## 2. Soluciones L2: comisiones en céntimos
 
-**Capa 2** es una tecnología que opera sobre la blockchain principal (Capa 1). Procesa las transacciones y solo envía datos resumidos a la capa base.
+**Capa 2** es una tecnología que opera sobre la [blockchain](/es/glossary/#blockchain) principal (Capa 1). Procesa las transacciones y solo envía datos resumidos a la capa base.
 
 El resultado: velocidad similar a Visa, comisiones medidas en **céntimos**.
 
@@ -100,7 +100,7 @@ Una de las L2 más populares para Ethereum.
 Tecnología similar, arquitectura ligeramente diferente.
 - Comisión: **$0.05–0.3**
 - Se usa para: lo mismo que Arbitrum
-- Funciona con cualquier cartera EVM
+- Funciona con cualquier [cartera](/es/glossary/#wallet) EVM
 
 ### Base (Coinbase)
 L2 de Coinbase. Ganando popularidad rápidamente.

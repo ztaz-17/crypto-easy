@@ -118,7 +118,7 @@ Hay **reglas simples** que te ahorrarán dinero.
 Antes de presionar "Enviar":
 
 1. Averigua qué red puede usar el destinatario.
-2. En el exchange o en tu cartera, selecciona **exactamente la misma red**.
+2. En el exchange o en tu [cartera](/es/glossary/#wallet), selecciona **exactamente la misma red**.
 3. Verifica dos veces.
 
 > **Red del remitente = Red del destinatario.**
@@ -256,7 +256,7 @@ En la mayoría de los casos — no. Si lo enviaste a tu propia dirección o a la
 
 ### ¿Por qué existen diferentes redes para el mismo token?
 
-Cada blockchain es un sistema independiente. USDT se emite en muchas blockchains para que los usuarios puedan elegir la red con las comisiones y la velocidad que más les convengan.
+Cada [blockchain](/es/glossary/#blockchain) es un sistema independiente. USDT se emite en muchas blockchains para que los usuarios puedan elegir la red con las comisiones y la velocidad que más les convengan.
 
 ### ¿Qué red es mejor para USDT?
 

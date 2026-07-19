@@ -87,7 +87,7 @@ Dieser Mythos hält sich seit über einem Jahrzehnt in der Öffentlichkeit. Erw�
 
 ### Die Realität: Kriminelle Aktivitäten machen weniger als 1 % aus
 
-Laut Blockchain-Analysen liegt der Anteil illegaler Transaktionen bei Krypto **unter 1 % des gesamten Volumens**. Zum Vergleich: Laut UN wird die Geldwäsche über Bargeld und traditionelle Banken auf **2–5 % des globalen BIP** geschätzt – das sind Billionen Dollar.
+Laut [Blockchain](/de/glossary/#blockchain)-Analysen liegt der Anteil illegaler Transaktionen bei Krypto **unter 1 % des gesamten Volumens**. Zum Vergleich: Laut UN wird die Geldwäsche über Bargeld und traditionelle Banken auf **2–5 % des globalen BIP** geschätzt – das sind Billionen Dollar.
 
 > Die Ironie: Bargeld ist der beste Freund des Verbrechers. Es hinterlässt keine Spuren. Krypto dagegen hinterlässt welche.
 
@@ -171,7 +171,7 @@ Schau dir MetaMask, Trust [Wallet](/de/glossary/#wallet) oder Exodus an. Das sin
 
 So einfach ist der erste Krypto-Kauf heute:
 
-1. Wallet-App herunterladen.
+1. [Wallet](/de/glossary/#wallet)-App herunterladen.
 2. Krypto über den integrierten Dienst mit der Bankkarte kaufen.
 3. Fertig.
 

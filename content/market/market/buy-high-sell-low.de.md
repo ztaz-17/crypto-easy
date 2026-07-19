@@ -94,7 +94,7 @@ Es funktioniert genau einmal von zehn Malen. Die anderen neun Male kaufst du am 
 
 ### Warum FOMO im Krypto-Bereich so heftig ist
 
-Krypto ist der perfekte Nährboden für FOMO:
+Krypto ist der perfekte Nährboden für [FOMO](/de/glossary/#fomo):
 
 - Kurse schwanken **50–200%** in Tagen;
 - soziale Medien sind Lärm, Memes und "to the moon"-Geschrei;

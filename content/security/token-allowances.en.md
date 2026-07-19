@@ -35,7 +35,7 @@ In this article, we'll cover:
 
 ### How ERC-20 Tokens Work
 
-To understand allowances, you first need to understand how tokens actually work.
+To understand allowances, you first need to understand how [tokens](/en/glossary/#token) actually work.
 
 The **ERC-20** standard (and its cousins BEP-20, TRC-20, etc.) is a smart contract with two key functions:
 
@@ -78,7 +78,7 @@ Why do [dApps](/en/glossary/#dapp) do this?
 
 - **convenience** — no need to confirm every single trade;
 - **cheaper** — one `approve` transaction instead of several;
-- **it's the de facto standard** in DeFi.
+- **it's the de facto standard** in [DeFi](/en/glossary/#defi).
 
 But the price of that convenience is **your tokens being held hostage**.
 
@@ -106,7 +106,7 @@ Real-world examples:
 
 ### You Don't Remember Who You Gave Access To
 
-If you're active in DeFi, over the months and years you'll pile up a dozen or more allowances: Uniswap, OpenSea, 1inch, some random test dApps you've already forgotten about.
+If you're active in DeFi, over the months and years you'll pile up a dozen or more allowances: Uniswap, OpenSea, 1inch, some random test [dApps](/en/glossary/#dapp) you've already forgotten about.
 
 Here's the question: do you actually remember which contracts you've approved?
 
@@ -133,7 +133,7 @@ For BSC, use [BscScan.com](https://bscscan.com) — the interface is the same.
 
 A more convenient option is [Revoke.cash](https://revoke.cash):
 
-1. connect your wallet (MetaMask, WalletConnect);
+1. connect your [wallet](/en/glossary/#wallet) (MetaMask, WalletConnect);
 2. the site will show **all your active approvals** across every network;
 3. for each approval you'll see: the contract, the token, and the limit.
 
@@ -181,7 +181,7 @@ Done. The contract can no longer spend your tokens.
 ### Important Things to Know When Revoking
 
 - each `approve` to 0 is a **gas transaction** — you'll have to pay the fee;
-- if you revoke an approval for a DEX you actively trade on, you'll have to approve again the next time you make a swap;
+- if you revoke an approval for a [DEX](/en/glossary/#dex) you actively trade on, you'll have to approve again the next time you make a swap;
 - after revoking, your tokens stay in your wallet — nothing gets lost.
 
 ---

@@ -87,7 +87,7 @@ This myth has been alive in the public mind for over a decade. Mention crypto, a
 
 ### Reality: Criminal Activity Accounts for Less Than 1%
 
-According to blockchain analysis, the share of illicit transactions in crypto is **under 1% of total volume**. For comparison: according to the UN, the amount of money laundered through cash and traditional banking is estimated at **2–5% of global GDP** — that's trillions of dollars.
+According to [blockchain](/en/glossary/#blockchain) analysis, the share of illicit transactions in crypto is **under 1% of total volume**. For comparison: according to the UN, the amount of money laundered through cash and traditional banking is estimated at **2–5% of global GDP** — that's trillions of dollars.
 
 > The irony is that cash is the criminal's best friend. It leaves no trace. Crypto, on the other hand, leaves one.
 
@@ -171,7 +171,7 @@ Look at MetaMask, Trust [Wallet](/en/glossary/#wallet), or Exodus. These are app
 
 The process of buying your first crypto today:
 
-1. Download a wallet app.
+1. Download a [wallet](/en/glossary/#wallet) app.
 2. Buy crypto through the built-in service with a bank card.
 3. Done.
 

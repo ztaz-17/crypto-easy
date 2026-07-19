@@ -212,7 +212,7 @@ No siempre tienes que hacerlo todo tú mismo. Estas son señales de que ha llega
 
 - Tienes **más de 100 operaciones** al año
 - Operas en **varios exchanges** y usas **protocolos [DeFi](/es/glossary/#defi)**
-- Has recibido **ingresos en crypto** (sueldo, staking, minería)
+- Has recibido **ingresos en crypto** (sueldo, [staking](/es/glossary/#staking), [minería](/es/glossary/#mining))
 - **Vives en un país pero operas desde otro**
 - Tienes un portfolio complejo con **[NFTs](/es/glossary/#nft), DeFi y yield farming**
 - Hacienda ya te ha enviado **una carta con preguntas**

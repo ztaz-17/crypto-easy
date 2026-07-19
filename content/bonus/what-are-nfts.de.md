@@ -43,7 +43,7 @@ Diese Güter kann man untereinander tauschen, ohne an Wert zu verlieren.
 - eine Wohnung in einem Gebäude – jede hat ihre eigene Nummer und ihren eigenen Grundriss;
 - die Signatur eines Künstlers auf einem Gemälde – ein Unikat.
 
-NFTs sind das digitale Äquivalent zu einem „Unikat".
+[NFTs](/de/glossary/#nft) sind das digitale Äquivalent zu einem „Unikat".
 
 ---
 
@@ -54,14 +54,14 @@ Ein NFT ist ein **Token** (ein Eintrag auf der [Blockchain](/de/glossary/#blockc
 - Metadaten speichert (einen Link zur Datei, Beschreibung, Eigenschaften);
 - die Eigentumsgeschichte nachverfolgt;
 - **nicht in kleinere Teile zerlegt** werden kann;
-- **nicht austauschbar** mit einem anderen Token ist.
+- **nicht austauschbar** mit einem anderen [Token](/de/glossary/#token) ist.
 
 Standards:
 
 - **ERC-721** (Ethereum) – der bekannteste;
 - **ERC-1155** – ermöglicht sowohl einzigartige als auch fungible Token in einem einzigen Vertrag.
 
-👉 Wichtig: die eigentliche Datei (Bild, Musik, Video) liegt in der Regel nicht direkt auf der Blockchain, sondern in einem dezentralen Speichersystem (IPFS) oder auf einem normalen Server. Die Blockchain speichert nur einen Link.
+👉 Wichtig: die eigentliche Datei (Bild, Musik, Video) liegt in der Regel nicht direkt auf der [Blockchain](/de/glossary/#blockchain), sondern in einem dezentralen Speichersystem (IPFS) oder auf einem normalen Server. Die Blockchain speichert nur einen Link.
 
 ---
 
@@ -127,7 +127,7 @@ Einige Universitäten stellen bereits Diplome auf der Blockchain aus.
 
 ### 5. Domains und Identifikatoren
 
-NFT-Domains (z. B. `deinname.crypto`) sind keine DNS-Adressen – sie sind **Wallet-Namen**. Statt `0xAbc...123` kannst du Krypto an `alice.eth` senden.
+NFT-Domains (z. B. `deinname.crypto`) sind keine DNS-Adressen – sie sind **[Wallet](/de/glossary/#wallet)-Namen**. Statt `0xAbc...123` kannst du Krypto an `alice.eth` senden.
 
 Diese Namen:
 

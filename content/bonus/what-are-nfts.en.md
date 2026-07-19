@@ -43,7 +43,7 @@ These assets can be swapped around without losing value.
 - an apartment in a building — each has its own number and layout;
 - an artist's signature on a painting — one of a kind.
 
-NFTs are the digital equivalent of a "unique item."
+[NFTs](/en/glossary/#nft) are the digital equivalent of a "unique item."
 
 ---
 
@@ -54,7 +54,7 @@ An NFT is a **token** (a record on the [blockchain](/en/glossary/#blockchain)) t
 - stores metadata (a link to the file, description, attributes);
 - tracks ownership history;
 - **cannot be split** into smaller pieces;
-- **is not interchangeable** with another token.
+- **is not interchangeable** with another [token](/en/glossary/#token).
 
 Standards:
 
@@ -77,7 +77,7 @@ Some concert venues and sports clubs already use NFT tickets.
 
 Benefits:
 
-- **authenticity** — blockchain records can't be forged;
+- **authenticity** — [blockchain](/en/glossary/#blockchain) records can't be forged;
 - **secondary market** — resales are controlled, and organizers can earn royalties;
 - **keepsake** — the ticket stays in your [wallet](/en/glossary/#wallet) as a souvenir with history.
 
@@ -127,7 +127,7 @@ Some universities have already started issuing diplomas on the blockchain.
 
 ### 5. Domains and Identifiers
 
-NFT domains (e.g., `yourname.crypto`) aren't DNS addresses — they're **wallet names**. Instead of `0xAbc...123`, you can send crypto to `alice.eth`.
+NFT domains (e.g., `yourname.crypto`) aren't DNS addresses — they're **[wallet](/en/glossary/#wallet) names**. Instead of `0xAbc...123`, you can send crypto to `alice.eth`.
 
 These names:
 

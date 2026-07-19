@@ -43,7 +43,7 @@ Clave pública — como tu número de cuenta bancaria. La compartes para que te 
 
 Muchos principiantes piensan: "Me registré en un exchange, puse una contraseña fuerte — mi cripto está segura". No. Analicemos la diferencia.
 
-| | Contraseña | Clave privada |
+| | Contraseña | [Clave privada](/es/glossary/#private-key) |
 |---|---------|------------|
 | Recuperación | ✅ Por correo, SMS | ❌ **Nunca** recuperable |
 | Protege | Acceso a un servicio | Propiedad de los activos |
@@ -95,7 +95,7 @@ No hay "departamento de seguridad", ni "confirmación por SMS", ni "límite de r
 
 Por lo tanto:
 
-- Nunca tomes una foto de tu frase semilla.
+- Nunca tomes una foto de tu [frase semilla](/es/glossary/#seed-phrase).
 - Nunca la guardes en las notas de tu teléfono.
 - Nunca ingreses tu clave privada en sitios que prometen "verificar tu billetera" o "revisar [airdrops](/es/glossary/#airdrop)".
 - Nunca la envíes a nadie por mensajería.
@@ -117,7 +117,7 @@ Frase semilla escrita en papel y escondida en una caja fuerte (o mejor aún — 
 
 ### 3. Billetera de software (almacenamiento en caliente)
 
-MetaMask, Trust Wallet, Phantom — billeteras populares para móvil o navegador. Cómodas para montos pequeños y uso diario, pero menos seguras: virus, phishing, hackeo del teléfono son riesgos reales.
+MetaMask, Trust Wallet, Phantom — [billeteras](/es/glossary/#wallet) populares para móvil o navegador. Cómodas para montos pequeños y uso diario, pero menos seguras: virus, phishing, hackeo del teléfono son riesgos reales.
 
 ### 4. Exchange (lo más riesgoso)
 

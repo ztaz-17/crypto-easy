@@ -98,7 +98,7 @@ Works anywhere there's internet. Doesn't depend on national borders or currencie
 
 ## Comparison
 
-| | Centralized | Decentralized |
+| | Centralized | [Decentralized](/en/glossary/#decentralization) |
 |---|------------|---------------|
 | Speed | High | Low–medium |
 | Control | One authority | All participants |
@@ -139,4 +139,4 @@ Yes. If most of the nodes or [mining](/en/glossary/#mining) power is held by one
 
 ### How decentralized is Bitcoin really?
 
-Decentralized enough that no single government can shut it down. But mining is fairly concentrated in China, the US, and Kazakhstan. Perfect decentralization doesn't exist.
+Decentralized enough that no single government can shut it down. But [mining](/en/glossary/#mining) is fairly concentrated in China, the US, and Kazakhstan. Perfect decentralization doesn't exist.

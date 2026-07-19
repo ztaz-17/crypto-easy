@@ -67,7 +67,7 @@ Und hier kommt die Markt-Magie ins Spiel.
 
 ## Der Mempool: Kampf um einen Blockplatz
 
-Wenn du eine Transaktion sendest, landet sie nicht sofort in einem Block. Zuerst geht sie in den **Mempool** – einen Warteraum für unbestätigte Transaktionen.
+Wenn du eine Transaktion sendest, landet sie nicht sofort in einem [Block](/de/glossary/#block). Zuerst geht sie in den **Mempool** – einen Warteraum für unbestätigte Transaktionen.
 
 Alle unbestätigten Transaktionen aus dem ganzen Netzwerk sammeln sich in einer einzigen Warteschlange.
 
@@ -85,7 +85,7 @@ Zu jedem Zeitpunkt kann der Mempool enthalten:
 
 Stell dir einen überfüllten Kleinbus in der Rushhour vor. Es gibt 20 Plätze, aber 100 Leute wollen mitfahren. Der Fahrer nimmt die mit, die am meisten zahlen.
 
-Die Blockchain funktioniert genauso.
+Die [Blockchain](/de/glossary/#blockchain) funktioniert genauso.
 
 Bitcoin hat eine **feste Blockgröße** (1–4 MB). Ethereum hat ein Gas-Limit (30 Millionen Gas). Solanas Blöcke sind ebenfalls begrenzt, aber die Architektur kann weit mehr Transaktionen pro Sekunde verarbeiten.
 

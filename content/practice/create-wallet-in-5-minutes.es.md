@@ -32,7 +32,7 @@ Una [cartera](/es/glossary/#wallet) de cripto es un programa que almacena las **
 
 Importante: las monedas en sí no se guardan en la cartera — están en la **[blockchain](/es/glossary/#blockchain)**. La cartera solo te da acceso a ellas.
 
-Una cartera tiene dos llaves:
+Una [cartera](/es/glossary/#wallet) tiene dos llaves:
 - **Llave pública** (dirección de la cartera) — puedes dársela a cualquiera para recibir dinero.
 - **[Llave privada](/es/glossary/#private-key)** ([frase semilla](/es/glossary/#seed-phrase)) — esta es la contraseña de todo tu dinero. Nunca se la muestres a nadie.
 
@@ -192,7 +192,7 @@ Pero hay una forma más simple: solo **copia tu dirección** y verifícala en un
 
 | ✅ Haz | ❌ No Hagas |
 |---|---|
-| Guarda tu frase semilla en papel en un lugar seguro | No guardes la frase en tu teléfono, nube ni capturas de pantalla |
+| Guarda tu [frase semilla](/es/glossary/#seed-phrase) en papel en un lugar seguro | No guardes la frase en tu teléfono, nube ni capturas de pantalla |
 | Haz una copia de la frase (segundo papel en otra ubicación) | No ingreses la frase en sitios web o apps |
 | Pon una contraseña en tu dispositivo | No envíes la frase por mensajería (ni siquiera a ti mismo) |
 | Revisa la dirección del sitio web antes de conectar tu cartera | No confíes en personas que te escriben por DM haciéndose pasar por soporte |

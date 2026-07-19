@@ -39,7 +39,7 @@ In this article we'll cover:
 
 Most [bridges](/en/glossary/#bridge) follow the same principle:
 
-1. You send your asset (say, ETH) to the **bridge contract** on the source network.
+1. You send your asset (say, ETH) to the **[bridge](/en/glossary/#bridge) contract** on the source network.
 2. The bridge **locks** that asset.
 3. A wrapped version is **minted** on the destination network.
 
@@ -148,7 +148,7 @@ The safest option is to use a bridge built by the [blockchain](/en/glossary/#blo
 - **[zkSync Bridge](https://bridge.zksync.io)** — for zkSync.
 - **[Polygon PoS Bridge](https://portal.polygon.technology)** — for Polygon.
 
-👉 These bridges have fewer points of failure because trust boils down to trust in the blockchain itself.
+👉 These bridges have fewer points of failure because trust boils down to trust in the [blockchain](/en/glossary/#blockchain) itself.
 
 ### ✅ Battle-tested Decentralized Bridges
 
@@ -187,7 +187,7 @@ Important:
 
 To get the original back, you need to bridge back.
 
-Different networks — different tokens:
+Different networks — different [tokens](/en/glossary/#token):
 
 | Asset | Network | Contract Address (example) |
 |-------|---------|---------------------------|
@@ -205,7 +205,7 @@ Different networks — different tokens:
 | Method | Example | Speed | Fees | Trust |
 |--------|---------|-------|------|-------|
 | Official bridge | Arbitrum Bridge | 10–30 min | Medium | High |
-| Decentralized bridge | Stargate | 1–10 min | Medium | Medium |
+| [Decentralized](/en/glossary/#decentralization) bridge | Stargate | 1–10 min | Medium | Medium |
 | Centralized bridge | Binance Bridge | Instant | Low | Low (exchange holds your funds) |
 | [CEX](/en/glossary/#cex) (centralized exchange) | Binance → withdraw to another network | 5–30 min | Low | Low (custodial risk) |
 

@@ -64,7 +64,7 @@ Crypto direkt von einer anderen Person kaufen. Die Börse ist Treuhänder.
 
 ## Methode 3: Sofort-Swaps
 
-Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Trust Wallet ("Kaufen"-Button).
+Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Trust [Wallet](/de/glossary/#wallet) ("Kaufen"-Button).
 
 **Gebühr: 2-5%.**
 
@@ -74,7 +74,7 @@ Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Tr
 
 | | Börse | [P2P](/de/glossary/#p2p) | Swap | BTC-Automat |
 |---|-------|-----|------|------------|
-| KYC | Teilweise | Nein | Teilweise | Nein |
+| [KYC](/de/glossary/#kyc) | Teilweise | Nein | Teilweise | Nein |
 | Gebühr | 0.1-0.5% | 1-3% | 2-5% | 10-15% |
 | Coins | Tausende | Dutzende | 3-10 | Nur BTC |
 
@@ -94,7 +94,7 @@ Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Tr
 
 | Risiko | Schutz |
 |--------|--------|
-| P2P-Betrüger | Nie außerhalb der Plattform zahlen |
+| [P2P](/de/glossary/#p2p)-Betrüger | Nie außerhalb der Plattform zahlen |
 | Gefälschte Swap-Seiten | Nur eingebaute Wallet-Swaps nutzen |
 | Kartensperrung | Verkäufer mit 100+ Trades |
 | Coins auf Börse | Sofort auf eigenes Wallet auszahlen |

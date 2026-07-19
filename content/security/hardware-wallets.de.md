@@ -34,7 +34,7 @@ Stell dir vor: Du hast $10.000 in Krypto auf deinem Konto. Du hältst sie in ein
 
 **Auf der Börse:** Börsen werden gehackt. FTX, Mt. Gox, Celsius – spektakuläre Pleiten mit Milliardenverlusten, nach denen Nutzer jahrelang auf die Rückzahlung warten (und oft vergeblich).
 
-**Auf dem Handy:** Ein Stealer-Virus kann Wallet-Dateien auslesen. Eine Phishing-Seite kann dich dazu bringen, eine Transaktion zu „bestätigen", die dein ganzes Geld an Betrüger überweist.
+**Auf dem Handy:** Ein Stealer-Virus kann [Wallet](/de/glossary/#wallet)-Dateien auslesen. Eine Phishing-Seite kann dich dazu bringen, eine Transaktion zu „bestätigen", die dein ganzes Geld an Betrüger überweist.
 
 **Eine Hardware-Wallet löst beide Probleme:**
 - Du kannst Schlüssel nicht durch Viren verlieren – sie sind physisch unzugänglich
@@ -95,7 +95,7 @@ Beide Apps führen dich durch den Einrichtungsprozess.
 
 ### Schritt 3: Seed-Phrase erstellen
 
-Die Seed-Phrase (auch bekannt als Wiederherstellungsphrase, Recovery Phrase) besteht aus 12 oder 24 Wörtern, mit denen du den Zugang zu deiner Wallet wiederherstellen kannst.
+Die [Seed-Phrase](/de/glossary/#seed-phrase) (auch bekannt als Wiederherstellungsphrase, Recovery Phrase) besteht aus 12 oder 24 Wörtern, mit denen du den Zugang zu deiner Wallet wiederherstellen kannst.
 
 **Kritische Regeln:**
 - **Gib die Seed-Phrase niemals preis.** Weder dem Ledger-Support, noch einem „Börsenmitarbeiter", noch einem „Miner" – niemand wird jemals legitim danach fragen

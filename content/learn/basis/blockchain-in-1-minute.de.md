@@ -54,7 +54,7 @@ Einfacher Vergleich:
 
 > **Ein Klassenbuch, das für jeden Schüler dupliziert wird.**
 
-In einer normalen Schule hat der Lehrer das Klassenbuch. Wenn der Lehrer eine Note ändern will — tut er es, und niemand merkt es. Bei Blockchain haben alle das Buch. Jede Änderung fällt sofort auf.
+In einer normalen Schule hat der Lehrer das Klassenbuch. Wenn der Lehrer eine Note ändern will — tut er es, und niemand merkt es. Bei [Blockchain](/de/glossary/#blockchain) haben alle das Buch. Jede Änderung fällt sofort auf.
 
 ---
 
@@ -66,7 +66,7 @@ Blockchain besteht aus Blöcken. Jeder [Block](/de/glossary/#block) ist wie eine
 
 - **mehrere Transaktionen** (wer hat wem was geschickt);
 - **einen Zeitstempel** (wann der [Block](/de/glossary/#block) erstellt wurde);
-- **den Hash des vorherigen Blocks** (einen digitalen "Fingerabdruck" der letzten Seite).
+- **den Hash des vorherigen [Blocks](/de/glossary/#block)** (einen digitalen "Fingerabdruck" der letzten Seite).
 
 ### Was ist ein Hash und warum ist er wichtig?
 

@@ -67,7 +67,7 @@ And this is where the market magic kicks in.
 
 ## The Mempool: Battle for a Block Slot
 
-When you send a transaction, it doesn't land in a block right away. First it goes into the **mempool** — a waiting room for unconfirmed transactions.
+When you send a transaction, it doesn't land in a [block](/en/glossary/#block) right away. First it goes into the **mempool** — a waiting room for unconfirmed transactions.
 
 All unconfirmed transactions from across the network collect in a single queue.
 
@@ -85,7 +85,7 @@ At any given time, the mempool can hold:
 
 Picture a crowded minibus during rush hour. There are 20 seats, but 100 people want to ride. The driver takes whoever pays the most.
 
-The blockchain works the same way.
+The [blockchain](/en/glossary/#blockchain) works the same way.
 
 Bitcoin uses a **fixed block size** (1–4 MB). Ethereum has a target gas limit (30 million gas). Solana's blocks are also limited, but its architecture can handle far more transactions per second.
 

@@ -95,7 +95,7 @@ Keine „Sicherheitsabteilung", keine „SMS-Bestätigung", kein „Auszahlungsl
 
 Deshalb:
 
-- Mach niemals ein Foto von deiner Seed-Phrase.
+- Mach niemals ein Foto von deiner [Seed-Phrase](/de/glossary/#seed-phrase).
 - Speichere sie niemals in den Notizen deines Handys.
 - Gib deinen Private Key niemals auf Webseiten ein, die versprechen, „dein Wallet zu verifizieren" oder „nach [Airdrops](/de/glossary/#airdrop) zu suchen".
 - Sende ihn niemals an irgendjemanden in Messengern.
@@ -117,7 +117,7 @@ Seed-Phrase auf Papier geschrieben und in einem Tresor versteckt (oder noch bess
 
 ### 3. Software-Wallet (Hot Storage)
 
-Metamask, Trust Wallet, Phantom – beliebte Mobile- oder Browser-Wallets. Praktisch für kleine Beträge und den täglichen Gebrauch, aber weniger sicher: Viren, Phishing, Handy-Hacks sind reale Risiken.
+Metamask, Trust [Wallet](/de/glossary/#wallet), Phantom – beliebte Mobile- oder Browser-Wallets. Praktisch für kleine Beträge und den täglichen Gebrauch, aber weniger sicher: Viren, Phishing, Handy-Hacks sind reale Risiken.
 
 ### 4. Börse (am riskantesten)
 

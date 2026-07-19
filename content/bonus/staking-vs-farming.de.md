@@ -51,7 +51,7 @@ Du musst nichts Kompliziertes tun. Du sperrst einfach deine Coins und bekommst Z
 
 ### Vorteile von Staking
 
-- **Einfachheit**: ein paar Klicks auf einer Börse oder in einer Wallet.
+- **Einfachheit**: ein paar Klicks auf einer Börse oder in einer [Wallet](/de/glossary/#wallet).
 - **Geringes Risiko**: du gibst deine Coins niemand anderem zur Verwaltung (wenn du selbst stakst).
 - **Kein Zeitaufwand**: einmal eingerichtet, läuft es von allein.
 - **Vorhersagbarkeit**: die Rendite ist im Voraus bekannt (normalerweise ein fester APR).
@@ -73,7 +73,7 @@ So sieht das aus:
 - du gehst zu einem [DeFi](/de/glossary/#defi)-Protokoll (z. B. Uniswap, Aave, Curve);
 - du zahlst ein [Token](/de/glossary/#token)-Paar in einen **Liquidity Pool** ein (z. B. USDT und ETH);
 - das Protokoll nutzt sie für Handelsoperationen;
-- du verdienst Händlergebühren + oft Bonus-Token.
+- du verdienst Händlergebühren + oft Bonus-[Token](/de/glossary/#token).
 
 > **Farming ist wie eine Mini-Bank: du verleihst Geld und bekommst einen Anteil an jeder Transaktion.**
 
@@ -96,7 +96,7 @@ So sieht das aus:
 
 Einfach ausgedrückt:
 
-| Staking | Farming |
+| [Staking](/de/glossary/#staking) | Farming |
 |---|---|
 | Einlage | Geschäft |
 | Einfach sperren | Aktiv verwalten |
@@ -146,7 +146,7 @@ Hier sind die Risiken deutlich höher.
 
 ### Smart-Contract-Risiko
 
-DeFi-Protokolle sind Code. Und Code hat Fehler. Hacker finden Sicherheitslücken und leeren den gesamten Pool.
+[DeFi](/de/glossary/#defi)-Protokolle sind Code. Und Code hat Fehler. Hacker finden Sicherheitslücken und leeren den gesamten Pool.
 
 Beispiel: der Ronin-Network-Hack — 600 Millionen Dollar weg. Die Leute haben alles verloren, was sie eingezahlt hatten.
 
@@ -156,7 +156,7 @@ Die Macher eines Projekts sammeln [Liquidität](/de/glossary/#liquidity) — und
 
 ### Impermanent Loss
 
-Du zahlst ETH und USDT in einen Pool ein. Der ETH-Kurs schießt in die Höhe. Wenn du deine Liquidität abziehst, bekommst du weniger ETH, als du eingezahlt hast (weil Arbitrageure günstige ETH aus dem Pool gekauft haben). Unterm Strich hättest du mehr verdient, wenn du einfach ETH gehalten hättest.
+Du zahlst ETH und USDT in einen Pool ein. Der ETH-Kurs schießt in die Höhe. Wenn du deine [Liquidität](/de/glossary/#liquidity) abziehst, bekommst du weniger ETH, als du eingezahlt hast (weil Arbitrageure günstige ETH aus dem Pool gekauft haben). Unterm Strich hättest du mehr verdient, wenn du einfach ETH gehalten hättest.
 
 ### Liquiditätsrisiko
 

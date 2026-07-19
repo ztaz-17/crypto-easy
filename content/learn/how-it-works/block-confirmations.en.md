@@ -36,9 +36,9 @@ The answer lies in how the [blockchain](/en/glossary/#blockchain) itself works. 
 
 A [blockchain](/en/glossary/#blockchain) is a chain of [blocks](/en/glossary/#block). It sounds like a tautology, but that's literally what it is.
 
-A **block** is a container that bundles transactions together. Think of it as a page in a ledger. Several transfers are written on a single page. When the page is full, it gets added to the book and a new one starts.
+A **[block](/en/glossary/#block)** is a container that bundles transactions together. Think of it as a page in a ledger. Several transfers are written on a single page. When the page is full, it gets added to the book and a new one starts.
 
-In a blockchain:
+In a [blockchain](/en/glossary/#blockchain):
 
 - each block contains a **set of transactions** (anywhere from a handful to thousands);
 - blocks come one after another in sequence;
@@ -196,7 +196,7 @@ The higher the fee, the faster miners will pick up your transaction. Before send
 
 ### 2. Use Replace-by-Fee (RBF)
 
-Bitcoin supports RBF — a mechanism that lets you replace an unconfirmed transaction with the same one but with a higher fee. Enable this option in your wallet beforehand.
+Bitcoin supports RBF — a mechanism that lets you replace an unconfirmed transaction with the same one but with a higher fee. Enable this option in your [wallet](/en/glossary/#wallet) beforehand.
 
 ### 3. Choose Fast Networks
 

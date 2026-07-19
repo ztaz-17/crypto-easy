@@ -35,7 +35,7 @@ In diesem Artikel erfährst du:
 
 ### Wie ERC-20-Tokens funktionieren
 
-Um Berechtigungen zu verstehen, musst du erst verstehen, wie Tokens eigentlich funktionieren.
+Um Berechtigungen zu verstehen, musst du erst verstehen, wie [Tokens](/de/glossary/#token) eigentlich funktionieren.
 
 Der **ERC-20**-Standard (und seine Verwandten BEP-20, TRC-20 usw.) ist ein Smart Contract mit zwei zentralen Funktionen:
 
@@ -78,7 +78,7 @@ Warum machen [dApps](/de/glossary/#dapp) das?
 
 - **Bequemlichkeit** — kein Bestätigen bei jedem einzelnen Trade nötig;
 - **günstiger** — eine `approve`-Transaktion statt mehrerer;
-- **es ist der De-facto-Standard** in DeFi.
+- **es ist der De-facto-Standard** in [DeFi](/de/glossary/#defi).
 
 Aber der Preis für diese Bequemlichkeit ist: **Deine Tokens sind zur Geisel gemacht**.
 
@@ -104,7 +104,7 @@ Beispiele aus der Praxis:
 
 ### Du erinnerst dich nicht, wem du Zugriff gegeben hast
 
-Wenn du aktiv in DeFi unterwegs bist, sammelst du im Laufe der Monate und Jahre dutzende Berechtigungen an: Uniswap, OpenSea, 1inch, irgendwelche Test-dApps, die du längst vergessen hast.
+Wenn du aktiv in DeFi unterwegs bist, sammelst du im Laufe der Monate und Jahre dutzende Berechtigungen an: Uniswap, OpenSea, 1inch, irgendwelche Test-[dApps](/de/glossary/#dapp), die du längst vergessen hast.
 
 Hier die Frage: Weißt du tatsächlich noch, welche Verträge du freigegeben hast?
 
@@ -131,7 +131,7 @@ Für BSC nutzt du [BscScan.com](https://bscscan.com) — die Oberfläche ist die
 
 Eine bequemere Option ist [Revoke.cash](https://revoke.cash):
 
-1. verbinde deine Wallet (MetaMask, WalletConnect);
+1. verbinde deine [Wallet](/de/glossary/#wallet) (MetaMask, WalletConnect);
 2. die Seite zeigt **alle deine aktiven Freigaben** über alle Netzwerke hinweg an;
 3. zu jeder Freigabe siehst du: den Vertrag, den Token und das Limit.
 
@@ -179,7 +179,7 @@ Fertig. Der Vertrag kann deine Tokens nicht mehr ausgeben.
 ### Wichtige Dinge beim Widerrufen
 
 - Jedes `approve` auf 0 ist eine **Gas-Transaktion** — du musst die Gebühr bezahlen;
-- Wenn du die Freigabe für eine DEX widerrufst, die du aktiv nutzt, musst du sie beim nächsten Tausch erneut freigeben;
+- Wenn du die Freigabe für eine [DEX](/de/glossary/#dex) widerrufst, die du aktiv nutzt, musst du sie beim nächsten Tausch erneut freigeben;
 - Nach dem Widerruf bleiben deine Tokens in deiner Wallet — es geht nichts verloren.
 
 ---

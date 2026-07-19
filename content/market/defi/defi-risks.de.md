@@ -46,7 +46,7 @@ So läuft das ab:
 - sie versprechen verrückte Renditen (1000 %+ APY);
 - Benutzer zahlen ihr Geld ein;
 - die Entwickler nutzen eine versteckte Funktion im Smart Contract, mit der sie das ganze Geld abziehen können;
-- der Pool ist leer, der Token stürzt auf null;
+- der Pool ist leer, der [Token](/de/glossary/#token) stürzt auf null;
 - das Team verschwindet.
 
 > **Rug Pulls sind die häufigste Betrugsart im DeFi-Bereich.**
@@ -69,7 +69,7 @@ Laut Analysten sind zwischen 2021 und 2023 Millionen von Nutzern Rug Pulls zum O
 
 Smart Contracts sind Software. Software wird von Menschen geschrieben. Menschen machen Fehler.
 
-Eine einzige fehlerhafte Codezeile kann Millionen kosten. Und anders als bei Banken – bei DeFi **gibt es keine Versicherung** und **kein Support-Team**, das dir dein Geld zurückholt.
+Eine einzige fehlerhafte Codezeile kann Millionen kosten. Und anders als bei Banken – bei [DeFi](/de/glossary/#defi) **gibt es keine Versicherung** und **kein Support-Team**, das dir dein Geld zurückholt.
 
 ### Bekannte Beispiele
 
@@ -77,7 +77,7 @@ Eine einzige fehlerhafte Codezeile kann Millionen kosten. Und anders als bei Ban
 |---------|------|---------|---------|
 | **Ronin [Bridge](/de/glossary/#bridge)** | 2022 | 624 Mio. $ | Schwachstelle bei Bridge-Validatoren |
 | **Wormhole [Bridge](/de/glossary/#bridge)** | 2022 | 326 Mio. $ | Fehler bei der Signaturprüfung |
-| **Nomad Bridge** | 2022 | 190 Mio. $ | Fehler im Bridge-Contract |
+| **Nomad [Bridge](/de/glossary/#bridge)** | 2022 | 190 Mio. $ | Fehler im Bridge-Contract |
 | **Cream Finance** | 2021 | 130 Mio. $ | Fehler in der Kreditlogik |
 | **Poly Network** | 2021 | 611 Mio. $ | Schwachstelle im Cross-Chain-Protokoll |
 
@@ -162,7 +162,7 @@ Du kannst sie nicht „stornieren" oder „ausschwitzen". Wenn der Markt stark f
 ### So vermeidest du eine Liquidation
 
 - halte immer eine gesunde Marge ein (200 %+ Sicherheiten-zu-Schulden-Verhältnis);
-- verwende Stablecoins als Sicherheit;
+- verwende [Stablecoins](/de/glossary/#stablecoin) als Sicherheit;
 - richte Benachrichtigungen ein, wenn du dich der Schwelle näherst;
 - leihe nicht den maximalen Betrag.
 
@@ -180,7 +180,7 @@ Nutze diese Checkliste:
 - [ ] Wie hoch ist der [TVL](/de/glossary/#tvl) (Total Value Locked)? Niedriger TVL (< 1 Mio. $) bedeutet hohes Risiko
 - [ ] Wie lange läuft das Protokoll schon? (6+ Monate ist besser)
 - [ ] Ist der Code quelloffen? Kannst du ihn überprüfen?
-- [ ] Ist die Liquidität gesperrt?
+- [ ] Ist die [Liquidität](/de/glossary/#liquidity) gesperrt?
 - [ ] Wer ist das Team? Gibt es verifizierte Informationen?
 
 ### 2. Jag nicht der Rendite hinterher
@@ -258,4 +258,4 @@ Nein. Audits verringern die Wahrscheinlichkeit von Fehlern, garantieren aber kei
 In der Regel nicht – ihr Kurs fällt oft schneller als die Rendite, die du erwirtschaftest. Tausche Belohnungstoken besser in Stablecoins oder bewährte Assets (ETH, BTC) um.
 
 ### Welcher TVL gilt als sicher?
-Grober Anhaltspunkt: TVL > 100 Mio. $ für große Protokolle, > 10 Mio. $ für mittelgroße. TVL unter 1 Mio. $ ist extrem riskant.
+Grober Anhaltspunkt: [TVL](/de/glossary/#tvl) > 100 Mio. $ für große Protokolle, > 10 Mio. $ für mittelgroße. TVL unter 1 Mio. $ ist extrem riskant.

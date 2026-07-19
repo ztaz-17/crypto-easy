@@ -51,7 +51,7 @@ Kopiere sie **immer**:
 
 - auf dem Handy – langes Drücken → «Kopieren»;
 - am Computer – markieren → Strg+C / Cmd+C;
-- bei einem QR-Code – scanne ihn mit der Kamera deiner Wallet.
+- bei einem QR-Code – scanne ihn mit der Kamera deiner [Wallet](/de/glossary/#wallet).
 
 > Wenn die Adresse in einer Nachricht kam – kopiere sie vollständig, bearbeite sie nicht.
 
@@ -234,7 +234,7 @@ Bevor du auf «Senden» klickst, geh diese Liste durch:
 
 ### Was passiert, wenn ich an die falsche Adresse sende?
 
-Wenn die Adresse gültig ist, aber einer anderen Person gehört – **können die Gelder nicht zurückgeholt werden**. Die Blockchain hat keine «Rückgängig»-Funktion.
+Wenn die Adresse gültig ist, aber einer anderen Person gehört – **können die Gelder nicht zurückgeholt werden**. Die [Blockchain](/de/glossary/#blockchain) hat keine «Rückgängig»-Funktion.
 
 ### Und wenn ich im falschen Netzwerk gesendet habe?
 

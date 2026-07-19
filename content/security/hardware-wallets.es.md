@@ -34,7 +34,7 @@ Imagina: tienes $10,000 en cripto. Los guardas en una aplicación del teléfono 
 
 **En un exchange:** Los exchanges se hackean. FTX, Mt. Gox, Celsius — colapsos sonados por miles de millones de dólares, tras los cuales los usuarios esperan años para recuperar su dinero (y a menudo no lo logran).
 
-**En el teléfono:** Un virus ladrón puede extraer los archivos de tu cartera. Un sitio de phishing puede engañarte para que «confirmes» una transacción que envía todo tu dinero a los estafadores.
+**En el teléfono:** Un virus ladrón puede extraer los archivos de tu [cartera](/es/glossary/#wallet). Un sitio de phishing puede engañarte para que «confirmes» una transacción que envía todo tu dinero a los estafadores.
 
 **Una cartera hardware soluciona ambos problemas:**
 - No puedes perder las claves por un virus — están físicamente inaccesibles

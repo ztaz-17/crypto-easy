@@ -82,13 +82,13 @@ In these cases, the transaction might show as "sent" even after it's been confir
 
 If the mempool is jammed and your fee is rock bottom, some nodes may simply drop the transaction from the pool. It doesn't vanish forever — if it's never rebroadcast, it "evaporates" and the coins stay at your address.
 
-But until you send a new transaction, your funds are effectively "frozen": the network ignores the old one, and you can't send a new one because your wallet thinks those coins are already gone.
+But until you send a new transaction, your funds are effectively "frozen": the network ignores the old one, and you can't send a new one because your [wallet](/en/glossary/#wallet) thinks those coins are already gone.
 
 ---
 
 ## How to Tell If a Transaction Is Really Stuck
 
-Before you panic, check the transaction status on a blockchain explorer:
+Before you panic, check the transaction status on a [blockchain](/en/glossary/#blockchain) explorer:
 
 | Network | Explorer |
 |---------|----------|
@@ -190,7 +190,7 @@ How to do it:
 
 Yes, that's also an option.
 
-On Bitcoin, low-fee transactions can hang for hours or even days. But sooner or later — when the network clears up or someone boosts the fee in that block — your transaction gets in.
+On Bitcoin, low-fee transactions can hang for hours or even days. But sooner or later — when the network clears up or someone boosts the fee in that [block](/en/glossary/#block) — your transaction gets in.
 
 Expected wait times:
 

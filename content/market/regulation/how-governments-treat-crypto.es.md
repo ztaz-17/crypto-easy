@@ -77,7 +77,7 @@ Lo que trae MiCA:
 
 - mucha burocracia para proyectos pequeños;
 - requisitos estrictos de reportes;
-- las stablecoins se tratan básicamente como depósitos bancarios.
+- las [stablecoins](/es/glossary/#stablecoin) se tratan básicamente como depósitos bancarios.
 
 **En resumen:** la UE creó un entorno predecible. Las empresas conocen las reglas, pero la barrera de entrada es alta.
 

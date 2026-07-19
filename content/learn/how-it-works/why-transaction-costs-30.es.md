@@ -67,7 +67,7 @@ Y aquí es donde ocurre la magia del mercado.
 
 ## El Mempool: la batalla por un lugar en el bloque
 
-Cuando envías una transacción, no llega a un bloque de inmediato. Primero va al **mempool** — una sala de espera para transacciones no confirmadas.
+Cuando envías una transacción, no llega a un [bloque](/es/glossary/#block) de inmediato. Primero va al **mempool** — una sala de espera para transacciones no confirmadas.
 
 Todas las transacciones sin confirmar de toda la red se acumulan en una sola fila.
 
@@ -85,7 +85,7 @@ En cualquier momento, el mempool puede contener:
 
 Imagina un minibús lleno de gente en hora pico. Hay 20 asientos, pero 100 personas quieren subir. El conductor acepta a quien pague más.
 
-La blockchain funciona igual.
+La [blockchain](/es/glossary/#blockchain) funciona igual.
 
 Bitcoin usa un **tamaño de bloque fijo** (1–4 MB). Ethereum tiene un límite de gas objetivo (30 millones de gas). Los bloques de Solana también son limitados, pero su arquitectura puede manejar muchas más transacciones por segundo.
 

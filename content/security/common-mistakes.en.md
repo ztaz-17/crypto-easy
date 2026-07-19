@@ -39,7 +39,7 @@ You transferred USDT from Binance to MetaMask. You chose **BEP-20** (BSC). But y
 
 ### Why it happens
 
-Mismatched network. You sent tokens to the right address but the wrong network — and they "disappear" from view. **The tokens are NOT lost.** They're sitting on your address, just in a different network.
+Mismatched network. You sent [tokens](/en/glossary/#token) to the right address but the wrong network — and they "disappear" from view. **The tokens are NOT lost.** They're sitting on your address, just in a different network.
 
 ### How to fix it
 
@@ -63,7 +63,7 @@ Only if you sent to an **address that isn't yours** (typo in the address). [Bloc
 
 ### The situation
 
-You wrote your seed phrase on paper. Six months later, new phone, reinstall MetaMask — and the paper is gone. ~2 ETH on the wallet.
+You wrote your [seed phrase](/en/glossary/#seed-phrase) on paper. Six months later, new phone, reinstall MetaMask — and the paper is gone. ~2 ETH on the [wallet](/en/glossary/#wallet).
 
 ### Why it's critical
 

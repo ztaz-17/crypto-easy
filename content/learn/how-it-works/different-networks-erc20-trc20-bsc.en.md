@@ -97,7 +97,7 @@ The funds are **not lost forever**, but you'll need to recover them. And that's 
 
 ### Scenario 3: The Exchange Doesn't Accept Tokens on a Different Network
 
-Some exchanges only accept USDT on specific networks. If you send USDT on Solana to an exchange wallet that only accepts ERC20, **the deposit won't be credited**.
+Some exchanges only accept USDT on specific networks. If you send USDT on Solana to an exchange [wallet](/en/glossary/#wallet) that only accepts ERC20, **the deposit won't be credited**.
 
 Exchange support can help, but:
 
@@ -254,7 +254,7 @@ In most cases — no. If you sent it to your own address or an exchange address,
 
 ### Why do different networks exist for the same token?
 
-Each blockchain is an independent system. USDT is issued on many blockchains so users can choose the network with the fees and speed that suit them best.
+Each [blockchain](/en/glossary/#blockchain) is an independent system. USDT is issued on many blockchains so users can choose the network with the fees and speed that suit them best.
 
 ### Which network is best for USDT?
 

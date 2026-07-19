@@ -55,7 +55,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 | **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in [DApp](/en/glossary/#dapp) browser |
 | **Exodus**        | Desktop / Mobile  | Beautiful interface, built-in exchange |
 | **Phantom**       | Browser / Mobile  | Optimized for Solana                  |
-| **Coinbase Wallet**| Mobile / Extension| Integrated with exchange, non-custodial |
+| **Coinbase [Wallet](/en/glossary/#wallet)**| Mobile / Extension| Integrated with exchange, non-custodial |
 
 👉 All these wallets are **non-custodial**: the keys are stored with you, not the company.
 
@@ -109,7 +109,7 @@ The most popular option is a **hardware wallet**.
 
 1. You buy the device (e.g., Ledger).
 2. On first boot, it generates keys **inside itself**, without going online.
-3. The device shows you a seed phrase — you write it down on paper.
+3. The device shows you a [seed phrase](/en/glossary/#seed-phrase) — you write it down on paper.
 4. To send a transaction:
    - you create it in the app (Ledger Live);
    - connect the device via USB;
@@ -170,9 +170,9 @@ You:
 
 - buy coffee with crypto;
 - send money to friends;
-- use DeFi apps.
+- use [DeFi](/en/glossary/#defi) apps.
 
-👉 You need a **hot wallet** (MetaMask, Trust Wallet). Keep a small amount there — what you're willing to lose in case of a hack.
+👉 You need a **[hot wallet](/en/glossary/#hot-wallet)** (MetaMask, Trust Wallet). Keep a small amount there — what you're willing to lose in case of a hack.
 
 ### Scenario 2: "Long-Term Savings"
 
@@ -182,7 +182,7 @@ You:
 - keep savings in [stablecoins](/en/glossary/#stablecoin);
 - are afraid the exchange will get hacked.
 
-👉 You need a **cold wallet** (Ledger, Trezor). Keep 80–90% of your assets there.
+👉 You need a **[cold wallet](/en/glossary/#cold-wallet)** (Ledger, Trezor). Keep 80–90% of your assets there.
 
 ### Scenario 3: "The Golden Middle" (Recommended)
 

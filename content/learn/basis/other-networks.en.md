@@ -104,9 +104,9 @@ Dogecoin started as a joke back in 2013 — a [cryptocurrency](/en/glossary/#cry
 
 ## Hyperliquid (HYPE) — Decentralized Exchange
 
-Hyperliquid is a blockchain built specifically for decentralized derivatives trading. It runs on its own HyperBFT consensus, delivering centralized-exchange speed.
+Hyperliquid is a [blockchain](/en/glossary/#blockchain) built specifically for [decentralized](/en/glossary/#decentralization) derivatives trading. It runs on its own HyperBFT consensus, delivering centralized-exchange speed.
 
-**Main selling point:** The first DEX to process $1 trillion in cumulative trading volume.
+**Main selling point:** The first [DEX](/en/glossary/#dex) to process $1 trillion in cumulative trading volume.
 
 **Key events in 2025–2026:**
 - Hyperliquid crossed the $1 trillion cumulative trading volume mark, becoming the largest derivatives DEX.
@@ -119,7 +119,7 @@ Hyperliquid is a blockchain built specifically for decentralized derivatives tra
 
 ## LEO Token (UNUS SED LEO) — Bitfinex's Token
 
-LEO is the ecosystem token of Bitfinex and its related projects (Tether, Bitfinex Securities, Capital Markets). It gives you trading fee discounts and is burned using platform revenue.
+LEO is the ecosystem [token](/en/glossary/#token) of Bitfinex and its related projects (Tether, Bitfinex Securities, Capital Markets). It gives you trading fee discounts and is burned using platform revenue.
 
 **Main selling point:** LEO is practically non-volatile — in 2025–2026 it traded in a tight $8–10.5 range, because its price is supported by Bitfinex's buyback program.
 
@@ -136,7 +136,7 @@ LEO is the ecosystem token of Bitfinex and its related projects (Tether, Bitfine
 
 Bitcoin Cash split off from Bitcoin in 2017 over a scaling dispute. The core idea: bigger [blocks](/en/glossary/#block) = more transactions = a payment system for everyday purchases.
 
-**Main selling point:** Block size was increased to 64 MB (after the 2026 upgrade) — up to 15,000 TPS.
+**Main selling point:** [Block](/en/glossary/#block) size was increased to 64 MB (after the 2026 upgrade) — up to 15,000 TPS.
 
 **Key events in 2025–2026:**
 - The "BlackRock" hard [fork](/en/glossary/#fork): 64 MB blocks + Schnorr multisignatures for privacy.
@@ -164,7 +164,7 @@ Cardano is a blockchain built on peer-reviewed academic research. It's one of th
 
 ## Monero (XMR) — the King of Privacy
 
-Monero is the most popular private cryptocurrency. Unlike Bitcoin, where every transaction is visible on the explorer, Monero hides the sender, receiver, and amount.
+Monero is the most popular private [cryptocurrency](/en/glossary/#cryptocurrency). Unlike Bitcoin, where every transaction is visible on the explorer, Monero hides the sender, receiver, and amount.
 
 **Main selling point:** Every transaction is a mix of several fake fingerprints (ring signatures) plus a hidden amount (RingCT).
 
@@ -216,7 +216,7 @@ Toncoin is a blockchain created by the Telegram team (originally Telegram Open N
 **Key events in 2025–2026:**
 - 100 million active [wallets](/en/glossary/#wallet) per month — a record growth rate.
 - Telegram "Stars" (in-app currency) migrated to the TON blockchain — 900 million users got an on-chain experience.
-- TON Society + DWF Labs launched a $500 million fund for DeFi, games, and AI agents on TON.
+- TON Society + DWF Labs launched a $500 million fund for [DeFi](/en/glossary/#defi), games, and AI agents on TON.
 
 > TON is crypto for the masses: a wallet inside Telegram with a ready-made audience. If you want to try cryptocurrencies without installing third-party apps — start with TON.
 
@@ -229,7 +229,7 @@ Toncoin is a blockchain created by the Telegram team (originally Telegram Open N
 | XRP | Bank transfers | ~$85B | $1.39 |
 | BNB | Binance ecosystem | ~$35B* | ~$452 |
 | Solana | Speed and scale | ~$48B | $83.78 |
-| TRON | Stablecoins and entertainment | ~$31B | $0.33 |
+| TRON | [Stablecoins](/en/glossary/#stablecoin) and entertainment | ~$31B | $0.33 |
 | Dogecoin | Meme coin with a community | ~$17B | $0.11 |
 | Hyperliquid | DEX derivatives | ~$9.8B | $41.16 |
 | LEO | Bitfinex utility token | ~$9.5B | $10.34 |

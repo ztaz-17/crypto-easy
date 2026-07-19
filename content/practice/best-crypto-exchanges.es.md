@@ -91,7 +91,7 @@ Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your key
 - **Seguridad**: chip secure element certificado (CC EAL5+)
 - **Soporta**: 5,500+ [criptomonedas](/es/glossary/#cryptocurrency)
 - **App**: Ledger Live — gestiona todo desde un panel
-- **Staking**: hasta 12% APY directamente desde la wallet
+- **[Staking](/es/glossary/#staking)**: hasta 12% APY directamente desde la wallet
 - **Modelos**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
 
 👉 [Consigue Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (enlace de referido)
@@ -104,7 +104,7 @@ Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your key
 **Trezor** (de SatoshiLabs) tiene firmware completamente open-source — cada línea de código puede ser auditada independientemente. Ideal para usuarios que priorizan la privacidad.
 
 - **Seguridad**: firmware open-source verificado por la comunidad
-- **Soporta**: 1,800+ criptomonedas
+- **Soporta**: 1,800+ [criptomonedas](/es/glossary/#cryptocurrency)
 - **Funciones avanzadas**: Shamir Backup (divide tu seed en partes), U2F para seguridad web
 - **Modelos**: Trezor Safe 3 ($79), Trezor Safe 5 ($169)
 - **Extra**: soporta FIDO2 para inicio de sesión seguro
@@ -113,7 +113,7 @@ Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your key
 
 ## ¿Qué Exchange Debe Elegir un Principiante?
 
-**Si solo quieres probar cripto** — empieza con **Bybit**. Comisiones bajas, opciones P2P y un buen bono de primer depósito.
+**Si solo quieres probar cripto** — empieza con **Bybit**. Comisiones bajas, opciones [P2P](/es/glossary/#p2p) y un buen bono de primer depósito.
 
 **Si la seguridad es tu prioridad** — elige **Kraken**. El exchange más antiguo con excelente reputación, aunque la interfaz es un poco más compleja.
 

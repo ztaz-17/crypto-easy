@@ -68,7 +68,7 @@ Aquí hay otra pieza importante: la **[liquidez](/es/glossary/#liquidity)**.
 
 La [liquidez](/es/glossary/#liquidity) es qué tan rápido compras o vendes un activo sin mover mucho el precio.
 
-En los exchanges grandes (Binance, Bybit) la liquidez es alta — puedes vender $100,000 y el precio apenas se inmuta.
+En los exchanges grandes (Binance, Bybit) la [liquidez](/es/glossary/#liquidity) es alta — puedes vender $100,000 y el precio apenas se inmuta.
 
 Pero con monedas pequeñas y de baja liquidez, un solo vendedor grande puede hundir el precio un 20-30% en segundos.
 
@@ -99,7 +99,7 @@ Las cripto siguen en "zona gris" en muchos países. Y cualquier declaración de 
 - **noticias positivas:** legalización de Bitcoin en un país, lanzamiento de ETFs, aprobaciones de exchanges;
 - **noticias negativas:** prohibiciones, restricciones, cierres de exchanges.
 
-Ejemplo: Cuando China anunció su prohibición de minería en 2021, Bitcoin cayó de $65,000 a $30,000 en pocas semanas.
+Ejemplo: Cuando China anunció su prohibición de [minería](/es/glossary/#mining) en 2021, Bitcoin cayó de $65,000 a $30,000 en pocas semanas.
 
 Y cuando EE.UU. aprobó los ETFs al contado de Bitcoin a principios de 2024, el precio subió de $44,000 a $73,000.
 
@@ -172,7 +172,7 @@ Cuando una [ballena](/es/glossary/#whale) vende un lote grande:
 - otros participantes la ven y empiezan a vender también;
 - el precio baja.
 
-Cuando una ballena compra:
+Cuando una [ballena](/es/glossary/#whale) compra:
 - genera presión alcista;
 - otros la siguen — el precio sube.
 

@@ -48,7 +48,7 @@ En este artículo cubriremos:
 
 Lo mismo pasa en cripto:
 
-- **Bitcoin en Binance** — alta liquidez. Puedes vender $50,000 en segundos y el precio apenas se mueve.
+- **Bitcoin en Binance** — alta [liquidez](/es/glossary/#liquidity). Puedes vender $50,000 en segundos y el precio apenas se mueve.
 - **Un [token](/es/glossary/#token) oscuro en un exchange pequeño** — baja liquidez. Incluso una orden de venta de $1,000 puede mover el precio un 10-20%.
 
 ### Por qué importa
@@ -151,7 +151,7 @@ Con baja liquidez, una sola orden grande puede mover el precio un 20-30% en un s
 
 Ejemplo: en un exchange pequeño, las órdenes de venta suman solo 100 monedas hasta $50. Alguien decide comprar $10,000. Su orden se come todas las órdenes de venta hasta $70, y el precio se dispara al instante.
 
-Esto es el **deslizamiento en su forma más pura**. Y funciona en ambos sentidos:
+Esto es el **[deslizamiento](/es/glossary/#slippage) en su forma más pura**. Y funciona en ambos sentidos:
 
 - compraste a $50 — el precio saltó a $70;
 - quieres vender — el comprador más cercano está a $40.
@@ -212,7 +212,7 @@ Como referencia: el volumen diario de Bitcoin es de $10-30 mil millones. El spre
 | Alta | 0.01-0.1% | $100M-1B | Mínimo | Altcoins del top-10 |
 | Media | 0.1-0.5% | $10-100M | Notable | Altcoins de mediana capitalización |
 | Baja | 0.5-2% | $1-10M | Fuerte | Altcoins pequeñas |
-| Muy baja | > 2% | < $1M | Crítico | Shitcoins, tokens nuevos |
+| Muy baja | > 2% | < $1M | Crítico | Shitcoins, [tokens](/es/glossary/#token) nuevos |
 
 ---
 

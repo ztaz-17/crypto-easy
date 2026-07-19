@@ -13,7 +13,7 @@ Crypto Easy es un proyecto educativo sin ánimo de lucro sobre [criptomonedas](/
 
 ## Por qué lo hacemos
 
-Las criptomonedas ya no son una tecnología de nicho. Millones de personas las usan para transferencias, ahorros e inversiones. Pero la mayoría de los materiales son demasiado técnicos o directamente engañosos.
+Las [criptomonedas](/es/glossary/#cryptocurrency) ya no son una tecnología de nicho. Millones de personas las usan para transferencias, ahorros e inversiones. Pero la mayoría de los materiales son demasiado técnicos o directamente engañosos.
 
 Escribimos como nos gustaría que nos lo hubieran explicado a nosotros.
 

@@ -95,7 +95,7 @@ People who held their savings in lira were losing money just standing still.
 
 ### Why Turks Are Mass-Buying USDT
 
-Turkey is one of the biggest **stablecoin** markets in the world. According to Chainalysis, Turkey ranks in the top 5 countries by crypto transaction volume.
+Turkey is one of the biggest **[stablecoin](/en/glossary/#stablecoin)** markets in the world. According to Chainalysis, Turkey ranks in the top 5 countries by crypto transaction volume.
 
 The reason is simple:
 
@@ -173,7 +173,7 @@ Africa is the fastest-growing region for crypto adoption in the world.
 | Country          | Crypto Adoption Level                       | Main Reason                                 |
 |------------------|---------------------------------------------|---------------------------------------------|
 | Nigeria          | One of the highest globally (>30% of adults)| Naira collapse, currency restrictions       |
-| Kenya            | Mass P2P transfers                          | Lack of banking infrastructure              |
+| Kenya            | Mass [P2P](/en/glossary/#p2p) transfers                          | Lack of banking infrastructure              |
 | South Africa     | Growing market                              | Market instability, distrust of banks       |
 
 ### Why Crypto Is So Popular in Africa
@@ -251,7 +251,7 @@ In countries with troubled economies, [cryptocurrency](/en/glossary/#cryptocurre
 
 ## Conclusion
 
-We're used to thinking of cryptocurrency as something distant: "Bitcoin," "investing," "volatility."
+We're used to thinking of [cryptocurrency](/en/glossary/#cryptocurrency) as something distant: "Bitcoin," "investing," "volatility."
 
 But for millions of people in Venezuela, Turkey, Argentina, and Africa, crypto is the only way to **hold on to their money**.
 

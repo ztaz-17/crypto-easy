@@ -69,7 +69,7 @@ Las finanzas tradicionales se basan en intermediarios:
 
 ## Cómo funciona DeFi
 
-DeFi se apoya en tres componentes clave:
+[DeFi](/es/glossary/#defi) se apoya en tres componentes clave:
 
 ### 1. Blockchain
 
@@ -116,7 +116,7 @@ No hay «libros de órdenes» como en un exchange tradicional. No hay «tu orden
 
 Cómo funciona:
 
-- depositas tokens en un fondo (por ejemplo, USDC);
+- depositas [tokens](/es/glossary/#token) en un fondo (por ejemplo, USDC);
 - los prestatarios los toman dejando otros tokens como garantía;
 - los intereses se pagan automáticamente;
 - si la garantía baja de valor — el contrato inteligente la vende automáticamente (liquidación).
@@ -222,7 +222,7 @@ Para nada. DeFi también existe en Solana, Polygon, Avalanche, BNB Chain, Arbitr
 Sí. Los riesgos incluyen errores en contratos inteligentes, caídas del mercado, pérdida de claves y estafas.
 
 ### ¿Qué necesito para empezar?
-Internet, una cartera (MetaMask) y un poco de cripto para las comisiones de gas. No necesitas identificación.
+Internet, una [cartera](/es/glossary/#wallet) (MetaMask) y un poco de cripto para las comisiones de gas. No necesitas identificación.
 
 ### ¿Es DAI una stablecoin confiable?
-DAI se considera una de las stablecoins descentralizadas más confiables, pero no está exenta de riesgos de mercado.
+DAI se considera una de las [stablecoins](/es/glossary/#stablecoin) descentralizadas más confiables, pero no está exenta de riesgos de mercado.

@@ -34,7 +34,7 @@ Imagine this: you've got $10,000 in crypto sitting in an app on your phone or on
 
 **On an exchange:** Exchanges get hacked. FTX, Mt. Gox, Celsius — headline-grabbing collapses worth billions of dollars, where users wait years to get their funds back (and often never do).
 
-**On your phone:** A malware stealer can swipe your wallet files. A phishing site can trick you into "confirming" a transaction that drains everything to the scammers.
+**On your phone:** A malware stealer can swipe your [wallet](/en/glossary/#wallet) files. A phishing site can trick you into "confirming" a transaction that drains everything to the scammers.
 
 **A hardware wallet solves both problems:**
 - You can't lose your keys to a virus — they're physically unreachable
@@ -95,7 +95,7 @@ Both apps will walk you through the setup process.
 
 ### Step 3: Create Your Seed Phrase
 
-Your seed phrase (also called a recovery phrase or mnemonic phrase) is 12 or 24 words that can restore access to your wallet.
+Your [seed phrase](/en/glossary/#seed-phrase) (also called a recovery phrase or mnemonic phrase) is 12 or 24 words that can restore access to your wallet.
 
 **Critical rules:**
 - **Never share your seed phrase with anyone.** Not Ledger support, not an "exchange employee," not a "miner" — nobody will ever legitimately ask for it

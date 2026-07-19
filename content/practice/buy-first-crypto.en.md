@@ -52,7 +52,7 @@ The most popular and convenient way. Register on an exchange, fund your account,
 
 ### Quick steps:
 1. Register on Coinbase, Binance, or Bybit
-2. Fund your account (card, P2P, or transfer)
+2. Fund your account (card, [P2P](/en/glossary/#p2p), or transfer)
 3. Buy your coin (USDT, BTC, ETH)
 4. **Crucial!** Withdraw to your own [wallet](/en/glossary/#wallet) (MetaMask, Trust Wallet)
 
@@ -62,7 +62,7 @@ The most popular and convenient way. Register on an exchange, fund your account,
 
 ## What is KYC?
 
-KYC (Know Your Customer) is identity verification that exchanges are legally required to perform. Usually involves uploading a photo of your ID or passport and a selfie.
+[KYC](/en/glossary/#kyc) (Know Your Customer) is identity verification that exchanges are legally required to perform. Usually involves uploading a photo of your ID or passport and a selfie.
 
 ### Do you need it?
 - **Under $500-1000**: usually optional, limited but functional
@@ -101,7 +101,7 @@ Buy crypto directly from another person. The exchange acts as escrow.
 
 ## Method 3: Instant Swap Services
 
-Services like **Mercuryo, MoonPay, Guardarian** — you pay by card, crypto arrives in your wallet within minutes.
+Services like **Mercuryo, MoonPay, Guardarian** — you pay by card, crypto arrives in your [wallet](/en/glossary/#wallet) within minutes.
 
 ### Best for:
 - Quick small purchases ($10-500)

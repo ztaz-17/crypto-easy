@@ -89,7 +89,7 @@ Las reacciones de los gobiernos son predecibles.
 
 **China** — en 2021 prohibió completamente todas las operaciones con crypto, incluyendo la [minería](/es/glossary/#mining). Los exchanges fueron cerrados, las transacciones bloqueadas.
 
-**Nigeria** — en 2021 el banco central prohibió que los bancos prestaran servicios a exchanges de crypto. Motivo: una fuga masiva hacia las crypto debido a la inflación de la naira.
+**Nigeria** — en 2021 el banco central prohibió que los bancos prestaran servicios a exchanges de crypto. Motivo: una fuga masiva hacia las crypto debido a la [inflación](/es/glossary/#inflation) de la naira.
 
 **Argelia, Nepal, Egipto** — prohibiciones totales o parciales de las crypto.
 
@@ -149,7 +149,7 @@ Requisitos para los exchanges:
 
 Así funciona el **IRS** en EE. UU. (exige informes de cada transacción), así trabajan los reguladores en Europa (MiCA), y así intentan funcionar en otros países.
 
-Pero el problema es que las crypto son globales. Cuando un exchange cierra, los usuarios se mudan a exchanges descentralizados (DEXs) o plataformas P2P.
+Pero el problema es que las crypto son globales. Cuando un exchange cierra, los usuarios se mudan a exchanges descentralizados (DEXs) o plataformas [P2P](/es/glossary/#p2p).
 
 ---
 
@@ -211,7 +211,7 @@ Según las investigaciones, alrededor de 50 países han introducido prohibicione
 
 Prohibición total (usar crypto es ilegal):
 
-- **China** — operaciones, minería y exchanges prohibidos;
+- **China** — operaciones, [minería](/es/glossary/#mining) y exchanges prohibidos;
 - **Argelia** — responsabilidad penal;
 - **Nepal** — todas las operaciones prohibidas;
 - **Egipto** — prohibido por motivos religiosos y legales.
@@ -240,7 +240,7 @@ Prohibir las crypto es como prohibir internet. Puedes intentarlo técnicamente, 
 Razones:
 
 1. Las crypto no tienen un servidor central. No puedes simplemente "apagarlas".
-2. La blockchain funciona con miles de nodos en todo el mundo.
+2. La [blockchain](/es/glossary/#blockchain) funciona con miles de nodos en todo el mundo.
 3. El intercambio P2P no requiere intermediarios.
 
 ### Ejemplo: China
@@ -325,7 +325,7 @@ Piénsalo:
 
 A los gobiernos no les gustan las crypto. Y eso es normal.
 
-Las criptomonedas amenazan:
+Las [criptomonedas](/es/glossary/#cryptocurrency) amenazan:
 - el monopolio de la emisión de dinero;
 - el sistema de control fiscal;
 - la capacidad de gestionar el capital;

@@ -51,7 +51,7 @@ Si hace 5 años con 100€ comprabas el carrito del supermercado lleno, hoy con 
 
 ### Inflación Real vs. Inflación Oficial
 
-Los gobiernos publican cifras de inflación oficial. Pero hay un problema:
+Los gobiernos publican cifras de [inflación](/es/glossary/#inflation) oficial. Pero hay un problema:
 
 > **La inflación que tú sientes casi siempre es mayor que la que anuncian.**
 
@@ -275,4 +275,4 @@ No. El efectivo físico no genera intereses y pierde valor exactamente igual que
 
 ### ¿Las criptomonedas resuelven el problema de la inflación?
 
-Depende. Las stablecoins protegen contra la inflación de tu moneda local al estar vinculadas al dólar. Bitcoin, con su oferta limitada, ha demostrado ser una reserva de valor a largo plazo, aunque con alta volatilidad a corto plazo. Ninguna es perfecta, pero ambas ofrecen algo que el sistema bancario no da: **control real sobre tu dinero** y una protección contra la devaluación monetaria.
+Depende. Las [stablecoins](/es/glossary/#stablecoin) protegen contra la inflación de tu moneda local al estar vinculadas al dólar. Bitcoin, con su oferta limitada, ha demostrado ser una reserva de valor a largo plazo, aunque con alta volatilidad a corto plazo. Ninguna es perfecta, pero ambas ofrecen algo que el sistema bancario no da: **control real sobre tu dinero** y una protección contra la devaluación monetaria.

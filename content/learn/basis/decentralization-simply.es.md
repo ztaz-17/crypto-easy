@@ -121,7 +121,7 @@ Funciona en cualquier lugar con internet. No depende de fronteras nacionales ni 
 
 La [descentralización](/es/glossary/#decentralization) no es un "botón mágico" que resuelve todos los problemas. Es un **intercambio**: renuncias a velocidad por confiabilidad, a simplicidad por control, a soporte por libertad, a comodidad por seguridad.
 
-Para pagos cotidianos, la centralización es más conveniente. Pero para almacenar riqueza y resiliencia — la descentralización es la única opción.
+Para pagos cotidianos, la centralización es más conveniente. Pero para almacenar riqueza y resiliencia — la [descentralización](/es/glossary/#decentralization) es la única opción.
 
 > **En un sistema centralizado, te pueden bloquear. En uno descentralizado — no.**
 
@@ -139,4 +139,4 @@ Sí. Si la mayoría de los nodos o del poder de [minería](/es/glossary/#mining)
 
 ### ¿Qué tan descentralizado es Bitcoin realmente?
 
-Lo suficientemente descentralizado como para que ningún gobierno pueda apagarlo por sí solo. Pero la minería está bastante concentrada en China, EE.UU. y Kazajistán. La descentralización perfecta no existe.
+Lo suficientemente descentralizado como para que ningún gobierno pueda apagarlo por sí solo. Pero la [minería](/es/glossary/#mining) está bastante concentrada en China, EE.UU. y Kazajistán. La descentralización perfecta no existe.

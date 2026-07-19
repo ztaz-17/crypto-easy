@@ -47,7 +47,7 @@ keywords:
 - **[Стейкинг](/ru/glossary/#staking)**: доходность до 12% годовых прямо на бирже
 - **Kraken Education**: встроенный раздел обучения (запущен в июле 2026)
 
-Из минусов — нет российских карт напрямую, только P2P или через сторонние сервисы.
+Из минусов — нет российских карт напрямую, только [P2P](/ru/glossary/#p2p) или через сторонние сервисы.
 
 👉 [Зарегистрироваться на Kraken](https://www.kraken.com/sign-up?referral=cryptoeasy) (реферальная ссылка)
 
@@ -92,7 +92,7 @@ keywords:
 - **Безопасность**: сертифицированный secure element chip (CC EAL5+)
 - **Поддерживает**: 5 500+ [криптовалют](/ru/glossary/#cryptocurrency)
 - **Приложение**: Ledger Live — всё управление в одном дашборде
-- **Стейкинг**: до 12% годовых прямо из кошелька
+- **[Стейкинг](/ru/glossary/#staking)**: до 12% годовых прямо из [кошелька](/ru/glossary/#wallet)
 - **Модели**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
 
 👉 [Купить Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (реферальная ссылка)

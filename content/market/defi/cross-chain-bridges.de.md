@@ -39,7 +39,7 @@ In diesem Artikel erfährst du:
 
 Die meisten [Brücken](/de/glossary/#bridge) folgen dem gleichen Prinzip:
 
-1. Du schickst dein Asset (z. B. ETH) an den **Bridge-Vertrag** im Quellnetzwerk.
+1. Du schickst dein Asset (z. B. ETH) an den **[Bridge](/de/glossary/#bridge)-Vertrag** im Quellnetzwerk.
 2. Die Brücke **sperrt** dieses Asset.
 3. Eine gepackte Version wird im Zielnetzwerk **geprägt**.
 
@@ -148,7 +148,7 @@ Die sicherste Option ist eine Brücke, die vom eigenen Team der [Blockchain](/de
 - **[zkSync Bridge](https://bridge.zksync.io)** — für zkSync.
 - **[Polygon PoS Bridge](https://portal.polygon.technology)** — für Polygon.
 
-👉 Diese Brücken haben weniger Angriffspunkte, weil das Vertrauen im Grunde auf die Blockchain selbst reduziert wird.
+👉 Diese Brücken haben weniger Angriffspunkte, weil das Vertrauen im Grunde auf die [Blockchain](/de/glossary/#blockchain) selbst reduziert wird.
 
 ### ✅ Kampferprobte dezentrale Brücken
 
@@ -187,7 +187,7 @@ Wichtig:
 
 Um das Original zurückzubekommen, musst du zurückbrücken.
 
-Verschiedene Netzwerke — verschiedene Token:
+Verschiedene Netzwerke — verschiedene [Token](/de/glossary/#token):
 
 | Asset | Netzwerk | Vertragsadresse (Beispiel) |
 |-------|----------|---------------------------|

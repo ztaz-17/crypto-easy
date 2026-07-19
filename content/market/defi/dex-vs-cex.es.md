@@ -79,7 +79,7 @@ Los intercambios funcionan mediante una fórmula matemática:
 
 > **x * y = k**
 
-Donde x es la cantidad del token A en el pool, y es la cantidad del token B, y k es una constante. Cuando compras token A, su cantidad en el pool baja y la del token B sube. El precio se desplaza proporcionalmente al saldo.
+Donde x es la cantidad del [token](/es/glossary/#token) A en el pool, y es la cantidad del token B, y k es una constante. Cuando compras token A, su cantidad en el pool baja y la del token B sube. El precio se desplaza proporcionalmente al saldo.
 
 Cuanto más profundo es el pool — menos [deslizamiento](/es/glossary/#slippage) (slippage) en tu intercambio.
 
@@ -89,7 +89,7 @@ Tus fondos permanecen en tu wallet todo el tiempo. Conectas MetaMask, Rabby, Pha
 
 > Un DEX nunca tiene control sobre tu dinero. Solo tú.
 
-**Sin KYC**
+**Sin [KYC](/es/glossary/#kyc)**
 
 Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo que un [DEX](/es/glossary/#dex) necesita ver es tu dirección de wallet.
 
@@ -103,12 +103,12 @@ Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo
 | **Registro** | Correo + KYC (pasaporte) | No necesario |
 | **Tecnología** | Libro de órdenes | AMM (pools de [liquidez](/es/glossary/#liquidity)) |
 | **Tipos de órdenes** | Límite, mercado, stop-loss | Solo mercado (swap) |
-| **Liquidez** | Alta (los exchanges reúnen a millones de traders) | Media (depende de la profundidad del pool) |
+| **[Liquidez](/es/glossary/#liquidity)** | Alta (los exchanges reúnen a millones de traders) | Media (depende de la profundidad del pool) |
 | **Comisiones** | 0.02–0.1% (maker/taker) | 0.05–1% (comisión del pool) + gas de red |
 | **Velocidad** | Instantánea (sistema interno) | Depende de la [blockchain](/es/glossary/#blockchain) (segundos–minutos) |
 | **Pares disponibles** | [Fiat](/es/glossary/#fiat) + cripto, muchos pares | Solo cripto a cripto |
 | **Entrada de [fiat](/es/glossary/#fiat)** | Sí (tarjetas, transferencias bancarias) | No (solo cripto) |
-| **Cantidad de activos** | Cientos–miles (decidido por el exchange) | Todo lo que esté en la blockchain (cualquier token) |
+| **Cantidad de activos** | Cientos–miles (decidido por el exchange) | Todo lo que esté en la [blockchain](/es/glossary/#blockchain) (cualquier token) |
 | **Herramientas avanzadas** | Futuros, margen, [staking](/es/glossary/#staking), [P2P](/es/glossary/#p2p) | Servicio básico — swap |
 | **Regulación** | Cumple con las leyes locales | De facto no regulado |
 | **Riesgos** | Hackeos al exchange, congelación de cuenta, bloqueo de retiros | Bugs en contratos, rug pulls, pérdida de claves |
@@ -119,7 +119,7 @@ Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo
 
 ### 1️⃣ Quieres Comprar Cripto con Fiat
 
-El CEX es la única forma fácil de comprar bitcoin con pesos, dólares o euros. Tarjeta bancaria → Binance → BTC. No puedes ir a un DEX con fiat — necesitas tener cripto listo.
+El [CEX](/es/glossary/#cex) es la única forma fácil de comprar bitcoin con pesos, dólares o euros. Tarjeta bancaria → Binance → BTC. No puedes ir a un [DEX](/es/glossary/#dex) con [fiat](/es/glossary/#fiat) — necesitas tener cripto listo.
 
 ### 2️⃣ Necesitas Alta Liquidez y Órdenes Precisas
 
@@ -203,7 +203,7 @@ Sí. Según las leyes de la mayoría de países, cualquier venta o intercambio d
 
 ### ¿Por qué el precio en un DEX a veces es peor que en un CEX?
 
-Por el mecanismo AMM. En intercambios grandes, el pool sufre deslizamiento (slippage) — el precio se mueve en tu contra. En un CEX, el libro de órdenes suele ser más profundo, especialmente para pares populares.
+Por el mecanismo AMM. En intercambios grandes, el pool sufre [deslizamiento](/es/glossary/#slippage) (slippage) — el precio se mueve en tu contra. En un CEX, el libro de órdenes suele ser más profundo, especialmente para pares populares.
 
 ### ¿Puedo usar ambos exchanges?
 

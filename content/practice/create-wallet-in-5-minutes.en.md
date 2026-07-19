@@ -33,7 +33,7 @@ A crypto [wallet](/en/glossary/#wallet) is a program that stores the **keys** to
 
 Important: the coins themselves are not stored in the wallet — they live on the **[blockchain](/en/glossary/#blockchain)**. The wallet just gives you access to them.
 
-A wallet has two keys:
+A [wallet](/en/glossary/#wallet) has two keys:
 - **Public key** (wallet address) — you can give this to anyone to receive money.
 - **[Private key](/en/glossary/#private-key)** ([seed phrase](/en/glossary/#seed-phrase)) — this is the password to all your money. Never show it to anyone.
 
@@ -193,7 +193,7 @@ Congratulations, you've created a wallet! Now the most important thing — don't
 
 | ✅ Do | ❌ Don't |
 |---|---|
-| Store your seed phrase on paper in a safe place | Don't store the phrase on your phone, cloud, or screenshots |
+| Store your [seed phrase](/en/glossary/#seed-phrase) on paper in a safe place | Don't store the phrase on your phone, cloud, or screenshots |
 | Make a copy of the phrase (second paper in another location) | Don't enter the phrase on websites or apps |
 | Set a password on your device | Don't send the phrase via messengers (even to yourself) |
 | Check the website address before connecting your wallet | Don't trust people who DM you pretending to be support |

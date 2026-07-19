@@ -68,7 +68,7 @@ Here's another important piece: **[liquidity](/en/glossary/#liquidity)**.
 
 [Liquidity](/en/glossary/#liquidity) means how quickly you can buy or sell an asset without moving the price too much.
 
-On major exchanges (Binance, Bybit) liquidity is high — you can sell $100,000 and the price barely flinches.
+On major exchanges (Binance, Bybit) [liquidity](/en/glossary/#liquidity) is high — you can sell $100,000 and the price barely flinches.
 
 But with small, low-liquidity coins, one big seller can crash the price 20-30% in seconds.
 
@@ -99,7 +99,7 @@ Crypto is still in a "grey area" in many countries. And any statement from a reg
 - **positive news:** Bitcoin legalization in a country, ETF launch, exchange approvals;
 - **negative news:** bans, restrictions, exchange shutdowns.
 
-Example: When China announced its mining ban in 2021, Bitcoin dropped from $65,000 to $30,000 in a few weeks.
+Example: When China announced its [mining](/en/glossary/#mining) ban in 2021, Bitcoin dropped from $65,000 to $30,000 in a few weeks.
 
 And when the US approved spot Bitcoin ETFs in early 2024, the price climbed from $44,000 to $73,000.
 
@@ -172,7 +172,7 @@ When a [whale](/en/glossary/#whale) sells a big batch:
 - other participants see it and start selling too;
 - the price drops.
 
-When a whale buys:
+When a [whale](/en/glossary/#whale) buys:
 - it creates upward pressure;
 - others follow — the price rises.
 

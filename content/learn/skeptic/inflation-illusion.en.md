@@ -68,7 +68,7 @@ If you:
 * buy electronics;
 * travel;
 
-…your **personal inflation** might not be 6%, but 10–15%.
+…your **personal [inflation](/en/glossary/#inflation)** might not be 6%, but 10–15%.
 
 This is called **[inflation](/en/glossary/#inflation)** — and it can be hidden.
 

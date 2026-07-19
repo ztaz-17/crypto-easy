@@ -54,7 +54,7 @@ Analogía simple:
 
 > **Un libro de calificaciones que se duplica para cada estudiante.**
 
-En una escuela normal, el maestro guarda el libro. Si el maestro quiere cambiar una nota — lo hace y nadie se entera. En blockchain, todos tienen el libro. Cualquier cambio se nota inmediatamente.
+En una escuela normal, el maestro guarda el libro. Si el maestro quiere cambiar una nota — lo hace y nadie se entera. En [blockchain](/es/glossary/#blockchain), todos tienen el libro. Cualquier cambio se nota inmediatamente.
 
 ---
 
@@ -66,7 +66,7 @@ Blockchain está hecho de [bloques](/es/glossary/#block). Cada bloque es como un
 
 - **varias transacciones** (quién envió qué a quién);
 - **una marca de tiempo** (cuándo se creó el [bloque](/es/glossary/#block));
-- **el hash del bloque anterior** (una "huella digital" de la página anterior).
+- **el hash del [bloque](/es/glossary/#block) anterior** (una "huella digital" de la página anterior).
 
 ### ¿Qué es un hash y por qué es importante?
 

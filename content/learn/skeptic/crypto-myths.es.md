@@ -87,7 +87,7 @@ Este mito lleva más de una década vivo en la mente del público. Menciona cryp
 
 ### Realidad: La Actividad Criminal Representa Menos del 1%
 
-Según el análisis de blockchain, la proporción de transacciones ilícitas en crypto es **menos del 1% del volumen total**. Para comparar: según la ONU, la cantidad de dinero que se lava a través de efectivo y la banca tradicional se estima en **2–5% del PIB mundial** — eso son billones de dólares.
+Según el análisis de [blockchain](/es/glossary/#blockchain), la proporción de transacciones ilícitas en crypto es **menos del 1% del volumen total**. Para comparar: según la ONU, la cantidad de dinero que se lava a través de efectivo y la banca tradicional se estima en **2–5% del PIB mundial** — eso son billones de dólares.
 
 > La ironía es que el efectivo es el mejor amigo del criminal. No deja rastro. El crypto, en cambio, sí deja uno.
 

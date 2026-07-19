@@ -37,7 +37,7 @@ Let's take a look at what really happens when you send crypto.
 
 ## Stage 1: Creating the Transaction
 
-It all starts with your wallet gathering data. It builds a digital "package" — a transaction. Inside this package:
+It all starts with your [wallet](/en/glossary/#wallet) gathering data. It builds a digital "package" — a transaction. Inside this package:
 
 - **from** — your public address;
 - **to** — the recipient's address;
@@ -71,7 +71,7 @@ When you sign a transaction:
 1. Your wallet applies a mathematical formula to the transaction data and your key.
 2. The result is a **digital signature** — a unique string of characters.
 3. Any network participant can verify this signature using your public address.
-4. But nobody can reverse-engineer your private key from the signature.
+4. But nobody can reverse-engineer your [private key](/en/glossary/#private-key) from the signature.
 
 > **Important:** your private key is never sent anywhere. It stays on your device. The network verifies the signature without ever seeing the key itself.
 
@@ -115,7 +115,7 @@ The transaction is in the mempool. Now it needs to be confirmed by a **miner** (
 
 ### How miners choose transactions
 
-Miners collect transactions from the mempool and package them into a block. Priority depends on the fee — the higher the fee, the higher the priority.
+Miners collect transactions from the mempool and package them into a [block](/en/glossary/#block). Priority depends on the fee — the higher the fee, the higher the priority.
 
 Once the block is assembled, the miner starts solving a mathematical puzzle ([Proof of Work](/en/glossary/#proof-of-work)) to seal the block. This requires massive computing power. Whoever solves it first gets:
 
@@ -191,7 +191,7 @@ If the network is congested and your fee is minimal, the transaction may get "ev
 
 ### Canceled transaction
 
-You can't cancel a signed and sent transaction. That's the nature of the blockchain — the record is immutable. If you sent to the wrong address, only the recipient can return the coins.
+You can't cancel a signed and sent transaction. That's the nature of the [blockchain](/en/glossary/#blockchain) — the record is immutable. If you sent to the wrong address, only the recipient can return the coins.
 
 > Always double-check the address before sending. At minimum, the first 4 and last 4 characters.
 

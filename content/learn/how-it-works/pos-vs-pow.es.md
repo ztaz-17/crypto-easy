@@ -39,7 +39,7 @@ Imagina que tienes frente a ti una caja fuerte gigante con una cerradura de comb
 La [blockchain](/es/glossary/#blockchain) funciona igual:
 
 1. Un minero recoge transacciones del mempool y las agrupa en un [bloque](/es/glossary/#block).
-2. Empieza a probar números (nonces) hasta encontrar un hash de bloque que cumpla la condición objetivo (que empiece con cierta cantidad de ceros).
+2. Empieza a probar números (nonces) hasta encontrar un hash de [bloque](/es/glossary/#block) que cumpla la condición objetivo (que empiece con cierta cantidad de ceros).
 3. El primero que encuentra el número correcto difunde el bloque a la red.
 4. Los demás mineros lo verifican — el bloque es válido, el trabajo está confirmado.
 5. El minero recibe la recompensa (nuevas monedas + comisiones).
@@ -100,7 +100,7 @@ Nada de mineros ASIC, ni ventiladores, ni facturas de electricidad de 10 000 $ a
 
 ### Por qué bloquear las monedas
 
-El staking resuelve el **«problema de nada en juego» (nothing at stake)**. En PoS, si un validador actúa de forma deshonesta — pierde sus monedas. Es un incentivo económico para cumplir las reglas.
+El [staking](/es/glossary/#staking) resuelve el **«problema de nada en juego» (nothing at stake)**. En PoS, si un validador actúa de forma deshonesta — pierde sus monedas. Es un incentivo económico para cumplir las reglas.
 
 Las monedas apostadas actúan como **garantía**:
 
@@ -146,7 +146,7 @@ Si ya tienes cripto, el staking te permite **generar ingresos** con solo mantene
 Ejemplo:
 
 - **Ethereum (PoS)**: apuestas 10 ETH (~25 000 $), ganas ~3.5 % APY = ~875 $/año.
-- **Bitcoin (PoW)**: está en tu cartera — no genera nada. Pero tampoco hay riesgo de slashing.
+- **Bitcoin (PoW)**: está en tu [cartera](/es/glossary/#wallet) — no genera nada. Pero tampoco hay riesgo de slashing.
 
 > El staking es como un depósito bancario, solo que en lugar de un banco es código. Pero también hay riesgos: tus monedas quedan bloqueadas por un periodo, y si el precio baja, la pérdida puede superar las recompensas del staking.
 
@@ -163,7 +163,7 @@ Para transferencias cotidianas (café, suscripciones, enviar dinero a amigos), P
 
 ## Resumen
 
-**Proof of Work** y **Proof of Stake** son dos enfoques diferentes para el mismo problema: cómo ponerse de acuerdo sobre quién crea el siguiente bloque.
+**[Proof of Work](/es/glossary/#proof-of-work)** y **[Proof of Stake](/es/glossary/#proof-of-stake)** son dos enfoques diferentes para el mismo problema: cómo ponerse de acuerdo sobre quién crea el siguiente bloque.
 
 - **PoW** (Bitcoin): «Demuéstralo con trabajo — quema electricidad, recibe monedas». Honesto, seguro, pero devora energía.
 - **PoS** (Ethereum, Solana): «Demuéstralo con tu apuesta — bloquea monedas, gana intereses». Eficiente, escalable, pero requiere disciplina económica.
@@ -186,7 +186,7 @@ Proof of Stake (PoS) es un mecanismo en el que los participantes (validadores) b
 
 ### ¿Qué es más rentable — minar o hacer stake?
 
-El staking es más accesible: no necesitas comprar hardware caro ni pagar electricidad. La minería requiere una inversión seria (ASIC + electricidad barata), pero puede rendir más si el precio de la moneda sube. Para un principiante, el staking es más sencillo y seguro.
+El staking es más accesible: no necesitas comprar hardware caro ni pagar electricidad. La [minería](/es/glossary/#mining) requiere una inversión seria (ASIC + electricidad barata), pero puede rendir más si el precio de la moneda sube. Para un principiante, el staking es más sencillo y seguro.
 
 ### ¿Puedo minar Bitcoin con un PC de casa?
 

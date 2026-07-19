@@ -63,7 +63,7 @@ But on both chains **you can almost always pay less**.
 
 The most obvious (and most often ignored) way to save is to **pick the right network** when sending.
 
-The stablecoin **USDT** lives on dozens of blockchains. Fees differ by a factor of 10 or more:
+The [stablecoin](/en/glossary/#stablecoin) **USDT** lives on dozens of blockchains. Fees differ by a factor of 10 or more:
 
 | Network | Approximate fee | Transfer time |
 |---------|----------------|---------------|
@@ -86,7 +86,7 @@ How to use this:
 
 ## 2. L2 solutions: fees in cents
 
-**Layer 2** is technology that runs on top of the main blockchain (Layer 1). It handles transaction processing and only sends summary data back to the base layer.
+**Layer 2** is technology that runs on top of the main [blockchain](/en/glossary/#blockchain) (Layer 1). It handles transaction processing and only sends summary data back to the base layer.
 
 The result: Visa-like speed, fees measured in **cents**.
 
@@ -100,7 +100,7 @@ One of the most popular L2s for Ethereum.
 Similar technology, slightly different architecture.
 - Fee: **$0.05–0.3**
 - Used for: the same things as Arbitrum
-- Works with any EVM wallet
+- Works with any EVM [wallet](/en/glossary/#wallet)
 
 ### Base (Coinbase)
 L2 from Coinbase. Gaining popularity fast.

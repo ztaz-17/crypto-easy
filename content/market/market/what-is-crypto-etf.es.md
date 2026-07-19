@@ -33,7 +33,7 @@ La diferencia principal de comprar cripto directamente:
 
 **ETF Spot** — el fondo compra y almacena [criptomonedas](/es/glossary/#cryptocurrency) reales. Cada acción está respaldada por monedas reales. Esto es importante porque el precio del ETF sigue de cerca el precio real de la criptomoneda.
 
-**ETF de Futuros** — el fondo compra contratos sobre el precio de la criptomoneda, no la criptomoneda en sí. Es como apostar por el precio de las manzanas en lugar de comprar manzanas reales.
+**ETF de Futuros** — el fondo compra contratos sobre el precio de la [criptomoneda](/es/glossary/#cryptocurrency), no la criptomoneda en sí. Es como apostar por el precio de las manzanas en lugar de comprar manzanas reales.
 
 Los ETF spot se consideran el instrumento más «honesto». El hecho de que la SEC haya aprobado uno para Solana es una señal fuerte para el mercado.
 

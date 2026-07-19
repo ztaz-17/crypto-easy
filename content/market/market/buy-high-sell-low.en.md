@@ -94,7 +94,7 @@ It works exactly one time out of ten. The other nine, you buy at the top.
 
 ### Why FOMO Hits So Hard in Crypto
 
-Crypto is the perfect breeding ground for FOMO:
+Crypto is the perfect breeding ground for [FOMO](/en/glossary/#fomo):
 
 - prices swing **50–200%** in days;
 - social media is noise, memes, and "to the moon" screaming;

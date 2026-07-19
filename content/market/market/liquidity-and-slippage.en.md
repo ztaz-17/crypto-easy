@@ -48,7 +48,7 @@ In this article we'll cover:
 
 Same thing in crypto:
 
-- **Bitcoin on Binance** — high liquidity. You can sell $50,000 in seconds and the price barely moves.
+- **Bitcoin on Binance** — high [liquidity](/en/glossary/#liquidity). You can sell $50,000 in seconds and the price barely moves.
 - **An obscure [token](/en/glossary/#token) on a small exchange** — low liquidity. Even a $1,000 sell order can move the price by 10-20%.
 
 ### Why it matters
@@ -151,7 +151,7 @@ With low liquidity, one large order can move the price 20-30% in a second.
 
 Example: on a small exchange, sell orders up to $50 total only 100 coins. Someone decides to buy $10,000 worth. Their order eats through every sell order all the way to $70, and the price shoots up instantly.
 
-This is **slippage in its purest form**. And it works both ways:
+This is **[slippage](/en/glossary/#slippage) in its purest form**. And it works both ways:
 
 - you bought at $50 — the price jumped to $70;
 - you want to sell — the nearest buyer is at $40.
@@ -212,7 +212,7 @@ For reference: Bitcoin's daily trading volume is $10-30 billion. Spread is fract
 | High | 0.01-0.1% | $100M-1B | Minimal | Top-10 altcoins |
 | Medium | 0.1-0.5% | $10-100M | Noticeable | Mid-cap altcoins |
 | Low | 0.5-2% | $1-10M | Strong | Small altcoins |
-| Very low | > 2% | < $1M | Critical | Shitcoins, new tokens |
+| Very low | > 2% | < $1M | Critical | Shitcoins, new [tokens](/en/glossary/#token) |
 
 ---
 

@@ -48,7 +48,7 @@ In diesem Artikel erfährst du:
 
 Im Krypto-Bereich ist es genauso:
 
-- **Bitcoin auf Binance** — hohe Liquidität. Du kannst in Sekunden 50.000 $ verkaufen, und der Preis bewegt sich kaum.
+- **Bitcoin auf Binance** — hohe [Liquidität](/de/glossary/#liquidity). Du kannst in Sekunden 50.000 $ verkaufen, und der Preis bewegt sich kaum.
 - **Ein obskurer [Token](/de/glossary/#token) auf einer kleinen Börse** — niedrige Liquidität. Schon eine Verkaufsorder über 1.000 $ kann den Preis um 10–20 % verschieben.
 
 ### Warum das wichtig ist
@@ -151,7 +151,7 @@ Bei niedriger Liquidität kann eine einzige große Order den Preis in Sekunden u
 
 Beispiel: Auf einer kleinen Börse liegen Verkaufsorders für insgesamt nur 100 Coins bis zu einem Preis von 50 $. Jemand beschließt, für 10.000 $ zu kaufen. Seine Order frisst sich durch alle Verkaufsorders bis zu 70 $, und der Preis schießt sofort nach oben.
 
-Das ist **Slippage in Reinform**. Und es funktioniert in beide Richtungen:
+Das ist **[Slippage](/de/glossary/#slippage) in Reinform**. Und es funktioniert in beide Richtungen:
 
 - du hast zu 50 $ gekauft — der Preis sprang auf 70 $;
 - du willst verkaufen — der nächste Käufer steht bei 40 $.
@@ -212,7 +212,7 @@ Zum Vergleich: Bitcoins tägliches Handelsvolumen liegt bei 10–30 Milliarden 
 | Hoch | 0,01–0,1 % | 100 Mio.–1 Mrd. $ | Minimal | Top-10-Altcoins |
 | Mittel | 0,1–0,5 % | 10–100 Mio. $ | Spürbar | Mid-Cap-Altcoins |
 | Niedrig | 0,5–2 % | 1–10 Mio. $ | Stark | Kleine Altcoins |
-| Sehr niedrig | > 2 % | < 1 Mio. $ | Kritisch | Shitcoins, neue Tokens |
+| Sehr niedrig | > 2 % | < 1 Mio. $ | Kritisch | Shitcoins, neue [Tokens](/de/glossary/#token) |
 
 ---
 

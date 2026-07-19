@@ -58,7 +58,7 @@ Regierungen veröffentlichen offizielle Inflationszahlen. Aber es gibt ein Probl
 
 Warum?
 
-- die offizielle Inflation ist ein **Durchschnitt** vieler Produkte;
+- die offizielle [Inflation](/de/glossary/#inflation) ist ein **Durchschnitt** vieler Produkte;
 - sie spiegelt nicht deine persönliche Situation wider (ob du zur Miete wohnst, Kinder hast, in der Stadt lebst);
 - die Berechnungsmethoden ändern sich im Laufe der Zeit und berücksichtigen nicht immer die Güter, die am stärksten steigen (Wohnen, Energie, Lebensmittel).
 
@@ -276,4 +276,4 @@ Nein. Bargeld wirft keine Zinsen ab und verliert genauso an Wert wie Geld auf de
 
 ### Lösen Kryptowährungen das Inflationsproblem?
 
-Kommt darauf an. Stablecoins schützen vor der Inflation deiner Landeswährung, indem sie an den Dollar gekoppelt sind. Bitcoin hat sich mit seinem begrenzten Angebot als langfristiger Wertspeicher erwiesen, allerdings mit hoher kurzfristiger Volatilität. Keine ist perfekt, aber beide bieten etwas, was das Bankensystem nicht gibt: **echte Kontrolle über dein Geld** und einen Schutz vor Geldentwertung.
+Kommt darauf an. [Stablecoins](/de/glossary/#stablecoin) schützen vor der Inflation deiner Landeswährung, indem sie an den Dollar gekoppelt sind. Bitcoin hat sich mit seinem begrenzten Angebot als langfristiger Wertspeicher erwiesen, allerdings mit hoher kurzfristiger Volatilität. Keine ist perfekt, aber beide bieten etwas, was das Bankensystem nicht gibt: **echte Kontrolle über dein Geld** und einen Schutz vor Geldentwertung.

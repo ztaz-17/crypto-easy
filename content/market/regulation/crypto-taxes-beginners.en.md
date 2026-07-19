@@ -212,7 +212,7 @@ You don't always have to do it all yourself. Here are signs it's time to see a t
 
 - You have **more than 100 trades** in a year
 - You trade on **multiple exchanges** and use **[DeFi](/en/glossary/#defi) protocols**
-- You received **crypto income** (salary, staking, mining)
+- You received **crypto income** (salary, [staking](/en/glossary/#staking), [mining](/en/glossary/#mining))
 - You **live in one country but trade from another**
 - You have a complex portfolio with **[NFTs](/en/glossary/#nft), DeFi, and yield farming**
 - The tax authority already sent you **a letter with questions**

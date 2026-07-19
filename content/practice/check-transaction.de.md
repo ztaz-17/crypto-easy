@@ -41,10 +41,10 @@ In diesem Artikel erfährst du:
 Ein **[Blockchain](/de/glossary/#blockchain)-Explorer** ist wie „Google für die Blockchain" – eine öffentliche Website, die alles zeigt, was im Netzwerk passiert:
 
 - jede Transaktion;
-- jedes Wallet und dessen Guthaben;
+- jedes [Wallet](/de/glossary/#wallet) und dessen Guthaben;
 - jeden [Block](/de/glossary/#block) und seinen Inhalt.
 
-Im Gegensatz zu einer Bank, wo du nur deine eigenen Aktivitäten siehst, ist in der Blockchain **alles sichtbar**. Die Daten sind nur in Adressen codiert – ohne Verbindung zu deiner Identität.
+Im Gegensatz zu einer Bank, wo du nur deine eigenen Aktivitäten siehst, ist in der [Blockchain](/de/glossary/#blockchain) **alles sichtbar**. Die Daten sind nur in Adressen codiert – ohne Verbindung zu deiner Identität.
 
 Du brauchst einen Explorer, wenn:
 
@@ -84,7 +84,7 @@ So sieht die Transaktionsseite aus:
 | Status | Bedeutung |
 |--------|-----------|
 | ✅ **Success** | Transaktion ausgeführt, Guthaben gutgeschrieben |
-| ⏳ **Pending** | Wartet – noch nicht in einem Block enthalten |
+| ⏳ **Pending** | Wartet – noch nicht in einem [Block](/de/glossary/#block) enthalten |
 | ❌ **Failed** | Fehler – Transaktion nicht durchgekommen (Gas-Gebühr verbraucht) |
 
 > **Wichtig:** Failed ≠ Geld verloren. Wenn die Transaktion fehlschlägt, wird das Geld abzüglich der Gas-Gebühr an den Sender zurückgegeben.
@@ -117,7 +117,7 @@ Klicke auf eine Adresse – du siehst ihre gesamte Historie und das Guthaben.
 
 #### Wert
 
-Der überwiesene Betrag: `0 ETH ($0.00)`, weil es sich um einen Token-Transfer (ERC-20) handelt: `6.000.000,25342 ($5.997.252,25) Tether USD (USDT)`.
+Der überwiesene Betrag: `0 ETH ($0.00)`, weil es sich um einen [Token](/de/glossary/#token)-Transfer (ERC-20) handelt: `6.000.000,25342 ($5.997.252,25) Tether USD (USDT)`.
 
 #### Transaktionsgebühr (Gas-Gebühr)
 

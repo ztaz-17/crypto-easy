@@ -51,8 +51,8 @@ No tienes que hacer nada complicado. Solo bloqueas tus monedas y ganas intereses
 
 ### Ventajas del Staking
 
-- **Simplicidad**: un par de clics en un exchange o en una cartera.
-- **Bajo riesgo**: no le entregas tus monedas a nadie más para que las administre (si haces staking por tu cuenta).
+- **Simplicidad**: un par de clics en un exchange o en una [cartera](/es/glossary/#wallet).
+- **Bajo riesgo**: no le entregas tus monedas a nadie más para que las administre (si haces [staking](/es/glossary/#staking) por tu cuenta).
 - **Sin compromiso de tiempo**: lo configuras una vez y te olvidas.
 - **Predictibilidad**: el rendimiento se conoce de antemano (normalmente un APR fijo).
 
@@ -73,7 +73,7 @@ Así se ve:
 - vas a un protocolo [DeFi](/es/glossary/#defi) (ej. Uniswap, Aave, Curve);
 - depositas un par de [tokens](/es/glossary/#token) en un **pool de liquidez** (ej. USDT y ETH);
 - el protocolo los usa para operaciones de trading;
-- ganas comisiones de traders + a menudo tokens de bonificación.
+- ganas comisiones de traders + a menudo [tokens](/es/glossary/#token) de bonificación.
 
 > **El farming es como administrar un mini-banco: prestas dinero y ganas una parte de cada transacción.**
 
@@ -141,13 +141,13 @@ Aquí, los riesgos son mucho más altos.
 
 ### Riesgo de Contrato Inteligente
 
-Los protocolos DeFi son código. Y el código tiene bugs. Los hackers encuentran vulnerabilidades y vacían todo el dinero de un pool.
+Los protocolos [DeFi](/es/glossary/#defi) son código. Y el código tiene bugs. Los hackers encuentran vulnerabilidades y vacían todo el dinero de un pool.
 
 Ejemplo: el hack de Ronin Network — 600 millones de dólares perdidos. La gente perdió todo lo que había depositado.
 
 ### Rug Pull
 
-Los creadores de un proyecto recogen liquidez — y desaparecen con el dinero. Esto pasa todo el tiempo, especialmente en nuevos "farms" que ofrecen rendimientos disparatados.
+Los creadores de un proyecto recogen [liquidez](/es/glossary/#liquidity) — y desaparecen con el dinero. Esto pasa todo el tiempo, especialmente en nuevos "farms" que ofrecen rendimientos disparatados.
 
 ### Pérdida Impermanente
 

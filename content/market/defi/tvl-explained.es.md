@@ -43,7 +43,7 @@ En palabras simples:
 
 > **cuánto dinero los usuarios le han confiado a este protocolo.**
 
-El TVL incluye:
+El [TVL](/es/glossary/#tvl) incluye:
 - [tokens](/es/glossary/#token) en pools de [liquidez](/es/glossary/#liquidity) (como en Uniswap);
 - depósitos en protocolos de préstamos (como Aave);
 - garantías en protocolos de [stablecoins](/es/glossary/#stablecoin) (como MakerDAO);
@@ -139,7 +139,7 @@ Posibles razones:
 - **vulnerabilidad o hackeo** — los usuarios retiraron en pánico;
 - **caída de rendimientos** — los farmers se fueron a otro protocolo;
 - **riesgo regulatorio** — prohibiciones o restricciones en países clave;
-- **cambio en las condiciones del mercado** — las tasas de préstamo bajaron, las stablecoins perdieron su paridad.
+- **cambio en las condiciones del mercado** — las tasas de préstamo bajaron, las [stablecoins](/es/glossary/#stablecoin) perdieron su paridad.
 
 > **Una caída brusca del TVL es una bandera roja.** Si el 90% de los fondos abandonó un protocolo — no es coincidencia.
 

@@ -212,7 +212,7 @@ Du musst nicht immer alles selbst machen. Das sind Anzeichen, dass es Zeit für 
 
 - Du hast **mehr als 100 Trades** pro Jahr
 - Du handelst an **mehreren Börsen** und nutzt **[DeFi](/de/glossary/#defi)-Protokolle**
-- Du hast **Krypto-Einkommen** erhalten (Gehalt, Staking, Mining)
+- Du hast **Krypto-Einkommen** erhalten (Gehalt, [Staking](/de/glossary/#staking), [Mining](/de/glossary/#mining))
 - Du **lebst in einem Land, handelst aber von einem anderen**
 - Du hast ein komplexes Portfolio mit **[NFTs](/de/glossary/#nft), DeFi und Yield Farming**
 - Das Finanzamt hat dir bereits **einen Brief mit Fragen** geschickt

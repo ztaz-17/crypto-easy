@@ -51,7 +51,7 @@ You don't have to do anything complicated. You just lock up your coins and earn 
 
 ### Pros of Staking
 
-- **Simplicity**: a couple of clicks on an exchange or in a wallet.
+- **Simplicity**: a couple of clicks on an exchange or in a [wallet](/en/glossary/#wallet).
 - **Low risk**: you're not handing your coins over to anyone else to manage (if you stake on your own).
 - **No time commitment**: set it up once and forget about it.
 - **Predictability**: the yield is known upfront (usually a fixed APR).
@@ -73,7 +73,7 @@ Here's how it looks:
 - you go to a [DeFi](/en/glossary/#defi) protocol (e.g., Uniswap, Aave, Curve);
 - you deposit a pair of [tokens](/en/glossary/#token) into a **liquidity pool** (e.g., USDT and ETH);
 - the protocol uses them for trading operations;
-- you earn trader fees + often bonus tokens.
+- you earn trader fees + often bonus [tokens](/en/glossary/#token).
 
 > **Farming is like running a mini-bank: you lend out money and earn a cut from every transaction.**
 
@@ -96,7 +96,7 @@ Here's how it looks:
 
 To put it simply:
 
-| Staking | Farming |
+| [Staking](/en/glossary/#staking) | Farming |
 |---|---|
 | Deposit | Business |
 | Just lock it up | Actively manage |
@@ -146,13 +146,13 @@ Here, the risks are much higher.
 
 ### Smart Contract Risk
 
-DeFi protocols are code. And code has bugs. Hackers find vulnerabilities and drain all the money from a pool.
+[DeFi](/en/glossary/#defi) protocols are code. And code has bugs. Hackers find vulnerabilities and drain all the money from a pool.
 
 Example: the Ronin Network hack — $600 million gone. People lost everything they'd put in.
 
 ### Rug Pull
 
-The creators of a project collect liquidity — and disappear with the money. This happens all the time, especially on new "farms" offering insane yields.
+The creators of a project collect [liquidity](/en/glossary/#liquidity) — and disappear with the money. This happens all the time, especially on new "farms" offering insane yields.
 
 ### Impermanent Loss
 

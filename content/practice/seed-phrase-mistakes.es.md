@@ -45,9 +45,9 @@ En este artículo veremos:
 
 La [frase semilla](/es/glossary/#seed-phrase) (seed phrase, frase de recuperación, frase mnemónica) son **12 o 24 palabras** a partir de las cuales se generan matemáticamente todas las claves de tu [cartera](/es/glossary/#wallet).
 
-No es una «contraseña de la cartera». Es **la cartera misma**.
+No es una «contraseña de la [cartera](/es/glossary/#wallet)». Es **la cartera misma**.
 
-Si pierdes la contraseña de MetaMask — simplemente la restableces y entras de nuevo, porque tienes la frase semilla.
+Si pierdes la contraseña de MetaMask — simplemente la restableces y entras de nuevo, porque tienes la [frase semilla](/es/glossary/#seed-phrase).
 
 Si pierdes la frase semilla — **la contraseña ya no te servirá de nada**. La cartera no se puede recuperar. Nadie. Nunca.
 

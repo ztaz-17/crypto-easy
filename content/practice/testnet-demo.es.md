@@ -84,7 +84,7 @@ Los más populares:
 
 > 💡 Algunos faucets piden una cuenta en la plataforma (Alchemy, Infura) o inicio de sesión con GitHub — es normal, así mantienen alejados a los bots.
 
-En Google Cloud Faucet puedes pedir ETH + tokens (ej. PYUSD y WBTC) al mismo tiempo. Si cogiste tokens, tendrás que añadirlos a MetaMask (mira la sección de importación de tokens más abajo).
+En Google Cloud Faucet puedes pedir ETH + [tokens](/es/glossary/#token) (ej. PYUSD y WBTC) al mismo tiempo. Si cogiste tokens, tendrás que añadirlos a MetaMask (mira la sección de importación de tokens más abajo).
 
 ### Faucets para Otras Redes
 
@@ -166,7 +166,7 @@ Observa cómo se descuenta la comisión de gas y cómo aparece la transacción e
 Pídele a un amigo que te envíe algunas monedas de prueba.  
 O envíale algunas al autor a esta dirección: `0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128` desde tu wallet.
 
-No olvides revisar cómo se ve la transacción en el explorador de bloques: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+No olvides revisar cómo se ve la transacción en el explorador de [bloques](/es/glossary/#block): **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 #### 3. Revisa una Transacción en el Explorador
 

@@ -40,7 +40,7 @@ In diesem Artikel erfährst du:
 - du überweist Geld auf seine Karte;
 - er schickt dir [Kryptowährung](/de/glossary/#cryptocurrency).
 
-Die Plattform (Binance P2P, Bybit P2P, OKX P2P) fungiert nur als **Schiedsrichter** – sie hält die Krypto des Verkäufers treuhänderisch zurück, bis du die Zahlung bestätigst.
+Die Plattform (Binance [P2P](/de/glossary/#p2p), Bybit P2P, OKX P2P) fungiert nur als **Schiedsrichter** – sie hält die Krypto des Verkäufers treuhänderisch zurück, bis du die Zahlung bestätigst.
 
 👉 Klingt sicher. Aber Betrüger finden Wege, den Schutz zu umgehen.
 
@@ -224,7 +224,7 @@ Der Schutz ist einfach:
 > **fall nicht auf Unter-Markt-Preise herein**;
 > **verlass die Plattform nicht**.
 
-Kryptowährung gibt dir finanzielle Freiheit. Aber die Verantwortung für die Sicherheit liegt bei dir.
+[Kryptowährung](/de/glossary/#cryptocurrency) gibt dir finanzielle Freiheit. Aber die Verantwortung für die Sicherheit liegt bei dir.
 
 ---
 

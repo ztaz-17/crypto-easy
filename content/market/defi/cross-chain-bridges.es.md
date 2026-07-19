@@ -39,7 +39,7 @@ En este artículo cubriremos:
 
 La mayoría de los [puentes](/es/glossary/#bridge) siguen el mismo principio:
 
-1. Envías tu activo (por ejemplo, ETH) al **contrato del puente** en la red de origen.
+1. Envías tu activo (por ejemplo, ETH) al **contrato del [puente](/es/glossary/#bridge)** en la red de origen.
 2. El puente **bloquea** ese activo.
 3. Se **acuña** una versión envuelta en la red de destino.
 
@@ -148,7 +148,7 @@ La opción más segura es usar un puente creado por el propio equipo de la [bloc
 - **[zkSync Bridge](https://bridge.zksync.io)** — para zkSync.
 - **[Polygon PoS Bridge](https://portal.polygon.technology)** — para Polygon.
 
-👉 Estos puentes tienen menos puntos de fallo porque la confianza se reduce a confiar en la propia blockchain.
+👉 Estos puentes tienen menos puntos de fallo porque la confianza se reduce a confiar en la propia [blockchain](/es/glossary/#blockchain).
 
 ### ✅ Puentes descentralizados probados
 
@@ -187,7 +187,7 @@ Importante:
 
 Para recuperar el original, necesitas puentear de vuelta.
 
-Redes distintas — tokens distintos:
+Redes distintas — [tokens](/es/glossary/#token) distintos:
 
 | Activo | Red | Dirección del contrato (ejemplo) |
 |-------|---------|---------------------------|

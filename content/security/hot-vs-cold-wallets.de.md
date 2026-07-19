@@ -55,7 +55,7 @@ Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echt
 | **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter [DApp](/de/glossary/#dapp)-Browser |
 | **Exodus**        | Desktop / Mobil  | Schöne Oberfläche, eingebauter Tausch   |
 | **Phantom**       | Browser / Mobil  | Optimiert für Solana                    |
-| **Coinbase Wallet**| Mobil / Erweiterung | Integration mit der Börse, nicht-verwahrend |
+| **Coinbase [Wallet](/de/glossary/#wallet)**| Mobil / Erweiterung | Integration mit der Börse, nicht-verwahrend |
 
 👉 All diese Wallets sind **nicht-verwahrend** (non-custodial): Die Schlüssel liegen bei dir, nicht beim Unternehmen.
 
@@ -109,7 +109,7 @@ Die beliebteste Variante ist eine **Hardware Wallet**.
 
 1. Du kaufst das Gerät (z. B. Ledger).
 2. Beim ersten Einschalten generiert es die Schlüssel **in sich selbst**, ohne Internetverbindung.
-3. Das Gerät zeigt dir die Seed-Phrase – du schreibst sie auf Papier.
+3. Das Gerät zeigt dir die [Seed-Phrase](/de/glossary/#seed-phrase) – du schreibst sie auf Papier.
 4. Um eine Transaktion zu senden:
    - erstellst du sie in der App (Ledger Live);
    - verbindest das Gerät per USB;
@@ -170,9 +170,9 @@ Du:
 
 - kaufst Kaffee mit Krypto;
 - schickst Geld an Freunde;
-- nutzt DeFi-Anwendungen.
+- nutzt [DeFi](/de/glossary/#defi)-Anwendungen.
 
-👉 Du brauchst eine **Hot Wallet** (MetaMask, Trust Wallet). Halte dort einen kleinen Betrag – so viel, wie du im Falle eines Hacks verkraften kannst zu verlieren.
+👉 Du brauchst eine **[Hot Wallet](/de/glossary/#hot-wallet)** (MetaMask, Trust Wallet). Halte dort einen kleinen Betrag – so viel, wie du im Falle eines Hacks verkraften kannst zu verlieren.
 
 ### Szenario 2: «Sparschwein für Jahre»
 
@@ -182,7 +182,7 @@ Du:
 - bewahrst Ersparnisse in [Stablecoins](/de/glossary/#stablecoin) auf;
 - hast Angst, dass die Börse gehackt wird.
 
-👉 Du brauchst eine **Cold Wallet** (Ledger, Trezor). Halte dort 80–90 % deiner Vermögenswerte.
+👉 Du brauchst eine **[Cold Wallet](/de/glossary/#cold-wallet)** (Ledger, Trezor). Halte dort 80–90 % deiner Vermögenswerte.
 
 ### Szenario 3: «Die goldene Mitte» (empfohlen)
 

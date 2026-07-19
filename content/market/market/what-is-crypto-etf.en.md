@@ -39,7 +39,7 @@ Spot ETFs are considered the more "honest" instrument. The fact that the SEC app
 
 ## Why Solana ETF Approval Matters
 
-Before July 18, 2026, the SEC had only approved spot ETFs for bitcoin and ethereum. Solana became the **third cryptocurrency** and the first altcoin to receive this status.
+Before July 18, 2026, the SEC had only approved spot ETFs for bitcoin and ethereum. Solana became the **third [cryptocurrency](/en/glossary/#cryptocurrency)** and the first altcoin to receive this status.
 
 What this means:
 

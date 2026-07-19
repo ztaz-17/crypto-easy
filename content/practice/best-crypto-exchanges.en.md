@@ -85,12 +85,12 @@ If you own more than $500 in crypto, get a hardware [wallet](/en/glossary/#walle
 
 {{< figure src="/images/ledger-logo.svg" alt="Ledger" width="200" >}}
 
-**Ledger** is the most trusted hardware wallet brand (sold 6M+ devices). Supports 5,500+ coins, has a built-in exchange through Ledger Live, and recently launched Ledger Stax with a curved E Ink display.
+**Ledger** is the most trusted hardware [wallet](/en/glossary/#wallet) brand (sold 6M+ devices). Supports 5,500+ coins, has a built-in exchange through Ledger Live, and recently launched Ledger Stax with a curved E Ink display.
 
 - **Security**: certified secure element chip (CC EAL5+)
 - **Supported**: 5,500+ cryptocurrencies
 - **App**: Ledger Live — manage everything from one dashboard
-- **Staking**: earn up to 12% APY directly from the wallet
+- **[Staking](/en/glossary/#staking)**: earn up to 12% APY directly from the wallet
 - **Models**: Ledger Nano S Plus ($79), Ledger Nano X ($149), Ledger Stax ($279)
 
 👉 [Get Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (referral link)
@@ -111,7 +111,7 @@ If you own more than $500 in crypto, get a hardware [wallet](/en/glossary/#walle
 
 ## Which Exchange Should a Beginner Choose?
 
-**If you just want to try crypto** — start with **Bybit**. Low fees, P2P options, and a nice first-deposit bonus.
+**If you just want to try crypto** — start with **Bybit**. Low fees, [P2P](/en/glossary/#p2p) options, and a nice first-deposit bonus.
 
 **If security is your top priority** — choose **Kraken**. The oldest exchange with an excellent reputation, though the interface is slightly more complex.
 

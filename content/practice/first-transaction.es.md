@@ -49,7 +49,7 @@ Basta con equivocarte en un solo carácter — y la transacción irá a otra per
 Usa siempre **copiar**:
 - en el teléfono — pulsación larga → «Copiar»;
 - en la computadora — seleccionar → Ctrl+C / Cmd+C;
-- código QR — escanéalo con la cámara de tu cartera.
+- código QR — escanéalo con la cámara de tu [cartera](/es/glossary/#wallet).
 
 > Si la dirección llegó en un mensaje — cópiala completa, no la edites.
 
@@ -138,7 +138,7 @@ Para tu primera transacción, elige **la red más barata** que admita el destina
 
 ## Paso 4. Enviar una cantidad pequeña de prueba
 
-La regla de oro de las criptomonedas:
+La regla de oro de las [criptomonedas](/es/glossary/#cryptocurrency):
 
 > **Primero una transferencia de prueba, luego la cantidad completa.**
 
@@ -229,7 +229,7 @@ Antes de pulsar «Enviar», repasa esta lista:
 
 ### ¿Qué pasa si envío a la dirección equivocada?
 
-Si la dirección es correcta pero pertenece a otra persona — **los fondos no se pueden recuperar**. La blockchain no tiene «deshacer» la transferencia.
+Si la dirección es correcta pero pertenece a otra persona — **los fondos no se pueden recuperar**. La [blockchain](/es/glossary/#blockchain) no tiene «deshacer» la transferencia.
 
 ### ¿Y si envié en la red incorrecta?
 

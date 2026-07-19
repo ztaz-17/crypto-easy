@@ -64,7 +64,7 @@ Niemand fragt, wo du arbeitest oder wie viel du verdienst. Schließe einfach dei
 
 ## Überbesicherung: Warum du mehr hinterlegen musst, als du dir leihst
 
-In DeFi gibt es keine Inkassobüros oder Gerichte. Wenn ein Kreditnehmer nicht zurückzahlt, kann ein Smart Contract ihn nicht verklagen.
+In [DeFi](/de/glossary/#defi) gibt es keine Inkassobüros oder Gerichte. Wenn ein Kreditnehmer nicht zurückzahlt, kann ein Smart Contract ihn nicht verklagen.
 
 Deshalb funktioniert das System anders:
 
@@ -153,7 +153,7 @@ Highlights:
 
 **[MakerDAO](https://makerdao.com)** – ein etwas anderes Modell.
 
-Hier nimmst du nicht einfach einen Kredit auf – du **erschaffst den DAI-Stablecoin**, indem du ETH (oder andere Assets) als Sicherheit hinterlegst. Im Grunde ist es dasselbe wie ein Kredit: du sperrst ETH, bekommst DAI, und wenn du den DAI plus Zinsen zurückgibst – werden deine Sicherheiten freigegeben.
+Hier nimmst du nicht einfach einen Kredit auf – du **erschaffst den DAI-[Stablecoin](/de/glossary/#stablecoin)**, indem du ETH (oder andere Assets) als Sicherheit hinterlegst. Im Grunde ist es dasselbe wie ein Kredit: du sperrst ETH, bekommst DAI, und wenn du den DAI plus Zinsen zurückgibst – werden deine Sicherheiten freigegeben.
 
 > MakerDAO ist das Rückgrat des gesamten DeFi-Ökosystems. Hunderte von Protokollen nutzen DAI.
 
@@ -200,7 +200,7 @@ Orakel sind Dienste, die Preisdaten an Smart Contracts liefern (z. B. Chainlin
 
 ### 4. Unfähigkeit, den Kredit zurückzuzahlen
 
-Wenn du den Zugang zu deiner Wallet verlierst oder einfach nicht genug Geld hast, um zurückzuzahlen – werden deine Sicherheiten liquidiert. Niemand kann dir helfen, und es gibt keine Bank, die deinen Zugang wiederherstellt.
+Wenn du den Zugang zu deiner [Wallet](/de/glossary/#wallet) verlierst oder einfach nicht genug Geld hast, um zurückzuzahlen – werden deine Sicherheiten liquidiert. Niemand kann dir helfen, und es gibt keine Bank, die deinen Zugang wiederherstellt.
 
 ### 5. „Schrott"-Sicherheiten
 

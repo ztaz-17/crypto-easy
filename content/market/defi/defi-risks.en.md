@@ -46,7 +46,7 @@ Here's how it plays out:
 - they promise insane returns (1000%+ APY);
 - users deposit their funds;
 - the devs use a hidden function in the smart contract that lets them drain all the money;
-- the pool hits zero, the token crashes to nothing;
+- the pool hits zero, the [token](/en/glossary/#token) crashes to nothing;
 - the team vanishes.
 
 > **Rug pulls are the most common type of scam in DeFi.**
@@ -61,7 +61,7 @@ According to analysts, between 2021 and 2023, millions of users fell victim to r
 | Anonymous team | Nobody knows who built the project |
 | No audit | Code hasn't been reviewed by independent auditors |
 | Brand new [liquidity](/en/glossary/#liquidity) | The project has been around for days or weeks |
-| No liquidity lock | Liquidity isn't locked — founders can pull it anytime |
+| No [liquidity](/en/glossary/#liquidity) lock | Liquidity isn't locked — founders can pull it anytime |
 
 ---
 
@@ -69,7 +69,7 @@ According to analysts, between 2021 and 2023, millions of users fell victim to r
 
 Smart contracts are software. Software is written by people. People make mistakes.
 
-A single line of bad code can cost millions. And unlike banks — in DeFi **there's no insurance** and **no support team** to get your money back.
+A single line of bad code can cost millions. And unlike banks — in [DeFi](/en/glossary/#defi) **there's no insurance** and **no support team** to get your money back.
 
 ### Famous Examples
 
@@ -77,7 +77,7 @@ A single line of bad code can cost millions. And unlike banks — in DeFi **ther
 |----------|------|------|-------|
 | **Ronin [Bridge](/en/glossary/#bridge)** | 2022 | $624M | Bridge validator vulnerability |
 | **Wormhole [Bridge](/en/glossary/#bridge)** | 2022 | $326M | Signature verification bug |
-| **Nomad Bridge** | 2022 | $190M | Bridge contract bug |
+| **Nomad [Bridge](/en/glossary/#bridge)** | 2022 | $190M | Bridge contract bug |
 | **Cream Finance** | 2021 | $130M | Lending logic flaw |
 | **Poly Network** | 2021 | $611M | Cross-chain protocol vulnerability |
 
@@ -162,7 +162,7 @@ You can't "cancel" or "wait it out." If the market drops hard, your collateral g
 ### How to Avoid Liquidation
 
 - always keep a healthy margin (200%+ collateral-to-debt ratio);
-- use stablecoins as collateral;
+- use [stablecoins](/en/glossary/#stablecoin) as collateral;
 - set up alerts for when you're approaching the threshold;
 - don't borrow the maximum amount.
 
@@ -258,4 +258,4 @@ No. Audits reduce the chance of bugs but don't guarantee safety. There are known
 Usually not — their price often drops faster than the yield you earn. Better to convert reward tokens into stablecoins or proven assets (ETH, BTC).
 
 ### What TVL is considered safe?
-Rough guide: TVL > $100M for major protocols, > $10M for mid-sized ones. TVL below $1M is extremely risky.
+Rough guide: [TVL](/en/glossary/#tvl) > $100M for major protocols, > $10M for mid-sized ones. TVL below $1M is extremely risky.

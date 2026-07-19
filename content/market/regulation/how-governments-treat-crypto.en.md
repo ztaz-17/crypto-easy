@@ -77,7 +77,7 @@ What MiCA brings:
 
 - heavy bureaucracy for small projects;
 - strict reporting requirements;
-- stablecoins are essentially treated like bank deposits.
+- [stablecoins](/en/glossary/#stablecoin) are essentially treated like bank deposits.
 
 **Bottom line:** the EU created a predictable environment. Companies know the rules, but the entry bar is high.
 

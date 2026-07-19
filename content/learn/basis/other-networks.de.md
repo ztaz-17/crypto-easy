@@ -104,9 +104,9 @@ Dogecoin begann 2013 als Witz — eine [Kryptowährung](/de/glossary/#cryptocurr
 
 ## Hyperliquid (HYPE) — dezentrale Börse
 
-Hyperliquid ist eine Blockchain, die speziell für den dezentralen Derivatehandel entwickelt wurde. Sie läuft mit ihrem eigenen HyperBFT-Konsens und bietet die Geschwindigkeit einer zentralen Börse.
+Hyperliquid ist eine [Blockchain](/de/glossary/#blockchain), die speziell für den dezentralen Derivatehandel entwickelt wurde. Sie läuft mit ihrem eigenen HyperBFT-Konsens und bietet die Geschwindigkeit einer zentralen Börse.
 
-**Hauptvorteil:** Die erste DEX, die ein kumuliertes Handelsvolumen von 1 Billion Dollar erreicht hat.
+**Hauptvorteil:** Die erste [DEX](/de/glossary/#dex), die ein kumuliertes Handelsvolumen von 1 Billion Dollar erreicht hat.
 
 **Wichtige Ereignisse 2025–2026:**
 - Hyperliquid überschritt die Marke von 1 Billion Dollar kumuliertem Handelsvolumen und wurde zur größten Derivate-DEX.
@@ -119,7 +119,7 @@ Hyperliquid ist eine Blockchain, die speziell für den dezentralen Derivatehande
 
 ## LEO Token (UNUS SED LEO) — Bitfinex' Token
 
-LEO ist der Ökosystem-Token von Bitfinex und den dazugehörigen Projekten (Tether, Bitfinex Securities, Capital Markets). Er gibt Rabatt auf Handelsgebühren und wird mit den Einnahmen der Plattform verbrannt.
+LEO ist der Ökosystem-[Token](/de/glossary/#token) von Bitfinex und den dazugehörigen Projekten (Tether, Bitfinex Securities, Capital Markets). Er gibt Rabatt auf Handelsgebühren und wird mit den Einnahmen der Plattform verbrannt.
 
 **Hauptvorteil:** LEO ist praktisch nicht volatil — 2025–2026 handelte es in einer engen Spanne von 8–10,50 $, weil sein Preis durch Bitfinex' Rückkaufprogramm gestützt wird.
 
@@ -164,7 +164,7 @@ Cardano ist eine Blockchain, die auf peer-reviewter akademischer Forschung basie
 
 ## Monero (XMR) — der König der Privatsphäre
 
-Monero ist die beliebteste private Kryptowährung. Anders als bei Bitcoin, wo jede Transaktion im Explorer sichtbar ist, verbirgt Monero den Sender, den Empfänger und den Betrag.
+Monero ist die beliebteste private [Kryptowährung](/de/glossary/#cryptocurrency). Anders als bei Bitcoin, wo jede Transaktion im Explorer sichtbar ist, verbirgt Monero den Sender, den Empfänger und den Betrag.
 
 **Hauptvorteil:** Jede Transaktion ist eine Mischung aus mehreren fingierten Fingerabdrücken (Ring Signatures) plus einem versteckten Betrag (RingCT).
 
@@ -216,7 +216,7 @@ Toncoin ist eine Blockchain, die vom Telegram-Team erstellt wurde (ursprünglich
 **Wichtige Ereignisse 2025–2026:**
 - 100 Millionen aktive [Wallets](/de/glossary/#wallet) pro Monat — eine Rekordwachstumsrate.
 - Telegram „Stars" (die In-App-Währung) migrierte zur TON-Blockchain — 900 Millionen Nutzer erhielten ein On-Chain-Erlebnis.
-- TON Society + DWF Labs starteten einen 500-Millionen-Dollar-Fonds für DeFi, Spiele und KI-Agenten auf TON.
+- TON Society + DWF Labs starteten einen 500-Millionen-Dollar-Fonds für [DeFi](/de/glossary/#defi), Spiele und KI-Agenten auf TON.
 
 > TON ist Krypto für die Massen: ein Wallet in Telegram mit einer fertigen Zielgruppe. Wenn du Kryptowährungen ausprobieren willst, ohne Drittanbieter-Apps zu installieren — fang mit TON an.
 
@@ -229,7 +229,7 @@ Toncoin ist eine Blockchain, die vom Telegram-Team erstellt wurde (ursprünglich
 | XRP | Banküberweisungen | ~85 Mrd. $ | 1,39 $ |
 | BNB | Binance-Ökosystem | ~35 Mrd. $* | ~452 $ |
 | Solana | Geschwindigkeit und Skalierung | ~48 Mrd. $ | 83,78 $ |
-| TRON | Stablecoins und Unterhaltung | ~31 Mrd. $ | 0,33 $ |
+| TRON | [Stablecoins](/de/glossary/#stablecoin) und Unterhaltung | ~31 Mrd. $ | 0,33 $ |
 | Dogecoin | Meme-Coin mit Community | ~17 Mrd. $ | 0,11 $ |
 | Hyperliquid | DEX-Derivate | ~9,8 Mrd. $ | 41,16 $ |
 | LEO | Bitfinex-Utility-Token | ~9,5 Mrd. $ | 10,34 $ |

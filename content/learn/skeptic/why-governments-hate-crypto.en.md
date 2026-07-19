@@ -89,7 +89,7 @@ Governments' reactions are predictable.
 
 **China** — in 2021 it completely banned all crypto operations, including [mining](/en/glossary/#mining). Exchanges were shut down, transactions were blocked.
 
-**Nigeria** — in 2021 the central bank banned banks from serving crypto exchanges. Reason: massive flight to crypto due to naira inflation.
+**Nigeria** — in 2021 the central bank banned banks from serving crypto exchanges. Reason: massive flight to crypto due to naira [inflation](/en/glossary/#inflation).
 
 **Algeria, Nepal, Egypt** — full or partial bans on crypto.
 
@@ -189,7 +189,7 @@ Most developed countries have adopted these recommendations.
 
 On one hand — regulation legitimizes crypto, makes it more "official."
 
-On the other — regulation kills the very idea of decentralization. If every exchange is forced to collect your data and hand it over to the government — how is that different from a bank?
+On the other — regulation kills the very idea of [decentralization](/en/glossary/#decentralization). If every exchange is forced to collect your data and hand it over to the government — how is that different from a bank?
 
 ### Exchange Licensing
 
@@ -211,7 +211,7 @@ According to research, around 50 countries have introduced full or partial crypt
 
 Total ban (using crypto is illegal):
 
-- **China** — operations, mining, and exchanges prohibited;
+- **China** — operations, [mining](/en/glossary/#mining), and exchanges prohibited;
 - **Algeria** — criminal liability;
 - **Nepal** — all operations prohibited;
 - **Egypt** — banned on both religious and legal grounds.
@@ -240,8 +240,8 @@ Banning crypto is kind of like banning the internet. You can try technically, bu
 Reasons:
 
 1. Crypto has no central server. You can't just "turn it off."
-2. The blockchain runs on thousands of nodes around the world.
-3. P2P exchange doesn't require intermediaries.
+2. The [blockchain](/en/glossary/#blockchain) runs on thousands of nodes around the world.
+3. [P2P](/en/glossary/#p2p) exchange doesn't require intermediaries.
 
 ### Example: China
 
@@ -358,7 +358,7 @@ The outcome is clear: regulation is inevitable. But a total ban — no.
 Total bans are in effect in China, Algeria, Nepal, Egypt, and Bangladesh (partial). In total, around 50 countries have introduced some kind of restriction. But even in these countries, crypto continues to be used unofficially.
 
 ### Can a government block Bitcoin?
-Technically — no. Bitcoin has no central server. To block the network, you'd have to shut down every node in the world — which is impossible. A government can only restrict access to exchanges and services within its own territory.
+Technically — no. Bitcoin has no central server. To [block](/en/glossary/#block) the network, you'd have to shut down every node in the world — which is impossible. A government can only restrict access to exchanges and services within its own territory.
 
 ### What is the FATF Travel Rule?
 The Travel Rule is a FATF requirement that obligates crypto service providers (exchanges, swap services) to share sender and recipient information with each other. Effectively — the end of anonymity on centralized platforms.

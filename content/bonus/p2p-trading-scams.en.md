@@ -40,7 +40,7 @@ In this article, we'll cover:
 - you transfer money to their card;
 - they send you [cryptocurrency](/en/glossary/#cryptocurrency).
 
-The platform (Binance P2P, Bybit P2P, OKX P2P) acts only as an **arbitrator** — it holds the seller's crypto in escrow until you confirm payment.
+The platform (Binance [P2P](/en/glossary/#p2p), Bybit P2P, OKX P2P) acts only as an **arbitrator** — it holds the seller's crypto in escrow until you confirm payment.
 
 👉 Sounds safe. But scammers find ways to bypass the protection.
 
@@ -224,7 +224,7 @@ The protection is simple:
 > **don't fall for below-market prices**;
 > **don't leave the platform**.
 
-Cryptocurrency gives you financial freedom. But the responsibility for security is yours.
+[Cryptocurrency](/en/glossary/#cryptocurrency) gives you financial freedom. But the responsibility for security is yours.
 
 ---
 

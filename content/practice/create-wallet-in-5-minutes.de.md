@@ -32,7 +32,7 @@ Eine Krypto-[Wallet](/de/glossary/#wallet) ist ein Programm, das die **Schlüsse
 
 Wichtig: Die Coins selbst werden nicht in der Wallet gespeichert – sie leben auf der **[Blockchain](/de/glossary/#blockchain)**. Die Wallet gibt dir nur Zugriff darauf.
 
-Eine Wallet hat zwei Schlüssel:
+Eine [Wallet](/de/glossary/#wallet) hat zwei Schlüssel:
 - **Öffentlicher Schlüssel** (Wallet-Adresse) – du kannst ihn jedem geben, um Geld zu empfangen.
 - **[Privater Schlüssel](/de/glossary/#private-key)** ([Seed-Phrase](/de/glossary/#seed-phrase)) – das ist das Passwort zu deinem gesamten Geld. Zeige ihn niemandem.
 
@@ -192,7 +192,7 @@ Glückwunsch, du hast eine Wallet erstellt! Jetzt das Wichtigste – verliere ni
 
 | ✅ Tun | ❌ Nicht tun |
 |---|---|
-| Bewahre deine Seed-Phrase auf Papier an einem sicheren Ort auf | Speichere die Phrase nicht auf dem Handy, in der Cloud oder in Screenshots |
+| Bewahre deine [Seed-Phrase](/de/glossary/#seed-phrase) auf Papier an einem sicheren Ort auf | Speichere die Phrase nicht auf dem Handy, in der Cloud oder in Screenshots |
 | Erstelle eine Kopie der Phrase (zweites Blatt an einem anderen Ort) | Gib die Phrase nicht auf Websites oder in Apps ein |
 | Richte ein Passwort auf deinem Gerät ein | Schicke die Phrase nicht über Messenger (auch nicht an dich selbst) |
 | Überprüfe die Website-Adresse, bevor du deine Wallet verbindest | Vertraue Leuten nicht, die dir DMs schreiben und vorgeben, Support zu sein |

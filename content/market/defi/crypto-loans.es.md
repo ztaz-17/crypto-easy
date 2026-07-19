@@ -64,7 +64,7 @@ Nadie pregunta dónde trabajas ni cuánto ganas. Solo conecta tu [cartera](/es/g
 
 ## Sobregarantía: Por Qué Necesitas Poner Más de lo que Pides Prestado
 
-En DeFi no hay cobradores ni tribunales. Si un prestatario no paga, un contrato inteligente no puede llevarlo a juicio.
+En [DeFi](/es/glossary/#defi) no hay cobradores ni tribunales. Si un prestatario no paga, un contrato inteligente no puede llevarlo a juicio.
 
 Por eso el sistema funciona de otra manera:
 
@@ -153,7 +153,7 @@ Lo destacado:
 
 **[MakerDAO](https://makerdao.com)** — un modelo ligeramente diferente.
 
-Aquí no solo tomas un préstamo — **creas la stablecoin DAI** bloqueando ETH (u otros activos) como garantía. Es básicamente lo mismo que un préstamo: bloqueas ETH, obtienes DAI, y cuando devuelves el DAI más los intereses — tu garantía se libera.
+Aquí no solo tomas un préstamo — **creas la [stablecoin](/es/glossary/#stablecoin) DAI** bloqueando ETH (u otros activos) como garantía. Es básicamente lo mismo que un préstamo: bloqueas ETH, obtienes DAI, y cuando devuelves el DAI más los intereses — tu garantía se libera.
 
 > MakerDAO es la columna vertebral de todo el ecosistema DeFi. Cientos de protocolos usan DAI.
 
@@ -200,7 +200,7 @@ Los oráculos son servicios que proporcionan datos de precios a los contratos in
 
 ### 4. Incapacidad de Devolver el Préstamo
 
-Si pierdes el acceso a tu cartera o simplemente no tienes fondos para devolver el préstamo — tu garantía se liquida. Nadie puede ayudarte, y no hay un banco que restaure tu acceso.
+Si pierdes el acceso a tu [cartera](/es/glossary/#wallet) o simplemente no tienes fondos para devolver el préstamo — tu garantía se liquida. Nadie puede ayudarte, y no hay un banco que restaure tu acceso.
 
 ### 5. Activos de Garantía «Basura»
 
@@ -232,7 +232,7 @@ Los préstamos DeFi son una revolución en las finanzas:
 | Aprobación instantánea             | Riesgo de liquidación en caída del mercado |
 | Sin historial crediticio           | Riesgo de errores en contratos inteligentes |
 | Accesible desde cualquier parte del mundo | Requiere monitoreo activo de la posición  |
-| Transparencia (todo en cadena)     | Volatilidad de las criptomonedas         |
+| Transparencia (todo en cadena)     | Volatilidad de las [criptomonedas](/es/glossary/#cryptocurrency)         |
 | Tasas de interés a menudo más bajas que los bancos | Pérdida de la garantía durante la liquidación |
 
 > Un préstamo DeFi no es dinero gratis. Es una herramienta que te da libertad — pero exige responsabilidad.
