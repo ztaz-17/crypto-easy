@@ -1,7 +1,7 @@
 ---
 weight: 4
 title: "What Is an Airdrop and How to Avoid Getting Scammed"
-description: "Airdrop — free token giveaways. How to tell a legitimate airdrop from a scam"
+description: "Airdrop — free token giveaways. Learn how to tell a legitimate airdrop from a scam, how to participate safely, and what red flags to watch for in 2026."
 category: "bonus"
 translationKey: "what-is-airdrop"
 slug: "what-is-airdrop"

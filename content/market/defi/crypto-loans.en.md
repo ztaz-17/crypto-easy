@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Loans Without Banks: How DeFi Lending Works"
-description: "How crypto loans work without a bank through DeFi: collateral, liquidation, risks. Aave, Compound"
+description: "How crypto loans work without a bank through DeFi: collateral, liquidation, and risks explained. A beginner-friendly guide to Aave, Compound, and borrowing crypto."
 category: "defi"
 translationKey: "crypto-loans"
 slug: "crypto-loans-without-banks"

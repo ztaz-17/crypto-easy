@@ -1,6 +1,6 @@
 ---
 title: "Contacts"
-description: "Get in touch with us"
+description: "Have a question, suggestion, or partnership idea? Contact the Crypto Easy team — we're always happy to hear from our readers and improve the project."
 slug: "contacts"
 layout: "single"
 ---

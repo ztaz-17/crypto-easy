@@ -1,7 +1,7 @@
 ---
 weight: 3
 title: "Demo Mode in Crypto: Testnet"
-description: "How to try crypto without risk: testnets, faucets for free test coins, and safe hands-on learning"
+description: "How to try crypto without risk: testnets explained, where to get free test coins from faucets, and how to practice sending transactions safely before using real money."
 category: "practice"
 translationKey: "testnet-demo"
 slug: "testnet-demo-practice-without-risk"
