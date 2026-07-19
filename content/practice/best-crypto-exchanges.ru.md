@@ -23,8 +23,6 @@ keywords:
 
 ![Bybit logo](/images/bybit-logo.svg "Bybit")
 
-{{< figure src="/images/bybit-logo.png" alt="Bybit" width="200" >}}
-
 **Bybit** — биржа №1 среди наших читателей. Почему?
 
 - **Низкие комиссии**: 0.1% спот, 0.02% фьючерсы
@@ -41,8 +39,6 @@ keywords:
 
 ![Kraken logo](/images/kraken-logo.svg "Kraken")
 
-{{< figure src="/images/kraken-logo.png" alt="Kraken" width="200" >}}
-
 **Kraken** — старейшая биржа (основана в 2011), которая пережила все кризисы. Идеальный выбор для тех, кто ставит безопасность на первое место.
 
 - **Лицензии**: США (FinCEN), Япония, Великобритания, Канада
@@ -58,8 +54,6 @@ keywords:
 ## Coinbase — лучший UX для новичков
 
 ![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
-
-{{< figure src="/images/coinbase-logo.png" alt="Coinbase" width="200" >}}
 
 **Coinbase** — самая популярная биржа в США с простым интерфейсом. Подходит для первого знакомства с криптой.
 
