@@ -1,7 +1,7 @@
 ---
 weight: 2
 title: "What Are Oracles in Crypto"
-description: "Oracles — how smart contracts learn the real price of Bitcoin. Chainlink, price feeds, real-world data"
+description: "Oracles explained simply — how smart contracts learn the real price of Bitcoin. Learn about Chainlink, price feeds, and how blockchains connect to real-world data."
 category: "bonus"
 translationKey: "what-are-oracles"
 slug: "what-are-oracles"
