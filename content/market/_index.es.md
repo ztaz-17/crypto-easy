@@ -93,4 +93,10 @@ next: ""
 - [Principios generales](/es/market/regulation/impuestos-crypto/#las-cripto-son-un-activo-los-impuestos-son-un-hecho)
 - [Dónde se pagan](/es/market/regulation/impuestos-crypto/#dónde-pagar-impuestos-principio-de-residencia)
 
+### [Impuestos Crypto: Lo que un Principiante Debe Saber](/es/market/regulation/impuestos-crypto-para-principiantes/)
+- [Por dónde empezar](/es/market/regulation/impuestos-crypto-para-principiantes/#por-dónde-empezar)
+- [Cómo calcular la ganancia](/es/market/regulation/impuestos-crypto-para-principiantes/#cómo-calcular-la-ganancia-dos-métodos-principales)
+- [Cómo usar las pérdidas](/es/market/regulation/impuestos-crypto-para-principiantes/#cómo-usar-las-pérdidas-tax-loss-harvesting)
+- [Errores comunes](/es/market/regulation/impuestos-crypto-para-principiantes/#errores-comunes-de-los-principiantes-en-impuestos-crypto)
+
 ---

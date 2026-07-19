@@ -93,4 +93,10 @@ next: ""
 - [Allgemeine Grundsätze](/de/market/regulation/crypto-steuern/#krypto-ist-ein-vermögenswert-steuern-sind-eine-tatsache)
 - [Wo bezahlt wird](/de/market/regulation/crypto-steuern/#wo-steuern-zahlen-wohnsitzprinzip)
 
+### [Krypto-Steuern: Was Anfänger Wissen Müssen](/de/market/regulation/krypto-steuern-fur-anfanger/)
+- [Wo anfangen](/de/market/regulation/krypto-steuern-fur-anfanger/#wo-fängst-du-überhaupt-an)
+- [Gewinne berechnen](/de/market/regulation/krypto-steuern-fur-anfanger/#wie-du-gewinne-berechnest-zwei-hauptmethoden)
+- [Verluste nutzen](/de/market/regulation/krypto-steuern-fur-anfanger/#wie-du-verluste-nutzt-tax-loss-harvesting)
+- [Häufige Fehler](/de/market/regulation/krypto-steuern-fur-anfanger/#häufige-anfängerfehler-bei-krypto-steuern)
+
 ---
