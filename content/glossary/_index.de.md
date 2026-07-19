@@ -256,6 +256,12 @@ Die Fähigkeit eines Vermögenswerts, schnell zum Marktpreis verkauft zu werden,
 Eine Kryptowährung ohne ernsthaften Nutzen, basierend auf Memes, Hype und Community. Die Kurse sind extrem volatil. Beispiele: Dogecoin, Shiba Inu, PEPE. Reine Spekulation — sei vorsichtig.
 
 ---
+### Mining
+
+Der Prozess des Erstellens neuer Blöcke in einer Proof-of-Work-Blockchain. Miner lösen Probleme mit spezieller Hardware. Der Erste erhält eine Blockbelohnung (neue Coins + Gebühren).
+
+---
+
 
 ### Network Fee
 
@@ -364,12 +370,24 @@ Eine Betrugsart, bei der die Projektersteller die gesamte Liquidität aus dem Po
 Die Differenz zwischen dem erwarteten Handelskurs und dem tatsächlichen Ausführungskurs. Verursacht durch niedrige Liquidität oder hohe Volatilität. In DeFi kannst du den akzeptablen Slippage-Prozentsatz manuell einstellen.
 
 ---
+### Stablecoin
+
+Eine Kryptowährung mit stabilem Wert, an eine Fiat-Währung (USD, EUR) gekoppelt. Typen: fiat-gedeckt (USDT, USDC), krypto-gedeckt (DAI), algorithmisch.
+
+---
+
 
 ### Staking
 
 Sperren von Coins in einem Netzwerk zur Unterstützung des Betriebs und zur Erzielung von Einkommen. Funktioniert nach dem Proof-of-Stake-Prinzip.
 
 ---
+### Token
+
+Ein digitaler Vermögenswert auf einer bestehenden Blockchain (Ethereum, BNB Chain). Anders als eine native Münze funktionieren Token über Smart Contracts und Standards (ERC-20, BEP-20).
+
+---
+
 
 ### Tokenomics
 

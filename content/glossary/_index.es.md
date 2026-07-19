@@ -256,6 +256,12 @@ Capacidad de un activo para venderse rápidamente a precio de mercado sin pérdi
 Criptomoneda sin utilidad seria, basada en memes, hype y comunidad. Los precios son extremadamente volátiles. Ejemplos: Dogecoin, Shiba Inu, PEPE. Pura especulación — ten cuidado.
 
 ---
+### Mining
+
+Proceso de crear nuevos bloques en una blockchain Proof of Work. Los mineros resuelven problemas con hardware especializado. El primero recibe una recompensa (nuevas monedas + comisiones).
+
+---
+
 
 ### Network Fee
 
@@ -364,12 +370,24 @@ Tipo de estafa donde los creadores del proyecto drenan toda la liquidez del pool
 Diferencia entre el precio esperado de una operación y el precio real de ejecución. Causada por baja liquidez o alta volatilidad. En DeFi, puedes establecer manualmente el porcentaje de deslizamiento aceptable.
 
 ---
+### Stablecoin
+
+Criptomoneda diseñada para mantener un valor estable, vinculada a una moneda fiduciaria (USD, EUR). Tipos: respaldadas por fiat (USDT, USDC), cripto (DAI), algorítmicas.
+
+---
+
 
 ### Staking
 
 Bloqueo de monedas en una red para apoyar su operación y generar ingresos. Funciona bajo el principio de Proof of Stake.
 
 ---
+### Token
+
+Activo digital sobre una blockchain existente (Ethereum, BNB Chain). A diferencia de una moneda nativa, funciona mediante smart contracts y estándares (ERC-20, BEP-20).
+
+---
+
 
 ### Tokenomics
 
