@@ -93,4 +93,10 @@ next: ""
 - [General Principles](/en/market/regulation/crypto-taxes/#crypto-is-an-asset-taxes-are-a-fact-of-life)
 - [Where to Pay](/en/market/regulation/crypto-taxes/#where-to-pay-taxes-residency-principle)
 
+### [Crypto Taxes: What Beginners Must Know](/en/market/regulation/crypto-taxes-for-beginners/)
+- [Where to Start](/en/market/regulation/crypto-taxes-for-beginners/#where-do-you-even-start)
+- [How to Calculate Profit](/en/market/regulation/crypto-taxes-for-beginners/#how-to-calculate-profit-two-main-methods)
+- [Tax Loss Harvesting](/en/market/regulation/crypto-taxes-for-beginners/#how-to-use-losses-tax-loss-harvesting)
+- [Common Mistakes](/en/market/regulation/crypto-taxes-for-beginners/#common-beginner-mistakes-in-crypto-taxes)
+
 ---

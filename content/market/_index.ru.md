@@ -92,3 +92,9 @@ next: ""
 ### [Налоги на криптовалюту](/ru/market/regulation/nalogi-na-kriptu/)
 - [Общие принципы](/ru/market/regulation/nalogi-na-kriptu/#общие-принципы)
 - [Где платятся](/ru/market/regulation/nalogi-na-kriptu/#где-платятся)
+
+### [Крипто-налоги: что должен знать новичок](/ru/market/regulation/kripto-nalogi/)
+- [С чего начать](/ru/market/regulation/kripto-nalogi/#с-чего-вообще-начать)
+- [Как считать прибыль](/ru/market/regulation/kripto-nalogi/#как-считать-прибыль-два-главных-метода)
+- [Как использовать убытки](/ru/market/regulation/kripto-nalogi/#как-использовать-убытки-tax-loss-harvesting)
+- [Частые ошибки](/ru/market/regulation/kripto-nalogi/#частые-ошибки-новичков-в-крипто-налогах)
