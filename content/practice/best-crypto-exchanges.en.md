@@ -21,6 +21,8 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 
 ## Bybit — Best for Getting Started
 
+![Bybit logo](/images/bybit-logo.svg "Bybit")
+
 **Bybit** is the #1 exchange among our readers. Here's why:
 
 - **Low fees**: 0.1% spot, 0.02% futures
@@ -31,9 +33,11 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 
 **Welcome bonus**: up to $100 on first deposit of $50+.
 
-👉 [Sign up on Bybit](https://www.bybit.com/invite?ref=CRYPTOEASY) (referral link)
+👉 [Sign up on Bybit](https://www.bybit.com/invite?ref=DVPQELB) (referral link)
 
 ## Kraken — Maximum Security
+
+![Kraken logo](/images/kraken-logo.svg "Kraken")
 
 **Kraken** is the oldest exchange (founded 2011) that has survived every crisis. The ideal choice for those who prioritize security above all.
 
@@ -48,6 +52,8 @@ Downside: no direct support for some local payment methods.
 👉 [Sign up on Kraken](https://www.kraken.com/sign-up?referral=cryptoeasy) (referral link)
 
 ## Coinbase — Best UX for Beginners
+
+![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
 
 **Coinbase** is the most popular exchange in the US with a simple interface. Great for your first crypto purchase.
 
@@ -77,6 +83,8 @@ If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not 
 
 ### Ledger — The Industry Standard
 
+![Ledger logo](/images/ledger-logo.svg "Ledger")
+
 **Ledger** is the most trusted hardware wallet brand (sold 6M+ devices). Supports 5,500+ coins, has a built-in exchange through Ledger Live, and recently launched Ledger Stax with a curved E Ink display.
 
 - **Security**: certified secure element chip (CC EAL5+)
@@ -88,6 +96,8 @@ If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not 
 👉 [Get Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (referral link)
 
 ### Trezor — Fully Open Source
+
+![Trezor logo](/images/trezor-logo.svg "Trezor")
 
 **Trezor** (by SatoshiLabs) is completely open-source — every line of code can be audited independently. Ideal for privacy-conscious users.
 

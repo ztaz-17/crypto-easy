@@ -21,6 +21,8 @@ Wir haben einen objektiven Vergleich der drei besten Börsen 2026 erstellt. Alle
 
 ## Bybit — Am Besten für den Einstieg
 
+![Bybit logo](/images/bybit-logo.svg "Bybit")
+
 **Bybit** ist die Börse Nr. 1 unter unseren Lesern. Warum?
 
 - **Niedrige Gebühren**: 0,1% Spot, 0,02% Futures
@@ -31,9 +33,11 @@ Wir haben einen objektiven Vergleich der drei besten Börsen 2026 erstellt. Alle
 
 **Begrüßungsbonus**: bis zu $100 bei Ersteinzahlung von $50+.
 
-👉 [Bei Bybit registrieren](https://www.bybit.com/invite?ref=CRYPTOEASY) (Empfehlungslink)
+👉 [Bei Bybit registrieren](https://www.bybit.com/invite?ref=DVPQELB) (Empfehlungslink)
 
 ## Kraken — Maximale Sicherheit
+
+![Kraken logo](/images/kraken-logo.svg "Kraken")
 
 **Kraken** ist die älteste Börse (gegründet 2011), die alle Krisen überstanden hat. Die ideale Wahl für alle, die Sicherheit über alles stellen.
 
@@ -48,6 +52,8 @@ Nachteil: keine direkte Unterstützung für einige lokale Zahlungsmethoden.
 👉 [Bei Kraken registrieren](https://www.kraken.com/sign-up?referral=cryptoeasy) (Empfehlungslink)
 
 ## Coinbase — Beste UX für Anfänger
+
+![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
 
 **Coinbase** ist die beliebteste Börse in den USA mit einer einfachen Benutzeroberfläche. Ideal für den ersten Krypto-Kauf.
 
@@ -75,7 +81,10 @@ Nachteil: keine direkte Unterstützung für einige lokale Zahlungsmethoden.
 
 Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-Wallet. "Not your keys, not your coins" ist real: Börsen können Konten einfrieren, gehackt werden oder Auszahlungen blockieren. Ein Hardware-Wallet ist der einzige Weg, deine Kryptos wirklich zu besitzen.
 
-### Ledger — Der Industriestandard
+### Ledger 
+
+![Ledger logo](/images/ledger-logo.svg "Ledger")
+— Der Industriestandard
 
 **Ledger** ist die vertrauenswürdigste Marke für Hardware-Wallets (6M+ verkaufte Geräte). Unterstützt 5,500+ Coins, hat eine integrierte Börse über Ledger Live.
 
@@ -87,7 +96,10 @@ Wenn du mehr als $500 in Crypto besitzt — hol dir ein Hardware-Wallet. "Not yo
 
 👉 [Ledger Nano holen](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (Empfehlungslink)
 
-### Trezor — Vollständig Open Source
+### Trezor 
+
+![Trezor logo](/images/trezor-logo.svg "Trezor")
+— Vollständig Open Source
 
 **Trezor** (von SatoshiLabs) ist vollständig Open Source — jede Codezeile kann unabhängig geprüft werden. Ideal für datenschutzbewusste Nutzer.
 

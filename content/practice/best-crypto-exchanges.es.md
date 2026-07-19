@@ -21,6 +21,8 @@ Hemos preparado una comparación objetiva de los tres mejores exchanges en 2026.
 
 ## Bybit — El Mejor para Empezar
 
+![Bybit logo](/images/bybit-logo.svg "Bybit")
+
 **Bybit** es el exchange #1 entre nuestros lectores. ¿Por qué?
 
 - **Comisiones bajas**: 0.1% spot, 0.02% futuros
@@ -31,9 +33,11 @@ Hemos preparado una comparación objetiva de los tres mejores exchanges en 2026.
 
 **Bono de bienvenida**: hasta $100 al depositar $50+.
 
-👉 [Regístrate en Bybit](https://www.bybit.com/invite?ref=CRYPTOEASY) (enlace de referido)
+👉 [Regístrate en Bybit](https://www.bybit.com/invite?ref=DVPQELB) (enlace de referido)
 
 ## Kraken — Seguridad Máxima
+
+![Kraken logo](/images/kraken-logo.svg "Kraken")
 
 **Kraken** es el exchange más antiguo (fundado en 2011) que ha sobrevivido a todas las crisis. La elección ideal para quienes priorizan la seguridad por encima de todo.
 
@@ -48,6 +52,8 @@ Inconveniente: no soporta directamente algunos métodos de pago locales.
 👉 [Regístrate en Kraken](https://www.kraken.com/sign-up?referral=cryptoeasy) (enlace de referido)
 
 ## Coinbase — Mejor UX para Principiantes
+
+![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
 
 **Coinbase** es el exchange más popular en EE.UU. con una interfaz sencilla. Ideal para tu primera compra de cripto.
 
@@ -75,7 +81,10 @@ Inconveniente: no soporta directamente algunos métodos de pago locales.
 
 Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your keys, not your coins" es real: los exchanges pueden congelar cuentas, ser hackeados o bloquear retiros. Un hardware wallet es la única manera de poseer realmente tu crypto.
 
-### Ledger — El Estándar de la Industria
+### Ledger 
+
+![Ledger logo](/images/ledger-logo.svg "Ledger")
+— El Estándar de la Industria
 
 **Ledger** es la marca más confiable de hardware wallets (6M+ dispositivos vendidos). Soporta 5,500+ monedas, tiene un exchange integrado a través de Ledger Live.
 
@@ -87,7 +96,10 @@ Si tienes más de $500 en crypto — cómprate un hardware wallet. "Not your key
 
 👉 [Consigue Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (enlace de referido)
 
-### Trezor — Completamente Código Abierto
+### Trezor 
+
+![Trezor logo](/images/trezor-logo.svg "Trezor")
+— Completamente Código Abierto
 
 **Trezor** (de SatoshiLabs) tiene firmware completamente open-source — cada línea de código puede ser auditada independientemente. Ideal para usuarios que priorizan la privacidad.
 

@@ -21,6 +21,8 @@ keywords:
 
 ## Bybit — лучшая для старта
 
+![Bybit logo](/images/bybit-logo.svg "Bybit")
+
 {{< figure src="/images/bybit-logo.png" alt="Bybit" width="200" >}}
 
 **Bybit** — биржа №1 среди наших читателей. Почему?
@@ -33,9 +35,11 @@ keywords:
 
 **Бонус для новых пользователей**: до $100 при депозите от $50.
 
-👉 [Зарегистрироваться на Bybit](https://www.bybit.com/invite?ref=CRYPTOEASY) (реферальная ссылка)
+👉 [Зарегистрироваться на Bybit](https://www.bybit.com/invite?ref=DVPQELB) (реферальная ссылка)
 
 ## Kraken — максимальная безопасность
+
+![Kraken logo](/images/kraken-logo.svg "Kraken")
 
 {{< figure src="/images/kraken-logo.png" alt="Kraken" width="200" >}}
 
@@ -52,6 +56,8 @@ keywords:
 👉 [Зарегистрироваться на Kraken](https://www.kraken.com/sign-up?referral=cryptoeasy) (реферальная ссылка)
 
 ## Coinbase — лучший UX для новичков
+
+![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
 
 {{< figure src="/images/coinbase-logo.png" alt="Coinbase" width="200" >}}
 
@@ -82,7 +88,10 @@ keywords:
 
 Если у вас более $500 в крипте — купите аппаратный кошелёк. "Not your keys, not your coins" — это реальность: биржи могут заморозить счета, быть взломаны или заблокировать вывод. Аппаратный кошелёк — единственный способ по-настоящему владеть своей криптовалютой.
 
-### Ledger — Стандарт индустрии
+### Ledger 
+
+![Ledger logo](/images/ledger-logo.svg "Ledger")
+— Стандарт индустрии
 
 **Ledger** — самый надёжный бренд аппаратных кошельков (продано 6M+ устройств). Поддерживает 5 500+ монет, имеет встроенный обменник через Ledger Live.
 
@@ -94,7 +103,10 @@ keywords:
 
 👉 [Купить Ledger Nano](https://shop.ledger.com/pages/ledger-nano-x?r=9d7e46aac5d7) (реферальная ссылка)
 
-### Trezor — Полностью открытый код
+### Trezor 
+
+![Trezor logo](/images/trezor-logo.svg "Trezor")
+— Полностью открытый код
 
 **Trezor** (от SatoshiLabs) имеет полностью открытый исходный код — каждая строка кода может быть проверена независимо. Идеально для тех, кто ценит приватность.
 
