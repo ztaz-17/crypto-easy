@@ -18,8 +18,6 @@ keywords:
   - AML restrictions
   - bank refusal
   - money ownership
-prev: ""
-next: "/ru/learn/skeptic/pochemu-vy-teryaete-dengi-esli-kopite"
 ---
 
 ## Почему банк может заблокировать ваши деньги? И вы ничего не сделаете!

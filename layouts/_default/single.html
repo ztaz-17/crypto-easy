@@ -5,10 +5,10 @@
   <!-- CONTENT -->
   <section class="post-content">
     {{ .Content }}
-    {{ if or .Params.prev .Params.next }}
-    <hr>
-    {{ end }}
   </section>
+
+  {{ $pages := .CurrentSection.Pages.ByWeight }}
+
 
   <nav class="post-nav">
   {{ if .Params.prev }}
