@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Stell dir vor: Du findest ein DeFi-Protokoll, das **500 % APY** verspricht. Du zahlst deine Ersparnisse ein – und eine Woche später ist der Pool leer. Der „Auszahlen"-Button funktioniert nicht mehr.
+Stell dir vor: Du findest ein [DeFi](/de/glossary/#defi)-Protokoll, das **500 % APY** verspricht. Du zahlst deine Ersparnisse ein – und eine Woche später ist der Pool leer. Der „Auszahlen"-Button funktioniert nicht mehr.
 
 Oder ein anderes Szenario: Du leihst dir Geld, besichert mit ETH, der Markt bricht plötzlich ein, und der Smart Contract verkauft deine Sicherheiten sofort zum niedrigsten Kurs. Übrig bleibt weder Sicherheit noch Darlehen.
 
@@ -42,7 +42,7 @@ Ein **Rug Pull** ist genau das, wonach es klingt – die Protokoll-Ersteller zie
 
 So läuft das ab:
 
-- das Team bringt einen neuen Token und einen Liquiditätspool heraus;
+- das Team bringt einen neuen [Token](/de/glossary/#token) und einen Liquiditätspool heraus;
 - sie versprechen verrückte Renditen (1000 %+ APY);
 - Benutzer zahlen ihr Geld ein;
 - die Entwickler nutzen eine versteckte Funktion im Smart Contract, mit der sie das ganze Geld abziehen können;
@@ -60,7 +60,7 @@ Laut Analysten sind zwischen 2021 und 2023 Millionen von Nutzern Rug Pulls zum O
 | Extrem hohe APY | Alles über 1000 % ist fast immer ein Warnsignal |
 | Anonymes Team | Niemand weiß, wer das Projekt entwickelt hat |
 | Kein Audit | Code wurde nicht von unabhängigen Prüfern geprüft |
-| Ganz neue Liquidität | Das Projekt existiert erst seit Tagen oder Wochen |
+| Ganz neue [Liquidität](/de/glossary/#liquidity) | Das Projekt existiert erst seit Tagen oder Wochen |
 | Keine Liquiditätssperre | Liquidität ist nicht gesperrt – Gründer können sie jederzeit abziehen |
 
 ---
@@ -75,7 +75,7 @@ Eine einzige fehlerhafte Codezeile kann Millionen kosten. Und anders als bei Ban
 
 | Vorfall | Jahr | Verlust | Ursache |
 |---------|------|---------|---------|
-| **Ronin Bridge** | 2022 | 624 Mio. $ | Schwachstelle bei Bridge-Validatoren |
+| **Ronin [Bridge](/de/glossary/#bridge)** | 2022 | 624 Mio. $ | Schwachstelle bei Bridge-Validatoren |
 | **Wormhole Bridge** | 2022 | 326 Mio. $ | Fehler bei der Signaturprüfung |
 | **Nomad Bridge** | 2022 | 190 Mio. $ | Fehler im Bridge-Contract |
 | **Cream Finance** | 2021 | 130 Mio. $ | Fehler in der Kreditlogik |
@@ -98,7 +98,7 @@ Ein Smart-Contract-Audit ist eine Code-Überprüfung durch Sicherheitsexperten. 
 
 ## Impermanent Loss: Verluste bei Kursbewegungen
 
-**Impermanent Loss (IL)** tritt auf, wenn du einem DEX-Pool Liquidität zur Verfügung stellst und am Ende weniger Wert hast, als wenn du die Token einfach gehalten hättest.
+**Impermanent Loss (IL)** tritt auf, wenn du einem [DEX](/de/glossary/#dex)-Pool Liquidität zur Verfügung stellst und am Ende weniger Wert hast, als wenn du die Token einfach gehalten hättest.
 
 ### Wie es funktioniert
 
@@ -128,7 +128,7 @@ Du zahlst in einen ETH/USDC-Pool ein:
 
 **IL trifft am härtesten bei:**
 
-- Paaren, die einen Stablecoin (USDC/DAI) mit einem volatilen Asset (ETH, SOL) mischen;
+- Paaren, die einen [Stablecoin](/de/glossary/#stablecoin) (USDC/DAI) mit einem volatilen Asset (ETH, SOL) mischen;
 - starken einseitigen Kurstrends;
 - langen Bindungsfristen im Pool.
 
@@ -177,7 +177,7 @@ DeFi ist kein Glücksspiel, wenn du es klug angehst. Hier sind die grundlegenden
 Nutze diese Checkliste:
 
 - [ ] Wurde es von einer seriösen Firma geprüft? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] Wie hoch ist der TVL (Total Value Locked)? Niedriger TVL (< 1 Mio. $) bedeutet hohes Risiko
+- [ ] Wie hoch ist der [TVL](/de/glossary/#tvl) (Total Value Locked)? Niedriger TVL (< 1 Mio. $) bedeutet hohes Risiko
 - [ ] Wie lange läuft das Protokoll schon? (6+ Monate ist besser)
 - [ ] Ist der Code quelloffen? Kannst du ihn überprüfen?
 - [ ] Ist die Liquidität gesperrt?
@@ -201,7 +201,7 @@ Setze nicht alles auf ein Protokoll. Verteile es auf:
 
 ### 4. Nutze ein Cold Wallet für größere Beträge
 
-Für alles über 1.000 $ solltest du ein Hardware-Wallet (Ledger, Trezor) statt einer Browser-Erweiterung verwenden.
+Für alles über 1.000 $ solltest du ein Hardware-[Wallet](/de/glossary/#wallet) (Ledger, Trezor) statt einer Browser-Erweiterung verwenden.
 
 ### 5. Fang klein an
 
@@ -219,7 +219,7 @@ Zahle einen kleinen Betrag (50–100 $) in ein neues Protokoll ein. Versuche, ih
 | **Liquidation** | Zwangsverkauf von Sicherheiten bei Kurseinbruch | Halte 200 %+ Sicherheitenquote; nutze Stablecoins als Sicherheit; leihe nicht bis zum Limit |
 | **Protokoll-Token-Absturz** | Belohnungstoken fallen, deine Rendite wird negativ | Halte Belohnungstoken nicht lange; tausche sie in Stablecoins um |
 | **Hohe Gas-Gebühren** | Netzwerkgebühren fressen deine Gewinne | Nutze L2s (Arbitrum, Optimism, Polygon); zahle größere Beträge ein |
-| **Zugriffsverlust** | Verlorener Seed-Phrase oder Key bedeutet dauerhaften Verlust | Verwahre Seed-Phrase sicher auf (Metall, Safe); niemals in der Cloud oder als Screenshot |
+| **Zugriffsverlust** | Verlorener [Seed-Phrase](/de/glossary/#seed-phrase) oder Key bedeutet dauerhaften Verlust | Verwahre Seed-Phrase sicher auf (Metall, Safe); niemals in der Cloud oder als Screenshot |
 
 ---
 

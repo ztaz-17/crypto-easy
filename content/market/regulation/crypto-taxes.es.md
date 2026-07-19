@@ -19,7 +19,7 @@ keywords:
 
 Las cripto te dan libertad financiera. Pero no eliminan los impuestos.
 
-Mucha gente piensa: "las cripto son anónimas, Hacienda no se va a enterar". Eso es un mito peligroso. Los exchanges entregan datos a los reguladores, la blockchain es pública y las autoridades fiscales están persiguiendo los activos crypto con más fuerza que nunca.
+Mucha gente piensa: "las cripto son anónimas, Hacienda no se va a enterar". Eso es un mito peligroso. Los exchanges entregan datos a los reguladores, la [blockchain](/es/glossary/#blockchain) es pública y las autoridades fiscales están persiguiendo los activos crypto con más fuerza que nunca.
 
 > **Realidad:** los impuestos crypto no son cuestión de "si" — son cuestión de "cuándo".
 
@@ -34,7 +34,7 @@ En este artículo veremos:
 
 ## Las Cripto Son un Activo. Los Impuestos Son un Hecho
 
-Legalmente hablando, la mayoría de los países tratan a las criptomonedas como **propiedad** o **activo** — no como dinero.
+Legalmente hablando, la mayoría de los países tratan a las [criptomonedas](/es/glossary/#cryptocurrency) como **propiedad** o **activo** — no como dinero.
 
 Eso significa:
 
@@ -53,7 +53,7 @@ El caso más obvio. Vendiste Bitcoin por dólares, euros o rublos — obtuviste 
 
 ### Intercambiar una Crypto por Otra
 
-En algunos países (como EE. UU.) **cambiar BTC por ETH** también es un hecho imponible. Aunque nunca hayas sacado el dinero a fiat.
+En algunos países (como EE. UU.) **cambiar BTC por ETH** también es un hecho imponible. Aunque nunca hayas sacado el dinero a [fiat](/es/glossary/#fiat).
 
 El cálculo funciona así:
 
@@ -104,7 +104,7 @@ Esto se llama **impuesto a las ganancias de capital**. Las tasas dependen de cu�
 
 ## Dónde Pagar Impuestos: Principio de Residencia
 
-Pagas impuestos donde eres **residente fiscal** — no donde esté el exchange o la cartera.
+Pagas impuestos donde eres **residente fiscal** — no donde esté el exchange o la [cartera](/es/glossary/#wallet).
 
 > **Si eres residente fiscal en Rusia** — declaras ante el servicio tributario ruso aunque operes en Binance y vivas en Tailandia con visa de turista.
 
@@ -172,7 +172,7 @@ Las cripto son legales en Rusia, pero reguladas:
 | EE. UU. | Hasta 37% (corto plazo), hasta 20% (largo plazo) | 1 año | Hasta intercambios de cripto a cripto tributan |
 | Alemania | 0% si se mantiene >1 año, hasta 45% si menos de 1 año | 1 año | Uno de los mejores para HODLers |
 | Portugal | 0% si se mantiene >1 año, 28% si menos de 1 año | 1 año | Antiguo paraíso crypto, ahora moderado |
-| Rusia | 13–15% (IRPF) | Ninguna | Minería legalizada, RLE para vender |
+| Rusia | 13–15% (IRPF) | Ninguna | [Minería](/es/glossary/#mining) legalizada, RLE para vender |
 | EAU | 0% | — | Sin impuesto a ganancias de capital |
 | Singapur | 0% | — | Sin impuesto a ganancias de capital |
 

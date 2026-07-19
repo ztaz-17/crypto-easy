@@ -26,7 +26,7 @@ Y aquí está lo mejor:
 
 Incluso si alguien quisiera añadirse un millón de dólares — tendría que cambiar las 10,000 copias al mismo tiempo. Todos los demás detectarían el fraude inmediatamente y rechazarían la versión deshonesta.
 
-Eso es **blockchain**.
+Eso es **[blockchain](/es/glossary/#blockchain)**.
 
 Solo que en lugar de un "cuaderno" — es un registro digital. En lugar de "amigos" — computadoras en todo el mundo. Y en lugar de "notas escritas a mano" — fórmulas matemáticas que no se pueden engañar.
 
@@ -62,7 +62,7 @@ En una escuela normal, el maestro guarda el libro. Si el maestro quiere cambiar 
 
 ### Cómo funciona un bloque
 
-Blockchain está hecho de bloques. Cada bloque es como una página en el cuaderno compartido. Contiene:
+Blockchain está hecho de [bloques](/es/glossary/#block). Cada bloque es como una página en el cuaderno compartido. Contiene:
 
 - **varias transacciones** (quién envió qué a quién);
 - **una marca de tiempo** (cuándo se creó el bloque);

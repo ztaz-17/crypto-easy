@@ -18,13 +18,13 @@ keywords:
 
 ---
 
-Du hast ein neues DeFi-Protokoll gefunden. Schicke Website, niedrige Gebühren, verspricht 500 % APY.
+Du hast ein neues [DeFi](/de/glossary/#defi)-Protokoll gefunden. Schicke Website, niedrige Gebühren, verspricht 500 % APY.
 
 Eine Frage taucht auf:
 
 > **Ist es sicher, Geld hineinzustecken?**
 
-Eines der wichtigsten Werkzeuge, um das zu beantworten, ist **TVL** (Total Value Locked).
+Eines der wichtigsten Werkzeuge, um das zu beantworten, ist **[TVL](/de/glossary/#tvl)** (Total Value Locked).
 
 Das erwartet dich:
 
@@ -44,12 +44,12 @@ Einfach gesagt:
 > **wie viel Geld Nutzer diesem Protokoll anvertraut haben.**
 
 TVL umfasst:
-- Token in Liquiditätspools (wie auf Uniswap);
+- [Token](/de/glossary/#token) in Liquiditätspools (wie auf Uniswap);
 - Einlagen in Kreditprotokollen (wie Aave);
-- Sicherheiten in Stablecoin-Protokollen (wie MakerDAO);
-- Staking in Liquid-Staking-Protokollen (wie Lido).
+- Sicherheiten in [Stablecoin](/de/glossary/#stablecoin)-Protokollen (wie MakerDAO);
+- [Staking](/de/glossary/#staking) in Liquid-Staking-Protokollen (wie Lido).
 
-Je höher der TVL — desto mehr Liquidität im Protokoll, desto schwieriger zu manipulieren.
+Je höher der TVL — desto mehr [Liquidität](/de/glossary/#liquidity) im Protokoll, desto schwieriger zu manipulieren.
 
 ---
 
@@ -94,7 +94,7 @@ Was du machen kannst:
 - TVL eines beliebigen Protokolls prüfen;
 - TVL über mehrere Protokolle hinweg vergleichen;
 - **TVL-Verlauf** ansehen — wie er sich im Laufe der Zeit verändert hat;
-- nach Blockchain filtern (Ethereum, Solana, Arbitrum usw.).
+- nach [Blockchain](/de/glossary/#blockchain) filtern (Ethereum, Solana, Arbitrum usw.).
 
 DefiLlama größter Vorteil — es ist **unabhängig**. Die Daten kommen direkt von der Blockchain, über Smart Contracts.
 
@@ -184,9 +184,9 @@ TVL ist eine wichtige Kennzahl, aber nicht die einzige.
 **TVL zeigt nicht:**
 
 - Codesicherheit (Audits, Bugs);
-- Dezentralisierung (wer kontrolliert das Protokoll);
+- [Dezentralisierung](/de/glossary/#decentralization) (wer kontrolliert das Protokoll);
 - Ertrag (APY kann hoch sein, während TVL niedrig ist);
-- echte Nutzerzahl (10 Wallets mit je 1 Mio. $ sind keine Massenakzeptanz);
+- echte Nutzerzahl (10 [Wallets](/de/glossary/#wallet) mit je 1 Mio. $ sind keine Massenakzeptanz);
 - Verwahrungsrisiken (manche Protokolle blähen TVL mit eigenen Einlagen auf).
 
 > **TVL ist ein Indikator, keine Garantie.**

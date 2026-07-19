@@ -18,11 +18,11 @@ keywords:
 
 ---
 
-Bitcoin consume tanta electricidad como un país pequeño. Ethereum también lo hacía… hasta que migró al staking. Solana confirma miles de transacciones por segundo con comisiones casi nulas.
+Bitcoin consume tanta electricidad como un país pequeño. Ethereum también lo hacía… hasta que migró al [staking](/es/glossary/#staking). Solana confirma miles de transacciones por segundo con comisiones casi nulas.
 
-¿Por qué ocurre esto? Todo se reduce al **mecanismo de consenso** — la regla que decide quién puede añadir nuevos bloques a la cadena.
+¿Por qué ocurre esto? Todo se reduce al **mecanismo de consenso** — la regla que decide quién puede añadir nuevos [bloques](/es/glossary/#block) a la cadena.
 
-Los dos mecanismos principales son **Proof of Work (PoW)** y **Proof of Stake (PoS)**. Impulsan casi todas las criptomonedas que existen, pero funcionan de formas radicalmente distintas.
+Los dos mecanismos principales son **[Proof of Work](/es/glossary/#proof-of-work) (PoW)** y **[Proof of Stake](/es/glossary/#proof-of-stake) (PoS)**. Impulsan casi todas las [criptomonedas](/es/glossary/#cryptocurrency) que existen, pero funcionan de formas radicalmente distintas.
 
 > En este artículo te explicamos: cómo funcionan la minería y el staking, las diferencias clave, cuál es mejor para el usuario y si PoW tiene futuro.
 
@@ -32,7 +32,7 @@ Los dos mecanismos principales son **Proof of Work (PoW)** y **Proof of Stake (P
 
 ### Cómo funciona
 
-Proof of Work es exactamente lo que parece: tienes que **realizar trabajo computacional real** para añadir un nuevo bloque a la blockchain.
+Proof of Work es exactamente lo que parece: tienes que **realizar trabajo computacional real** para añadir un nuevo bloque a la [blockchain](/es/glossary/#blockchain).
 
 Imagina que tienes frente a ti una caja fuerte gigante con una cerradura de combinación que tiene mil millones de códigos posibles. Pruebas combinación tras combinación — pasan horas, días, semanas. Pero en el momento en que encuentras la clave, cualquiera puede verificar que es correcta.
 
@@ -48,7 +48,7 @@ La blockchain funciona igual:
 
 ### Por qué necesita tanta electricidad
 
-PoW es una carrera: «quién calcula más rápido». Cuanta más potencia de cálculo (hashrate) tengas, más probabilidades tienes de encontrar la solución primero.
+PoW es una [carrera](/es/glossary/#wallet): «quién calcula más rápido». Cuanta más potencia de cálculo (hashrate) tengas, más probabilidades tienes de encontrar la solución primero.
 
 Hoy en día, minar Bitcoin con un PC doméstico no tiene sentido — compites contra **mineros ASIC**, dispositivos especializados que no hacen más que calcular hashes. Un solo ASIC tiene más potencia que miles de ordenadores normales.
 
@@ -62,7 +62,7 @@ Los mineros no son programadores ni desarrolladores. Son **operadores de hardwar
 
 - comprar y montar mineros ASIC;
 - buscar electricidad barata (cerca de centrales hidroeléctricas, en regiones soleadas);
-- unirse a grupos de minería (pools) para tener ingresos estables;
+- unirse a grupos de [minería](/es/glossary/#mining) (pools) para tener ingresos estables;
 - vender las monedas que minan para pagar la factura de la luz.
 
 > Hoy es casi imposible minar en solitario — todo el mundo trabaja en **pools** (F2Pool, Antpool, ViaBTC) donde las recompensas se reparten proporcionalmente al hashrate aportado.
@@ -210,4 +210,4 @@ PoS es claramente más ecológico. La migración de Ethereum a PoS redujo su con
 
 ### ¿Podría Bitcoin migrar a PoS?
 
-Teóricamente — sí. En la práctica — extremadamente improbable. La comunidad de Bitcoin es conservadora y considera que PoW es el único mecanismo verdaderamente probado en batalla. Una migración requeriría un hard fork y el consenso de todos los participantes, lo cual es prácticamente imposible.
+Teóricamente — sí. En la práctica — extremadamente improbable. La comunidad de Bitcoin es conservadora y considera que PoW es el único mecanismo verdaderamente probado en batalla. Una migración requeriría un hard [fork](/es/glossary/#fork) y el consenso de todos los participantes, lo cual es prácticamente imposible.

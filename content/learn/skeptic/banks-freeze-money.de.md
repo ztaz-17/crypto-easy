@@ -241,7 +241,7 @@ Und es gibt keinen Weg, das zu umgehen.
 
 ## Eine Wahre Geschichte
 
-Eine Freundin von mir beschloss, zum ersten Mal eine kleine Menge Kryptowährung zu kaufen.  
+Eine Freundin von mir beschloss, zum ersten Mal eine kleine Menge [Kryptowährung](/de/glossary/#cryptocurrency) zu kaufen.  
 Sie wählte eine seriöse Börse und überwies Geld per Banküberweisung.
 
 Fünf Minuten nach dem Absenden:
@@ -307,7 +307,7 @@ Aber nur, wenn:
 
 ## Vergleich: Bankkonto, Bargeld, Krypto-Wallet
 
-| Kriterium                | Bankkonto         | Bargeld        | Krypto-Wallet                     |
+| Kriterium                | Bankkonto         | Bargeld        | Krypto-[Wallet](/de/glossary/#wallet)                     |
 |--------------------------|-------------------|----------------|-----------------------------------|
 | Wer kontrolliert es?     | Die Bank          | Du             | Du                                |
 | Kann es eingefroren werden? | Ja             | Nein           | Nein (bei nicht-verwahrendem)     |

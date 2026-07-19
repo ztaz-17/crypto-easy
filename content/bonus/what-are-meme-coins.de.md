@@ -29,7 +29,7 @@ Willkommen in der Welt der **Meme Coins** — der wildesten und riskantesten Eck
 
 ## Was ist ein Meme Coin
 
-Ein **Meme Coin** ist eine Kryptowährung ohne Nutzen.
+Ein **Meme Coin** ist eine [Kryptowährung](/de/glossary/#cryptocurrency) ohne Nutzen.
 
 Sie löst keinerlei Probleme. Sie hat:
 - keine besondere Technologie;
@@ -39,7 +39,7 @@ Sie löst keinerlei Probleme. Sie hat:
 
 Der einzige Wert einer solchen Münze ist der **Meme** (der Witz), um den sich eine Community gebildet hat.
 
-👉 Im Grunde ist ein Meme Coin kein Projekt — es ist ein viraler Trend, verpackt in einen Token.
+👉 Im Grunde ist ein Meme Coin kein Projekt — es ist ein viraler Trend, verpackt in einen [Token](/de/glossary/#token).
 
 ---
 
@@ -103,7 +103,7 @@ Es gibt keine fundamentalen Gründe für Meme-Coin-Pumps. Nur Psychologie.
 
 Jeder Meme Coin hat eine Armee von Fans auf Twitter, Telegram, Reddit und TikTok. Sie:
 - posten Memes;
-- überzeugen sich gegenseitig zu »HODL«;
+- überzeugen sich gegenseitig zu »[HODL](/de/glossary/#hodl)«;
 - greifen jeden an, der verkauft.
 
 Das erzeugt das Gefühl: »Wir sitzen im selben Boot« und »Wir werden gewinnen«.
@@ -139,9 +139,9 @@ Und niemand kann erklären, warum. Der Preis wird einzig und allein durch die Na
 
 Das Schema ist einfach:
 
-1. Große Spieler (Wale) kaufen am Tiefpunkt ein;
+1. Große Spieler ([Wale](/de/glossary/#whale)) kaufen am Tiefpunkt ein;
 2. Sie hypen den Coin über soziale Medien, bezahlte Werbung und Influencer;
-3. Kleine Anleger steigen aus FOMO ein;
+3. Kleine Anleger steigen aus [FOMO](/de/glossary/#fomo) ein;
 4. Die Wale verkaufen — der Preis stürzt ab;
 5. Die Kleinanleger bleiben auf wertlosen Tokens sitzen.
 
@@ -181,7 +181,7 @@ Anzeichen eines betrügerischen Meme Coins:
 - **Versprechen von »garantiertem« Wachstum** — es gibt keine Garantien in Krypto;
 - **Aggressive Werbung** — »Kauf jetzt«, »Letzte Chance«;
 - **Empfehlungssystem** — du wirst bezahlt, wenn du Freunde anwirbst;
-- **Abziehbare Liquidität** — die Macher können das ganze Geld nehmen;
+- **Abziehbare [Liquidität](/de/glossary/#liquidity)** — die Macher können das ganze Geld nehmen;
 - **Kein Audit** — der Code wurde von niemandem geprüft.
 
 > **Wenn dir jemand 1000 % in einer Woche verspricht — ist es zu 100 % ein Betrug.**
@@ -194,7 +194,7 @@ Wenn du es trotzdem versuchen willst:
 
 - Investiere nur, was du vollständig verlieren kannst;
 - Kauf nicht auf dem Hype-Höhepunkt;
-- Nutze eine separate Wallet, behalte nicht alles auf einer Börse;
+- Nutze eine separate [Wallet](/de/glossary/#wallet), behalte nicht alles auf einer Börse;
 - Prüfe die Tokenomics: wer hält den Großteil des Angebots;
 - Check, ob der Smart Contract auditiert wurde.
 
@@ -209,7 +209,7 @@ Und die goldene Regel:
 **Bitcoin / Ethereum:**
 - Hat Technologie? ✅ Ja
 - Hat ein Team? ✅ Ja
-- Hat echten Nutzen? ✅ Ja (Zahlungen, DeFi, Smart Contracts)
+- Hat echten Nutzen? ✅ Ja (Zahlungen, [DeFi](/de/glossary/#defi), Smart Contracts)
 - Risiko: Hoch
 - Erwartete Rendite: Mäßig
 - Langzeitwert: Wächst mit der Akzeptanz

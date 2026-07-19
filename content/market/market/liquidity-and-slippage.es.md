@@ -25,7 +25,7 @@ Bajas el precio a $99. Luego a $98. Solo cuando llegas a $95 alguien finalmente 
 
 O al revés: quieres comprar una altcoin. Ves el precio en $10, le das a "Comprar" — y la orden se ejecuta a $12. ¿Cómo es posible?
 
-Todo se reduce a la **liquidez**.
+Todo se reduce a la **[liquidez](/es/glossary/#liquidity)**.
 
 En este artículo cubriremos:
 >- qué significa la liquidez en términos simples;
@@ -49,7 +49,7 @@ En este artículo cubriremos:
 Lo mismo pasa en cripto:
 
 - **Bitcoin en Binance** — alta liquidez. Puedes vender $50,000 en segundos y el precio apenas se mueve.
-- **Un token oscuro en un exchange pequeño** — baja liquidez. Incluso una orden de venta de $1,000 puede mover el precio un 10-20%.
+- **Un [token](/es/glossary/#token) oscuro en un exchange pequeño** — baja liquidez. Incluso una orden de venta de $1,000 puede mover el precio un 10-20%.
 
 ### Por qué importa
 
@@ -113,7 +113,7 @@ Si ves un spread del 5-10% en un exchange — eso es una señal de alerta. Compr
 
 ### Qué es el deslizamiento
 
-El **deslizamiento** (slippage) es la diferencia entre el precio que esperabas y el precio al que realmente se ejecutó tu orden.
+El **[deslizamiento](/es/glossary/#slippage)** (slippage) es la diferencia entre el precio que esperabas y el precio al que realmente se ejecutó tu orden.
 
 Ocurre porque no hay suficiente liquidez en el nivel que querías.
 
@@ -170,10 +170,10 @@ Todos quieren vender — nadie quiere comprar. El spread se dispara a niveles ri
 
 ### 3. Manipulación de precios
 
-En monedas con baja liquidez, es fácil manipular el precio. Un jugador grande (ballena) puede:
+En monedas con baja liquidez, es fácil manipular el precio. Un jugador grande ([ballena](/es/glossary/#whale)) puede:
 
 - subir el precio un 50% con una sola orden;
-- esperar a que los novatos entren por FOMO;
+- esperar a que los novatos entren por [FOMO](/es/glossary/#fomo);
 - vender todo al precio alto — y el precio se desploma de vuelta.
 
 Este es el clásico esquema de **Pump & Dump**, y solo funciona en monedas con baja liquidez.
@@ -253,7 +253,7 @@ Para Bitcoin y las monedas principales — fracciones de un porcentaje. Para alt
 
 ### ¿Por qué el deslizamiento es mayor en los DEX (exchanges descentralizados)?
 
-Los DEX no tienen un libro de órdenes centralizado. El precio se determina por el tamaño del pool de liquidez. Mientras más pequeño el pool, más deslizamiento en cualquier trade.
+Los [DEX](/es/glossary/#dex) no tienen un libro de órdenes centralizado. El precio se determina por el tamaño del pool de liquidez. Mientras más pequeño el pool, más deslizamiento en cualquier trade.
 
 ### ¿Se puede perder dinero por baja liquidez incluso si el precio está subiendo?
 

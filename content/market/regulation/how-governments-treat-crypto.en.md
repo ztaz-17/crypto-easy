@@ -67,9 +67,9 @@ Instead of dealing with each crypto company through the courts, the EU passed a 
 What MiCA brings:
 
 - one set of rules for all 27 EU countries;
-- licensing for crypto exchanges and wallets;
+- licensing for crypto exchanges and [wallets](/en/glossary/#wallet);
 - consumer protection;
-- mandatory reserves for stablecoins.
+- mandatory reserves for [stablecoins](/en/glossary/#stablecoin).
 
 > **The upside:** if a company gets a license in one EU country, it can operate across the entire union.
 
@@ -101,7 +101,7 @@ What the UAE did:
 But there are catches:
 
 - businesses need a license (not cheap to get);
-- strict KYC and AML rules (no anonymity);
+- strict [KYC](/en/glossary/#kyc) and AML rules (no anonymity);
 - privacy coins are banned (Monero, Zcash).
 
 **Bottom line:** the UAE is one of the most convenient countries for crypto business — but only if you're willing to operate above board.
@@ -137,15 +137,15 @@ China is the toughest example of regulation.
 
 In 2021, China declared:
 - all crypto transactions illegal;
-- mining — outlawed;
+- [mining](/en/glossary/#mining) — outlawed;
 - exchanges — blocked.
 
 But there are important nuances:
 
 - China has **its own digital currency** — e-CNY (digital yuan), fully controlled by the central bank;
-- many Chinese citizens still trade crypto through P2P platforms and VPNs;
+- many Chinese citizens still trade crypto through [P2P](/en/glossary/#p2p) platforms and VPNs;
 - Chinese companies hold significant amounts of Bitcoin (through offshore entities);
-- the ban didn't stop China from being a major player in blockchain technology (patents, research).
+- the ban didn't stop China from being a major player in [blockchain](/en/glossary/#blockchain) technology (patents, research).
 
 > **The paradox:** China banned crypto for its citizens but keeps developing the technology at the state level.
 
@@ -184,7 +184,7 @@ What does this mean for the average user?
 But if you:
 
 - buy crypto on an exchange;
-- sell crypto for fiat;
+- sell crypto for [fiat](/en/glossary/#fiat);
 - run a crypto business;
 
 > **then your country's laws are the rules of the game.**

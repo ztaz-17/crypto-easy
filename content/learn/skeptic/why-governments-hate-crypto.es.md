@@ -26,7 +26,7 @@ La gente dejó de usar bancos. Nadie paga impuestos — es simplemente imposible
 
 ¿Suena a escenario distópico?
 
-Para los gobiernos — sí. Exactamente así ven ellos a las criptomonedas.
+Para los gobiernos — sí. Exactamente así ven ellos a las [criptomonedas](/es/glossary/#cryptocurrency).
 
 > **Las crypto son una tecnología que los gobiernos no pueden controlar — pero tampoco pueden prohibir.**
 
@@ -48,7 +48,7 @@ El dinero no es solo papel o números en una pantalla. En el mundo moderno, **el
 A través del sistema monetario, el gobierno:
 
 - cobra impuestos;
-- regula la inflación;
+- regula la [inflación](/es/glossary/#inflation);
 - controla el capital (lo que sale del país y lo que se queda);
 - financia el presupuesto;
 - influye en la economía mediante la política monetaria.
@@ -87,13 +87,13 @@ Eso es una amenaza directa al monopolio del dinero del Estado — un monopolio q
 
 Las reacciones de los gobiernos son predecibles.
 
-**China** — en 2021 prohibió completamente todas las operaciones con crypto, incluyendo la minería. Los exchanges fueron cerrados, las transacciones bloqueadas.
+**China** — en 2021 prohibió completamente todas las operaciones con crypto, incluyendo la [minería](/es/glossary/#mining). Los exchanges fueron cerrados, las transacciones bloqueadas.
 
 **Nigeria** — en 2021 el banco central prohibió que los bancos prestaran servicios a exchanges de crypto. Motivo: una fuga masiva hacia las crypto debido a la inflación de la naira.
 
 **Argelia, Nepal, Egipto** — prohibiciones totales o parciales de las crypto.
 
-¿Pero funciona? Spoiler: no. China lo prohibió — y la minería se mudó a Estados Unidos, Kazajistán y Rusia. El comercio P2P en China sigue activo.
+¿Pero funciona? Spoiler: no. China lo prohibió — y la minería se mudó a Estados Unidos, Kazajistán y Rusia. El comercio [P2P](/es/glossary/#p2p) en China sigue activo.
 
 ---
 
@@ -115,9 +115,9 @@ En las crypto, es completamente diferente.
 
 ### Anonimato y Pseudonimato
 
-Las criptomonedas son **pseudónimas** por naturaleza. No vinculas una billetera a tu pasaporte (a menos que uses exchanges centralizados).
+Las criptomonedas son **pseudónimas** por naturaleza. No vinculas una [billetera](/es/glossary/#wallet) a tu pasaporte (a menos que uses exchanges centralizados).
 
-Sí, todas las transacciones quedan registradas en la blockchain. Pero quién está detrás de una dirección determinada — nadie lo sabe.
+Sí, todas las transacciones quedan registradas en la [blockchain](/es/glossary/#blockchain). Pero quién está detrás de una dirección determinada — nadie lo sabe.
 
 > **El gobierno no puede simplemente aparecer en tu puerta con una factura de impuestos si no sabe que tienes crypto.**
 
@@ -125,9 +125,9 @@ Claro, existen herramientas de análisis de blockchain. Pero solo funcionan si u
 
 ### DeFi y la Dificultad de Rastrear
 
-Un dolor de cabeza especial para las autoridades fiscales viene de **DeFi** (finanzas descentralizadas):
+Un dolor de cabeza especial para las autoridades fiscales viene de **[DeFi](/es/glossary/#defi)** (finanzas descentralizadas):
 
-- staking;
+- [staking](/es/glossary/#staking);
 - préstamos y empréstitos;
 - yield farming;
 - intercambios a través de DEXs.
@@ -189,7 +189,7 @@ La mayoría de los países desarrollados han adoptado estas recomendaciones.
 
 Por un lado — la regulación legitima las crypto, las vuelve más "oficiales".
 
-Por otro lado — la regulación mata la idea misma de descentralización. Si todos los exchanges están obligados a recopilar tus datos y entregarlos al gobierno — ¿en qué se diferencia eso de un banco?
+Por otro lado — la regulación mata la idea misma de [descentralización](/es/glossary/#decentralization). Si todos los exchanges están obligados a recopilar tus datos y entregarlos al gobierno — ¿en qué se diferencia eso de un banco?
 
 ### Licencias para Exchanges
 

@@ -18,9 +18,9 @@ keywords:
 
 ---
 
-**"Zugriff auf deine USDT bestätigen"** — diese Meldung hast du bestimmt schon gesehen, wenn du deine Wallet mit einem neuen DeFi-Dienst, einer DEX (Uniswap, PancakeSwap) oder einem NFT-Marktplatz verbunden hast.
+**"Zugriff auf deine USDT bestätigen"** — diese Meldung hast du bestimmt schon gesehen, wenn du deine [Wallet](/de/glossary/#wallet) mit einem neuen [DeFi](/de/glossary/#defi)-Dienst, einer [DEX](/de/glossary/#dex) (Uniswap, PancakeSwap) oder einem [NFT](/de/glossary/#nft)-Marktplatz verbunden hast.
 
-Viele klicken einfach auf "Bestätigen", ohne es überhaupt zu lesen. Und das kann dich jeden einzelnen Token in deiner Wallet kosten.
+Viele klicken einfach auf "Bestätigen", ohne es überhaupt zu lesen. Und das kann dich jeden einzelnen [Token](/de/glossary/#token) in deiner Wallet kosten.
 
 In diesem Artikel erfährst du:
 
@@ -66,7 +66,7 @@ Eine Token-Berechtigung ist genau dasselbe, nur digital. Du lässt einen Vertrag
 
 ### Unbegrenzte Freigaben
 
-Das größte Problem: Die meisten dApps fragen nicht nach einer **begrenzten** Freigabe — sie verlangen eine unbegrenzte:
+Das größte Problem: Die meisten [dApps](/de/glossary/#dapp) fragen nicht nach einer **begrenzten** Freigabe — sie verlangen eine unbegrenzte:
 
 ```
 approve(DEX, MAX_UINT_256)
@@ -94,7 +94,7 @@ Wenn ein Vertrag, dem du eine unbegrenzte Freigabe gegeben hast:
 
 Beispiele aus der Praxis:
 
-- **Poly Network Hack** — 610 Millionen $ Schaden — Ausnutzung einer Cross-Chain-Brücke
+- **Poly Network Hack** — 610 Millionen $ Schaden — Ausnutzung einer Cross-Chain-[Brücke](/de/glossary/#bridge)
 - **BadgerDAO** — 120 Millionen $ Schaden — Phishing-Angriff mit Freigabe auf einen schädlichen Vertrag
 - **Curve Finance Hack** — 570.000 $ Schaden — DNS-basierte Manipulation von Berechtigungen
 
@@ -206,7 +206,7 @@ Erstell dir ein "Hot"-Wallet, das nur Folgendes enthält:
 - nur den Betrag, den du bereit bist zu riskieren;
 - nicht mehr als 5–20 % deines gesamten Portfolios.
 
-Bewahre deine Hauptgelder in einer **Cold Wallet** (Ledger, Trezor) oder auf einer separaten Adresse auf, zu der dApps keinen Zugriff haben.
+Bewahre deine Hauptgelder in einer **[Cold Wallet](/de/glossary/#cold-wallet)** (Ledger, Trezor) oder auf einer separaten Adresse auf, zu der dApps keinen Zugriff haben.
 
 ---
 

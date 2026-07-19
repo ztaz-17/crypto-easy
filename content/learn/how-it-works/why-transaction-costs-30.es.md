@@ -29,9 +29,9 @@ No por $5,000. No por $100,000. Por $50.
 
 ## ¿A quién le estamos pagando realmente?
 
-El cripto no es "gratis". Cada transacción requiere que alguien reciba un pago por el trabajo de la red. Dependiendo de la blockchain, ese alguien es:
+El cripto no es "gratis". Cada transacción requiere que alguien reciba un pago por el trabajo de la red. Dependiendo de la [blockchain](/es/glossary/#blockchain), ese alguien es:
 
-- **Miners** (Bitcoin) — resuelven problemas matemáticos para confirmar bloques;
+- **Miners** (Bitcoin) — resuelven problemas matemáticos para confirmar [bloques](/es/glossary/#block);
 - **Validadores** (Ethereum, Solana) — verifican y confirman transacciones.
 
 Ninguno de los dos lo hace por altruismo. Se ganan una **comisión** por cada transferencia que incluyen en un bloque.
@@ -181,7 +181,7 @@ El mismo dinero, los mismos contratos inteligentes — pero comisiones 50 a 100 
 
 ### 5. No envíes montos pequeños en horas pico
 
-Si el mempool está saturado (ej. durante un lanzamiento popular de NFT o una oleada de memecoins), solo espera unas horas.
+Si el mempool está saturado (ej. durante un lanzamiento popular de [NFT](/es/glossary/#nft) o una oleada de memecoins), solo espera unas horas.
 
 ---
 

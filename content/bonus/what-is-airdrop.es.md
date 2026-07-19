@@ -31,7 +31,7 @@ Pero la mayoría de las veces, es una **trampa**.
 
 ---
 
-En el mundo cripto, un airdrop es una distribución de tokens gratis a un gran número de wallets. Pero tantos mitos, estafas y falsificaciones se han acumulado alrededor de este término que es fácil que un principiante pierda dinero.
+En el mundo cripto, un [airdrop](/es/glossary/#airdrop) es una distribución de [tokens](/es/glossary/#token) gratis a un gran número de wallets. Pero tantos mitos, estafas y falsificaciones se han acumulado alrededor de este término que es fácil que un principiante pierda dinero.
 
 En este artículo cubriremos:
 
@@ -95,7 +95,7 @@ Muchos airdrops van a personas que ya han usado el protocolo:
 
 - hicieron swaps en Uniswap;
 - puentearon activos a Arbitrum;
-- proporcionaron liquidez.
+- proporcionaron [liquidez](/es/glossary/#liquidity).
 
 Es una forma de decir: "¡Gracias por quedarte con nosotros!"
 
@@ -107,7 +107,7 @@ Los proyectos necesitan que los tokens estén en manos de **muchas personas dife
 |---|---|
 | Atraer usuarios | Crecimiento rápido de la audiencia |
 | Recompensar primeros usuarios | Retener usuarios leales |
-| Distribuir gobernanza | Descentralización |
+| Distribuir gobernanza | [Descentralización](/es/glossary/#decentralization) |
 | Construir comunidad | Marketing orgánico |
 
 ---
@@ -124,7 +124,7 @@ Requisitos:
 
 - solo tenías que haber hecho al menos un trade en Uniswap antes de cierta fecha;
 - sin conectar wallets a través de enlaces aleatorios;
-- sin solicitudes de frase semilla.
+- sin solicitudes de [frase semilla](/es/glossary/#seed-phrase).
 
 > **Resultado:** miles de personas recibieron dinero real. Los tokens se negociaron en exchanges desde el primer día.
 
@@ -209,7 +209,7 @@ Recuerda estas reglas simples:
 - **El airdrop se anuncia públicamente** — si nadie habla de ello excepto un canal aleatorio de Telegram, es una estafa;
 - **No tienes que pagar nada** — si te piden que envíes dinero "por gas", es 100% fraude;
 - **Nunca piden tu frase semilla** — recuerda esto de una vez por todas: **un proyecto legítimo jamás te pedirá tu frase semilla**;
-- **El token se puede verificar en la blockchain** — un token real aparecerá en Etherscan o un explorador similar.
+- **El token se puede verificar en la [blockchain](/es/glossary/#blockchain)** — un token real aparecerá en Etherscan o un explorador similar.
 
 ### ❌ Señales de una Estafa
 

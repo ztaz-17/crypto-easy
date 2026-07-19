@@ -52,7 +52,7 @@ In einem dezentralen System: tausende unabhängige Computer (Nodes); jeder speic
 
 — **Zentralisierung:** eine Bibliothek mit allen Büchern. Bibliothek geschlossen – Bücher unzugänglich.
 
-— **Dezentralisierung:** tausende Menschen, jeder mit einer Kopie des Buches. Schließ eine Bibliothek – die anderen 999 haben Kopien.
+— **[Dezentralisierung](/de/glossary/#decentralization):** tausende Menschen, jeder mit einer Kopie des Buches. Schließ eine Bibliothek – die anderen 999 haben Kopien.
 
 ---
 
@@ -135,7 +135,7 @@ Nein. Für schnelle Mikrozahlungen und Massendienste ist Zentralisierung bequeme
 
 ### Kann ein dezentrales Netzwerk zentralisiert werden?
 
-Ja. Wenn die meisten Nodes oder die Mining-Power von einer Organisation gehalten werden, wird das Netzwerk effektiv zentralisiert. Das nennt man einen **51%-Angriff**.
+Ja. Wenn die meisten Nodes oder die [Mining](/de/glossary/#mining)-Power von einer Organisation gehalten werden, wird das Netzwerk effektiv zentralisiert. Das nennt man einen **51%-Angriff**.
 
 ### Wie dezentral ist Bitcoin wirklich?
 

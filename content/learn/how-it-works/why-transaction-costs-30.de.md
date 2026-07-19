@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Du öffnest dein Wallet, willst einem Kumpel 50 USDT schicken. Du gibst die Adresse ein, checkst den Betrag nochmal – und siehst eine Gebühr von **29,84 $**.
+Du öffnest dein [Wallet](/de/glossary/#wallet), willst einem Kumpel 50 USDT schicken. Du gibst die Adresse ein, checkst den Betrag nochmal – und siehst eine Gebühr von **29,84 $**.
 
 Nicht bei 5.000 $. Nicht bei 100.000 $. Bei 50 $.
 
@@ -29,9 +29,9 @@ Wo kommen diese Zahlen her? Und noch wichtiger – **warum kostet der exakt glei
 
 ## Wen bezahlen wir überhaupt?
 
-Krypto ist nicht »gratis«. Jede Transaktion erfordert, dass jemand für die Arbeit des Netzwerks bezahlt wird. Je nach Blockchain sind das:
+Krypto ist nicht »gratis«. Jede Transaktion erfordert, dass jemand für die Arbeit des Netzwerks bezahlt wird. Je nach [Blockchain](/de/glossary/#blockchain) sind das:
 
-- **Miner** (Bitcoin) – sie lösen mathematische Rätsel, um Blöcke zu bestätigen;
+- **Miner** (Bitcoin) – sie lösen mathematische Rätsel, um [Blöcke](/de/glossary/#block) zu bestätigen;
 - **Validatoren** (Ethereum, Solana) – sie prüfen und bestätigen Transaktionen.
 
 Keine der beiden Gruppen macht das aus Nächstenliebe. Sie verdienen eine **Gebühr** für jede Überweisung, die sie in einen Block aufnehmen.
@@ -181,7 +181,7 @@ Gleiches Geld, gleiche Smart Contracts – aber 50- bis 100-mal niedrigere Gebü
 
 ### 5. Kein Kleingeld in Stoßzeiten schicken
 
-Wenn der Mempool verstopft ist (z. B. während eines heißen NFT-Mints oder Memecoin-Hypes), warte einfach ein paar Stunden.
+Wenn der Mempool verstopft ist (z. B. während eines heißen [NFT](/de/glossary/#nft)-Mints oder Memecoin-Hypes), warte einfach ein paar Stunden.
 
 ---
 

@@ -52,7 +52,7 @@ En un sistema descentralizado: miles de computadoras independientes (nodos); cad
 
 — **Centralización:** una biblioteca con todos los libros. La biblioteca cierra — los libros son inaccesibles.
 
-— **Descentralización:** miles de personas, cada una con una copia del libro. Cierran una biblioteca — las otras 999 tienen copias.
+— **[Descentralización](/es/glossary/#decentralization):** miles de personas, cada una con una copia del libro. Cierran una biblioteca — las otras 999 tienen copias.
 
 ---
 
@@ -135,7 +135,7 @@ No. Para micropagos rápidos y servicios masivos, la centralización es más con
 
 ### ¿Puede una red descentralizada volverse centralizada?
 
-Sí. Si la mayoría de los nodos o del poder de minería está en manos de una sola organización, la red efectivamente se vuelve centralizada. Esto se llama un **ataque del 51%**.
+Sí. Si la mayoría de los nodos o del poder de [minería](/es/glossary/#mining) está en manos de una sola organización, la red efectivamente se vuelve centralizada. Esto se llama un **ataque del 51%**.
 
 ### ¿Qué tan descentralizado es Bitcoin realmente?
 

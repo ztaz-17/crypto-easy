@@ -20,7 +20,7 @@ keywords:
 
 Picture this: you're used to everything important being stored in one place. Money — in a bank. Photos — in the cloud. Messages — in WhatsApp.
 
-Now imagine the bank closes. Or WhatsApp's server goes down. Or your provider blocks access.
+Now imagine the bank closes. Or WhatsApp's server goes down. Or your provider [blocks](/en/glossary/#block) access.
 
 And that's it — your data, money, conversations become inaccessible.
 
@@ -44,7 +44,7 @@ Pros: **simplicity**. Cons: **control and vulnerability**.
 
 ### How decentralization works
 
-In a decentralized system: thousands of independent computers (nodes); each stores a copy of the data; decisions are made by voting (consensus); there is no "main server" you can turn off.
+In a [decentralized](/en/glossary/#decentralization) system: thousands of independent computers (nodes); each stores a copy of the data; decisions are made by voting (consensus); there is no "main server" you can turn off.
 
 > **Nobody can walk into the server room and press "Off." There is no server room.**
 
@@ -135,7 +135,7 @@ No. For fast micropayments and mass services, centralization is more convenient.
 
 ### Can a decentralized network become centralized?
 
-Yes. If most of the nodes or mining power is held by one organization, the network effectively becomes centralized. This is called a **51% attack**.
+Yes. If most of the nodes or [mining](/en/glossary/#mining) power is held by one organization, the network effectively becomes centralized. This is called a **51% attack**.
 
 ### How decentralized is Bitcoin really?
 

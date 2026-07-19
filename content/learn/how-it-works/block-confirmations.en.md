@@ -26,7 +26,7 @@ And the coins still haven't arrived.
 
 Why can't we just send things instantly? They're digital money, after all!
 
-The answer lies in how the blockchain itself works. Your transaction doesn't fly directly from wallet to wallet. First it has to land inside a **block** — and only then does it become part of the history.
+The answer lies in how the [blockchain](/en/glossary/#blockchain) itself works. Your transaction doesn't fly directly from [wallet](/en/glossary/#wallet) to wallet. First it has to land inside a **[block](/en/glossary/#block)** — and only then does it become part of the history.
 
 > In this article we'll cover: what a block is, why confirmations are needed, how many you should wait for, and when a transaction can be considered safe.
 
@@ -70,7 +70,7 @@ This process requires enormous computing power. That's why a new block in Bitcoi
 
 ### Ethereum: Validators (Proof of Stake)
 
-After switching to Proof of Stake, blocks in Ethereum are created by **validators** — participants who have staked at least 32 ETH. They don't "mine" — they simply confirm blocks.
+After switching to [Proof of Stake](/en/glossary/#proof-of-stake), blocks in Ethereum are created by **validators** — participants who have staked at least 32 ETH. They don't "mine" — they simply confirm blocks.
 
 A new block in Ethereum appears roughly every **~12 seconds**.
 
@@ -103,7 +103,7 @@ The blockchain solves this like so:
 
 One confirmation means your transaction made it into a block. But one confirmation alone isn't reliable enough.
 
-Why? Because theoretically, a miner could create a **fork** — an alternative block with a different transaction. If that fork ends up longer than the main chain, the original transaction gets reversed.
+Why? Because theoretically, a miner could create a **[fork](/en/glossary/#fork)** — an alternative block with a different transaction. If that fork ends up longer than the main chain, the original transaction gets reversed.
 
 The more blocks come after yours — the harder it is to undo the transaction. Each additional block is like another layer of concrete poured on top of the previous one.
 
@@ -222,7 +222,7 @@ Transaction confirmations aren't a bug or sluggish network behavior. They are a 
 - **Wait time depends on the network:** from 400 ms (Solana) to an hour (Bitcoin).
 - **You can speed things up:** choose a fee, use RBF, or pick a faster network.
 
-Cryptocurrency is a trade-off between speed and security. The more reliable the network, the longer you wait. But once a transaction is finally confirmed — it becomes part of a history that no one can rewrite.
+[Cryptocurrency](/en/glossary/#cryptocurrency) is a trade-off between speed and security. The more reliable the network, the longer you wait. But once a transaction is finally confirmed — it becomes part of a history that no one can rewrite.
 
 > As the saying goes: "Not your keys, not your coins." Let's add: "Not confirmed, not your transaction."
 

@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Hol deine Geldbörse raus. Schau dir einen Geldschein an.
+Hol deine [Geldbörse](/de/glossary/#wallet) raus. Schau dir einen Geldschein an.
 
 Da ist ein Portrait drauf, Wasserzeichen, ein Wappen, eine Seriennummer. Er knistert, du kannst ihn falten, zerreißen (auch wenn du's vielleicht lassen solltest). Von Kindheit an wird uns beigebracht: Das ist Geld. Etwas Echtes. Greifbares.
 
@@ -120,7 +120,7 @@ Jedes Land hat eine Hauptbank — die **Zentralbank** (Europäische Zentralbank,
 - **Geld druckt** — entscheidet, wie viel neues Geld ins System kommt.
 - **Den Leitzins festlegt** — den Zinssatz, zu dem sie Geschäftsbanken Geld leiht. Je höher der Zins, desto teurer sind Kredite und desto langsamer läuft die Wirtschaft. Je niedriger, desto billiger ist das Geld und desto höher ist tendenziell die **[Inflation](/de/glossary/#inflation)**.
 - **Geschäftsbanken reguliert** — erteilt und entzieht Lizenzen, prüft Berichte, legt Anforderungen fest.
-- **Die Inflation kontrolliert** — versucht zu verhindern, dass Preise zu schnell steigen.
+- **Die [Inflation](/de/glossary/#inflation) kontrolliert** — versucht zu verhindern, dass Preise zu schnell steigen.
 
 ### Geschäftsbanken
 

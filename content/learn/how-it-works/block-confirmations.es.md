@@ -26,7 +26,7 @@ Y las monedas todavía no han llegado.
 
 ¿Por qué no podemos simplemente enviar cosas al instante? ¡Al fin y al cabo, son dinero digital!
 
-La respuesta está en cómo funciona la propia blockchain. Tu transacción no vuela directamente de cartera a cartera. Primero tiene que aterrizar dentro de un **bloque** — y solo entonces pasa a formar parte del historial.
+La respuesta está en cómo funciona la propia [blockchain](/es/glossary/#blockchain). Tu transacción no vuela directamente de [cartera](/es/glossary/#wallet) a cartera. Primero tiene que aterrizar dentro de un **[bloque](/es/glossary/#block)** — y solo entonces pasa a formar parte del historial.
 
 > En este artículo veremos: qué es un bloque, por qué se necesitan confirmaciones, cuántas deberías esperar y cuándo una transacción puede considerarse segura.
 
@@ -70,7 +70,7 @@ Este proceso requiere una potencia informática enorme. Por eso un nuevo bloque 
 
 ### Ethereum: Validadores (Proof of Stake)
 
-Después de migrar a Proof of Stake, los bloques en Ethereum los crean **validadores** — participantes que han apostado al menos 32 ETH. No "minan" — simplemente confirman bloques.
+Después de migrar a [Proof of Stake](/es/glossary/#proof-of-stake), los bloques en Ethereum los crean **validadores** — participantes que han apostado al menos 32 ETH. No "minan" — simplemente confirman bloques.
 
 Un nuevo bloque en Ethereum aparece aproximadamente cada **~12 segundos**.
 
@@ -103,7 +103,7 @@ La blockchain lo soluciona así:
 
 Una confirmación significa que tu transacción entró en un bloque. Pero una sola confirmación no es suficientemente fiable.
 
-¿Por qué? Porque, en teoría, un minero podría crear un **fork** — un bloque alternativo con una transacción diferente. Si ese fork termina siendo más largo que la cadena principal, la transacción original se revierte.
+¿Por qué? Porque, en teoría, un minero podría crear un **[fork](/es/glossary/#fork)** — un bloque alternativo con una transacción diferente. Si ese fork termina siendo más largo que la cadena principal, la transacción original se revierte.
 
 Cuantos más bloques vengan después del tuyo — más difícil es deshacer la transacción. Cada bloque adicional es como otra capa de cemento vertida sobre la anterior.
 
@@ -222,7 +222,7 @@ Las confirmaciones de transacciones no son un error ni un comportamiento lento d
 - **El tiempo de espera depende de la red:** desde 400 ms (Solana) hasta una hora (Bitcoin).
 - **Puedes acelerar las cosas:** elige una comisión, usa RBF o escoge una red más rápida.
 
-Las criptomonedas son un equilibrio entre velocidad y seguridad. Cuanto más fiable es la red, más tiempo esperas. Pero una vez que una transacción se confirma finalmente — pasa a formar parte de una historia que nadie puede reescribir.
+Las [criptomonedas](/es/glossary/#cryptocurrency) son un equilibrio entre velocidad y seguridad. Cuanto más fiable es la red, más tiempo esperas. Pero una vez que una transacción se confirma finalmente — pasa a formar parte de una historia que nadie puede reescribir.
 
 > Como dice el refrán: "No tus llaves, no tus monedas." Añadamos: "No confirmado, no tu transacción."
 

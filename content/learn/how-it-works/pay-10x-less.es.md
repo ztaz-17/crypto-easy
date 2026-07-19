@@ -22,13 +22,13 @@ keywords:
 
 Imagina esto: le envías $200 a un amigo por la **red principal de Ethereum**.
 
-Pasa un minuto — y ves que a tu cartera le cobraron no $200, sino **$228**.
+Pasa un minuto — y ves que a tu [cartera](/es/glossary/#wallet) le cobraron no $200, sino **$228**.
 
 $28 — la comisión por una sola transferencia.
 
 Tu amigo recibió $172.
 
-Pagaste **un 14%** solo para que alguien escribiera la transacción en una blockchain.
+Pagaste **un 14%** solo para que alguien escribiera la transacción en una [blockchain](/es/glossary/#blockchain).
 
 ¿Suena a robo?
 
@@ -48,9 +48,9 @@ En este artículo cubriremos cuatro herramientas principales para ahorrar:
 ## ¿Por qué las comisiones son tan altas?
 
 Una comisión de blockchain es lo que pagas a los **validadores** (las personas que confirman transacciones).
-Cuanto más popular es la red — más gente quiere enviar una transferencia. Cuanta más gente quiere entrar — más alto es el precio por un lugar en el siguiente bloque.
+Cuanto más popular es la red — más gente quiere enviar una transferencia. Cuanta más gente quiere entrar — más alto es el precio por un lugar en el siguiente [bloque](/es/glossary/#block).
 
-**Ethereum** — la red más congestionada para DeFi, NFT y transferencias de stablecoins.
+**Ethereum** — la red más congestionada para [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft) y transferencias de [stablecoins](/es/glossary/#stablecoin).
 En días pico, una transferencia simple de USDT cuesta **$30–50**.
 
 Bitcoin es otra historia: las comisiones se disparan cuando mucha gente envía monedas al mismo tiempo. En días tranquilos — $1–3, en pico — $20+.
@@ -154,7 +154,7 @@ Horas más baratas (gwei < 10):
 
 Horas más caras (gwei > 50):
 - **Días laborables, durante el día** — especialmente cuando América y Europa están activas (12:00–18:00 UTC);
-- **Durante lanzamientos populares de NFT o tokens** — las comisiones se disparan a $100+.
+- **Durante lanzamientos populares de NFT o [tokens](/es/glossary/#token)** — las comisiones se disparan a $100+.
 
 ### Bitcoin
 

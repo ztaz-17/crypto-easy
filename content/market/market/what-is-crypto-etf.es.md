@@ -21,11 +21,11 @@ El 18 de julio de 2026 ocurrió algo que muchos esperaban desde hace años: la S
 
 Un ETF (Exchange Traded Fund) es un fondo de inversión cuyas acciones se pueden negociar en una bolsa como acciones normales. Imagina una cesta de frutas: en lugar de comprar cada fruta por separado, compras la cesta entera.
 
-**Un ETF de cripto** es la misma cesta, pero en lugar de frutas, contiene bitcoin, ethereum o Solana. Compras una acción del fondo, y el fondo posee la criptomoneda real.
+**Un ETF de cripto** es la misma cesta, pero en lugar de frutas, contiene bitcoin, ethereum o Solana. Compras una acción del fondo, y el fondo posee la [criptomoneda](/es/glossary/#cryptocurrency) real.
 
 La diferencia principal de comprar cripto directamente:
-- No necesitas crear una cartera
-- No necesitas recordar una frase semilla
+- No necesitas crear una [cartera](/es/glossary/#wallet)
+- No necesitas recordar una [frase semilla](/es/glossary/#seed-phrase)
 - No necesitas lidiar con comisiones de gas y complejidades de red
 - Todo se hace a través de una cuenta de corretaje normal
 
@@ -45,7 +45,7 @@ Antes del 18 de julio de 2026, la SEC solo había aprobado ETF spot para bitcoin
 
 1. **Entrada de capital institucional**. Los grandes fondos (pensiones, seguros, donaciones universitarias) no pueden comprar cripto directamente debido a restricciones regulatorias. Los ETF resuelven esto — ahora pueden invertir a través de un instrumento familiar.
 
-2. **Legitimación de Solana como activo**. La SEC es el principal regulador de EE.UU. Su aprobación significa que Solana es reconocida como un activo de inversión legítimo, no solo un «token». Esto reduce el riesgo regulatorio para todos los tenedores de SOL.
+2. **Legitimación de Solana como activo**. La SEC es el principal regulador de EE.UU. Su aprobación significa que Solana es reconocida como un activo de inversión legítimo, no solo un «[token](/es/glossary/#token)». Esto reduce el riesgo regulatorio para todos los tenedores de SOL.
 
 3. **Un precedente para otras altcoins**. La aprobación de Solana abre la puerta para ETF de otras criptomonedas: BNB, XRP, Cardano, Avalanche. Si antes la SEC consideraba todas las altcoins excepto BTC y ETH como valores financieros (securities), el precedente de Solana cambia esa posición.
 
@@ -85,7 +85,7 @@ Los ETF de cripto no son una solución mágica. Esto es lo que debes tener en cu
 
 Julio de 2026 es un punto de inflexión para el mercado cripto. Después de años de resistencia, la SEC está suavizando su postura sobre las altcoins. Los ETF spot de Solana son la primera señal. Si aún no estás en cripto, ahora es un buen momento para empezar a aprender — las herramientas de entrada se están volviendo más simples y accesibles.
 
-Las criptomonedas están pasando de ser un «Lejano Oeste para geeks» a convertirse en una clase de activos completa. Los ETF son uno de los principales puentes entre las finanzas tradicionales y el mundo cripto.
+Las criptomonedas están pasando de ser un «Lejano Oeste para geeks» a convertirse en una clase de activos completa. Los ETF son uno de los principales [puentes](/es/glossary/#bridge) entre las finanzas tradicionales y el mundo cripto.
 
 ---
 

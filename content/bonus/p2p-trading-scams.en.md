@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-You found a great deal on Binance P2P. A seller is offering USDT at 5% below market price. They quickly message you in the chat: "Sending the transfer now, wait." A minute later they send a screenshot of a bank transfer and demand you release the crypto.
+You found a great deal on Binance [P2P](/en/glossary/#p2p). A seller is offering USDT at 5% below market price. They quickly message you in the chat: "Sending the transfer now, wait." A minute later they send a screenshot of a bank transfer and demand you release the crypto.
 
 You check your balance in the banking app — no money. But the screenshot looks real. The seller pressures you: "The transfer has already been sent, the bank is processing it, release the USDT or I'll file a complaint!"
 
@@ -38,7 +38,7 @@ P2P (peer-to-peer) is direct trading between people. No middlemen:
 
 - you agree with the seller;
 - you transfer money to their card;
-- they send you cryptocurrency.
+- they send you [cryptocurrency](/en/glossary/#cryptocurrency).
 
 The platform (Binance P2P, Bybit P2P, OKX P2P) acts only as an **arbitrator** — it holds the seller's crypto in escrow until you confirm payment.
 

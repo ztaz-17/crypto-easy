@@ -19,15 +19,15 @@ keywords:
 
 ---
 
-Creaste tu cartera. MetaMask muestra 12 palabras.
+Creaste tu [cartera](/es/glossary/#wallet). MetaMask muestra 12 palabras.
 
-«Escribe tu frase semilla», dice el aviso.
+«Escribe tu [frase semilla](/es/glossary/#seed-phrase)», dice el aviso.
 
 Y justo en ese momento la mayoría de la gente comete un **error fatal**.
 
 No porque sean tontos. Sino porque **es difícil exagerar la importancia de este momento**, y el cerebro está acostumbrado a que «la contraseña se puede restablecer».
 
-En las criptomonedas no hay restablecimiento.
+En las [criptomonedas](/es/glossary/#cryptocurrency) no hay restablecimiento.
 
 > **Quien tiene la frase semilla, tiene el dinero.**
 

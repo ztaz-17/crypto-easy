@@ -29,7 +29,7 @@ Pero aquí está la buena noticia:
 
 > **Puedes practicar gratis, sin riesgo y sin invertir nada.**
 
-Las criptomonedas tienen un «modo demo» incorporado — las **testnets**. Son copias exactas de blockchains reales, solo que las monedas no tienen valor real. Puedes conseguirlas gratis, enviarlas por ahí, desplegar contratos y cometer errores — todo sin consecuencias económicas.
+Las [criptomonedas](/es/glossary/#cryptocurrency) tienen un «modo demo» incorporado — las **testnets**. Son copias exactas de blockchains reales, solo que las monedas no tienen valor real. Puedes conseguirlas gratis, enviarlas por ahí, desplegar contratos y cometer errores — todo sin consecuencias económicas.
 
 En este artículo veremos:
 
@@ -76,7 +76,7 @@ Funciona así:
 
 Los más populares:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no necesitas registrarte en plataformas de terceros; puedes obtener ETH, tokens (PYUSD, WBTC, etc.) y NFTs. Solo necesitas una cuenta de Google.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no necesitas registrarte en plataformas de terceros; puedes obtener ETH, [tokens](/es/glossary/#token) (PYUSD, WBTC, etc.) y [NFTs](/es/glossary/#nft). Solo necesitas una cuenta de Google.
 - **sepoliafaucet.com** — uno de los más fiables.
 - **infura.io/faucet/sepolia** — requiere una cuenta de Infura, pero da dosis regulares.
 - **alchemy.com/faucets/ethereum-sepolia** — de Alchemy, también tras registrarse.
@@ -120,7 +120,7 @@ Ahora vamos a meter algunas monedas en tu wallet cripto:
 
 ### ¡Quiero Más! Consigamos USD
 
-Ethereum es una blockchain que se volvió popular gracias a los contratos inteligentes.
+Ethereum es una [blockchain](/es/glossary/#blockchain) que se volvió popular gracias a los contratos inteligentes.
 
 En pocas palabras, un contrato inteligente es un programa que puede emitir cualquier tipo de token, NFT, definir su economía, reglas, etc. Y todo funciona con gas (Gwei — el combustible del sistema Ethereum).
 
@@ -136,7 +136,7 @@ Bueno… ¡queremos USD!
 3. MetaMask te protege de los **tokens polvo** y no mostrará esos tokens por defecto. Tienes dos opciones:
 > - permitir que se muestren todos los tokens (no es seguro)
 > - añadir la dirección del contrato inteligente a tu wallet — así solo aparecerán esos tokens y podrás transferirlos
-4. Añadamos nuestro contrato a la wallet. Puedes encontrar su dirección en el explorador de bloques:
+4. Añadamos nuestro contrato a la wallet. Puedes encontrar su dirección en el explorador de [bloques](/es/glossary/#block):
 > - abre el explorador de bloques [sepolia.etherscan.io](https://sepolia.etherscan.io/tx/0x51ffec256bf03a539fb8b435d3b4ee0057cfd6781c452fb2321074caae25dbd9)
 > - pega tu dirección de wallet `0x56f218c5aaE76128131A901F4E5cd3B9565bf014` (¡usa la tuya!)
 > - ve a la pestaña **Transferencias de Tokens (ERC-20)**
@@ -195,7 +195,7 @@ La mayor ventaja de las testnets:
 Puedes:
 
 - enviar monedas a la dirección equivocada (y no perder nada);
-- perder la frase semilla de tu wallet de prueba (solo crea una nueva);
+- perder la [frase semilla](/es/glossary/#seed-phrase) de tu wallet de prueba (solo crea una nueva);
 - hacer clic en un enlace de phishing (las monedas de prueba no valen nada de todos modos);
 - desplegar un contrato roto (práctica gratuita).
 
@@ -260,4 +260,4 @@ No. Si solo trabajas con la testnet — no hay nada de dinero real ahí. El peli
 
 ### ¿Por qué existen las testnets?
 
-Para probar contratos inteligentes y dApps antes del lanzamiento. Un bug en un contrato de mainnet puede costar millones de dólares. En una testnet — nada.
+Para probar contratos inteligentes y [dApps](/es/glossary/#dapp) antes del lanzamiento. Un bug en un contrato de mainnet puede costar millones de dólares. En una testnet — nada.

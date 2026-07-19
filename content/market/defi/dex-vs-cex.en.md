@@ -22,18 +22,18 @@ keywords:
 
 Two worlds, two philosophies, two approaches to trading.
 
-On one side — Binance, Bybit, OKX: giants with millions of users, order books, and live chat support. On the other — Uniswap, PancakeSwap, Jupiter: no sign-ups, no passports, just code and a wallet.
+On one side — Binance, Bybit, OKX: giants with millions of users, order books, and live chat support. On the other — Uniswap, PancakeSwap, Jupiter: no sign-ups, no passports, just code and a [wallet](/en/glossary/#wallet).
 
 > **CEX (Centralized Exchange)** — a centralized exchange. A company that runs the platform, holds your funds (custodially), and processes all orders.
 > **DEX (Decentralized Exchange)** — a decentralized exchange. A program (smart contracts) running on the blockchain. You control your funds through your own wallet.
 
-What's the difference in practice? When should you use a centralized exchange, and when a decentralized protocol? Let's walk through it step by step.
+What's the difference in practice? When should you use a centralized exchange, and when a [decentralized](/en/glossary/#decentralization) protocol? Let's walk through it step by step.
 
 ---
 
 ## What Is a CEX (Centralized Exchange)
 
-**CEX** is a crypto exchange in the traditional sense. Same model as conventional stock exchanges, except crypto instead of stocks.
+**[CEX](/en/glossary/#cex)** is a crypto exchange in the traditional sense. Same model as conventional stock exchanges, except crypto instead of stocks.
 
 Examples: **Binance**, **Bybit**, **OKX**, **KuCoin**, **Coinbase**, **Gate.io**.
 
@@ -45,7 +45,7 @@ Every trading pair (say, BTC/USDT) has an order book — a list of buy and sell 
 
 This mechanism gives you **precise pricing**: you can place an order at a specific price and wait for someone to fill it (limit order), or buy/sell instantly at the best available price (market order).
 
-**KYC (Know Your Customer)**
+**[KYC](/en/glossary/#kyc) (Know Your Customer)**
 
 Centralized exchanges have to follow the laws of the countries they operate in. So before you can trade, you need to:
 
@@ -57,7 +57,7 @@ Without KYC you can't withdraw more than a certain limit (usually 1–2 BTC per 
 
 **Custodial Storage**
 
-Your crypto assets live on the exchange's wallets. You don't have direct access to the private keys. In practice, you're trusting the exchange with your money.
+Your crypto assets live on the exchange's wallets. You don't have direct access to the [private keys](/en/glossary/#private-key). In practice, you're trusting the exchange with your money.
 
 > When you deposit 1 BTC on Binance, Binance credits it to your "account." But on the blockchain, that BTC sits in a wallet that Binance controls, not you.
 
@@ -65,15 +65,15 @@ Your crypto assets live on the exchange's wallets. You don't have direct access 
 
 ## What Is a DEX (Decentralized Exchange)
 
-**DEX** is a set of smart contracts that let you swap tokens directly, without a middleman. No company, no server — just code on the blockchain.
+**[DEX](/en/glossary/#dex)** is a set of smart contracts that let you swap [tokens](/en/glossary/#token) directly, without a middleman. No company, no server — just code on the [blockchain](/en/glossary/#blockchain).
 
-Examples: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multichain), **Curve** (stablecoins).
+Examples: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multichain), **Curve** ([stablecoins](/en/glossary/#stablecoin)).
 
 ### How DEXs Work
 
 **AMM (Automated Market Maker)**
 
-Instead of an order book — **liquidity pools**. Anyone can deposit a pair of tokens (e.g., ETH and USDC) into a pool and become a **liquidity provider (LP)**.
+Instead of an order book — **[liquidity](/en/glossary/#liquidity) pools**. Anyone can deposit a pair of tokens (e.g., ETH and USDC) into a pool and become a **liquidity provider (LP)**.
 
 Swaps happen through a math formula:
 
@@ -81,7 +81,7 @@ Swaps happen through a math formula:
 
 Where x is the amount of token A in the pool, y is the amount of token B, and k is a constant. When you buy token A, its amount in the pool goes down, and token B's amount goes up. The price shifts proportionally to the balance.
 
-The deeper the pool — the less slippage on your swap.
+The deeper the pool — the less [slippage](/en/glossary/#slippage) on your swap.
 
 **Non-Custodial**
 
@@ -106,10 +106,10 @@ No passports, no registrations. Connect your wallet — start trading. All a DEX
 | **Liquidity** | High (exchanges bring millions of traders together) | Medium (depends on pool depth) |
 | **Fees** | 0.02–0.1% (maker/taker) | 0.05–1% (pool fee) + network gas |
 | **Speed** | Instant (internal system) | Depends on the blockchain (seconds–minutes) |
-| **Available pairs** | Fiat + crypto, many pairs | Crypto-to-crypto only |
+| **Available pairs** | [Fiat](/en/glossary/#fiat) + crypto, many pairs | Crypto-to-crypto only |
 | **Fiat on-ramp** | Yes (cards, bank transfers) | No (crypto only) |
 | **Number of assets** | Hundreds–thousands (decided by the exchange) | Everything on the blockchain (any tokens) |
-| **Advanced tools** | Futures, margin, staking, P2P | Basic service — swap |
+| **Advanced tools** | Futures, margin, [staking](/en/glossary/#staking), [P2P](/en/glossary/#p2p) | Basic service — swap |
 | **Regulation** | Follows local laws | De facto unregulated |
 | **Risks** | Exchange hacks, account freeze, withdrawal lock | Smart contract bugs, rug pulls, lost keys |
 
@@ -161,7 +161,7 @@ Your money — yours. The exchange can't freeze your account, limit withdrawals,
 
 ### 4️⃣ You Work with DeFi Protocols
 
-If you want to farm, stake, or lend — these operations happen inside the blockchain. DEXs are the natural interface for DeFi.
+If you want to farm, stake, or lend — these operations happen inside the blockchain. DEXs are the natural interface for [DeFi](/en/glossary/#defi).
 
 > You can swap tokens on Uniswap, then immediately send them to Aave for lending — all in one transaction, without moving funds to an exchange.
 

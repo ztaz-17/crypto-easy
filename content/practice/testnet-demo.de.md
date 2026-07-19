@@ -55,7 +55,7 @@ So sieht das in der Praxis aus:
 - BNB Smart Chain hat **BSC Testnet**.
 - Bitcoin hat **Testnet** (ja, auch Bitcoin hat ein Testnet).
 
-Jedes dieser Netzwerke folgt denselben Regeln wie das Hauptnetz. Du erstellst ein Wallet, bekommst eine Adresse, sendest Coins und zahlst Gebühren (ebenfalls Testgebühren). Es gibt nur einen Unterschied:
+Jedes dieser Netzwerke folgt denselben Regeln wie das Hauptnetz. Du erstellst ein [Wallet](/de/glossary/#wallet), bekommst eine Adresse, sendest Coins und zahlst Gebühren (ebenfalls Testgebühren). Es gibt nur einen Unterschied:
 
 > **Wenn du Mist baust — verlierst du nichts.**
 
@@ -76,7 +76,7 @@ So funktioniert's:
 
 Die beliebtesten:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — keine Anmeldung auf Drittanbieter-Plattformen nötig; du bekommst ETH, Tokens (PYUSD, WBTC usw.) und NFTs. Brauchst nur ein Google-Konto.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — keine Anmeldung auf Drittanbieter-Plattformen nötig; du bekommst ETH, [Tokens](/de/glossary/#token) (PYUSD, WBTC usw.) und [NFTs](/de/glossary/#nft). Brauchst nur ein Google-Konto.
 - **sepoliafaucet.com** — einer der zuverlässigsten.
 - **infura.io/faucet/sepolia** — erfordert ein Infura-Konto, gibt aber regelmäßige Dosen.
 - **alchemy.com/faucets/ethereum-sepolia** — von Alchemy, ebenfalls nach Registrierung.
@@ -120,7 +120,7 @@ Jetzt besorgen wir uns ein paar Coins für dein Krypto-Wallet:
 
 ### Mehr! Holen wir uns USD
 
-Ethereum ist eine Blockchain, die durch Smart Contracts populär geworden ist.
+Ethereum ist eine [Blockchain](/de/glossary/#blockchain), die durch Smart Contracts populär geworden ist.
 
 Einfach gesagt ist ein Smart Contract ein Programm, das jede Art von Token, NFT ausgeben, deren Wirtschaftlichkeit und Regeln festlegen kann – und das alles läuft auf Gas (Gwei – dem Treibstoff des Ethereum-Systems).
 
@@ -159,7 +159,7 @@ Versuch, ETH und Tokens von einem Konto zum anderen zu senden:
 3. Wechsel zurück zum ersten Konto, wähle das **Sepolia**-Netzwerk.
 4. Wähle auf dem **Tokens**-Tab PYUSD (oder einen anderen Token, den du erhalten hast) **&rarr;** klick auf **Senden** **&rarr;** füge die Adresse des zweiten Kontos ein **&rarr;** gib einen Betrag ein (z. B. 10 PYUSD).
 
-Beobachte, wie die Gas-Gebühr abgezogen wird und die Transaktion im Block Explorer erscheint: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+Beobachte, wie die Gas-Gebühr abgezogen wird und die Transaktion im [Block](/de/glossary/#block) Explorer erscheint: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 #### 2. Überweisung an einen Freund
 
@@ -195,7 +195,7 @@ Der größte Vorteil von Testnets:
 Du kannst:
 
 - Coins an die falsche Adresse senden (und nichts verlieren);
-- den Seed-Phrase deines Test-Wallets verlieren (einfach ein neues erstellen);
+- den [Seed-Phrase](/de/glossary/#seed-phrase) deines Test-Wallets verlieren (einfach ein neues erstellen);
 - auf einen Phishing-Link klicken (Test-Coins sind sowieso wertlos);
 - einen kaputten Contract einsetzen (kostenlose Übung).
 
@@ -262,4 +262,4 @@ Nein. Wenn du nur mit dem Testnet arbeitest — sind dort null echte Coins. Gefa
 
 ### Warum gibt es Testnets?
 
-Zum Testen von Smart Contracts und dApps vor dem Start. Ein Bug in einem Mainnet-Contract kann Millionen kosten. Im Testnet — nichts.
+Zum Testen von Smart Contracts und [dApps](/de/glossary/#dapp) vor dem Start. Ein Bug in einem Mainnet-Contract kann Millionen kosten. Im Testnet — nichts.

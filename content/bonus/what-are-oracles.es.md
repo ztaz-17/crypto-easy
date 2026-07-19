@@ -23,7 +23,7 @@ Es inteligente. Sigue las instrucciones al pie de la letra. Pero no tiene ni ide
 
 > **Un smart contract es exactamente ese tipo de robot.**
 
-Vive dentro de una blockchain y solo puede interactuar con lo que ya está en la cadena. Los datos del mundo exterior — precios, tipos de cambio, resultados deportivos — están fuera de su alcance.
+Vive dentro de una [blockchain](/es/glossary/#blockchain) y solo puede interactuar con lo que ya está en la cadena. Los datos del mundo exterior — precios, tipos de cambio, resultados deportivos — están fuera de su alcance.
 
 Entonces, ¿cómo haces que un smart contract te diga el precio de Bitcoin en este momento?
 
@@ -149,11 +149,11 @@ Por ejemplo, un smart contract puede simplemente llamar a la dirección del **Pr
 
 Chainlink usa múltiples capas de protección:
 
-1. **Descentralización** — los datos los recopilan muchos nodos independientes;
+1. **[Descentralización](/es/glossary/#decentralization)** — los datos los recopilan muchos nodos independientes;
 2. **Agregación** — el precio final es la mediana de todas las fuentes;
 3. **Incentivos** — los nodos ganan recompensas por trabajar honestamente y pierden su depósito si hacen trampa.
 
-👉 Gracias a esto, Chainlink es el estándar de facto para las aplicaciones DeFi.
+👉 Gracias a esto, Chainlink es el estándar de facto para las aplicaciones [DeFi](/es/glossary/#defi).
 
 ---
 
@@ -183,7 +183,7 @@ Los oráculos son una parte invisible pero esencial del mundo crypto.
 
 Sin oráculos, nada de esto funcionaría:
 - protocolos DeFi (Aave, Compound);
-- stablecoins (DAI verifica los precios de las garantías);
+- [stablecoins](/es/glossary/#stablecoin) (DAI verifica los precios de las garantías);
 - smart contracts de seguros;
 - mercados de predicción.
 
@@ -203,7 +203,7 @@ Puedes, pero es arriesgado. Un oráculo centralizado es un punto único de fallo
 
 ### ¿Hay que pagar por los oráculos?
 
-Sí. Un smart contract paga una comisión a los nodos del oráculo por proporcionar datos. En el caso de Chainlink, la comisión se paga en tokens LINK.
+Sí. Un smart contract paga una comisión a los nodos del oráculo por proporcionar datos. En el caso de Chainlink, la comisión se paga en [tokens](/es/glossary/#token) LINK.
 
 ### ¿Puede un oráculo equivocarse?
 

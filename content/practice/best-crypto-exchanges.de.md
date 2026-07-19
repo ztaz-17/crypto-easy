@@ -26,9 +26,9 @@ Wir haben einen objektiven Vergleich der drei besten Börsen 2026 erstellt. Alle
 **Bybit** ist die Börse Nr. 1 unter unseren Lesern. Warum?
 
 - **Niedrige Gebühren**: 0,1% Spot, 0,02% Futures
-- **P2P-Handel**: Krypto mit lokalen Zahlungsmethoden kaufen
+- **[P2P](/de/glossary/#p2p)-Handel**: Krypto mit lokalen Zahlungsmethoden kaufen
 - **Benutzerfreundlich**: Anfängermodus verfügbar
-- **Sicherheit**: Cold Wallets, 2FA, Versicherungsfonds $700M+
+- **Sicherheit**: [Cold [Wallets](/de/glossary/#wallet)](/de/glossary/#cold-wallet), 2FA, Versicherungsfonds $700M+
 - **Bildung**: integrierte Kurse und Trading-Simulator
 
 **Begrüßungsbonus**: bis zu $100 bei Ersteinzahlung von $50+.
@@ -44,7 +44,7 @@ Wir haben einen objektiven Vergleich der drei besten Börsen 2026 erstellt. Alle
 - **Lizenzen**: USA (FinCEN), Japan, Großbritannien, Kanada
 - **Niedrige Gebühren**: 0,16% Maker, 0,26% Taker
 - **Große Auswahl**: über 200 Handelspaare
-- **Staking**: bis zu 12% APY direkt auf der Börse
+- **[Staking](/de/glossary/#staking)**: bis zu 12% APY direkt auf der Börse
 - **Kraken Education**: integrierter Lernbereich (seit Juli 2026)
 
 Nachteil: keine direkte Unterstützung für einige lokale Zahlungsmethoden.

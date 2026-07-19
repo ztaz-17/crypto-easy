@@ -26,7 +26,7 @@ We do not use our own cookies. Third-party services (Google Analytics, Yandex.Me
 
 ### Third-party services
 
-The site may contain links to external resources (exchanges, wallets, Telegram). We are not responsible for their privacy policies.
+The site may contain links to external resources (exchanges, [wallets](/en/glossary/#wallet), Telegram). We are not responsible for their privacy policies.
 
 ### Contact
 

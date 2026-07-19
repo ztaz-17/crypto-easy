@@ -20,7 +20,7 @@ keywords:
 
 Glückwunsch! Wenn du das hier liest – bist du bereit, den ersten echten Schritt in die Krypto-Welt zu machen.
 
-Du musst jetzt kein Bitcoin kaufen. Du musst die Blockchain nicht verstehen. Du brauchst nur eines: **deine erste Krypto-Wallet erstellen**.
+Du musst jetzt kein Bitcoin kaufen. Du musst die [Blockchain](/de/glossary/#blockchain) nicht verstehen. Du brauchst nur eines: **deine erste Krypto-[Wallet](/de/glossary/#wallet) erstellen**.
 
 Es dauert weniger Zeit, als eine Tasse Tee aufzubrühen.
 
@@ -34,7 +34,7 @@ Wichtig: Die Coins selbst werden nicht in der Wallet gespeichert – sie leben a
 
 Eine Wallet hat zwei Schlüssel:
 - **Öffentlicher Schlüssel** (Wallet-Adresse) – du kannst ihn jedem geben, um Geld zu empfangen.
-- **Privater Schlüssel** (Seed-Phrase) – das ist das Passwort zu deinem gesamten Geld. Zeige ihn niemandem.
+- **[Privater Schlüssel](/de/glossary/#private-key)** ([Seed-Phrase](/de/glossary/#seed-phrase)) – das ist das Passwort zu deinem gesamten Geld. Zeige ihn niemandem.
 
 > Denk dran: **Wer die Schlüssel hält – hält die Coins**.
 
@@ -49,7 +49,7 @@ Wir schauen uns die beiden beliebtesten Optionen an.
 | Parameter | MetaMask | Trust Wallet |
 |---|---|---|
 | Wo es funktioniert | Browser (Chrome, Firefox, Brave) und mobile App | Nur mobile App (iOS/Android) |
-| Am besten geeignet für | DeFi, NFT, Web-Anwendungen | Alltägliche Überweisungen, Aufbewahrung, Zahlungen |
+| Am besten geeignet für | [DeFi](/de/glossary/#defi), [NFT](/de/glossary/#nft), Web-Anwendungen | Alltägliche Überweisungen, Aufbewahrung, Zahlungen |
 | Schwierigkeit | Sehr gering | Sehr gering |
 | Sicherheit | [Nicht-verwahrend](/de/glossary/#non-custodial-wallet) | [Nicht-verwahrend](/de/glossary/#non-custodial-wallet) |
 

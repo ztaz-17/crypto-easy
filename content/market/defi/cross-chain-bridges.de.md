@@ -23,7 +23,7 @@ Oder du hast USDT auf Tron, brauchst sie aber auf Binance Smart Chain.
 
 Das Problem: **Verschiedene Blockchains kommunizieren nicht direkt miteinander**. Bitcoin weiß nichts von Ethereum, und Ethereum weiß nichts von Solana.
 
-Hier kommen **Cross-Chain-Brücken** ins Spiel — Werkzeuge, mit denen du Assets von einem Netzwerk in ein anderes verschieben kannst.
+Hier kommen **Cross-Chain-[Brücken](/de/glossary/#bridge)** ins Spiel — Werkzeuge, mit denen du Assets von einem Netzwerk in ein anderes verschieben kannst.
 
 In diesem Artikel erfährst du:
 
@@ -65,9 +65,9 @@ Das nennt man **Sperren + Prägen / Verbrennen + Freigeben**.
 
 | Typ | Wie es funktioniert | Beispiele |
 |-----|--------------------|-----------|
-| **Zentralisiert** | Ein Unternehmen kontrolliert eine Multi-Sig-Wallet | Binance Bridge, Portal (WBTC) |
+| **Zentralisiert** | Ein Unternehmen kontrolliert eine Multi-Sig-[Wallet](/de/glossary/#wallet) | Binance Bridge, Portal (WBTC) |
 | **Dezentralisiert** | Smart Contracts + Validatoren (Orakel) | Wormhole, Synapse, Stargate |
-| **Offiziell** | Vom eigenen Team der Blockchain entwickelt | Arbitrum Bridge, Optimism Bridge |
+| **Offiziell** | Vom eigenen Team der [Blockchain](/de/glossary/#blockchain) entwickelt | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ Das nennt man **Sperren + Prägen / Verbrennen + Freigeben**.
 
 ### Zugang zu anderen Ökosystemen
 
-Jedes Netzwerk ist eine eigene Welt mit eigenen DeFi-Apps:
+Jedes Netzwerk ist eine eigene Welt mit eigenen [DeFi](/de/glossary/#defi)-Apps:
 
 - **Ethereum** — das sicherste, aber teuer.
 - **Arbitrum / Optimism** — gleiche Möglichkeiten, günstiger (L2s).
@@ -172,13 +172,13 @@ Sicherheitsregel:
 
 - **Neue Brücken ohne Erfolgsbilanz** — der Code wurde nicht von Fachleuten oder der Community geprüft.
 - **Brücken, die „Super-Renditen" versprechen** — oft Betrug.
-- **Brücken zu obskuren Netzwerken** — je niedriger der TVL, desto höher das Risiko.
+- **Brücken zu obskuren Netzwerken** — je niedriger der [TVL](/de/glossary/#tvl), desto höher das Risiko.
 
 ---
 
 ## Häufiger Fehler: Gepackte Token sind nicht das Original
 
-Wenn du ETH per Brücke verschiebst, bekommst du nicht echte ETH — du bekommst eine **Stellvertretung** (gepackten Token).
+Wenn du ETH per Brücke verschiebst, bekommst du nicht echte ETH — du bekommst eine **Stellvertretung** (gepackten [Token](/de/glossary/#token)).
 
 Wichtig:
 
@@ -196,7 +196,7 @@ Verschiedene Netzwerke — verschiedene Token:
 | USDT | Tron | TR7NH... |
 | USDT | BNB Chain | 0x55d3... |
 
-👉 Prüf immer, welchen Token-Vertrag du bekommst — nutze einen Block-Explorer (Etherscan, BSCScan) oder einen Link von der offiziellen Seite.
+👉 Prüf immer, welchen Token-Vertrag du bekommst — nutze einen [Block](/de/glossary/#block)-Explorer (Etherscan, BSCScan) oder einen Link von der offiziellen Seite.
 
 ---
 
@@ -207,7 +207,7 @@ Verschiedene Netzwerke — verschiedene Token:
 | Offizielle Brücke | Arbitrum Bridge | 10–30 Min. | Mittel | Hoch |
 | Dezentrale Brücke | Stargate | 1–10 Min. | Mittel | Mittel |
 | Zentralisierte Brücke | Binance Bridge | Sofort | Niedrig | Niedrig (Börse hält deine Gelder) |
-| CEX (zentrale Börse) | Binance → in anderes Netzwerk abheben | 5–30 Min. | Niedrig | Niedrig (Verwahrungsrisiko) |
+| [CEX](/de/glossary/#cex) (zentrale Börse) | Binance → in anderes Netzwerk abheben | 5–30 Min. | Niedrig | Niedrig (Verwahrungsrisiko) |
 
 ---
 

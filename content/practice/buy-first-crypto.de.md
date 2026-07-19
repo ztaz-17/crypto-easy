@@ -17,7 +17,7 @@ keywords:
 
 ---
 
-Du hast ein Wallet. Die logische Frage: **wie bekommst du Crypto hinein?**
+Du hast ein [Wallet](/de/glossary/#wallet). Die logische Frage: **wie bekommst du Crypto hinein?**
 
 Kaufen auf einer Börse. Direkt von jemandem. Über einen Sofort-Swap. Oder gar nicht kaufen — auch das behandeln wir.
 
@@ -34,7 +34,7 @@ Registrieren, Konto aufladen, Bitcoin, USDT oder andere Coins kaufen.
 | **Coinbase** | Einfachster Start — Direktkauf mit Karte |
 | **Binance** | Größte, niedrigste Gebühren |
 | **Bybit** | Saubere Oberfläche, beliebt in Europa |
-| **KuCoin** | Viele Altcoins, kein KYC für kleine Beträge |
+| **KuCoin** | Viele Altcoins, kein [KYC](/de/glossary/#kyc) für kleine Beträge |
 
 ### Schritte:
 1. Bei Coinbase, Binance oder Bybit registrieren
@@ -72,7 +72,7 @@ Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Tr
 
 ## Vergleich
 
-| | Börse | P2P | Swap | BTC-Automat |
+| | Börse | [P2P](/de/glossary/#p2p) | Swap | BTC-Automat |
 |---|-------|-----|------|------------|
 | KYC | Teilweise | Nein | Teilweise | Nein |
 | Gebühr | 0.1-0.5% | 1-3% | 2-5% | 10-15% |
@@ -109,8 +109,8 @@ Mercuryo, MoonPay — mit Karte zahlen, Crypto in Minuten. Direkt im MetaMask/Tr
 
 **Wie viel für den ersten Kauf?** $10-20. Genug zum Testen.
 
-**Welche Crypto zuerst?** USDT (Stablecoin, springt nicht) oder Bitcoin.
+**Welche Crypto zuerst?** USDT ([Stablecoin](/de/glossary/#stablecoin), springt nicht) oder Bitcoin.
 
 **Mit Karte möglich?** Ja. Coinbase, Binance, Mercuryo, MoonPay akzeptieren Visa/Mastercard.
 
-**Was nach dem Kauf?** Auf nicht-verwahrendes Wallet auszahlen, Seed Phrase notieren, sicher aufbewahren.
+**Was nach dem Kauf?** Auf nicht-verwahrendes Wallet auszahlen, [Seed Phrase](/de/glossary/#seed-phrase) notieren, sicher aufbewahren.

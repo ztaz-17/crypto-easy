@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Seguro que has visto los anuncios: "¡1000% APY!", "¡Gana cripto sin esfuerzo!", "¡DeFi es el nuevo petróleo!"
+Seguro que has visto los anuncios: "¡1000% APY!", "¡Gana cripto sin esfuerzo!", "¡[DeFi](/es/glossary/#defi) es el nuevo petróleo!"
 
 Suena demasiado bueno para ser verdad. Pero detrás de esos números hay un mecanismo real — **Yield Farming**. Y sí, hay gente que de verdad gana dinero.
 
@@ -34,7 +34,7 @@ En este artículo vamos a ver:
 
 ## ¿Qué es Yield Farming?
 
-**Yield Farming** (también llamado **minería de liquidez**) consiste en prestar tus criptoactivos a pools de liquidez en protocolos descentralizados (DEX, plataformas de préstamo) a cambio de recompensas.
+**Yield Farming** (también llamado **[minería](/es/glossary/#mining) de [liquidez](/es/glossary/#liquidity)**) consiste en prestar tus criptoactivos a pools de liquidez en protocolos descentralizados ([DEX](/es/glossary/#dex), plataformas de préstamo) a cambio de recompensas.
 
 En términos simples:
 
@@ -48,7 +48,7 @@ Las ganancias se miden en **APY** (Rendimiento Porcentual Anual) — la tasa de 
 
 ### 1. Eliges un protocolo
 
-Por ejemplo, **Uniswap**, **Curve**, **Aave**, **Compound** o **PancakeSwap**. Cada uno ofrece pools para distintos pares de tokens.
+Por ejemplo, **Uniswap**, **Curve**, **Aave**, **Compound** o **PancakeSwap**. Cada uno ofrece pools para distintos pares de [tokens](/es/glossary/#token).
 
 ### 2. Depositas liquidez
 
@@ -77,7 +77,7 @@ Se compone de tres elementos:
 |---|---|
 | Comisiones del pool | Comisiones reales de trading cobradas a los traders |
 | Tokens de recompensa | El protocolo imprime sus propios tokens y se los da a los proveedores de liquidez |
-| Inflación | Cuantos más tokens se emiten, más alto es el APY (pero el precio del token puede bajar) |
+| [Inflación](/es/glossary/#inflation) | Cuantos más tokens se emiten, más alto es el APY (pero el precio del token puede bajar) |
 
 > **Importante:** El APY alto suele estar impulsado por emisiones agresivas de tokens. Si el precio del token cae más rápido de lo que ganas, sigues estando en números rojos.
 
@@ -118,7 +118,7 @@ Cuando el precio de un token en un pool cambia en relación al otro, pierdes par
 **Cuándo es especialmente peligrosa la IL:**
 
 - alta volatilidad;
-- un pool que combina una stablecoin con un activo volátil;
+- un pool que combina una [stablecoin](/es/glossary/#stablecoin) con un activo volátil;
 - mantener la posición durante mucho tiempo.
 
 ### 2. Rug Pull
@@ -180,7 +180,7 @@ Una lista de verificación antes de depositar:
 
 - [ ] ¿El protocolo tiene auditoría? (de CertiK, Trail of Bits, OpenZeppelin)
 - [ ] ¿Cuánto tiempo lleva el proyecto funcionando?
-- [ ] ¿Cuánta liquidez hay en el pool? (TVL — valor total bloqueado)
+- [ ] ¿Cuánta liquidez hay en el pool? ([TVL](/es/glossary/#tvl) — valor total bloqueado)
 - [ ] ¿Cuál es el volumen de trading?
 - [ ] ¿Quién está en el equipo del proyecto? ¿Hay información sobre ellos?
 - [ ] ¿Qué parte del APY viene de tokens de recompensa vs comisiones reales?

@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-You open your wallet, want to send 50 USDT to a friend. You enter the address, double-check the amount — and see a fee of **$29.84**.
+You open your [wallet](/en/glossary/#wallet), want to send 50 USDT to a friend. You enter the address, double-check the amount — and see a fee of **$29.84**.
 
 Not for $5,000. Not for $100,000. For $50.
 
@@ -29,9 +29,9 @@ Where do these numbers come from? And more importantly — **why does the exact 
 
 ## Who Are We Even Paying?
 
-Crypto isn't "free." Every transaction requires someone to be paid for the network's work. Depending on the blockchain, that's:
+Crypto isn't "free." Every transaction requires someone to be paid for the network's work. Depending on the [blockchain](/en/glossary/#blockchain), that's:
 
-- **Miners** (Bitcoin) — they solve mathematical puzzles to confirm blocks;
+- **Miners** (Bitcoin) — they solve mathematical puzzles to confirm [blocks](/en/glossary/#block);
 - **Validators** (Ethereum, Solana) — they verify and confirm transactions.
 
 Neither group does it out of altruism. They earn a **fee** for every transfer they include in a block.
@@ -181,7 +181,7 @@ Same money, same smart contracts — but fees 50–100 times lower.
 
 ### 5. Don't Send Pocket Change During Peak Hours
 
-If the mempool is clogged (e.g., during a hot NFT mint or memecoin frenzy), just wait a few hours.
+If the mempool is clogged (e.g., during a hot [NFT](/en/glossary/#nft) mint or memecoin frenzy), just wait a few hours.
 
 ---
 

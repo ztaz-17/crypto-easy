@@ -42,7 +42,7 @@ In diesem Artikel erklären wir:
 
 ### Die Offizielle Definition
 
-Inflation ist der allgemeine Anstieg der Preise für Waren und Dienstleistungen über einen bestimmten Zeitraum.
+[Inflation](/de/glossary/#inflation) ist der allgemeine Anstieg der Preise für Waren und Dienstleistungen über einen bestimmten Zeitraum.
 
 Anders gesagt:
 
@@ -239,7 +239,7 @@ In den letzten Jahren haben sich Kryptowährungen als Alternative zur Werterhalt
 | Gold | ✅ Teilweise | ✅ Ja | Niedrig |
 | Immobilien | ✅ Hoch | ✅ Ja | Sehr niedrig |
 | Bitcoin | ✅ Hoch (langfristig) | ✅ Ja | Mittel |
-| Stablecoins (USDT) | ✅ Ja (gegenüber USD) | ✅ Ja | Hoch |
+| [Stablecoins](/de/glossary/#stablecoin) (USDT) | ✅ Ja (gegenüber USD) | ✅ Ja | Hoch |
 
 ---
 
@@ -272,7 +272,7 @@ Teilweise. Zentralbanken nutzen Instrumente wie Zinssätze, aber die Inflation h
 
 ### Ist Bargeld besser als eine Bankeinlage?
 
-Nein. Bargeld wirft keine Zinsen ab und verliert genauso an Wert wie Geld auf der Bank – mit dem zusätzlichen Nachteil, dass du es verlieren kannst, es dir gestohlen oder zerstört werden kann. Die Frage ist nicht, wo du dein Fiatgeld aufbewahrst, sondern ob du dein gesamtes Vermögen in einer Währung halten solltest, die sich ständig entwertet.
+Nein. Bargeld wirft keine Zinsen ab und verliert genauso an Wert wie Geld auf der Bank – mit dem zusätzlichen Nachteil, dass du es verlieren kannst, es dir gestohlen oder zerstört werden kann. Die Frage ist nicht, wo du dein [Fiatgeld](/de/glossary/#fiat) aufbewahrst, sondern ob du dein gesamtes Vermögen in einer Währung halten solltest, die sich ständig entwertet.
 
 ### Lösen Kryptowährungen das Inflationsproblem?
 

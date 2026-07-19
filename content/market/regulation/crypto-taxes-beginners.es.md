@@ -15,7 +15,7 @@ keywords:
 
 ---
 
-Los impuestos sobre criptomonedas — un tema que a muchos principiantes les hace dar vueltas la cabeza. «¿Tengo que pagar de verdad?», «¿Y si solo compré y mantengo?», «¿Qué pasa si no pago?» — ¿te suena familiar?
+Los impuestos sobre [criptomonedas](/es/glossary/#cryptocurrency) — un tema que a muchos principiantes les hace dar vueltas la cabeza. «¿Tengo que pagar de verdad?», «¿Y si solo compré y mantengo?», «¿Qué pasa si no pago?» — ¿te suena familiar?
 
 En este artículo te lo explico todo paso a paso. Sin términos legales complicados, con ejemplos sencillos. Aprenderás por dónde empezar, cómo llevar un registro y cómo evitar multas.
 
@@ -32,7 +32,7 @@ Respuesta corta: si solo **compraste y mantienes** — no. El impuesto aparece c
 Esto es lo que debes hacer ahora mismo si ya estás operando:
 
 1. **Crea una hoja de cálculo** — Google Sheets o Excel. Anota cada operación: fecha, importe de compra, importe de venta, tipo de cambio.
-2. **Guarda capturas de pantalla** — de órdenes, transferencias entre carteras, confirmaciones de transacciones.
+2. **Guarda capturas de pantalla** — de órdenes, transferencias entre [carteras](/es/glossary/#wallet), confirmaciones de transacciones.
 3. **Conecta una calculadora de impuestos crypto** — servicios como Koinly, CoinTracking o CoinLedger traen los datos directamente de los exchanges.
 4. **Averigua la fecha límite de tu país** — son diferentes en todas partes.
 
@@ -70,18 +70,18 @@ Ejemplo:
 
 Esto incluye:
 - Sueldo pagado en crypto
-- Recompensas por staking (Ethereum 2.0, Solana, etc.)
-- Minería
-- Airdrops
-- Rendimientos DeFi (préstamos, farming)
+- Recompensas por [staking](/es/glossary/#staking) (Ethereum 2.0, Solana, etc.)
+- [Minería](/es/glossary/#mining)
+- [Airdrops](/es/glossary/#airdrop)
+- Rendimientos [DeFi](/es/glossary/#defi) (préstamos, farming)
 
 Todo esto cuenta como **ingreso** y tributa como tu salario normal. La tasa es la de tu impuesto sobre la renta.
 
 ### Compraste un NFT o Jugaste a GameFi
 
-Si compraste un NFT con crypto — puede ser un hecho imponible (depende del país). Si vendiste el NFT por más de lo que pagaste — la ganancia tributa.
+Si compraste un [NFT](/es/glossary/#nft) con crypto — puede ser un hecho imponible (depende del país). Si vendiste el NFT por más de lo que pagaste — la ganancia tributa.
 
-En GameFi (juegos como Axie Infinity), las recompensas en tokens se consideran ingresos en el momento en que las recibes.
+En GameFi (juegos como Axie Infinity), las recompensas en [tokens](/es/glossary/#token) se consideran ingresos en el momento en que las recibes.
 
 ---
 
@@ -91,8 +91,8 @@ No todo genera impuestos:
 
 | Operación | ¿Impuesto? | Explicación |
 |-----------|-----------|-------------|
-| Solo comprar y mantener (HODL) | ❌ No | Hasta que vendas — no hay impuesto |
-| Transferir entre tus propias carteras | ❌ No | Mover del exchange a la cartera fría no es una venta |
+| Solo comprar y mantener ([HODL](/es/glossary/#hodl)) | ❌ No | Hasta que vendas — no hay impuesto |
+| Transferir entre tus propias carteras | ❌ No | Mover del exchange a la [cartera fría](/es/glossary/#cold-wallet) no es una venta |
 | Regalar crypto (dentro de límites) | ❌ No en algunos países | Varía según el país |
 | Comprar crypto y perder el acceso | ❌ No | Es una pérdida, no una ganancia |
 
@@ -147,9 +147,9 @@ Prepárate con antelación y la declaración no dará miedo.
 El conjunto mínimo de documentos que deberías tener listo:
 
 1. **Historial de operaciones del exchange** — un archivo CSV con fechas, pares, volúmenes y precios. Todos los exchanges importantes (Binance, Bybit, OKX, Kraken) pueden exportarlo.
-2. **Confirmaciones de entrada/salida de FIAT** — extractos bancarios, capturas de transferencias de la tarjeta al exchange.
+2. **Confirmaciones de entrada/salida de [FIAT](/es/glossary/#fiat)** — extractos bancarios, capturas de transferencias de la tarjeta al exchange.
 3. **Registros de staking y minería** — cuánto y cuándo recibiste recompensas, el tipo de cambio en ese momento.
-4. **Registros de operaciones P2P** — si compraste crypto directamente a personas (Binance P2P, LocalBitcoins), guarda capturas de los anuncios.
+4. **Registros de operaciones [P2P](/es/glossary/#p2p)** — si compraste crypto directamente a personas (Binance P2P, LocalBitcoins), guarda capturas de los anuncios.
 5. **Informe de la calculadora de impuestos** — si usas Koinly, CoinTracking, etc., generan informes listos para presentar ante Hacienda.
 
 ### ¿Cuánto Tiempo Guardar los Documentos?
@@ -186,7 +186,7 @@ Esto es lo que suele salir mal:
 
 ### Error 1: «Las crypto son anónimas, Hacienda no se va a enterar»
 
-Este es el mito más peligroso. Todos los exchanges importantes comparten datos con los reguladores. Binance, Coinbase, Kraken — todos cumplen con KYC. Si retiraste dinero a tu banco — el banco ya lo sabe. La blockchain es un libro público y hay software especializado que rastrea transacciones sospechosas.
+Este es el mito más peligroso. Todos los exchanges importantes comparten datos con los reguladores. Binance, Coinbase, Kraken — todos cumplen con [KYC](/es/glossary/#kyc). Si retiraste dinero a tu banco — el banco ya lo sabe. La [blockchain](/es/glossary/#blockchain) es un libro público y hay software especializado que rastrea transacciones sospechosas.
 
 ### Error 2: «Solo cambié BTC por USDT — eso no es una venta»
 

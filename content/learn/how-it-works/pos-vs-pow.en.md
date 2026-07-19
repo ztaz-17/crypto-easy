@@ -18,11 +18,11 @@ keywords:
 
 ---
 
-Bitcoin guzzles as much electricity as a small country. Ethereum used to, too — until it switched to staking. Solana confirms thousands of transactions per second with near-zero fees.
+Bitcoin guzzles as much electricity as a small country. Ethereum used to, too — until it switched to [staking](/en/glossary/#staking). Solana confirms thousands of transactions per second with near-zero fees.
 
-Why is that? It all comes down to the **consensus mechanism** — the rule that decides who gets to add new blocks to the chain.
+Why is that? It all comes down to the **consensus mechanism** — the rule that decides who gets to add new [blocks](/en/glossary/#block) to the chain.
 
-The two main mechanisms are **Proof of Work (PoW)** and **Proof of Stake (PoS)**. They power nearly every cryptocurrency out there, but they work fundamentally differently.
+The two main mechanisms are **[Proof of Work](/en/glossary/#proof-of-work) (PoW)** and **[Proof of Stake](/en/glossary/#proof-of-stake) (PoS)**. They power nearly every [cryptocurrency](/en/glossary/#cryptocurrency) out there, but they work fundamentally differently.
 
 > In this article we'll break down: how mining and staking work, the key differences, which is better for the user, and whether PoW has a future.
 
@@ -32,7 +32,7 @@ The two main mechanisms are **Proof of Work (PoW)** and **Proof of Stake (PoS)**
 
 ### How It Works
 
-Proof of Work is exactly what it sounds like: you have to **do real computational work** to add a new block to the blockchain.
+Proof of Work is exactly what it sounds like: you have to **do real computational work** to add a new block to the [blockchain](/en/glossary/#blockchain).
 
 Imagine you're facing a giant safe with a combination lock that has a billion possible codes. You try one combination after another — hours, days, weeks go by. But the moment you crack the code, anyone can check that it's correct.
 
@@ -50,7 +50,7 @@ The blockchain works the same way:
 
 PoW is a race: "who can crunch numbers fastest." The more computing power (hashrate) you have, the better your odds of finding the solution first.
 
-These days, mining Bitcoin on a home PC is pointless — you're competing with **ASIC miners**, specialized devices that do nothing but calculate hashes. A single ASIC is more powerful than thousands of regular computers.
+These days, [mining](/en/glossary/#mining) Bitcoin on a home PC is pointless — you're competing with **ASIC miners**, specialized devices that do nothing but calculate hashes. A single ASIC is more powerful than thousands of regular computers.
 
 According to the Cambridge Centre for Alternative Finance, the Bitcoin network consumes about **~150 TWh per year** — more than all of Norway or Argentina.
 
@@ -141,7 +141,7 @@ PoS wins on **efficiency** and **scalability**. Ethereum's switch to PoS (The Me
 
 ### For the Investor
 
-If you already hold crypto, staking lets you **earn on it** just by keeping it in your wallet. You don't sell your coins — they generate income.
+If you already hold crypto, staking lets you **earn on it** just by keeping it in your [wallet](/en/glossary/#wallet). You don't sell your coins — they generate income.
 
 Example:
 
@@ -210,4 +210,4 @@ PoS is clearly greener. Ethereum's switch to PoS cut its energy consumption by 9
 
 ### Could Bitcoin switch to PoS?
 
-Theoretically — yes. In practice — extremely unlikely. The Bitcoin community is conservative and considers PoW to be the only truly battle-tested mechanism. A switch would require a hard fork and consensus from all participants, which is all but impossible.
+Theoretically — yes. In practice — extremely unlikely. The Bitcoin community is conservative and considers PoW to be the only truly battle-tested mechanism. A switch would require a hard [fork](/en/glossary/#fork) and consensus from all participants, which is all but impossible.

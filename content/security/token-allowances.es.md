@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-**"Confirma el acceso a tus USDT"** — seguramente has visto este mensaje al conectar tu wallet a un nuevo servicio DeFi, un DEX (Uniswap, PancakeSwap) o un marketplace de NFT.
+**"Confirma el acceso a tus USDT"** — seguramente has visto este mensaje al conectar tu wallet a un nuevo servicio [DeFi](/es/glossary/#defi), un [DEX](/es/glossary/#dex) (Uniswap, PancakeSwap) o un marketplace de [NFT](/es/glossary/#nft).
 
-Mucha gente le da a "Confirmar" sin leerlo siquiera. Y eso puede costarte absolutamente todos los tokens de tu wallet.
+Mucha gente le da a "Confirmar" sin leerlo siquiera. Y eso puede costarte absolutamente todos los [tokens](/es/glossary/#token) de tu wallet.
 
 En este artículo veremos:
 
@@ -67,7 +67,7 @@ Un permiso de token es exactamente lo mismo, pero en versión virtual. Dejas que
 
 ### Aprobaciones Ilimitadas
 
-El problema más grande: la mayoría de las dApps no te piden una aprobación **limitada** — te piden una ilimitada:
+El problema más grande: la mayoría de las [dApps](/es/glossary/#dapp) no te piden una aprobación **limitada** — te piden una ilimitada:
 
 ```
 approve(DEX, MAX_UINT_256)
@@ -95,7 +95,7 @@ Si un contrato al que le diste aprobación ilimitada:
 
 Ejemplos reales:
 
-- **Poly Network Hack** — pérdidas de $610 millones por explotación de un puente cross-chain
+- **Poly Network Hack** — pérdidas de $610 millones por explotación de un [puente](/es/glossary/#bridge) cross-chain
 - **BadgerDAO** — pérdidas de $120 millones por phishing: aprobaron en un contrato malicioso
 - **Curve Finance Hack** — pérdidas de $570,000 por manipulación de permisos vía DNS
 
@@ -205,7 +205,7 @@ La mayoría de las wallets y dApps te permiten cambiar el monto en la ventana de
 Crea una wallet "caliente" que tenga:
 
 - solo la cantidad que estés dispuesto a arriesgar;
-- no más del 5–20% de tu cartera total.
+- no más del 5–20% de tu [cartera](/es/glossary/#wallet) total.
 
 Guarda tus fondos principales en una **cold wallet** (Ledger, Trezor) o en una dirección aparte a la que las dApps no tengan acceso.
 
@@ -238,7 +238,7 @@ Si una dApp te pide que apruebes **todos tus tokens** de inmediato y no te deja 
 
 ### Resumen
 
-Los permisos de tokens son un mecanismo central de DeFi — sin ellos, los swaps, los pools de liquidez y los marketplaces de NFT no funcionarían.
+Los permisos de tokens son un mecanismo central de DeFi — sin ellos, los swaps, los pools de [liquidez](/es/glossary/#liquidity) y los marketplaces de NFT no funcionarían.
 
 Pero también son **el vector de ataque más popular**:
 

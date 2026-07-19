@@ -29,7 +29,7 @@ Welcome to the world of **meme coins** — the wildest and riskiest corner of cr
 
 ## What Is a Meme Coin
 
-A **meme coin** is a cryptocurrency with zero utility.
+A **meme coin** is a [cryptocurrency](/en/glossary/#cryptocurrency) with zero utility.
 
 It doesn't solve any problems. It has:
 - no unique technology;
@@ -39,7 +39,7 @@ It doesn't solve any problems. It has:
 
 The only value of such a coin is the **meme** (a joke) around which a community has formed.
 
-👉 In essence, a meme coin isn't a project — it's a viral trend wrapped in a token.
+👉 In essence, a meme coin isn't a project — it's a viral trend wrapped in a [token](/en/glossary/#token).
 
 ---
 
@@ -103,7 +103,7 @@ There are no fundamental reasons for meme coin pumps. Only psychology.
 
 Every meme coin has an army of fans on Twitter, Telegram, Reddit, and TikTok. They:
 - post memes;
-- convince each other to "HODL";
+- convince each other to "[HODL](/en/glossary/#hodl)";
 - attack anyone who sells.
 
 It creates a feeling that "we're in this together" and "we're going to win."
@@ -139,9 +139,9 @@ And nobody can explain why. The price is determined solely by demand. When every
 
 The scheme is simple:
 
-1. Big players (whales) buy in at the bottom;
+1. Big players ([whales](/en/glossary/#whale)) buy in at the bottom;
 2. They hype the coin through social media, paid ads, and influencers;
-3. Retail buyers pile in on FOMO;
+3. Retail buyers pile in on [FOMO](/en/glossary/#fomo);
 4. Whales sell — the price crashes;
 5. Small investors are left holding worthless tokens.
 
@@ -181,7 +181,7 @@ Signs of a fraudulent meme coin:
 - **Promises of "guaranteed" growth** — there are no guarantees in crypto;
 - **Aggressive advertising** — "buy now," "last chance";
 - **Referral scheme** — you get paid for bringing in friends;
-- **Drainable liquidity** — the creators can take all the money;
+- **Drainable [liquidity](/en/glossary/#liquidity)** — the creators can take all the money;
 - **No audit** — the code hasn't been reviewed by anyone.
 
 > **If something promises 1000% in a week — it's 100% a scam.**
@@ -194,7 +194,7 @@ If you still want to try:
 
 - Only invest what you're fully prepared to lose;
 - Don't buy at peak hype;
-- Use a separate wallet, don't keep everything on an exchange;
+- Use a separate [wallet](/en/glossary/#wallet), don't keep everything on an exchange;
 - Study the tokenomics: who holds most of the supply;
 - Check whether the smart contract has been audited.
 
@@ -210,7 +210,7 @@ And the golden rule:
 |----------|-------------------|-----------|
 | Does it have technology? | Yes | No (or negligible) |
 | Does it have a team? | Yes | Often anonymous |
-| Does it have real-world use? | Yes (payments, DeFi, smart contracts) | No |
+| Does it have real-world use? | Yes (payments, [DeFi](/en/glossary/#defi), smart contracts) | No |
 | Risk | High | Extreme |
 | Expected return | Moderate | 0% or -100% |
 | Long-term value | Grows with adoption | Rarely survives a year |

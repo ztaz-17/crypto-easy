@@ -18,18 +18,18 @@ keywords:
 
 ---
 
-You sent some crypto. The money left your wallet. But did it actually reach the recipient?
+You sent some crypto. The money left your [wallet](/en/glossary/#wallet). But did it actually reach the recipient?
 
 In the banking world, you just wait for an SMS or a push notification. In crypto, things are way more transparent:
 
 > **Every transaction is a public record that anyone can verify.**
 
-And you don't need bank support or access to someone else's account. All you need is one tool — a **blockchain explorer**.
+And you don't need bank support or access to someone else's account. All you need is one tool — a **[blockchain](/en/glossary/#blockchain) explorer**.
 
 In this article we'll cover:
 - how to find any transaction by its ID;
 - what the Success, Pending, and Failed statuses mean;
-- how to read the details: block, fee, from where to where;
+- how to read the details: [block](/en/glossary/#block), fee, from where to where;
 - which explorers work for different networks;
 - how to set up wallet monitoring.
 
@@ -58,7 +58,7 @@ You need an explorer when:
 
 ## Etherscan: The Main Ethereum Explorer
 
-**Etherscan** ([etherscan.io](https://etherscan.io)) is the most popular blockchain explorer. It works for the Ethereum network and all ERC-20 standard tokens.
+**Etherscan** ([etherscan.io](https://etherscan.io)) is the most popular blockchain explorer. It works for the Ethereum network and all ERC-20 standard [tokens](/en/glossary/#token).
 
 ### Transaction Hash (TxID)
 
@@ -191,9 +191,9 @@ You don't have to check every transaction manually. Explorers can notify you abo
 
 ### Third-Party Monitoring Services
 
-- **Dextools** ([dextools.io](https://dextools.io)) — track transactions by token and liquidity pool.
+- **Dextools** ([dextools.io](https://dextools.io)) — track transactions by token and [liquidity](/en/glossary/#liquidity) pool.
 - **Nansen** ([nansen.ai](https://nansen.ai)) — professional wallet analytics tool (paid).
-- **Telegram bots** — tons of bots track "whales" and large transactions in real time.
+- **Telegram bots** — tons of bots track "[whales](/en/glossary/#whale)" and large transactions in real time.
 
 > Tip: if you're expecting an important transfer, set up an alert in the explorer. You'll get notified **before** the recipient even says "it arrived."
 
@@ -226,7 +226,7 @@ If you're moving crypto **from an exchange** to an external wallet or vice versa
 ### Why Transactions Get Stuck
 
 - **Low gas fee.** In networks like Ethereum, miners process the highest-fee transactions first. If you set the gas too low — the transaction sits in the queue.
-- **Network congestion.** During hype moments (e.g. a popular NFT drop), the queue can get massive.
+- **Network congestion.** During hype moments (e.g. a popular [NFT](/en/glossary/#nft) drop), the queue can get massive.
 - **Node issues.** Rare, but sometimes a specific validator slows things down.
 
 ### What You Can Do

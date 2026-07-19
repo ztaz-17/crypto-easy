@@ -25,7 +25,7 @@ Du senkst den Preis auf 99 $. Dann auf 98 $. Erst bei 95 $ findet sich endlic
 
 Oder andersrum: Du willst einen Altcoin kaufen. Siehst den Preis bei 10 $, drückst auf „Kaufen" — und die Order wird zu 12 $ ausgeführt. Wie kann das sein?
 
-Alles hängt mit **Liquidität** zusammen.
+Alles hängt mit **[Liquidität](/de/glossary/#liquidity)** zusammen.
 
 In diesem Artikel erfährst du:
 > - was Liquidität in einfachen Worten bedeutet;
@@ -49,7 +49,7 @@ In diesem Artikel erfährst du:
 Im Krypto-Bereich ist es genauso:
 
 - **Bitcoin auf Binance** — hohe Liquidität. Du kannst in Sekunden 50.000 $ verkaufen, und der Preis bewegt sich kaum.
-- **Ein obskurer Token auf einer kleinen Börse** — niedrige Liquidität. Schon eine Verkaufsorder über 1.000 $ kann den Preis um 10–20 % verschieben.
+- **Ein obskurer [Token](/de/glossary/#token) auf einer kleinen Börse** — niedrige Liquidität. Schon eine Verkaufsorder über 1.000 $ kann den Preis um 10–20 % verschieben.
 
 ### Warum das wichtig ist
 
@@ -113,7 +113,7 @@ Wenn du an einer Börse einen Spread von 5–10 % siehst — ist das ein Warnsig
 
 ### Was Slippage ist
 
-**Slippage** ist die Differenz zwischen dem Preis, den du erwartet hast, und dem Preis, zu dem deine Order tatsächlich ausgeführt wurde.
+**[Slippage](/de/glossary/#slippage)** ist die Differenz zwischen dem Preis, den du erwartet hast, und dem Preis, zu dem deine Order tatsächlich ausgeführt wurde.
 
 Das passiert, weil nicht genug Liquidität auf der Stufe vorhanden ist, die du haben wolltest.
 
@@ -173,7 +173,7 @@ Alle wollen verkaufen — niemand will kaufen. Der Spread weitet sich auf läche
 Bei Coins mit niedriger Liquidität lässt sich der Preis leicht manipulieren. Ein großer Spieler (Wal) kann:
 
 - den Preis mit einer einzigen Order um 50 % nach oben treiben;
-- warten, bis Neueinsteiger aus FOMO einsteigen;
+- warten, bis Neueinsteiger aus [FOMO](/de/glossary/#fomo) einsteigen;
 - alles zum hohen Preis verkaufen — und der Preis stürzt wieder ab.
 
 Das ist das klassische **Pump & Dump**-Schema, und es funktioniert nur bei Coins mit niedriger Liquidität.

@@ -22,13 +22,13 @@ keywords:
 
 Stell dir vor: du schickst einem Freund **200 $** über das **Ethereum-Mainnet**.
 
-Eine Minute vergeht — und du siehst: deiner Wallet wurden nicht 200 $, sondern **228 $** belastet.
+Eine Minute vergeht — und du siehst: deiner [Wallet](/de/glossary/#wallet) wurden nicht 200 $, sondern **228 $** belastet.
 
 **28 $** — die Gebühr für eine einzige Überweisung.
 
 Dein Freund hat 172 $ bekommen.
 
-Du hast **14 %** nur dafür bezahlt, dass jemand die Transaktion in die Blockchain schreibt.
+Du hast **14 %** nur dafür bezahlt, dass jemand die Transaktion in die [Blockchain](/de/glossary/#blockchain) schreibt.
 
 Klingt nach Raub?
 
@@ -48,9 +48,9 @@ In diesem Artikel zeigen wir dir vier Spartricks:
 ## Warum sind die Gebühren so hoch?
 
 Eine Blockchain-Gebühr ist das, was du den **Validatoren** zahlst (die Transaktionen bestätigen).  
-Je beliebter das Netzwerk — desto mehr Leute wollen eine Überweisung tätigen. Je mehr mitmachen wollen — desto höher der Preis für einen Platz im nächsten Block.
+Je beliebter das Netzwerk — desto mehr Leute wollen eine Überweisung tätigen. Je mehr mitmachen wollen — desto höher der Preis für einen Platz im nächsten [Block](/de/glossary/#block).
 
-**Ethereum** — das am stärksten ausgelastete Netzwerk für DeFi, NFTs und Stablecoin-Transfers.  
+**Ethereum** — das am stärksten ausgelastete Netzwerk für [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft) und [Stablecoin](/de/glossary/#stablecoin)-Transfers.  
 An Spitzentagen kostet eine einfache USDT-Überweisung **30–50 $**.
 
 Bitcoin ist eine andere Geschichte: Die Gebühren schnellen in die Höhe, wenn viele Leute gleichzeitig Coins schicken. An ruhigen Tagen — 1–3 $, an Spitzentagen — 20 $+.
@@ -134,7 +134,7 @@ Technisch gesehen ein Sidechain, wird aber oft als L2 bezeichnet.
 
 1. Installiere **MetaMask** oder **Rabby**;
 2. Füge das gewünschte Netzwerk manuell hinzu (oder über chainlist.org);
-3. Brücke ETH vom Mainnet zu einem L2 — das kostet einmalig 5–20 $;
+3. [Brücke](/de/glossary/#bridge) ETH vom Mainnet zu einem L2 — das kostet einmalig 5–20 $;
 4. Danach kosten alle internen Transfers nur noch Centbeträge.
 
 👉 **Tipp:** Wenn du oft Krypto überweist, behalte etwas Guthaben auf einem L2 und sende von dort.
@@ -154,7 +154,7 @@ Günstigste Stunden (gwei < 10):
 
 Teuerste Stunden (gwei > 50):
 - **Werktags tagsüber** — besonders wenn Amerika und Europa gleichzeitig aktiv sind (12:00–18:00 UTC);
-- **Während beliebter NFT- oder Token-Starts** — Gebühren schießen auf 100 $+.
+- **Während beliebter NFT- oder [Token](/de/glossary/#token)-Starts** — Gebühren schießen auf 100 $+.
 
 ### Bitcoin
 

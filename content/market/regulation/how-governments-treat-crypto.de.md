@@ -67,9 +67,9 @@ Statt mit jedem Krypto-Unternehmen einzeln vor Gericht zu ziehen, hat die EU ein
 Was MiCA bringt:
 
 - einheitliche Regeln für alle 27 EU-Länder;
-- Lizenzierung für Krypto-Börsen und Wallets;
+- Lizenzierung für Krypto-Börsen und [Wallets](/de/glossary/#wallet);
 - Verbraucherschutz;
-- Pflichtreserven für Stablecoins.
+- Pflichtreserven für [Stablecoins](/de/glossary/#stablecoin).
 
 > **Der Vorteil:** Wenn ein Unternehmen in einem EU-Land eine Lizenz bekommt, kann es in der gesamten Union operieren.
 
@@ -101,7 +101,7 @@ Was die VAE gemacht haben:
 Aber es gibt Haken:
 
 - Unternehmen brauchen eine Lizenz (nicht billig zu bekommen);
-- strenge KYC- und AML-Regeln (keine Anonymität);
+- strenge [KYC](/de/glossary/#kyc)- und AML-Regeln (keine Anonymität);
 - Privacy-Coins sind verboten (Monero, Zcash).
 
 **Fazit:** Die VAE sind eines der bequemsten Länder für Krypto-Business — aber nur, wenn du bereit bist, absolut legal zu arbeiten.
@@ -137,15 +137,15 @@ China ist das härteste Beispiel für Regulierung.
 
 2021 erklärte China:
 - alle Krypto-Transaktionen für illegal;
-- Mining — verboten;
+- [Mining](/de/glossary/#mining) — verboten;
 - Börsen — blockiert.
 
 Aber es gibt wichtige Nuancen:
 
 - China hat **eine eigene digitale Währung** — e-CNY (digitaler Yuan), vollständig von der Zentralbank kontrolliert;
-- viele chinesische Bürger handeln trotzdem über P2P-Plattformen und VPNs mit Crypto;
+- viele chinesische Bürger handeln trotzdem über [P2P](/de/glossary/#p2p)-Plattformen und VPNs mit Crypto;
 - chinesische Unternehmen halten beträchtliche Mengen Bitcoin (über Offshore-Gesellschaften);
-- das Verbot hat China nicht davon abgehalten, eine wichtige Rolle in der Blockchain-Technologie zu spielen (Patente, Forschung).
+- das Verbot hat China nicht davon abgehalten, eine wichtige Rolle in der [Blockchain](/de/glossary/#blockchain)-Technologie zu spielen (Patente, Forschung).
 
 > **Das Paradoxon:** China hat Crypto für seine Bürger verboten, entwickelt die Technologie aber auf staatlicher Ebene weiter.
 
@@ -184,7 +184,7 @@ Was bedeutet das für den Durchschnittsnutzer?
 Aber wenn du:
 
 - Crypto an einer Börse kaufst;
-- Crypto gegen Fiat verkaufst;
+- Crypto gegen [Fiat](/de/glossary/#fiat) verkaufst;
 - ein Krypto-Business betreibst;
 
 > **dann sind die Gesetze deines Landes die Spielregeln.**

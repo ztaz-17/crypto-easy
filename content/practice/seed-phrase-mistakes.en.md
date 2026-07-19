@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-You just created a wallet. MetaMask shows 12 words.
+You just created a [wallet](/en/glossary/#wallet). MetaMask shows 12 words.
 
-"Write down your seed phrase," the prompt says.
+"Write down your [seed phrase](/en/glossary/#seed-phrase)," the prompt says.
 
 Right here, most people make a **fatal mistake**.
 

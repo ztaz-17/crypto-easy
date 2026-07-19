@@ -41,21 +41,21 @@ Bitcoin is **simple by design**. It does one thing and does it well.
 
 - Created: 2009 by Satoshi Nakamoto
 - Supply: capped at 21 million
-- Consensus: Proof of Work (energy-intensive, very secure)
+- Consensus: [Proof of Work](/en/glossary/#proof-of-work) (energy-intensive, very secure)
 - Transactions: ~7 per second
-- Average block time: 10 minutes
+- Average [block](/en/glossary/#block) time: 10 minutes
 
 ---
 
 ## Ethereum — digital oil
 
-Ethereum launched in 2015 as a **world computer** — a platform for decentralized applications (dApps).
+Ethereum launched in 2015 as a **world computer** — a platform for [decentralized](/en/glossary/#decentralization) applications ([dApps](/en/glossary/#dapp)).
 
 Its main purpose:
 
 - **Smart contracts** — programs that run exactly as programmed, without downtime or fraud.
-- **dApps** — decentralized apps (DeFi, NFTs, games, social networks).
-- **Programmable money** — tokens, loans, trading — all automated.
+- **dApps** — decentralized apps ([DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft), games, social networks).
+- **Programmable money** — [tokens](/en/glossary/#token), loans, trading — all automated.
 
 Ethereum is **complex by design**. It's a platform, not just a currency.
 
@@ -65,7 +65,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 
 - Created: 2015 by Vitalik Buterin
 - Supply: uncapped (but has burning mechanism)
-- Consensus: Proof of Stake (energy-efficient)
+- Consensus: [Proof of Stake](/en/glossary/#proof-of-stake) (energy-efficient)
 - Transactions: ~15-30 per second
 - Average block time: ~12 seconds
 
@@ -98,7 +98,7 @@ Ethereum is **complex by design**. It's a platform, not just a currency.
 
 - You want to **use crypto** — DeFi, NFTs, apps
 - You're interested in **programmable money**
-- You want to **earn yield** through staking or DeFi
+- You want to **earn yield** through [staking](/en/glossary/#staking) or DeFi
 - You believe in the **future of decentralized apps**
 
 ### Both, if:

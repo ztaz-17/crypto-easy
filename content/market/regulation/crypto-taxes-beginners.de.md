@@ -32,7 +32,7 @@ Kurze Antwort: Wenn du nur **gekauft und gehalten** hast — nein. Steuern falle
 Das solltest du jetzt tun, wenn du bereits handelst:
 
 1. **Erstelle eine Tabelle** — Google Sheets oder Excel. Notiere jedes Geschäft: Datum, Kaufbetrag, Verkaufsbetrag, Wechselkurs.
-2. **Speichere Screenshots** — von Orders, Überweisungen zwischen Wallets, Transaktionsbestätigungen.
+2. **Speichere Screenshots** — von Orders, Überweisungen zwischen [Wallets](/de/glossary/#wallet), Transaktionsbestätigungen.
 3. **Verbinde einen Krypto-Steuerrechner** — Dienste wie Koinly, CoinTracking oder CoinLedger ziehen Daten direkt von Börsen.
 4. **Finde die Abgabefrist deines Landes heraus** — sie sind überall unterschiedlich.
 
@@ -70,18 +70,18 @@ Beispiel:
 
 Dazu gehören:
 - Gehalt in Krypto
-- Staking-Belohnungen (Ethereum 2.0, Solana usw.)
-- Mining
-- Airdrops
-- DeFi-Erträge (Verleih, Farming)
+- [Staking](/de/glossary/#staking)-Belohnungen (Ethereum 2.0, Solana usw.)
+- [Mining](/de/glossary/#mining)
+- [Airdrops](/de/glossary/#airdrop)
+- [DeFi](/de/glossary/#defi)-Erträge (Verleih, Farming)
 
 All das zählt als **Einkommen** und wird wie dein normales Gehalt besteuert. Der Satz entspricht deinem persönlichen Einkommensteuersatz.
 
 ### Du hast ein NFT gekauft oder GameFi gespielt
 
-Wenn du ein NFT mit Krypto gekauft hast — kann das ein steuerpflichtiges Ereignis sein (je nach Land). Wenn du das NFT teurer verkauft hast als gekauft — ist der Gewinn steuerpflichtig.
+Wenn du ein [NFT](/de/glossary/#nft) mit Krypto gekauft hast — kann das ein steuerpflichtiges Ereignis sein (je nach Land). Wenn du das NFT teurer verkauft hast als gekauft — ist der Gewinn steuerpflichtig.
 
-Bei GameFi (Spielen wie Axie Infinity) gelten Token-Belohnungen als Einkommen zum Zeitpunkt des Erhalts.
+Bei GameFi (Spielen wie Axie Infinity) gelten [Token](/de/glossary/#token)-Belohnungen als Einkommen zum Zeitpunkt des Erhalts.
 
 ---
 
@@ -91,8 +91,8 @@ Nicht alles löst eine Steuerpflicht aus:
 
 | Transaktion | Steuer? | Erklärung |
 |------------|---------|-----------|
-| Nur gekauft und gehalten (HODL) | ❌ Nein | Bis zum Verkauf — keine Steuer |
-| Überweisung zwischen eigenen Wallets | ❌ Nein | Vom Exchange zur Cold Wallet ist kein Verkauf |
+| Nur gekauft und gehalten ([HODL](/de/glossary/#hodl)) | ❌ Nein | Bis zum Verkauf — keine Steuer |
+| Überweisung zwischen eigenen Wallets | ❌ Nein | Vom Exchange zur [Cold Wallet](/de/glossary/#cold-wallet) ist kein Verkauf |
 | Krypto verschenkt (bis zur Grenze) | ❌ Nein in manchen Ländern | Variiert je nach Land |
 | Krypto gekauft und Zugang verloren | ❌ Nein | Es ist ein Verlust, kein Gewinn |
 
@@ -147,9 +147,9 @@ Bereite dich rechtzeitig vor, dann wird die Steuererklärung nicht beängstigend
 Die Mindestdokumente, die du bereithalten solltest:
 
 1. **Handelshistorie der Börse** — eine CSV-Datei mit Daten, Handelspaaren, Volumen und Preisen. Jede größere Börse (Binance, Bybit, OKX, Kraken) kann das exportieren.
-2. **FIAT-Einzahlungs-/Auszahlungsbestätigungen** — Kontoauszüge, Screenshots von Überweisungen von der Karte zur Börse.
+2. **[FIAT](/de/glossary/#fiat)-Einzahlungs-/Auszahlungsbestätigungen** — Kontoauszüge, Screenshots von Überweisungen von der Karte zur Börse.
 3. **Staking- und Mining-Aufzeichnungen** — wie viel und wann du Belohnungen erhalten hast, der Wechselkurs zu diesem Zeitpunkt.
-4. **P2P-Transaktionsaufzeichnungen** — wenn du Krypto direkt von Personen gekauft hast (Binance P2P, LocalBitcoins), speichere Screenshots der Anzeigen.
+4. **[P2P](/de/glossary/#p2p)-Transaktionsaufzeichnungen** — wenn du Krypto direkt von Personen gekauft hast (Binance P2P, LocalBitcoins), speichere Screenshots der Anzeigen.
 5. **Steuerrechner-Bericht** — wenn du Koinly, CoinTracking usw. nutzt, generieren diese fertige Berichte für das Finanzamt.
 
 ### Wie lange Dokumente aufbewahren?
@@ -186,7 +186,7 @@ Das sind die typischen Fehler:
 
 ### Fehler 1: «Krypto ist anonym, das Finanzamt erfährt nichts»
 
-Das ist der gefährlichste Mythos. Alle großen Börsen geben Daten an Aufsichtsbehörden weiter. Binance, Coinbase, Kraken — alle halten KYC ein. Wenn du Geld auf dein Konto abgehoben hast — weiß die Bank bereits Bescheid. Die Blockchain ist ein öffentliches Hauptbuch und spezielle Software verfolgt verdächtige Transaktionen.
+Das ist der gefährlichste Mythos. Alle großen Börsen geben Daten an Aufsichtsbehörden weiter. Binance, Coinbase, Kraken — alle halten [KYC](/de/glossary/#kyc) ein. Wenn du Geld auf dein Konto abgehoben hast — weiß die Bank bereits Bescheid. Die [Blockchain](/de/glossary/#blockchain) ist ein öffentliches Hauptbuch und spezielle Software verfolgt verdächtige Transaktionen.
 
 ### Fehler 2: «Ich habe nur BTC gegen USDT getauscht — das ist kein Verkauf»
 

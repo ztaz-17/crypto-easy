@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Du hast eine Wallet erstellt. MetaMask zeigt 12 Wörter.
+Du hast eine [Wallet](/de/glossary/#wallet) erstellt. MetaMask zeigt 12 Wörter.
 
-«Schreib deine Seed-Phrase auf», sagt die Aufforderung.
+«Schreib deine [Seed-Phrase](/de/glossary/#seed-phrase) auf», sagt die Aufforderung.
 
 Und genau in diesem Moment machen die meisten Menschen einen **fatalen Fehler**.
 

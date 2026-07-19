@@ -14,7 +14,7 @@ slug: "free-guide"
 weight: 10
 ---
 
-Bienvenido al mundo de las criptomonedas. Aquí se puede ganar dinero — o perderlo todo.  
+Bienvenido al mundo de las [criptomonedas](/es/glossary/#cryptocurrency). Aquí se puede ganar dinero — o perderlo todo.  
 La diferencia está en el conocimiento y la disciplina.
 
 Esta guía gratuita cubre **los 5 errores más comunes** que cometen los principiantes.  
@@ -28,7 +28,7 @@ Cada uno le ha costado dinero real a personas reales. Te mostramos cómo evitarl
 Pero la historia muestra docenas de casos donde los exchanges perdieron fondos: hackeos, congelaciones de cuentas, quiebras.
 
 La regla es simple: **no son tus llaves, no son tus monedas**.  
-En la guía explicamos cómo crear una billetera personal y transferir tus fondos en 5 minutos.
+En la guía explicamos cómo crear una [billetera](/es/glossary/#wallet) personal y transferir tus fondos en 5 minutos.
 
 ---
 
@@ -37,13 +37,13 @@ En la guía explicamos cómo crear una billetera personal y transferir tus fondo
 Compraste Bitcoin — cayó. Vendiste por miedo — subió. ¿Te suena?
 
 Las decisiones emocionales son el enemigo #1 del inversor novato en cripto.  
-La guía desglosa una estrategia simple de gestión de capital que te protege de las ventas por pánico y el FOMO.
+La guía desglosa una estrategia simple de gestión de capital que te protege de las ventas por pánico y el [FOMO](/es/glossary/#fomo).
 
 ---
 
 ## 🚫 Error #3: Invertir en Proyectos Dudoso
 
-"Acaba de salir un token nuevo, promete x100, todos en el chat compraron" — la trampa clásica.  
+"Acaba de salir un [token](/es/glossary/#token) nuevo, promete x100, todos en el chat compraron" — la trampa clásica.  
 Estafas, esquemas de pump-and-dump y pirámides se disfrazan de "innovaciones."
 
 En la guía: **3 criterios simples** para distinguir un proyecto prometedor de una estafa en menos de 2 minutos.
@@ -64,7 +64,7 @@ Explicamos qué comisiones existen, cómo minimizarlas y qué debes saber sobre 
 
 El error más costoso de todos. Miles de millones de dólares en Bitcoin se han perdido para siempre exactamente así.
 
-¿Guardas tu frase semilla en el teléfono? ¿En la nube? ¿En notas?  
+¿Guardas tu [frase semilla](/es/glossary/#seed-phrase) en el teléfono? ¿En la nube? ¿En notas?  
 La guía incluye una lista de verificación de seguridad para la frase semilla utilizada por profesionales.
 
 ---

@@ -42,7 +42,7 @@ Estados Unidos es el mercado crypto más grande del mundo. Y aún así no existe
 
 En su lugar, la regulación la manejan distintas agencias:
 
-- **SEC** (Comisión de Bolsa y Valores) — considera que la mayoría de las criptomonedas son valores;
+- **SEC** (Comisión de Bolsa y Valores) — considera que la mayoría de las [criptomonedas](/es/glossary/#cryptocurrency) son valores;
 - **CFTC** (Comisión de Comercio de Futuros de Productos Básicos) — trata a Bitcoin y Ether como materias primas;
 - **FinCEN** (Red de Control de Delitos Financieros) — regula los exchanges.
 
@@ -69,7 +69,7 @@ Lo que trae MiCA:
 - un conjunto único de reglas para los 27 países de la UE;
 - licencias para exchanges y wallets de crypto;
 - protección al consumidor;
-- reservas obligatorias para stablecoins.
+- reservas obligatorias para [stablecoins](/es/glossary/#stablecoin).
 
 > **Lo bueno:** si una empresa consigue una licencia en un país de la UE, puede operar en toda la unión.
 
@@ -101,7 +101,7 @@ Lo que hicieron los EAU:
 Pero hay trampas:
 
 - las empresas necesitan una licencia (no es barata de obtener);
-- reglas estrictas de KYC y AML (nada de anonimato);
+- reglas estrictas de [KYC](/es/glossary/#kyc) y AML (nada de anonimato);
 - las privacy coins están prohibidas (Monero, Zcash).
 
 **En resumen:** los EAU son uno de los países más convenientes para el negocio crypto — pero solo si estás dispuesto a operar dentro de la ley.
@@ -137,15 +137,15 @@ China es el ejemplo más duro de regulación.
 
 En 2021, China declaró:
 - todas las transacciones crypto ilegales;
-- minería — prohibida;
+- [minería](/es/glossary/#mining) — prohibida;
 - exchanges — bloqueados.
 
 Pero hay matices importantes:
 
 - China tiene **su propia moneda digital** — e-CNY (yuan digital), totalmente controlada por el banco central;
-- muchos ciudadanos chinos siguen comerciando crypto mediante plataformas P2P y VPNs;
+- muchos ciudadanos chinos siguen comerciando crypto mediante plataformas [P2P](/es/glossary/#p2p) y VPNs;
 - empresas chinas tienen cantidades significativas de Bitcoin (a través de entidades offshore);
-- la prohibición no impidió que China sea un actor importante en tecnología blockchain (patentes, investigación).
+- la prohibición no impidió que China sea un actor importante en tecnología [blockchain](/es/glossary/#blockchain) (patentes, investigación).
 
 > **La paradoja:** China prohibió la crypto para sus ciudadanos pero sigue desarrollando la tecnología a nivel estatal.
 
@@ -184,7 +184,7 @@ No existe un enfoque global único para la crypto. Cada país elige su propia es
 Pero si:
 
 - compras crypto en un exchange;
-- vendes crypto por fiat;
+- vendes crypto por [fiat](/es/glossary/#fiat);
 - manejas un negocio crypto;
 
 > **entonces las leyes de tu país son las reglas del juego.**

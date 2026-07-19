@@ -7,7 +7,7 @@ layout: "single"
 
 ## Acerca de Crypto Easy
 
-Crypto Easy es un proyecto educativo sin ánimo de lucro sobre criptomonedas y blockchain. Explicamos cosas complejas en lenguaje sencillo — sin relleno, sin jerga.
+Crypto Easy es un proyecto educativo sin ánimo de lucro sobre [criptomonedas](/es/glossary/#cryptocurrency) y [blockchain](/es/glossary/#blockchain). Explicamos cosas complejas en lenguaje sencillo — sin relleno, sin jerga.
 
 **Nuestro objetivo** es hacer que las criptomonedas sean comprensibles y accesibles para todos.
 
@@ -19,11 +19,11 @@ Escribimos como nos gustaría que nos lo hubieran explicado a nosotros.
 
 ## Qué hay aquí
 
-- **[Aprende](/es/learn/)** — blockchain, bitcoin, DeFi, cripto para escépticos
+- **[Aprende](/es/learn/)** — blockchain, bitcoin, [DeFi](/es/glossary/#defi), cripto para escépticos
 - **[Practica](/es/practice/)** — crea una wallet, compra cripto, envía una transacción
 - **[Mercado](/es/market/)** — precios, DeFi, préstamos, impuestos
-- **[Seguridad](/es/security/)** — estafas, frases semilla, wallets fríos
-- **[Bonus](/es/bonus/)** — NFTs, DAOs, memecoins, staking
+- **[Seguridad](/es/security/)** — estafas, [frases semilla](/es/glossary/#seed-phrase), wallets fríos
+- **[Bonus](/es/bonus/)** — [NFTs](/es/glossary/#nft), [DAOs](/es/glossary/#dao), memecoins, [staking](/es/glossary/#staking)
 
 ## Quién escribe esto
 

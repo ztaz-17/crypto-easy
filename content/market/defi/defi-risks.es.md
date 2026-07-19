@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Imagínate esto: encuentras un protocolo DeFi que promete un **500% APY**. Depositas tus ahorros — y una semana después el saldo del pool es cero. El botón de "retirar" ya no funciona.
+Imagínate esto: encuentras un protocolo [DeFi](/es/glossary/#defi) que promete un **500% APY**. Depositas tus ahorros — y una semana después el saldo del pool es cero. El botón de "retirar" ya no funciona.
 
 Otra situación: solicitas un préstamo respaldado por ETH, el mercado se desploma, y el smart contract vende tu garantía al instante al precio más bajo. Te quedas sin garantía y sin préstamo.
 
@@ -42,7 +42,7 @@ Un **rug pull** es exactamente lo que parece — los creadores del protocolo jal
 
 Así es como ocurre:
 
-- el equipo lanza un nuevo token y un pool de liquidez;
+- el equipo lanza un nuevo [token](/es/glossary/#token) y un pool de [liquidez](/es/glossary/#liquidity);
 - prometen rendimientos disparatados (1000%+ APY);
 - los usuarios depositan sus fondos;
 - los desarrolladores usan una función oculta en el smart contract que les permite drenar todo el dinero;
@@ -75,7 +75,7 @@ Una sola línea de código defectuosa puede costar millones. Y a diferencia de l
 
 | Incidente | Año | Pérdida | Causa |
 |-----------|-----|---------|-------|
-| **Ronin Bridge** | 2022 | $624M | Vulnerabilidad en validadores del puente |
+| **Ronin Bridge** | 2022 | $624M | Vulnerabilidad en validadores del [puente](/es/glossary/#bridge) |
 | **Wormhole Bridge** | 2022 | $326M | Bug de verificación de firmas |
 | **Nomad Bridge** | 2022 | $190M | Bug en el contrato del puente |
 | **Cream Finance** | 2021 | $130M | Fallo en la lógica de préstamos |
@@ -98,7 +98,7 @@ Una auditoría de smart contract es una revisión del código por expertos en se
 
 ## Pérdida Impermanente: Pierdes Cuando los Precios se Mueven
 
-La **pérdida impermanente (IL, por sus siglas en inglés)** es lo que ocurre cuando aportas liquidez a un pool de DEX y terminas con menos valor que si simplemente hubieras conservado los tokens.
+La **pérdida impermanente (IL, por sus siglas en inglés)** es lo que ocurre cuando aportas liquidez a un pool de [DEX](/es/glossary/#dex) y terminas con menos valor que si simplemente hubieras conservado los tokens.
 
 ### Cómo Funciona
 
@@ -128,7 +128,7 @@ Las pérdidas "impermanentes" se vuelven permanentes en el momento en que **reti
 
 **La IL duele más con:**
 
-- pares que mezclan una stablecoin (USDC/DAI) con un activo volátil (ETH, SOL);
+- pares que mezclan una [stablecoin](/es/glossary/#stablecoin) (USDC/DAI) con un activo volátil (ETH, SOL);
 - tendencias de precio fuertes en una sola dirección;
 - períodos largos de bloqueo en el pool.
 
@@ -177,7 +177,7 @@ DeFi no es un casino si lo abordas con inteligencia. Estos son los principios b�
 Usa esta lista de verificación:
 
 - [ ] ¿Ha sido auditado por una firma reconocida? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] ¿Cuál es el TVL (valor total bloqueado)? TVL bajo (< $1M) significa alto riesgo
+- [ ] ¿Cuál es el [TVL](/es/glossary/#tvl) (valor total bloqueado)? TVL bajo (< $1M) significa alto riesgo
 - [ ] ¿Cuánto tiempo lleva funcionando el protocolo? (6+ meses es mejor)
 - [ ] ¿El código es open source? ¿Puedes verificarlo?
 - [ ] ¿La liquidez está bloqueada?

@@ -23,7 +23,7 @@ Or you have USDT on Tron but need them on Binance Smart Chain.
 
 The issue: **different blockchains don't talk to each other directly**. Bitcoin doesn't know about Ethereum, and Ethereum doesn't know about Solana.
 
-That's where **cross-chain bridges** come in — tools that let you move assets from one network to another.
+That's where **cross-chain [bridges](/en/glossary/#bridge)** come in — tools that let you move assets from one network to another.
 
 In this article we'll cover:
 
@@ -65,9 +65,9 @@ This is called **lock + mint / burn + unlock**.
 
 | Type | How It Works | Examples |
 |------|-------------|---------|
-| **Centralized** | A company controls a multi-sig wallet | Binance Bridge, Portal (WBTC) |
-| **Decentralized** | Smart contracts + validators (oracles) | Wormhole, Synapse, Stargate |
-| **Official** | Built by the blockchain's own team | Arbitrum Bridge, Optimism Bridge |
+| **Centralized** | A company controls a multi-sig [wallet](/en/glossary/#wallet) | Binance Bridge, Portal (WBTC) |
+| **[Decentralized](/en/glossary/#decentralization)** | Smart contracts + validators (oracles) | Wormhole, Synapse, Stargate |
+| **Official** | Built by the [blockchain](/en/glossary/#blockchain)'s own team | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ This is called **lock + mint / burn + unlock**.
 
 ### Access to Other Ecosystems
 
-Each network is its own world with its own DeFi apps:
+Each network is its own world with its own [DeFi](/en/glossary/#defi) apps:
 
 - **Ethereum** — the most secure, but expensive.
 - **Arbitrum / Optimism** — same capabilities, cheaper (L2s).
@@ -172,13 +172,13 @@ Safety rule:
 
 - **New bridges with no track record** — code hasn't been audited by professionals or the community.
 - **Bridges promising "超高 yield"** — often scams.
-- **Bridges to obscure networks** — the lower the TVL, the higher the risk.
+- **Bridges to obscure networks** — the lower the [TVL](/en/glossary/#tvl), the higher the risk.
 
 ---
 
 ## Common Mistake: Wrapped Tokens Aren't the Real Thing
 
-When you bridge ETH, you don't get real ETH — you get a **representation** (wrapped token).
+When you bridge ETH, you don't get real ETH — you get a **representation** (wrapped [token](/en/glossary/#token)).
 
 Important:
 
@@ -196,7 +196,7 @@ Different networks — different tokens:
 | USDT | Tron | TR7NH... |
 | USDT | BNB Chain | 0x55d3... |
 
-👉 Always verify which token contract you're getting — use a block explorer (Etherscan, BSCScan) or a link from the official site.
+👉 Always verify which token contract you're getting — use a [block](/en/glossary/#block) explorer (Etherscan, BSCScan) or a link from the official site.
 
 ---
 
@@ -207,7 +207,7 @@ Different networks — different tokens:
 | Official bridge | Arbitrum Bridge | 10–30 min | Medium | High |
 | Decentralized bridge | Stargate | 1–10 min | Medium | Medium |
 | Centralized bridge | Binance Bridge | Instant | Low | Low (exchange holds your funds) |
-| CEX (centralized exchange) | Binance → withdraw to another network | 5–30 min | Low | Low (custodial risk) |
+| [CEX](/en/glossary/#cex) (centralized exchange) | Binance → withdraw to another network | 5–30 min | Low | Low (custodial risk) |
 
 ---
 

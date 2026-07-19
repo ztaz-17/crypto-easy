@@ -18,13 +18,13 @@ keywords:
 
 ---
 
-Encontraste un nuevo protocolo DeFi. Web bonita, comisiones bajas, promete un 500% APY.
+Encontraste un nuevo protocolo [DeFi](/es/glossary/#defi). Web bonita, comisiones bajas, promete un 500% APY.
 
 Te surge una pregunta:
 
 > **¿Es seguro meter dinero ahí?**
 
-Una de las herramientas principales para responder eso es el **TVL** (Total Value Locked, o Valor Total Bloqueado).
+Una de las herramientas principales para responder eso es el **[TVL](/es/glossary/#tvl)** (Total Value Locked, o Valor Total Bloqueado).
 
 Esto es lo que vamos a ver:
 
@@ -44,10 +44,10 @@ En palabras simples:
 > **cuánto dinero los usuarios le han confiado a este protocolo.**
 
 El TVL incluye:
-- tokens en pools de liquidez (como en Uniswap);
+- [tokens](/es/glossary/#token) en pools de [liquidez](/es/glossary/#liquidity) (como en Uniswap);
 - depósitos en protocolos de préstamos (como Aave);
-- garantías en protocolos de stablecoins (como MakerDAO);
-- staking en protocolos de staking líquido (como Lido).
+- garantías en protocolos de [stablecoins](/es/glossary/#stablecoin) (como MakerDAO);
+- [staking](/es/glossary/#staking) en protocolos de staking líquido (como Lido).
 
 Cuanto más alto es el TVL — más liquidez tiene el protocolo y más difícil es manipularlo.
 
@@ -94,7 +94,7 @@ Lo que puedes hacer:
 - consultar el TVL de cualquier protocolo;
 - comparar TVL entre varios protocolos;
 - ver el **historial del TVL** — cómo ha cambiado con el tiempo;
-- filtrar por blockchain (Ethereum, Solana, Arbitrum, etc.).
+- filtrar por [blockchain](/es/glossary/#blockchain) (Ethereum, Solana, Arbitrum, etc.).
 
 La mayor ventaja de DefiLlama es que es **independiente**. Los datos vienen directo de la blockchain, a través de contratos inteligentes.
 
@@ -184,7 +184,7 @@ El TVL es una métrica importante, pero no la única.
 **El TVL no muestra:**
 
 - seguridad del código (auditorías, bugs);
-- descentralización (quién controla el protocolo);
+- [descentralización](/es/glossary/#decentralization) (quién controla el protocolo);
 - rendimiento (el APY puede ser alto mientras el TVL es bajo);
 - número real de usuarios (10 wallets con $1M cada una no es adopción masiva);
 - riesgos de custodia (algunos protocolos inflan su TVL con depósitos propios).

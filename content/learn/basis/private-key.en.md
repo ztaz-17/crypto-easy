@@ -21,17 +21,17 @@ Imagine you have a safe. You set a password — 8 characters, letters, numbers, 
 
 Now imagine that safe comes with a **unique key** that opens not just your safe, but every safe in the world where your money is stored. And if you lose that key — your password won't help. The money is gone forever.
 
-In the crypto world, this "key" is called a **private key**. And it really is more important than any password.
+In the crypto world, this "key" is called a **[private key](/en/glossary/#private-key)**. And it really is more important than any password.
 
 ---
 
 ## What is a private key
 
-A **private key** is a long string of characters (digits and letters) that gives you full access to your cryptocurrency. Simply put:
+A **private key** is a long string of characters (digits and letters) that gives you full access to your [cryptocurrency](/en/glossary/#cryptocurrency). Simply put:
 
 > A private key is your signature. A signature that proves to the blockchain: "these coins are mine, and I authorize their transfer."
 
-There's no "account" with a login and password on a blockchain. Nobody sits there checking if it's really you. The entire system is built on cryptography: you have a pair of keys — **public** (you can show everyone) and **private** (you show no one).
+There's no "account" with a login and password on a [blockchain](/en/glossary/#blockchain). Nobody sits there checking if it's really you. The entire system is built on cryptography: you have a pair of keys — **public** (you can show everyone) and **private** (you show no one).
 
 Public key — like your bank account number. You give it out so people can send you money.
 
@@ -51,9 +51,9 @@ Many beginners think: "I signed up on an exchange, created a strong password —
 | Forgot? | Reset it | **Lost everything** |
 | Can be changed? | Company can change it | Only you control it |
 
-A password has an "escape hatch": "forgot password?" — you click, get a code on your email, set a new one. **Private keys have no such thing**. Cryptocurrency is designed so that nobody — not an exchange, not developers, not the police — can recover your private key if you lose it. That's the essence of decentralization.
+A password has an "escape hatch": "forgot password?" — you click, get a code on your email, set a new one. **Private keys have no such thing**. Cryptocurrency is designed so that nobody — not an exchange, not developers, not the police — can recover your private key if you lose it. That's the essence of [decentralization](/en/glossary/#decentralization).
 
-Real story: in 2013, British IT specialist James Howells accidentally threw away a hard drive containing the private key to a wallet with 7,500 Bitcoin. At the time, that was about $7.5 million. Today — **hundreds of millions of dollars**. The drive sits in a landfill, access is denied by city services, and the chance of recovery is zero.
+Real story: in 2013, British IT specialist James Howells accidentally threw away a hard drive containing the private key to a [wallet](/en/glossary/#wallet) with 7,500 Bitcoin. At the time, that was about $7.5 million. Today — **hundreds of millions of dollars**. The drive sits in a landfill, access is denied by city services, and the chance of recovery is zero.
 
 A password would've been reset in five minutes. A private key — no.
 
@@ -71,7 +71,7 @@ E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
 
 Each pair of characters is one byte of information. 32 bytes total. Those 32 bytes control your coins.
 
-**But there's a simpler way** — a seed phrase. It's 12 or 24 common English words from which your wallet automatically generates your private key. For example:
+**But there's a simpler way** — a [seed phrase](/en/glossary/#seed-phrase). It's 12 or 24 common English words from which your wallet automatically generates your private key. For example:
 
 ```
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
@@ -97,7 +97,7 @@ Therefore:
 
 - Never take a photo of your seed phrase.
 - Never store it in your phone's notes.
-- Never enter your private key on sites that promise to "verify your wallet" or "check for airdrops."
+- Never enter your private key on sites that promise to "verify your wallet" or "check for [airdrops](/en/glossary/#airdrop)."
 - Never send it to anyone in messengers.
 - Never store it in the cloud (Google Drive, iCloud, Dropbox).
 
@@ -121,7 +121,7 @@ Metamask, Trust Wallet, Phantom — popular mobile or browser wallets. Convenien
 
 ### 4. Exchange (riskiest)
 
-You don't own the private keys — the exchange does. You're just trusting them "on their word." If the exchange gets hacked or blocks your account — money's gone. Storing large sums on an exchange is like keeping all your savings under a doormat.
+You don't own the private keys — the exchange does. You're just trusting them "on their word." If the exchange gets hacked or [blocks](/en/glossary/#block) your account — money's gone. Storing large sums on an exchange is like keeping all your savings under a doormat.
 
 > Remember: after buying crypto on an exchange — move it to your own wallet. Exchanges should be just a "gateway" for buying, not your bank.
 

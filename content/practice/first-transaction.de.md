@@ -18,9 +18,9 @@ keywords:
 
 ---
 
-Du hast deine erste Krypto gekauft. Deine Wallet ist eingerichtet. Die Coins sind da.
+Du hast deine erste Krypto gekauft. Deine [Wallet](/de/glossary/#wallet) ist eingerichtet. Die Coins sind da.
 
-Jetzt kommt der spannende Teil: **Kryptowährung an eine andere Person senden**.
+Jetzt kommt der spannende Teil: **[Kryptowährung](/de/glossary/#cryptocurrency) an eine andere Person senden**.
 
 Wenn du Banküberweisungen gewohnt bist, bei denen du nur die Kartennummer oder Telefonnummer brauchst, ist Krypto anders. Ein falsches Zeichen – und dein Geld verschwindet. Das falsche Netzwerk ausgewählt – und die Coins sind für immer weg.
 
@@ -163,7 +163,7 @@ Selbst wenn du einen Fehler gemacht hast:
 ### Wann du den Test weglassen kannst
 
 - wenn du **dir selbst** zwischen deinen eigenen Wallets überweist (schon mal gemacht);
-- wenn du eine **Adresse aus der Whitelist** verwendest (einen zuvor gespeicherten Kontakt);
+- wenn du eine **Adresse aus der [Whitelist](/de/glossary/#whitelist)** verwendest (einen zuvor gespeicherten Kontakt);
 - wenn du innerhalb **derselben Börse** auf ein internes Konto überweist.
 
 > Aber mach den Test trotzdem für deine erste Transaktion. Seelenfrieden ist $1 wert.
@@ -183,7 +183,7 @@ Deine Wallet zeigt nach dem Senden:
 
 ### Wie du sie im Explorer überprüfst
 
-Ein Blockchain-Explorer ist eine öffentliche «Suchmaschine» für die Blockchain.  \
+Ein [Blockchain](/de/glossary/#blockchain)-Explorer ist eine öffentliche «Suchmaschine» für die Blockchain.  \
 Jedes Netzwerk hat seinen eigenen:
 
 | Netzwerk | Explorer |
@@ -203,7 +203,7 @@ So prüfst du:
 
 | Status | Bedeutung |
 |--------|-----------|
-| **Pending** | Die Transaktion wartet in der Warteschlange auf Aufnahme in einen Block |
+| **Pending** | Die Transaktion wartet in der Warteschlange auf Aufnahme in einen [Block](/de/glossary/#block) |
 | **Confirmed** | Die Transaktion wurde in die Blockchain geschrieben |
 | **Failed** | Fehler (meist aufgrund zu niedrigen Gas oder unzureichender Deckung für die Gebühr) |
 

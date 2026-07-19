@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Du öffnest deine Wallet, tippst die Empfängeradresse ein, gibst den Betrag ein – und drückst auf „Senden."
+Du öffnest deine [Wallet](/de/glossary/#wallet), tippst die Empfängeradresse ein, gibst den Betrag ein – und drückst auf „Senden."
 
 Ist das Geld jetzt weg? Noch nicht.
 
@@ -50,7 +50,7 @@ Die Transaktion wurde noch nicht gesendet. Es ist nur ein Entwurf – ein Datenp
 
 Deine Wallet „zieht" kein Geld von einem Konto ab. Stattdessen durchsucht sie die gesamte Historie früherer Transaktionen, die jemals an deine Adresse gingen, und wählt unverbrauchte Guthaben aus.
 
-Stell es dir vor wie mehrere Geldscheine in deiner Tasche – du suchst dir den aus, mit dem du bezahlen willst. In der Crypto-Welt sind diese „Scheine" Einträge auf der Blockchain.
+Stell es dir vor wie mehrere Geldscheine in deiner Tasche – du suchst dir den aus, mit dem du bezahlen willst. In der Crypto-Welt sind diese „Scheine" Einträge auf der [Blockchain](/de/glossary/#blockchain).
 
 > Mehr zu Adressen und Schlüsseln findest du im Glossar: [öffentliche Adresse](/de/glossary/#public-address), [privater Schlüssel](/de/glossary/#private-key).
 
@@ -60,7 +60,7 @@ Stell es dir vor wie mehrere Geldscheine in deiner Tasche – du suchst dir den 
 
 Jetzt kommt der wichtigste Teil.
 
-Deine Wallet nimmt die Transaktionsdaten und signiert sie mit deinem **privaten Schlüssel**. Es ist, als würdest du deinen persönlichen digitalen Stempel draufdrücken – einen, den niemand fälschen kann.
+Deine Wallet nimmt die Transaktionsdaten und signiert sie mit deinem **[privaten Schlüssel](/de/glossary/#private-key)**. Es ist, als würdest du deinen persönlichen digitalen Stempel draufdrücken – einen, den niemand fälschen kann.
 
 ### Warum Signaturen nicht gefälscht werden können
 
@@ -99,7 +99,7 @@ Wenn alles in Ordnung ist – fügt der Node die Transaktion zum **Mempool** (ku
 
 ### Der Mempool – ein Warteraum
 
-Stell dir einen Bahnhof vor. Deine Transaktion ist ein Fahrgast, der auf einen Zug (einen Block) wartet. Es gibt viele Fahrgäste, der Zug fährt nur alle 10 Minuten ab (bei Bitcoin), und die Plätze sind begrenzt.
+Stell dir einen Bahnhof vor. Deine Transaktion ist ein Fahrgast, der auf einen Zug (einen [Block](/de/glossary/#block)) wartet. Es gibt viele Fahrgäste, der Zug fährt nur alle 10 Minuten ab (bei Bitcoin), und die Plätze sind begrenzt.
 
 Wer kommt in den Zug? Diejenigen, die ein Ticket bezahlt haben – also die Gebühr. Je höher die Gebühr, desto eher wird deine Transaktion für einen Block ausgewählt.
 
@@ -117,7 +117,7 @@ Die Transaktion ist im Mempool. Jetzt muss sie von einem **Miner** (bei Bitcoin)
 
 Miner sammeln Transaktionen aus dem Mempool und packen sie in einen Block. Die Priorität hängt von der Gebühr ab – je höher die Gebühr, desto höher die Priorität.
 
-Sobald der Block zusammengestellt ist, beginnt der Miner, ein mathematisches Rätsel (Proof of Work) zu lösen, um den Block zu versiegeln. Dafür ist massive Rechenleistung nötig. Wer es zuerst schafft, bekommt:
+Sobald der Block zusammengestellt ist, beginnt der Miner, ein mathematisches Rätsel ([Proof of Work](/de/glossary/#proof-of-work)) zu lösen, um den Block zu versiegeln. Dafür ist massive Rechenleistung nötig. Wer es zuerst schafft, bekommt:
 
 - die Blockbelohnung (neu geschaffene Coins);
 - alle Gebühren der enthaltenen Transaktionen.

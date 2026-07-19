@@ -41,7 +41,7 @@ En este artículo vamos a explicar:
 
 ### La Definición Oficial
 
-Inflación es el aumento generalizado de los precios de bienes y servicios durante un período de tiempo.
+[Inflación](/es/glossary/#inflation) es el aumento generalizado de los precios de bienes y servicios durante un período de tiempo.
 
 Dicho de otra forma:
 
@@ -222,7 +222,7 @@ Históricamente, la gente ha protegido sus ahorros con:
 
 ### Criptomonedas como Protección
 
-En los últimos años, las criptomonedas han surgido como una alternativa para preservar el valor:
+En los últimos años, las [criptomonedas](/es/glossary/#cryptocurrency) han surgido como una alternativa para preservar el valor:
 
 - **Bitcoin** — oferta limitada (21 millones), independiente de cualquier gobierno;
 - **Stablecoins** ([USDT](/es/glossary/#usdt), [USDC](/es/glossary/#usdc)) — vinculadas al dólar, accesibles desde cualquier lugar con internet;
@@ -238,7 +238,7 @@ En los últimos años, las criptomonedas han surgido como una alternativa para p
 | Oro                 | ✅ Parcial                   | ✅ Sí           | Baja           |
 | Bienes raíces       | ✅ Alta                      | ✅ Sí           | Muy baja       |
 | Bitcoin             | ✅ Alta (a largo plazo)       | ✅ Sí           | Media          |
-| Stablecoins (USDT)  | ✅ Sí (vs. USD)               | ✅ Sí           | Alta           |
+| [Stablecoins](/es/glossary/#stablecoin) (USDT)  | ✅ Sí (vs. USD)               | ✅ Sí           | Alta           |
 
 ---
 
@@ -271,7 +271,7 @@ Parcialmente. Los bancos centrales usan herramientas como las tasas de interés,
 
 ### ¿Es mejor tener efectivo que un depósito bancario?
 
-No. El efectivo físico no genera intereses y pierde valor exactamente igual que el dinero en el banco, con la desventaja adicional de que puedes perderlo, te lo pueden robar o destruir. La cuestión no es dónde guardar el dinero fiduciario, sino si deberías tener todo tu patrimonio en una moneda que se devalúa constantemente.
+No. El efectivo físico no genera intereses y pierde valor exactamente igual que el dinero en el banco, con la desventaja adicional de que puedes perderlo, te lo pueden robar o destruir. La cuestión no es dónde guardar el [dinero fiduciario](/es/glossary/#fiat), sino si deberías tener todo tu patrimonio en una moneda que se devalúa constantemente.
 
 ### ¿Las criptomonedas resuelven el problema de la inflación?
 

@@ -24,7 +24,7 @@ Stell dir vor: Du hast Bitcoin an einer Börse gekauft. Das Geld ist weg, auf de
 **Und jetzt kommt die Hauptfrage: Wo sollst du es aufbewahren?**
 
 Auf der Börse lassen? Beängstigend – Börsen werden gehackt, gehen pleite, frieren Auszahlungen ein.
-In eine Wallet verschieben? Aber in welche?
+In eine [Wallet](/de/glossary/#wallet) verschieben? Aber in welche?
 
 In Krypto gibt es zwei grundlegend unterschiedliche Ansätze zur Aufbewahrung:
 
@@ -43,7 +43,7 @@ In diesem Artikel erfährst du:
 
 ### Was ist das
 
-Eine **Hot Wallet** ist ein Programm, das ständig mit dem Internet verbunden ist.
+Eine **[Hot Wallet](/de/glossary/#hot-wallet)** ist ein Programm, das ständig mit dem Internet verbunden ist.
 
 Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echtzeit zum Signieren von Transaktionen verwendet.
 
@@ -52,7 +52,7 @@ Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echt
 | Wallet            | Typ              | Besonderheit                            |
 |-------------------|------------------|-----------------------------------------|
 | **MetaMask**      | Browser-Erweiterung | Die beliebteste für Ethereum und EVM-Netzwerke |
-| **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter DApp-Browser |
+| **Trust Wallet**  | Mobile App       | Bequem, Multi-Währung, eingebauter [DApp](/de/glossary/#dapp)-Browser |
 | **Exodus**        | Desktop / Mobil  | Schöne Oberfläche, eingebauter Tausch   |
 | **Phantom**       | Browser / Mobil  | Optimiert für Solana                    |
 | **Coinbase Wallet**| Mobil / Erweiterung | Integration mit der Börse, nicht-verwahrend |
@@ -63,7 +63,7 @@ Deine Schlüssel werden auf dem Gerät (Handy, Computer) gespeichert und in Echt
 
 1. Du installierst die App oder Erweiterung.
 2. Die Wallet generiert eine **[Seed-Phrase](/de/glossary/#seed-phrase)** (12 oder 24 Wörter).
-3. Aus der Seed-Phrase werden private Schlüssel erstellt.
+3. Aus der [Seed-Phrase](/de/glossary/#seed-phrase) werden [private Schlüssel](/de/glossary/#private-key) erstellt.
 4. Jedes Mal, wenn du Krypto sendest, signiert die Wallet die Transaktion **direkt auf deinem Gerät**.
 5. Die signierte Transaktion wird an das Netzwerk gesendet.
 
@@ -73,7 +73,7 @@ All das geschieht in Sekunden. Bequem? Sehr.
 
 - schnelle Transaktionen;
 - bequemer Zugriff vom Handy oder Computer;
-- Integration mit DApps, DeFi, NFTs;
+- Integration mit DApps, [DeFi](/de/glossary/#defi), [NFTs](/de/glossary/#nft);
 - kostenlos (außer Netzwerkgebühren);
 - geeignet für den täglichen Gebrauch.
 
@@ -90,7 +90,7 @@ All das geschieht in Sekunden. Bequem? Sehr.
 
 ### Was ist das
 
-Eine **Cold Wallet** ist ein physisches Gerät (oder ein Blatt Papier), auf dem die Schlüssel **niemals mit dem Internet in Kontakt kommen**.
+Eine **[Cold Wallet](/de/glossary/#cold-wallet)** ist ein physisches Gerät (oder ein Blatt Papier), auf dem die Schlüssel **niemals mit dem Internet in Kontakt kommen**.
 
 Die beliebteste Variante ist eine **Hardware Wallet**.
 
@@ -98,7 +98,7 @@ Die beliebteste Variante ist eine **Hardware Wallet**.
 
 | Gerät               | Besonderheit                             |
 |---------------------|------------------------------------------|
-| **Ledger Nano S Plus** | Preiswert, zuverlässig, unterstützt 100+ Token |
+| **Ledger Nano S Plus** | Preiswert, zuverlässig, unterstützt 100+ [Token](/de/glossary/#token) |
 | **Ledger Nano X**   | Mit Bluetooth, kann mit dem Handy verbunden werden |
 | **Trezor Model One** | Erste Hardware Wallet, Open-Source      |
 | **Trezor Model T**  | Mit Touchscreen, bequemer               |
@@ -179,7 +179,7 @@ Du:
 Du:
 
 - hast Bitcoin gekauft und planst nicht, ihn 2–3 Jahre zu verkaufen;
-- bewahrst Ersparnisse in Stablecoins auf;
+- bewahrst Ersparnisse in [Stablecoins](/de/glossary/#stablecoin) auf;
 - hast Angst, dass die Börse gehackt wird.
 
 👉 Du brauchst eine **Cold Wallet** (Ledger, Trezor). Halte dort 80–90 % deiner Vermögenswerte.
@@ -229,7 +229,7 @@ Ja. Die Seed-Phrase ist universell.
 
 ### Was, wenn der Ledger kaputtgeht?
 
-Kein Problem. Das Gerät ist nur ein «Schlüssel». Die Münzen selbst werden in der Blockchain aufbewahrt.
+Kein Problem. Das Gerät ist nur ein «Schlüssel». Die Münzen selbst werden in der [Blockchain](/de/glossary/#blockchain) aufbewahrt.
 
 Kaufe einen neuen Ledger (oder eine andere BIP39-kompatible Wallet) und stelle den Zugriff mit der Seed-Phrase wieder her.
 

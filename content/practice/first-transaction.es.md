@@ -18,9 +18,9 @@ keywords:
 
 ---
 
-Compraste tu primera cripto. La cartera está creada. Las monedas están en su lugar.
+Compraste tu primera cripto. La [cartera](/es/glossary/#wallet) está creada. Las monedas están en su lugar.
 
-Ahora viene lo más interesante: **enviarle criptomonedas a otra persona**.
+Ahora viene lo más interesante: **enviarle [criptomonedas](/es/glossary/#cryptocurrency) a otra persona**.
 
 Si estás acostumbrado a las transferencias bancarias, donde solo necesitas saber el número de tarjeta o el teléfono, en cripto es diferente. Equivocarte en una letra — y el dinero se va a la nada. Elegir la red equivocada — y las monedas desaparecen para siempre.
 
@@ -178,7 +178,7 @@ Después de enviar, tu cartera mostrará:
 
 ### Cómo verificar en el explorador
 
-Un explorador de blockchain es un «buscador» público de la cadena.  \
+Un explorador de [blockchain](/es/glossary/#blockchain) es un «buscador» público de la cadena.  \
 Cada red tiene su propio explorador:
 
 | Red | Explorador |
@@ -198,7 +198,7 @@ Para verificar:
 
 | Estado | Qué significa |
 |--------|-------------|
-| **Pending** | En cola, esperando ser incluida en un bloque |
+| **Pending** | En cola, esperando ser incluida en un [bloque](/es/glossary/#block) |
 | **Confirmed** | Registrada en la blockchain |
 | **Failed** | Error (generalmente por gas bajo o fondos insuficientes para la comisión) |
 

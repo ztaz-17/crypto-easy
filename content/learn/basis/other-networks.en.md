@@ -29,13 +29,13 @@ Let's take a look at the biggest cryptocurrencies by market cap (data as of May 
 
 ## XRP (Ripple) — for Bank Transfers
 
-XRP isn't just a cryptocurrency — it's a whole platform for international bank transfers. A regular SWIFT transfer takes 3–5 days; XRP takes seconds with near-zero fees.
+XRP isn't just a [cryptocurrency](/en/glossary/#cryptocurrency) — it's a whole platform for international bank transfers. A regular SWIFT transfer takes 3–5 days; XRP takes seconds with near-zero fees.
 
-**Main selling point:** RippleNet — a network where banks use XRP as a bridge currency for settlements.
+**Main selling point:** RippleNet — a network where banks use XRP as a [bridge](/en/glossary/#bridge) currency for settlements.
 
 **Key events in 2025–2026:**
 - The SEC finally closed its years-long case — XRP was officially ruled not a security. This triggered a sharp rally and the return of US institutional investors.
-- Ripple launched its own stablecoin RLUSD on XRP Ledger — issuance exceeded $100 million in the first month.
+- Ripple launched its own [stablecoin](/en/glossary/#stablecoin) RLUSD on XRP Ledger — issuance exceeded $100 million in the first month.
 - Major US banks began integrating Ripple for cross-border payments.
 
 > XRP isn't about "making money from volatility." It's a technology for the banking system, and its success is heavily tied to regulators.
@@ -44,14 +44,14 @@ XRP isn't just a cryptocurrency — it's a whole platform for international bank
 
 ## Binance Coin (BNB) — the Coin of the Largest Exchange
 
-BNB is the native token of Binance, the world's largest crypto exchange. Initially it gave you a discount on trading fees, but over time it grew into a full ecosystem: BNB is used on the BNB Chain network, for gas fees, staking, and Launchpad participation.
+BNB is the native [token](/en/glossary/#token) of Binance, the world's largest crypto exchange. Initially it gave you a discount on trading fees, but over time it grew into a full ecosystem: BNB is used on the BNB Chain network, for gas fees, [staking](/en/glossary/#staking), and Launchpad participation.
 
-**Main selling point:** BNB Chain is one of the most popular networks for DeFi and NFTs — cheap and fast. Plus, Binance burns a portion of tokens every quarter, reducing supply.
+**Main selling point:** BNB Chain is one of the most popular networks for [DeFi](/en/glossary/#defi) and [NFTs](/en/glossary/#nft) — cheap and fast. Plus, Binance burns a portion of tokens every quarter, reducing supply.
 
 **Key events in 2025–2026:**
-- The BNB Chain v2.2 upgrade ("Prague" hard fork) cut block time to 1 second and lowered fees by 40%.
+- The BNB Chain v2.2 upgrade ("Prague" hard [fork](/en/glossary/#fork)) cut [block](/en/glossary/#block) time to 1 second and lowered fees by 40%.
 - Binance obtained full VASP licenses in the UAE and Turkey.
-- The auto-burn mechanism was updated — the formula now accounts for DEX and CEX volume, removing the human factor.
+- The auto-burn mechanism was updated — the formula now accounts for [DEX](/en/glossary/#dex) and [CEX](/en/glossary/#cex) volume, removing the human factor.
 
 > BNB is a bet on Binance as a company and on BNB Chain as an ecosystem.
 
@@ -59,14 +59,14 @@ BNB is the native token of Binance, the world's largest crypto exchange. Initial
 
 ## Solana (SOL) — the Fastest L1
 
-Solana is a blockchain designed from the ground up for speed. It handles tens of thousands of transactions per second with pennies in fees. That makes it an ideal environment for DeFi exchanges, games, and mass-market applications.
+Solana is a [blockchain](/en/glossary/#blockchain) designed from the ground up for speed. It handles tens of thousands of transactions per second with pennies in fees. That makes it an ideal environment for DeFi exchanges, games, and mass-market applications.
 
 **Main selling point:** Firedancer — a new validator client that pushed throughput to 50,000 TPS.
 
 **Key events in 2025–2026:**
 - Firedancer hit mainnet beta — this is the second independent client for the network (like Geth and Nethermind for Ethereum), making Solana more resilient.
 - Solana has outranked Ethereum in DEX volume for three months straight — $120 billion per month.
-- The DePIN (decentralized physical infrastructure networks) sector is booming on Solana: Helium, Hivemapper, Render Network.
+- The DePIN ([decentralized](/en/glossary/#decentralization) physical infrastructure networks) sector is booming on Solana: Helium, Hivemapper, Render Network.
 
 > Solana sacrifices decentralization for speed. It's a trade-off that millions of users are fine with.
 
@@ -96,7 +96,7 @@ Dogecoin started as a joke back in 2013 — a cryptocurrency with a dog from a m
 **Key events in 2025–2026:**
 - X (Twitter) officially integrated Dogecoin for tipping and in-app purchases in the US.
 - The Dogecoin Foundation released "Dogebox" — one-click node software for merchants.
-- The community voted to lower inflation from ~4% to 2.5% per year.
+- The community voted to lower [inflation](/en/glossary/#inflation) from ~4% to 2.5% per year.
 
 > Dogecoin is still mined (Proof-of-Work), just like Bitcoin. Its inflation is fixed — 5 billion coins per year — which reduces the incentive to hold it speculatively.
 
@@ -185,7 +185,7 @@ Sui is a next-generation blockchain built on the Move language (originally devel
 
 **Key events in 2025–2026:**
 - Mysticeti consensus — 390 ms to finality, making Sui officially the fastest L1.
-- BlackRock launched a BUIDL fund on Sui — $200 million TVL in the first month.
+- BlackRock launched a BUIDL fund on Sui — $200 million [TVL](/en/glossary/#tvl) in the first month.
 - MoveGPT — the first AI agent framework on Sui, letting you deploy trading bots and NFT minters directly on-chain.
 
 > Sui is a dark horse. Lower market cap, but one of the most advanced technologies out there. Part of the Move ecosystem (Aptos, Sui).
@@ -214,7 +214,7 @@ Toncoin is a blockchain created by the Telegram team (originally Telegram Open N
 **Main selling point:** TON is the only blockchain built into a messaging app with 900 million users.
 
 **Key events in 2025–2026:**
-- 100 million active wallets per month — a record growth rate.
+- 100 million active [wallets](/en/glossary/#wallet) per month — a record growth rate.
 - Telegram "Stars" (in-app currency) migrated to the TON blockchain — 900 million users got an on-chain experience.
 - TON Society + DWF Labs launched a $500 million fund for DeFi, games, and AI agents on TON.
 

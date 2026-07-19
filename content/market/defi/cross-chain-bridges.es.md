@@ -23,7 +23,7 @@ O tienes USDT en Tron pero los necesitas en Binance Smart Chain.
 
 El problema: **las distintas blockchains no se comunican directamente entre sí**. Bitcoin no sabe nada de Ethereum, y Ethereum no sabe nada de Solana.
 
-Ahí es donde entran los **puentes entre redes (cross-chain bridges)** — herramientas que te permiten mover activos de una red a otra.
+Ahí es donde entran los **[puentes](/es/glossary/#bridge) entre redes (cross-chain bridges)** — herramientas que te permiten mover activos de una red a otra.
 
 En este artículo cubriremos:
 
@@ -65,9 +65,9 @@ Esto se llama **bloquear + acuñar / quemar + desbloquear**.
 
 | Tipo | Cómo funciona | Ejemplos |
 |------|-------------|---------|
-| **Centralizado** | Una empresa controla una cartera multi-firma | Binance Bridge, Portal (WBTC) |
+| **Centralizado** | Una empresa controla una [cartera](/es/glossary/#wallet) multi-firma | Binance Bridge, Portal (WBTC) |
 | **Descentralizado** | Contratos inteligentes + validadores (oráculos) | Wormhole, Synapse, Stargate |
-| **Oficial** | Creado por el propio equipo de la blockchain | Arbitrum Bridge, Optimism Bridge |
+| **Oficial** | Creado por el propio equipo de la [blockchain](/es/glossary/#blockchain) | Arbitrum Bridge, Optimism Bridge |
 
 ---
 
@@ -75,7 +75,7 @@ Esto se llama **bloquear + acuñar / quemar + desbloquear**.
 
 ### Acceso a otros ecosistemas
 
-Cada red es su propio mundo con sus propias apps DeFi:
+Cada red es su propio mundo con sus propias apps [DeFi](/es/glossary/#defi):
 
 - **Ethereum** — la más segura, pero cara.
 - **Arbitrum / Optimism** — mismas capacidades, más baratas (L2s).
@@ -172,13 +172,13 @@ Regla de seguridad:
 
 - **Puentes nuevos sin historial** — el código no ha sido auditado por profesionales ni por la comunidad.
 - **Puentes que prometen "rendimientos altísimos"** — a menudo son estafas.
-- **Puentes hacia redes oscuras** — cuanto menor el TVL, mayor el riesgo.
+- **Puentes hacia redes oscuras** — cuanto menor el [TVL](/es/glossary/#tvl), mayor el riesgo.
 
 ---
 
 ## Error común: Los tokens envueltos no son la moneda real
 
-Cuando puenteas ETH, no obtienes ETH real — obtienes una **representación** (token envuelto).
+Cuando puenteas ETH, no obtienes ETH real — obtienes una **representación** ([token](/es/glossary/#token) envuelto).
 
 Importante:
 
@@ -196,7 +196,7 @@ Redes distintas — tokens distintos:
 | USDT | Tron | TR7NH... |
 | USDT | BNB Chain | 0x55d3... |
 
-👉 Siempre verifica qué contrato de token estás recibiendo — usa un explorador de bloques (Etherscan, BSCScan) o un enlace desde el sitio oficial.
+👉 Siempre verifica qué contrato de token estás recibiendo — usa un explorador de [bloques](/es/glossary/#block) (Etherscan, BSCScan) o un enlace desde el sitio oficial.
 
 ---
 
@@ -207,7 +207,7 @@ Redes distintas — tokens distintos:
 | Puente oficial | Arbitrum Bridge | 10–30 min | Media | Alta |
 | Puente descentralizado | Stargate | 1–10 min | Media | Media |
 | Puente centralizado | Binance Bridge | Instantáneo | Baja | Baja (el exchange tiene tus fondos) |
-| CEX (exchange centralizado) | Binance → retirar a otra red | 5–30 min | Baja | Baja (riesgo de custodia) |
+| [CEX](/es/glossary/#cex) (exchange centralizado) | Binance → retirar a otra red | 5–30 min | Baja | Baja (riesgo de custodia) |
 
 ---
 

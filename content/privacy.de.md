@@ -26,7 +26,7 @@ Wir verwenden keine eigenen Cookies. Drittanbieter (Google Analytics, Yandex.Met
 
 ### Dienste von Drittanbietern
 
-Die Website kann Links zu externen Ressourcen enthalten (Börsen, Wallets, Telegram). Wir übernehmen keine Verantwortung für deren Datenschutzpraktiken.
+Die Website kann Links zu externen Ressourcen enthalten (Börsen, [Wallets](/de/glossary/#wallet), Telegram). Wir übernehmen keine Verantwortung für deren Datenschutzpraktiken.
 
 ### Kontakt
 

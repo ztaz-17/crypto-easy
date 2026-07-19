@@ -23,7 +23,7 @@ It's smart. It follows instructions perfectly. But it has no idea what's happeni
 
 > **A smart contract is exactly that kind of robot.**
 
-It lives inside a blockchain and can only interact with what's already on-chain. Data from the outside world — prices, exchange rates, sports results — is off-limits.
+It lives inside a [blockchain](/en/glossary/#blockchain) and can only interact with what's already on-chain. Data from the outside world — prices, exchange rates, sports results — is off-limits.
 
 So how do you get a smart contract to tell you the price of Bitcoin right now?
 
@@ -99,7 +99,7 @@ Oracles can deliver:
 | **Inbound** | Brings data into the blockchain | Currency exchange rate |
 | **Outbound** | Sends data from the blockchain out | Transaction notification |
 | **Centralized** | Single data source | Simple, but unreliable |
-| **Decentralized** | Multiple sources | Reliable, but more complex |
+| **[Decentralized](/en/glossary/#decentralization)** | Multiple sources | Reliable, but more complex |
 
 ---
 
@@ -153,7 +153,7 @@ Chainlink uses multiple layers of protection:
 2. **Aggregation** — the final price is the median of all sources;
 3. **Incentives** — nodes earn rewards for honest work and lose their deposit for cheating.
 
-👉 Thanks to this, Chainlink is the de facto standard for DeFi applications.
+👉 Thanks to this, Chainlink is the de facto standard for [DeFi](/en/glossary/#defi) applications.
 
 ---
 
@@ -183,7 +183,7 @@ Oracles are an invisible but essential part of the crypto world.
 
 Without oracles, none of these would work:
 - DeFi protocols (Aave, Compound);
-- stablecoins (DAI checks collateral prices);
+- [stablecoins](/en/glossary/#stablecoin) (DAI checks collateral prices);
 - insurance smart contracts;
 - prediction markets.
 
@@ -203,7 +203,7 @@ You can, but it's risky. A centralized oracle is a single point of failure. DeFi
 
 ### Do I have to pay for oracles?
 
-Yes. A smart contract pays a fee to oracle nodes for providing data. In Chainlink's case, the fee is paid in LINK tokens.
+Yes. A smart contract pays a fee to oracle nodes for providing data. In Chainlink's case, the fee is paid in LINK [tokens](/en/glossary/#token).
 
 ### Can an oracle be wrong?
 

@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Stell dir vor: Du brauchst schnell Geld, aber die Bank lehnt dich ab wegen einer schlechten Bonität. Oder du willst einen Kredit aufnehmen, hast aber keine Lust auf KYC und ellenlange Formulare.
+Stell dir vor: Du brauchst schnell Geld, aber die Bank lehnt dich ab wegen einer schlechten Bonität. Oder du willst einen Kredit aufnehmen, hast aber keine Lust auf [KYC](/de/glossary/#kyc) und ellenlange Formulare.
 
-In DeFi ist das kein Problem.
+In [DeFi](/de/glossary/#defi) ist das kein Problem.
 
 > **Ein Krypto-Darlehen** ist Geld, das du dir gegen deine Kryptos als Sicherheit leihst – ohne eine einzige Frage zu deiner Kreditgeschichte.
 
@@ -52,13 +52,13 @@ DeFi funktioniert ganz anders:
 Der Ablauf ist einfach:
 
 1. Du zahlst Krypto (z. B. ETH) in einen Smart Contract ein;
-2. Der Smart Contract erlaubt dir, eine andere Kryptowährung (wie USDC) zu leihen;
+2. Der Smart Contract erlaubt dir, eine andere [Kryptowährung](/de/glossary/#cryptocurrency) (wie USDC) zu leihen;
 3. Du nutzt das geliehene Geld;
 4. Wenn du den Kredit plus Zinsen zurückzahlst – bekommst du deine Sicherheiten zurück.
 
 > Der entscheidende Unterschied: **Ein Kredit wird nicht von einer Person oder Firma vergeben, sondern von Code.**
 
-Niemand fragt, wo du arbeitest oder wie viel du verdienst. Schließe einfach deine Wallet an und zahle Sicherheiten ein.
+Niemand fragt, wo du arbeitest oder wie viel du verdienst. Schließe einfach deine [Wallet](/de/glossary/#wallet) an und zahle Sicherheiten ein.
 
 ---
 
@@ -121,7 +121,7 @@ Auf den liquidierten Betrag wird eine **Strafe** erhoben – meist 5–15 % de
 
 1. **Leih dir nicht das Maximum.** Wenn du 75 $ auf 100 $ leihen könntest – leihe dir 40–50 $. Je kleiner die Schuld, desto größer dein Sicherheitspuffer.
 2. **Beobachte den Kurs.** An volatilen Tagen prüfe deinen Health Factor alle paar Stunden.
-3. **Zahle mehr Sicherheiten ein.** Fällt ETH – zahle mehr ETH (oder Stablecoins) nach, um deinen Health Factor zu erhöhen.
+3. **Zahle mehr Sicherheiten ein.** Fällt ETH – zahle mehr ETH (oder [Stablecoins](/de/glossary/#stablecoin)) nach, um deinen Health Factor zu erhöhen.
 4. **Nutze Benachrichtigungen.** Es gibt Dienste, die dich warnen, wenn dein Health Factor kritisch wird (z. B. DeBank oder Aaves integrierte Benachrichtigungen).
 
 ---
@@ -204,7 +204,7 @@ Wenn du den Zugang zu deiner Wallet verlierst oder einfach nicht genug Geld hast
 
 ### 5. „Schrott"-Sicherheiten
 
-Manche Protokolle erlauben es, obskure Token mit geringer Liquidität als Sicherheit zu hinterlegen. Ein starker Kursverfall bei so einem Asset kann deine gesamte Position innerhalb von Minuten liquidieren.
+Manche Protokolle erlauben es, obskure [Token](/de/glossary/#token) mit geringer [Liquidität](/de/glossary/#liquidity) als Sicherheit zu hinterlegen. Ein starker Kursverfall bei so einem Asset kann deine gesamte Position innerhalb von Minuten liquidieren.
 
 > Verwende nur zuverlässige Assets mit hoher Liquidität (ETH, WBTC, USDC, DAI).
 
@@ -232,7 +232,7 @@ DeFi-Darlehen sind eine Revolution im Finanzwesen:
 | Sofortige Genehmigung                  | Liquidationsrisiko bei Marktcrash            |
 | Keine Bonitätsprüfung nötig            | Risiko von Smart-Contract-Fehlern            |
 | Von überall auf der Welt zugänglich    | Erfordert aktive Überwachung der Position    |
-| Transparenz (alles auf der Blockchain) | Volatilität von Kryptowährungen              |
+| Transparenz (alles auf der [Blockchain](/de/glossary/#blockchain)) | Volatilität von Kryptowährungen              |
 | Oft niedrigere Zinsen als bei Banken   | Verlust der Sicherheiten bei Liquidation     |
 
 > Ein DeFi-Darlehen ist kein free money. Es ist ein Werkzeug, das dir Freiheit gibt – aber auch Verantwortung verlangt.

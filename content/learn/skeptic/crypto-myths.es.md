@@ -43,7 +43,7 @@ Este es probablemente el más popular. La gente piensa que si envías Bitcoin, n
 
 ### Realidad: Bitcoin Es Pseudónimo, No Anónimo
 
-Bitcoin funciona diferente. Cada transacción queda registrada en una **blockchain pública** — un libro contable abierto que cualquiera puede descargar y analizar.
+Bitcoin funciona diferente. Cada transacción queda registrada en una **[blockchain](/es/glossary/#blockchain) pública** — un libro contable abierto que cualquiera puede descargar y analizar.
 
 Esto es lo que se ve:
 
@@ -104,7 +104,7 @@ Si envías $10.000 en Bitcoin — ese registro queda en la blockchain para siemp
 La mayoría de los usuarios son personas comunes:
 
 - alguien enviando dinero a su familia en otro país sin comisiones bancarias;
-- alguien protegiendo sus ahorros contra la inflación;
+- alguien protegiendo sus ahorros contra la [inflación](/es/glossary/#inflation);
 - alguien invirtiendo a largo plazo;
 - alguien simplemente pagando sus compras.
 
@@ -136,14 +136,14 @@ Bitcoin, en cambio:
 
 - tiene una red funcional con miles de nodos en todo el mundo;
 - es usado por millones de personas;
-- tiene una infraestructura desarrollada (exchanges, wallets, DeFi);
+- tiene una infraestructura desarrollada (exchanges, wallets, [DeFi](/es/glossary/#defi));
 - es reconocido por inversores institucionales (ETFs en EE.UU., inversiones de grandes empresas).
 
 > La diferencia entre los tulipanes y Bitcoin: Bitcoin tiene funcionalidad, utilidad e infraestructura. Los tulipanes — solo belleza.
 
 ### El Crypto Es Una Clase de Activo
 
-Hoy las criptomonedas se tratan como **una clase de activo independiente**, al lado de las acciones, los bonos y los bienes raíces. BlackRock, Fidelity, Goldman Sachs — las instituciones financieras más grandes del mundo — están lanzando productos crypto.
+Hoy las [criptomonedas](/es/glossary/#cryptocurrency) se tratan como **una clase de activo independiente**, al lado de las acciones, los bonos y los bienes raíces. BlackRock, Fidelity, Goldman Sachs — las instituciones financieras más grandes del mundo — están lanzando productos crypto.
 
 El mercado pasa por ciclos:
 
@@ -182,7 +182,7 @@ Tarda menos que abrir una cuenta bancaria.
 Hace cinco años, comprar crypto implicaba:
 
 - registrarse en un exchange;
-- pasar por KYC (con foto del pasaporte);
+- pasar por [KYC](/es/glossary/#kyc) (con foto del pasaporte);
 - esperar la aprobación;
 - aprender los tipos de órdenes.
 
@@ -194,7 +194,7 @@ Ahora: descargar una app → comprar → usar.
 
 Es difícil — si quieres:
 
-- construir un equipo de minería;
+- construir un equipo de [minería](/es/glossary/#mining);
 - escribir smart contracts en Solidity (el lenguaje de programación de Ethereum);
 - ejecutar tu propio nodo de blockchain.
 
@@ -218,7 +218,7 @@ Son cosas fundamentalmente distintas:
 La mayoría de los que "lo perdieron todo":
 
 - se metieron al crypto durante el hype;
-- compraron en el pico (FOMO);
+- compraron en el pico ([FOMO](/es/glossary/#fomo));
 - vendieron en pánico (cuando todo se desplomó);
 - no tenían idea de lo que estaban comprando.
 

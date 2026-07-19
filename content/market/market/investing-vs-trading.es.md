@@ -52,7 +52,7 @@ Invertir es un enfoque donde:
 
 El término **[HODL](/es/glossary/#hodl)** nació en 2013 cuando un usuario del foro Bitcointalk escribió borracho "I AM HODLING" en lugar de "holding". La palabra se quedó y se convirtió en el símbolo del movimiento de los inversores a largo plazo.
 
-HODL no es pereza. Se trata de **confianza** en que el activo crecerá durante varios años, a pesar de las caídas temporales.
+[HODL](/es/glossary/#hodl) no es pereza. Se trata de **confianza** en que el activo crecerá durante varios años, a pesar de las caídas temporales.
 
 ### Ventajas de Invertir
 

@@ -24,7 +24,7 @@ Imagine: you bought Bitcoin on an exchange. The money left your account, and a b
 **And here comes the main question: where do you store it now?**
 
 Leave it on the exchange? Scary — exchanges get hacked, go bankrupt, freeze withdrawals.
-Move it to a wallet? But which one?
+Move it to a [wallet](/en/glossary/#wallet)? But which one?
 
 In crypto, there are two fundamentally different approaches to storage:
 
@@ -43,7 +43,7 @@ In this article, we'll cover:
 
 ### What Is It
 
-A **hot wallet** is a program that's constantly connected to the internet.
+A **[hot wallet](/en/glossary/#hot-wallet)** is a program that's constantly connected to the internet.
 
 Your keys are stored on your device (phone, computer) and used to sign transactions in real time.
 
@@ -52,7 +52,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 | Wallet            | Type              | Key Feature                           |
 |-------------------|-------------------|---------------------------------------|
 | **MetaMask**      | Browser extension | Most popular for Ethereum and EVM networks |
-| **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in DApp browser |
+| **Trust Wallet**  | Mobile app        | Convenient, multi-currency, built-in [DApp](/en/glossary/#dapp) browser |
 | **Exodus**        | Desktop / Mobile  | Beautiful interface, built-in exchange |
 | **Phantom**       | Browser / Mobile  | Optimized for Solana                  |
 | **Coinbase Wallet**| Mobile / Extension| Integrated with exchange, non-custodial |
@@ -63,7 +63,7 @@ Your keys are stored on your device (phone, computer) and used to sign transacti
 
 1. You install the app or extension.
 2. The wallet generates a **[seed phrase](/en/glossary/#seed-phrase)** (12 or 24 words).
-3. Private keys are created from the seed phrase.
+3. [Private keys](/en/glossary/#private-key) are created from the [seed phrase](/en/glossary/#seed-phrase).
 4. Every time you send crypto, the wallet signs the transaction **right on your device**.
 5. The signed transaction is sent to the network.
 
@@ -73,7 +73,7 @@ All of this happens in seconds. Convenient? Very.
 
 - fast transactions;
 - convenient access from phone or computer;
-- integration with DApps, DeFi, NFTs;
+- integration with DApps, [DeFi](/en/glossary/#defi), [NFTs](/en/glossary/#nft);
 - free (except network fees);
 - great for daily use.
 
@@ -90,7 +90,7 @@ All of this happens in seconds. Convenient? Very.
 
 ### What Is It
 
-A **cold wallet** is a physical device (or piece of paper) where your keys **never touch the internet**.
+A **[cold wallet](/en/glossary/#cold-wallet)** is a physical device (or piece of paper) where your keys **never touch the internet**.
 
 The most popular option is a **hardware wallet**.
 
@@ -98,7 +98,7 @@ The most popular option is a **hardware wallet**.
 
 | Device              | Key Feature                            |
 |---------------------|----------------------------------------|
-| **Ledger Nano S Plus** | Affordable, reliable, supports 100+ tokens |
+| **Ledger Nano S Plus** | Affordable, reliable, supports 100+ [tokens](/en/glossary/#token) |
 | **Ledger Nano X**   | Bluetooth, can connect to your phone   |
 | **Trezor Model One** | First hardware wallet, open-source    |
 | **Trezor Model T**  | Touchscreen, more convenient           |
@@ -179,7 +179,7 @@ You:
 You:
 
 - bought Bitcoin and don't plan to sell for 2–3 years;
-- keep savings in stablecoins;
+- keep savings in [stablecoins](/en/glossary/#stablecoin);
 - are afraid the exchange will get hacked.
 
 👉 You need a **cold wallet** (Ledger, Trezor). Keep 80–90% of your assets there.
@@ -229,7 +229,7 @@ Yes. The seed phrase is universal.
 
 ### What if my Ledger breaks?
 
-No problem. The device is just a "key." The coins themselves are stored on the blockchain.
+No problem. The device is just a "key." The coins themselves are stored on the [blockchain](/en/glossary/#blockchain).
 
 Buy a new Ledger (or any other BIP39-compatible wallet) and restore access using your seed phrase.
 

@@ -18,19 +18,19 @@ keywords:
 
 ---
 
-Du hast Krypto verschickt. Das Geld hat dein Wallet verlassen. Aber ist es auch wirklich beim Empfänger angekommen?
+Du hast Krypto verschickt. Das Geld hat dein [Wallet](/de/glossary/#wallet) verlassen. Aber ist es auch wirklich beim Empfänger angekommen?
 
 In der Bankenwelt wartest du einfach auf eine SMS oder Push-Benachrichtigung. In der Krypto-Welt ist alles viel transparenter:
 
 > **Jede Transaktion ist ein öffentlicher Eintrag, den jeder überprüfen kann.**
 
-Und dafür brauchst du weder den Banksupport noch Zugriff auf ein fremdes Konto. Alles, was du brauchst, ist ein Tool – ein **Blockchain-Explorer**.
+Und dafür brauchst du weder den Banksupport noch Zugriff auf ein fremdes Konto. Alles, was du brauchst, ist ein Tool – ein **[Blockchain](/de/glossary/#blockchain)-Explorer**.
 
 In diesem Artikel erfährst du:
 
 - wie du jede Transaktion anhand ihrer ID findest;
 - was die Status Success, Pending und Failed bedeuten;
-- wie du die Details liest: Block, Gebühr, von wo nach wo;
+- wie du die Details liest: [Block](/de/glossary/#block), Gebühr, von wo nach wo;
 - welche Explorer für verschiedene Netzwerke funktionieren;
 - wie du eine Wallet-Überwachung einrichtest.
 
@@ -59,7 +59,7 @@ Du brauchst einen Explorer, wenn:
 
 ## Etherscan: Der wichtigste Ethereum-Explorer
 
-**Etherscan** ([etherscan.io](https://etherscan.io)) ist der bekannteste Blockchain-Explorer. Er funktioniert für das Ethereum-Netzwerk und alle ERC-20-Token.
+**Etherscan** ([etherscan.io](https://etherscan.io)) ist der bekannteste Blockchain-Explorer. Er funktioniert für das Ethereum-Netzwerk und alle ERC-20-[Token](/de/glossary/#token).
 
 ### Transaktions-Hash (TxID)
 
@@ -196,7 +196,7 @@ Du musst nicht jede Transaktion manuell prüfen. Explorer können dich über Wal
 
 - **Dextools** ([dextools.io](https://dextools.io)) – Transaktionen nach Token und Liquiditätspool verfolgen.
 - **Nansen** ([nansen.ai](https://nansen.ai)) – professionelles Wallet-Analyse-Tool (kostenpflichtig).
-- **Telegram-Bots** – unzählige Bots verfolgen „Wale" und große Transaktionen in Echtzeit.
+- **Telegram-Bots** – unzählige Bots verfolgen „[Wale](/de/glossary/#whale)" und große Transaktionen in Echtzeit.
 
 > Tipp: Wenn du eine wichtige Überweisung erwartest, richte eine Benachrichtigung im Explorer ein. Du wirst benachrichtigt, **bevor** der Empfänger überhaupt sagt „es ist angekommen".
 
@@ -229,7 +229,7 @@ Der Status **Pending** kann von einigen Sekunden bis zu mehreren Tagen dauern. H
 ### Warum bleiben Transaktionen hängen?
 
 - **Zu niedrige Gas-Gebühr.** In Netzwerken wie Ethereum verarbeiten Miner zuerst die Transaktionen mit den höchsten Gebühren. Wenn du das Gas zu niedrig ansetzt, bleibt die Transaktion in der Warteschlange.
-- **Netzwerküberlastung.** In Hype-Momenten (z. B. bei einem beliebten NFT-Drop) kann die Warteschlange enorm werden.
+- **Netzwerküberlastung.** In Hype-Momenten (z. B. bei einem beliebten [NFT](/de/glossary/#nft)-Drop) kann die Warteschlange enorm werden.
 - **Node-Probleme.** Selten, aber manchmal bremst ein bestimmter Validator die Verarbeitung.
 
 ### Was du tun kannst

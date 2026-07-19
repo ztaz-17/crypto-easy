@@ -22,9 +22,9 @@ keywords:
 
 Du hast gerade deinen ersten Bitcoin gekauft. Eine Stunde später fällt der Preis um 15 %. Du gerätst in Panik und öffnest den Chart – alles rot. Am nächsten Tag – minus 30 %. Kommt dir bekannt vor?
 
-Kryptowährung ist eine Achterbahn. Bitcoin kann in einer Woche um 50 % fallen, und irgendein Altcoin kann an einem Tag 90 % verlieren. Großartig für Spekulation. Furchtbar zum Sparen.
+[Kryptowährung](/de/glossary/#cryptocurrency) ist eine Achterbahn. Bitcoin kann in einer Woche um 50 % fallen, und irgendein Altcoin kann an einem Tag 90 % verlieren. Großartig für Spekulation. Furchtbar zum Sparen.
 
-Hier kommen **Stablecoins** ins Spiel.
+Hier kommen **[Stablecoins](/de/glossary/#stablecoin)** ins Spiel.
 
 > **Ein Stablecoin** ist eine Kryptowährung, deren Preis an etwas Stabiles gekoppelt ist: einen Dollar, Euro oder Gold.
 
@@ -59,8 +59,8 @@ Musst du 10.000 € ins Ausland senden? Banküberweisung – 3–5 Tage und 2–
 ### Brücke zwischen Fiat und Krypto
 
 Die meisten Börsen handeln Bitcoin nicht direkt gegen Bargeld. Der übliche Weg:
-1. Kaufe USDT via P2P oder Karte.
-2. Tausche USDT gegen Bitcoin an einer CEX oder DEX.
+1. Kaufe USDT via [P2P](/de/glossary/#p2p) oder Karte.
+2. Tausche USDT gegen Bitcoin an einer [CEX](/de/glossary/#cex) oder [DEX](/de/glossary/#dex).
 
 USDT ist der universelle „Transitknoten" zwischen normalem Geld und Krypto.
 
@@ -70,13 +70,13 @@ USDT ist der universelle „Transitknoten" zwischen normalem Geld und Krypto.
 
 ### Was es ist
 
-**USDT** (Tether) – der beliebteste Stablecoin der Welt. Marktkapitalisierung Stand April 2026: 190 Milliarden $. Er ist an jeder Börse, in jedem Wallet, in jedem DeFi-Protokoll.
+**USDT** (Tether) – der beliebteste Stablecoin der Welt. Marktkapitalisierung Stand April 2026: 190 Milliarden $. Er ist an jeder Börse, in jedem [Wallet](/de/glossary/#wallet), in jedem [DeFi](/de/glossary/#defi)-Protokoll.
 
 USDT läuft auf mehreren Blockchains: Ethereum (ERC-20), Tron (TRC-20 – am beliebtesten, niedrige Gebühren), BSC (BEP-20), Solana, Polygon, Avalanche und mehr.
 
 ### Wie es funktioniert
 
-Tether Limited – das Unternehmen hinter USDT – behauptet, jeder Token sei durch echte Dollar und Vermögenswerte gedeckt. Du gibst Tether 1 $, sie prägen 1 USDT. Du gibst 1 USDT zurück – sie verbrennen den Token und geben dir 1 $ zurück.
+Tether Limited – das Unternehmen hinter USDT – behauptet, jeder [Token](/de/glossary/#token) sei durch echte Dollar und Vermögenswerte gedeckt. Du gibst Tether 1 $, sie prägen 1 USDT. Du gibst 1 USDT zurück – sie verbrennen den Token und geben dir 1 $ zurück.
 
 > **Prinzip: 1 USDT = 1 $ in Tethers Reserven.**
 
@@ -138,7 +138,7 @@ Beispiel: Du hinterlegst 200 $ in ETH. Der Contract erlaubt dir, 150 DAI zu erst
 ### Vorteile
 
 - **Dezentralität.** Niemand kann dein DAI einfrieren oder seine Ausgabe verbieten.
-- **Transparenz.** Alle Transaktionen und Sicherheiten sind auf der Blockchain einsehbar.
+- **Transparenz.** Alle Transaktionen und Sicherheiten sind auf der [Blockchain](/de/glossary/#blockchain) einsehbar.
 - **Unabhängigkeit.** Kein Vertrauen in Tether oder Circle nötig – vertraue dem Code.
 
 ### Nachteile
@@ -193,7 +193,7 @@ Aber Stablecoins sind kein „gratis Dollar". Dahinter stehen Unternehmen, Algor
 
 - **USDT** – Wette auf Tether. Zuverlässig fürs Trading, Transparenzfragen bleiben.
 - **USDC** – Wette auf US-Regulierung. Transparenter, aber weniger verbreitet.
-- **DAI** – Wette auf Dezentralisierung. Funktioniert ohne Unternehmen, aber komplexer und riskanter in Krisen.
+- **DAI** – Wette auf [Dezentralisierung](/de/glossary/#decentralization). Funktioniert ohne Unternehmen, aber komplexer und riskanter in Krisen.
 
 Stablecoins sind kein 100%iger Ersatz für Bankeinlagen. Aber für die Krypto-Arbeit – sind sie unersetzlich.
 

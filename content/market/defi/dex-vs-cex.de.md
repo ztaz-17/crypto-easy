@@ -22,7 +22,7 @@ keywords:
 
 Zwei Welten, zwei Philosophien, zwei Ansätze zum Handeln.
 
-Auf der einen Seite — Binance, Bybit, OKX: Giganten mit Millionen Nutzern, Orderbüchern und Live-Chat-Support. Auf der anderen — Uniswap, PancakeSwap, Jupiter: keine Anmeldung, keine Pässe, nur Code und eine Wallet.
+Auf der einen Seite — Binance, Bybit, OKX: Giganten mit Millionen Nutzern, Orderbüchern und Live-Chat-Support. Auf der anderen — Uniswap, PancakeSwap, Jupiter: keine Anmeldung, keine Pässe, nur Code und eine [Wallet](/de/glossary/#wallet).
 
 > **CEX (Centralized Exchange)** — eine zentralisierte Börse. Ein Unternehmen, das die Plattform betreibt, deine Gelder (verwahrend) hält und alle Aufträge abwickelt.
 > **DEX (Decentralized Exchange)** — eine dezentrale Börse. Ein Programm (Smart Contracts), das auf der Blockchain läuft. Du kontrollierst deine Gelder durch deine eigene Wallet.
@@ -33,7 +33,7 @@ Was ist der Unterschied in der Praxis? Wann solltest du eine zentralisierte Bör
 
 ## Was ist eine CEX (Centralized Exchange)
 
-**CEX** ist eine Krypto-Börse im traditionellen Sinne. Gleiches Modell wie bei herkömmlichen Aktienbörsen, nur mit Krypto statt Aktien.
+**[CEX](/de/glossary/#cex)** ist eine Krypto-Börse im traditionellen Sinne. Gleiches Modell wie bei herkömmlichen Aktienbörsen, nur mit Krypto statt Aktien.
 
 Beispiele: **Binance**, **Bybit**, **OKX**, **KuCoin**, **Coinbase**, **Gate.io**.
 
@@ -45,7 +45,7 @@ Jedes Handelspaar (z. B. BTC/USDT) hat ein Orderbuch — eine Liste von Kauf- 
 
 Dieser Mechanismus gibt dir **präzise Preisgestaltung**: du kannst einen Auftrag zu einem bestimmten Preis platzieren und warten, bis jemand ihn ausführt (Limit-Order), oder sofort zum bestmöglichen Preis kaufen/verkaufen (Market-Order).
 
-**KYC (Know Your Customer)**
+**[KYC](/de/glossary/#kyc) (Know Your Customer)**
 
 Zentralisierte Börsen müssen die Gesetze der Länder einhalten, in denen sie tätig sind. Bevor du handeln kannst, musst du:
 
@@ -57,7 +57,7 @@ Ohne KYC kannst du nur bis zu einem bestimmten Limit abheben (normalerweise 1–
 
 **Verwahrende Aufbewahrung**
 
-Deine Krypto-Assets liegen auf den Wallets der Börse. Du hast keinen direkten Zugriff auf die privaten Schlüssel. In der Praxis vertraust du der Börse dein Geld an.
+Deine Krypto-Assets liegen auf den Wallets der Börse. Du hast keinen direkten Zugriff auf die [privaten Schlüssel](/de/glossary/#private-key). In der Praxis vertraust du der Börse dein Geld an.
 
 > Wenn du 1 BTC auf Binance einzahlst, schreibt Binance ihn deinem „Konto" gut. Aber auf der Blockchain liegt dieser BTC in einer Wallet, die Binance kontrolliert, nicht du.
 
@@ -65,9 +65,9 @@ Deine Krypto-Assets liegen auf den Wallets der Börse. Du hast keinen direkten Z
 
 ## Was ist eine DEX (Decentralized Exchange)
 
-**DEX** ist eine Reihe von Smart Contracts, mit denen du Token direkt tauschen kannst — ohne Zwischenhändler. Kein Unternehmen, kein Server — nur Code auf der Blockchain.
+**[DEX](/de/glossary/#dex)** ist eine Reihe von Smart Contracts, mit denen du [Token](/de/glossary/#token) direkt tauschen kannst — ohne Zwischenhändler. Kein Unternehmen, kein Server — nur Code auf der [Blockchain](/de/glossary/#blockchain).
 
-Beispiele: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (Multichain), **Curve** (Stablecoins).
+Beispiele: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (Multichain), **Curve** ([Stablecoins](/de/glossary/#stablecoin)).
 
 ### Wie DEXs funktionieren
 
@@ -81,7 +81,7 @@ Swaps funktionieren über eine mathematische Formel:
 
 Wobei x die Menge von Token A im Pool ist, y die Menge von Token B, und k eine Konstante. Wenn du Token A kaufst, sinkt seine Menge im Pool, und die Menge von Token B steigt. Der Preis verschiebt sich proportional zum Saldo.
 
-Je tiefer der Pool — desto weniger Slippage bei deinem Swap.
+Je tiefer der Pool — desto weniger [Slippage](/de/glossary/#slippage) bei deinem Swap.
 
 **Nicht-verwahrend (Non-Custodial)**
 
@@ -103,13 +103,13 @@ Keine Pässe, keine Registrierungen. Wallet verbinden — mit dem Handel beginne
 | **Registrierung** | E-Mail + KYC (Pass) | Nicht nötig |
 | **Technologie** | Orderbuch | AMM (Liquiditätspools) |
 | **Auftragsarten** | Limit, Market, Stop-Loss | Nur Market (Swap) |
-| **Liquidität** | Hoch (Millionen Händler) | Mittel (abhängig von der Pooltiefe) |
+| **[Liquidität](/de/glossary/#liquidity)** | Hoch (Millionen Händler) | Mittel (abhängig von der Pooltiefe) |
 | **Gebühren** | 0,02–0,1 % (Maker/Taker) | 0,05–1 % (Pool-Gebühr) + Netzwerk-Gas |
 | **Geschwindigkeit** | Sofort (intern) | Abhängig von der Blockchain (Sek.–Min.) |
-| **Verfügbare Paare** | Fiat + Krypto, viele Paare | Nur Krypto-zu-Krypto |
+| **Verfügbare Paare** | [Fiat](/de/glossary/#fiat) + Krypto, viele Paare | Nur Krypto-zu-Krypto |
 | **Fiat-Einzahlung** | Ja (Karten, Banküberweisungen) | Nein (nur Krypto) |
 | **Anzahl der Assets** | Hunderte–Tausende (von der Börse bestimmt) | Alles auf der Blockchain (alle Token) |
-| **Erweiterte Tools** | Futures, Margin, Staking, P2P | Basisdienst — Swap |
+| **Erweiterte Tools** | Futures, Margin, [Staking](/de/glossary/#staking), [P2P](/de/glossary/#p2p) | Basisdienst — Swap |
 | **Regulierung** | Hält lokale Gesetze ein | De facto unreguliert |
 | **Risiken** | Börsen-Hacks, Kontosperrung, Auszahlungssperre | Smart-Contract-Fehler, Rug Pulls, verlorene Keys |
 
@@ -161,7 +161,7 @@ Dein Geld — deins. Die Börse kann dein Konto nicht einfrieren, Auszahlungen n
 
 ### 4️⃣ Du arbeitest mit DeFi-Protokollen
 
-Wenn du farmen, staken oder verleihen willst — diese Operationen finden innerhalb der Blockchain statt. DEXs sind die natürliche Schnittstelle für DeFi.
+Wenn du farmen, staken oder verleihen willst — diese Operationen finden innerhalb der Blockchain statt. DEXs sind die natürliche Schnittstelle für [DeFi](/de/glossary/#defi).
 
 > Du kannst Token auf Uniswap tauschen und sie sofort an Aave zum Verleihen senden — alles in einer Transaktion, ohne Gelder zu einer Börse zu verschieben.
 

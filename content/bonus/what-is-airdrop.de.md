@@ -32,7 +32,7 @@ Aber in den meisten Fällen ist es eine **Falle**.
 
 ---
 
-In der Krypto-Welt ist ein Airdrop die Verteilung kostenloser Token an eine große Anzahl von Wallets. Um diesen Begriff haben sich jedoch so viele Mythen, Betrugsfälle und Fälschungen angesammelt, dass ein Anfänger leicht Geld verlieren kann.
+In der Krypto-Welt ist ein [Airdrop](/de/glossary/#airdrop) die Verteilung kostenloser [Token](/de/glossary/#token) an eine große Anzahl von [Wallets](/de/glossary/#wallet). Um diesen Begriff haben sich jedoch so viele Mythen, Betrugsfälle und Fälschungen angesammelt, dass ein Anfänger leicht Geld verlieren kann.
 
 In diesem Artikel erfährst du:
 
@@ -96,7 +96,7 @@ Viele Airdrops gehen an Menschen, die das Protokoll bereits genutzt haben:
 
 - Swaps auf Uniswap durchgeführt;
 - Assets nach Arbitrum gebrückt;
-- Liquidität bereitgestellt.
+- [Liquidität](/de/glossary/#liquidity) bereitgestellt.
 
 Es ist eine Art Danke fürs Dabeibleiben.
 
@@ -108,7 +108,7 @@ Projekte brauchen Token, die von **vielen verschiedenen Leuten** gehalten werden
 |---|---|
 | Nutzer anziehen | Schnelles Publikumswachstum |
 | Frühe Nutzer belohnen | Treue Nutzer binden |
-| Governance verteilen | Dezentralisierung |
+| Governance verteilen | [Dezentralisierung](/de/glossary/#decentralization) |
 | Community aufbauen | Organisches Marketing |
 
 ---
@@ -125,7 +125,7 @@ Voraussetzungen:
 
 - du musstest vor einem bestimmten Datum mindestens einen Trade auf Uniswap getätigt haben;
 - kein Verbinden der Wallet über dubiose Links;
-- keine Seed-Phrase-Anfragen.
+- keine [Seed-Phrase](/de/glossary/#seed-phrase)-Anfragen.
 
 > **Ergebnis:** Tausende Menschen erhielten echtes Geld. Die Token wurden ab dem ersten Tag an Börsen gehandelt.
 
@@ -210,7 +210,7 @@ Merke dir diese einfachen Regeln:
 - **Airdrop wird öffentlich angekündigt** — wenn niemand außer einem random Telegram-Kanal darüber spricht, ist es Betrug;
 - **Du musst nichts bezahlen** — wenn man dich auffordert, Geld "für Gas" zu senden, ist es zu 100 % Betrug;
 - **Sie fragen nie nach deiner Seed-Phrase** — merk dir das ein für alle Mal: **ein seriöses Projekt wird niemals nach deiner Seed-Phrase fragen**;
-- **Der Token ist auf der Blockchain überprüfbar** — ein echter Token erscheint auf Etherscan oder einem ähnlichen Explorer.
+- **Der Token ist auf der [Blockchain](/de/glossary/#blockchain) überprüfbar** — ein echter Token erscheint auf Etherscan oder einem ähnlichen Explorer.
 
 ### ❌ Merkmale von Betrug
 

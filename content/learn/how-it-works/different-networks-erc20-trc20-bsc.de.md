@@ -19,11 +19,11 @@ keywords:
 
 ---
 
-Du hast auf einer Börse USDT gekauft, die Wallet-Adresse deines Freundes kopiert und die Überweisung abgeschickt.
+Du hast auf einer Börse USDT gekauft, die [Wallet](/de/glossary/#wallet)-Adresse deines Freundes kopiert und die Überweisung abgeschickt.
 
 Eine Stunde später schreibt dein Freund: **"Da ist kein Geld."**
 
-Du prüfst die Transaktion in der Blockchain — Status: "Erfolgreich." Dein Freund checkt sein Guthaben — null. Als ob sich das Geld in Luft aufgelöst hätte.
+Du prüfst die Transaktion in der [Blockchain](/de/glossary/#blockchain) — Status: "Erfolgreich." Dein Freund checkt sein Guthaben — null. Als ob sich das Geld in Luft aufgelöst hätte.
 
 Kommt dir bekannt vor?
 
@@ -62,7 +62,7 @@ Das Problem ist, dass USDT (Tether) gleichzeitig auf mehreren Blockchains lebt:
 | Solana | SPL | ... |
 | Avalanche | C-Chain | 0x... |
 
-Es sieht alles nach dem gleichen USDT aus. Aber technisch gesehen sind das **verschiedene Token** auf **verschiedenen Blockchains**. Sie sind nicht miteinander kompatibel.
+Es sieht alles nach dem gleichen USDT aus. Aber technisch gesehen sind das **verschiedene [Token](/de/glossary/#token)** auf **verschiedenen Blockchains**. Sie sind nicht miteinander kompatibel.
 
 👉 **ERC20 USDT** ≠ **TRC20 USDT** ≠ **BEP-20 USDT**
 
@@ -170,9 +170,9 @@ Wenn die Adresse einer Börse oder einem anderen Dienst gehört — kontaktiere 
 
 ### Wenn du von Wallet zu Wallet geschickt hast
 
-Das ist kniffliger. Wenn du Token im falschen Netzwerk geschickt hast, aber den privaten Schlüssel für die Empfängeradresse besitzt, kannst du:
+Das ist kniffliger. Wenn du Token im falschen Netzwerk geschickt hast, aber den [privaten Schlüssel](/de/glossary/#private-key) für die Empfängeradresse besitzt, kannst du:
 
-- deinen Seed-Phrase / privaten Schlüssel in ein Wallet importieren, das das richtige Netzwerk unterstützt;
+- deinen [Seed-Phrase](/de/glossary/#seed-phrase) / privaten Schlüssel in ein Wallet importieren, das das richtige Netzwerk unterstützt;
 - oder ein Multi-Netzwerk-Wallet verwenden (z. B. MetaMask mit dem hinzugefügten BSC-Netzwerk).
 
 ### Wenn du an eine Börse im falschen Netzwerk geschickt hast

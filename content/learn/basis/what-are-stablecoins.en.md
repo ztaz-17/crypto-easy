@@ -22,9 +22,9 @@ keywords:
 
 You just bought your first Bitcoin. An hour later, the price drops 15%. You panic and open the chart — all red. Another day later — minus 30%. Sound familiar?
 
-Cryptocurrency is a rollercoaster. Bitcoin can drop 50% in a week, and some altcoin can lose 90% in a day. Great for speculation. Terrible for savings.
+[Cryptocurrency](/en/glossary/#cryptocurrency) is a rollercoaster. Bitcoin can drop 50% in a week, and some altcoin can lose 90% in a day. Great for speculation. Terrible for savings.
 
-Enter **stablecoins**.
+Enter **[stablecoins](/en/glossary/#stablecoin)**.
 
 > **A stablecoin** is a cryptocurrency whose price is pegged to something stable: a dollar, euro, or gold.
 
@@ -59,8 +59,8 @@ Need to send $10,000 abroad? Bank transfer — 3–5 days and 2–5% fee. USDT t
 ### Bridge between fiat and crypto
 
 Most exchanges don't trade Bitcoin directly for cash. The usual route:
-1. Buy USDT via P2P or card.
-2. Swap USDT for Bitcoin on a CEX or DEX.
+1. Buy USDT via [P2P](/en/glossary/#p2p) or card.
+2. Swap USDT for Bitcoin on a [CEX](/en/glossary/#cex) or [DEX](/en/glossary/#dex).
 
 USDT is the universal "transit hub" between regular money and crypto.
 
@@ -70,13 +70,13 @@ USDT is the universal "transit hub" between regular money and crypto.
 
 ### What it is
 
-**USDT** (Tether) — the most popular stablecoin in the world. Market cap as of April 2026: $190 billion. It's on every exchange, every wallet, every DeFi protocol.
+**USDT** (Tether) — the most popular stablecoin in the world. Market cap as of April 2026: $190 billion. It's on every exchange, every [wallet](/en/glossary/#wallet), every [DeFi](/en/glossary/#defi) protocol.
 
 USDT runs on multiple blockchains: Ethereum (ERC-20), Tron (TRC-20 — most popular, low fees), BSC (BEP-20), Solana, Polygon, Avalanche, and more.
 
 ### How it works
 
-Tether Limited — the company behind USDT — claims each token is backed by real dollars and assets. You give Tether $1, they mint 1 USDT. You return 1 USDT — they burn the token and give you $1 back.
+Tether Limited — the company behind USDT — claims each [token](/en/glossary/#token) is backed by real dollars and assets. You give Tether $1, they mint 1 USDT. You return 1 USDT — they burn the token and give you $1 back.
 
 > **Principle: 1 USDT = $1 in Tether's reserves.**
 
@@ -137,8 +137,8 @@ Example: you deposit $200 of ETH. The contract lets you create 150 DAI (collater
 
 ### Pros
 
-- **Decentralization.** Nobody can freeze your DAI or ban its issuance.
-- **Transparency.** All transactions and collateral visible on the blockchain.
+- **[Decentralization](/en/glossary/#decentralization).** Nobody can freeze your DAI or ban its issuance.
+- **Transparency.** All transactions and collateral visible on the [blockchain](/en/glossary/#blockchain).
 - **Independence.** No need to trust Tether or Circle — trust the code.
 
 ### Cons

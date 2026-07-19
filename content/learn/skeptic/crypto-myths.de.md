@@ -43,7 +43,7 @@ Das ist wohl der bekannteste Irrglaube. Viele denken: Wer Bitcoin verschickt, is
 
 ### Die Realität: Bitcoin ist pseudonym, nicht anonym
 
-Bitcoin funktioniert anders. Jede Transaktion wird in einer **öffentlichen Blockchain** aufgezeichnet – einem offenen Hauptbuch, das jeder herunterladen und analysieren kann.
+Bitcoin funktioniert anders. Jede Transaktion wird in einer **öffentlichen [Blockchain](/de/glossary/#blockchain)** aufgezeichnet – einem offenen Hauptbuch, das jeder herunterladen und analysieren kann.
 
 Was sichtbar ist:
 
@@ -53,7 +53,7 @@ Was sichtbar ist:
 - Datum und Uhrzeit.
 
 Du siehst keinen Namen. Du siehst eine Zeichenfolge wie [`17SkEw2md5avVNyYgj6RiXuQKNwkXaxFyQ`](https://bitaps.com/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d/1XPTgDRhN8RFnzniWCddobD9iKZatrvH4) (Ja – das ist die berühmte Adresse, von der **10.000 Bitcoin** für zwei Pizzen gesendet wurden).  
-Sobald diese Adresse aber mit deiner Identität verknüpft wird (über eine Börse, Wallet oder einen Shop) – **wird deine gesamte Transaktionsgeschichte öffentlich**.
+Sobald diese Adresse aber mit deiner Identität verknüpft wird (über eine Börse, [Wallet](/de/glossary/#wallet) oder einen Shop) – **wird deine gesamte Transaktionsgeschichte öffentlich**.
 
 ### Wie Chain-Analyse funktioniert
 
@@ -104,7 +104,7 @@ Wer 10.000 Euro in Bitcoin sendet – diese Aufzeichnung bleibt für immer in de
 Die meisten Nutzer sind ganz normale Leute:
 
 - jemand, der Geld an die Familie im Ausland schickt, ohne Bankgebühren;
-- jemand, der Ersparnisse vor Inflation schützt;
+- jemand, der Ersparnisse vor [Inflation](/de/glossary/#inflation) schützt;
 - jemand, der langfristig investiert;
 - jemand, der einfach nur Einkäufe bezahlt.
 
@@ -136,7 +136,7 @@ Bitcoin dagegen:
 
 - hat ein funktionierendes Netzwerk mit tausenden Knoten weltweit;
 - wird von Millionen Menschen genutzt;
-- hat eine ausgebaute Infrastruktur (Börsen, Wallets, DeFi);
+- hat eine ausgebaute Infrastruktur (Börsen, Wallets, [DeFi](/de/glossary/#defi));
 - wird von institutionellen Anlegern anerkannt (ETFs in den USA, Investitionen großer Unternehmen).
 
 > Der Unterschied zwischen Tulpen und Bitcoin: Bitcoin hat Funktionalität, Nutzen und Infrastruktur. Tulpen – nur Schönheit.
@@ -182,7 +182,7 @@ Das geht schneller, als ein Bankkonto zu eröffnen.
 Vor fünf Jahren bedeutete Krypto-Kauf:
 
 - Anmeldung auf einer Börse;
-- KYC-Durchlauf (mit Passfoto);
+- [KYC](/de/glossary/#kyc)-Durchlauf (mit Passfoto);
 - Warten auf Freischaltung;
 - Auftragsarten verstehen müssen.
 
@@ -194,7 +194,7 @@ Heute: App herunterladen → kaufen → nutzen.
 
 Schwierig wird es – wenn du:
 
-- eine Mining-Anlage bauen willst;
+- eine [Mining](/de/glossary/#mining)-Anlage bauen willst;
 - Smart Contracts in Solidity (Ethereums Programmiersprache) schreiben willst;
 - deinen eigenen Blockchain-Knoten betreiben willst.
 
@@ -218,7 +218,7 @@ Das sind grundverschiedene Dinge:
 Die meisten, die „alles verloren“ haben:
 
 - sind während des Hype in Krypto eingestiegen;
-- haben zum Höchststand gekauft (FOMO);
+- haben zum Höchststand gekauft ([FOMO](/de/glossary/#fomo));
 - haben in Panik verkauft (als alles abgestürzt ist);
 - hatten keine Ahnung, was sie da eigentlich kaufen.
 
@@ -255,7 +255,7 @@ Menschen verlieren Geld nicht, weil Krypto ein Casino ist. Sie verlieren, weil:
 
 ### Was steckt hinter normalem Geld?
 
-Dollar, Euro, Yuan – das sind **Fiat-Währungen**. Sie sind nicht durch Gold gedeckt (seit Aufgabe des Goldstandards 1971). Sie werden gedeckt durch **Vertrauen** in die Regierung, die sie ausgibt, und durch das Gesetz, das vorschreibt, sie für Steuerzahlungen zu akzeptieren.
+Dollar, Euro, Yuan – das sind **[Fiat](/de/glossary/#fiat)-Währungen**. Sie sind nicht durch Gold gedeckt (seit Aufgabe des Goldstandards 1971). Sie werden gedeckt durch **Vertrauen** in die Regierung, die sie ausgibt, und durch das Gesetz, das vorschreibt, sie für Steuerzahlungen zu akzeptieren.
 
 > Vertrauen *ist* die Deckung.
 

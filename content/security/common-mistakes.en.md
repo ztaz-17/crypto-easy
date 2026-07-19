@@ -23,8 +23,8 @@ Everyone makes mistakes. In crypto, the price of a mistake can be high, but **al
 Here are the 4 most common beginner mistakes:
 
 - Sent to the wrong network
-- Lost seed phrase
-- Gave unlimited token approval to a contract
+- Lost [seed phrase](/en/glossary/#seed-phrase)
+- Gave unlimited [token](/en/glossary/#token) approval to a contract
 - Fell for a scam
 
 Each one: real situation, consequences, and a step-by-step action plan.
@@ -35,7 +35,7 @@ Each one: real situation, consequences, and a step-by-step action plan.
 
 ### The situation
 
-You transferred USDT from Binance to MetaMask. You chose **BEP-20** (BSC). But your MetaMask was only set up for **Ethereum (ERC-20)**. The transaction went through, but tokens **didn't appear** in your wallet.
+You transferred USDT from Binance to MetaMask. You chose **BEP-20** (BSC). But your MetaMask was only set up for **Ethereum (ERC-20)**. The transaction went through, but tokens **didn't appear** in your [wallet](/en/glossary/#wallet).
 
 ### Why it happens
 
@@ -53,7 +53,7 @@ Mismatched network. You sent tokens to the right address but the wrong network �
 
 ### When it's hopeless
 
-Only if you sent to an **address that isn't yours** (typo in the address). Blockchain transactions are irreversible.
+Only if you sent to an **address that isn't yours** (typo in the address). [Blockchain](/en/glossary/#blockchain) transactions are irreversible.
 
 > **Rule:** always triple-check network and address before sending.
 
@@ -93,13 +93,13 @@ No copy of the seed phrase + no installed wallet with saved password = funds los
 
 ### The situation
 
-You tried a new DeFi project. Professional-looking website, whitepaper, token ticker. Connected MetaMask, clicked "Confirm" on the approve popup — didn't check the limit.
+You tried a new [DeFi](/en/glossary/#defi) project. Professional-looking website, [whitepaper](/en/glossary/#whitepaper), token ticker. Connected MetaMask, clicked "Confirm" on the approve popup — didn't check the limit.
 
 A week later: all USDT gone. The contract was malicious: you approved unlimited spending (MAX_UINT_256), and the attacker drained everything.
 
 ### Why it happened
 
-When using dApps, you sign an `approve` — allowing a contract to spend your tokens. Most projects ask for **unlimited** for convenience. If the contract is malicious, the attacker can take **all** your tokens.
+When using [dApps](/en/glossary/#dapp), you sign an `approve` — allowing a contract to spend your tokens. Most projects ask for **unlimited** for convenience. If the contract is malicious, the attacker can take **all** your tokens.
 
 ### How to fix it
 
@@ -116,7 +116,7 @@ When using dApps, you sign an `approve` — allowing a contract to spend your to
 ### Prevention
 - Never sign approve without checking the amount
 - Use Rabby Wallet — it warns about unlimited approvals
-- Keep main funds on a cold wallet; use a separate address for DeFi
+- Keep main funds on a [cold wallet](/en/glossary/#cold-wallet); use a separate address for DeFi
 - Review approvals monthly via Revoke.cash
 
 ---
@@ -127,7 +127,7 @@ When using dApps, you sign an `approve` — allowing a contract to spend your to
 You get a Telegram message from "Binance Support": "Account locked, verify via link." The link leads to a site that looks **exactly like Binance**. You enter login, password, 2FA — and 5 minutes later, all funds are gone.
 
 ### Scenario 2: Fake airdrop
-A Twitter post: "Urgent $PEPE airdrop — connect your wallet!" You connect MetaMask and sign, thinking you're receiving tokens. Actually you signed an `approve` for a malicious contract — and all ETH is taken.
+A Twitter post: "Urgent $PEPE [airdrop](/en/glossary/#airdrop) — connect your wallet!" You connect MetaMask and sign, thinking you're receiving tokens. Actually you signed an `approve` for a malicious contract — and all ETH is taken.
 
 ### What to do if you've already been scammed
 
@@ -159,7 +159,7 @@ A Twitter post: "Urgent $PEPE airdrop — connect your wallet!" You connect Meta
 
 | Mistake | Consequence | Fix |
 |---------|------------|-----|
-| Wrong network | Tokens "invisible" | Add network to wallet or use bridge |
+| Wrong network | Tokens "invisible" | Add network to wallet or use [bridge](/en/glossary/#bridge) |
 | Lost seed phrase | No wallet access | Search backups, use password recovery if wallet open, professional service |
 | Unlimited approve | All tokens can be drained | Revoke.cash (if tokens still there) |
 | Phishing/scam | Funds drained | Move remaining, revoke approvals, change passwords, new wallet |
@@ -185,7 +185,7 @@ No. Add BSC network to your wallet — tokens will appear. Or use a cross-chain 
 Yes, if you remember 10+ words out of 12 — brute-force recovery services exist. Costs money, but it works.
 
 ### I got a Telegram message from "support" — what do I do?
-Block. Real support NEVER messages first and NEVER asks for passwords or seed phrases.
+[Block](/en/glossary/#block). Real support NEVER messages first and NEVER asks for passwords or seed phrases.
 
 ### If I signed approve for a scam contract but tokens are still there — did I make it?
 Yes. Immediately revoke approval via Revoke.cash. After that, the contract loses access.

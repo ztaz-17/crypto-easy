@@ -18,9 +18,9 @@ keywords:
 
 ---
 
-**"Confirm access to your USDT"** — you've probably seen this message when connecting your wallet to a new DeFi service, DEX (Uniswap, PancakeSwap), or NFT marketplace.
+**"Confirm access to your USDT"** — you've probably seen this message when connecting your [wallet](/en/glossary/#wallet) to a new [DeFi](/en/glossary/#defi) service, [DEX](/en/glossary/#dex) (Uniswap, PancakeSwap), or [NFT](/en/glossary/#nft) marketplace.
 
-Many people click "Confirm" without even reading it. And that can cost you every single token in your wallet.
+Many people click "Confirm" without even reading it. And that can cost you every single [token](/en/glossary/#token) in your wallet.
 
 In this article, we'll cover:
 
@@ -66,7 +66,7 @@ A token allowance is the same thing, just virtual. You let a contract take a spe
 
 ### Unlimited Allowances
 
-The biggest problem: most dApps don't ask for a **limited** approval — they ask for an unlimited one:
+The biggest problem: most [dApps](/en/glossary/#dapp) don't ask for a **limited** approval — they ask for an unlimited one:
 
 ```
 approve(DEX, MAX_UINT_256)
@@ -96,7 +96,7 @@ Real-world examples:
 
 | Event             | Losses           | Cause                                    |
 |-------------------|------------------|------------------------------------------|
-| Poly Network Hack | $610 million     | Cross-chain bridge exploit               |
+| Poly Network Hack | $610 million     | Cross-chain [bridge](/en/glossary/#bridge) exploit               |
 | BadgerDAO         | $120 million     | Phishing approve on a malicious contract |
 | Curve Finance Hack| $570,000         | DNS-based allowance manipulation         |
 
@@ -208,7 +208,7 @@ Create a "hot" wallet that holds:
 - only the amount you're willing to risk;
 - no more than 5–20% of your total portfolio.
 
-Keep your main funds on a **cold wallet** (Ledger, Trezor) or in a separate address that dApps don't have access to.
+Keep your main funds on a **[cold wallet](/en/glossary/#cold-wallet)** (Ledger, Trezor) or in a separate address that dApps don't have access to.
 
 ---
 
@@ -239,7 +239,7 @@ If a dApp asks you to approve **all your tokens** right away and won't let you t
 
 ### Takeaways
 
-Token allowances are a core DeFi mechanic — without them, swaps, liquidity pools, and NFT marketplaces wouldn't work.
+Token allowances are a core DeFi mechanic — without them, swaps, [liquidity](/en/glossary/#liquidity) pools, and NFT marketplaces wouldn't work.
 
 But they're also **the most popular attack vector**:
 

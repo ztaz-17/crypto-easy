@@ -20,13 +20,13 @@ keywords:
 
 Abres tu app de wallet — y no reconoces tu saldo.
 
-Los tokens que estaban en tu cuenta ya no están. O ves un par de transacciones raras que nunca hiciste.
+Los [tokens](/es/glossary/#token) que estaban en tu cuenta ya no están. O ves un par de transacciones raras que nunca hiciste.
 
 Podría ser peor: estás viendo cómo alguien vacía tus fondos en este mismo momento.
 
 > **En cripto, nadie te va a devolver el dinero robado.**
 
-Ni un banco. Ni la policía. Ni los desarrolladores de la blockchain.
+Ni un banco. Ni la policía. Ni los desarrolladores de la [blockchain](/es/glossary/#blockchain).
 
 Pero eso no significa que no puedas hacer nada. Este artículo te da un plan de acción claro para los primeros minutos después de descubrir el hackeo.
 
@@ -39,7 +39,7 @@ Tu peor enemigo en esta situación es el pánico. Es lo que te hace cagarla:
 - mover tus fondos restantes a una wallet "segura" que en realidad pertenece al estafador;
 - hacer clic en links de mensajes turbios de "recupera tus fondos";
 - pagar "comisiones de gas" para recuperar tu dinero robado;
-- darle tu frase semilla al "equipo de soporte."
+- darle tu [frase semilla](/es/glossary/#seed-phrase) al "equipo de soporte."
 
 Todo esto son trampas que solo van a empeorar las cosas.
 
@@ -68,7 +68,7 @@ Si todavía hay fondos en la wallet — actúa rápido:
 - Abre una wallet nueva y limpia (frase semilla nueva, dirección nueva).
 - Transfiere **todos los tokens restantes** a ella.
 - Empieza por los activos de mayor valor.
-- Asegúrate de que la wallet vieja no tenga tokens reclamables (staking, recompensas de farming).
+- Asegúrate de que la wallet vieja no tenga tokens reclamables ([staking](/es/glossary/#staking), recompensas de farming).
 
 Importante: el estafador pudo haber puesto un script que intercepta transferencias entrantes automáticamente. Así que:
 
@@ -156,7 +156,7 @@ Las probabilidades no son altas, pero no son cero — sobre todo si la cantidad 
 
 ## Paso 7. Advierte a la comunidad
 
-Si fuiste víctima de una estafa específica, un sitio de phishing o una dApp maliciosa:
+Si fuiste víctima de una estafa específica, un sitio de phishing o una [dApp](/es/glossary/#dapp) maliciosa:
 
 - repórtalo en [Scam Sniffer](https://scamsniffer.io) (una base de datos de estafas conocidas);
 - publica en X (Twitter) etiquetando al proyecto o wallet involucrado;

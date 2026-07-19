@@ -17,9 +17,9 @@ keywords:
 
 ---
 
-Du hast etwas Krypto gekauft. Es liegt in deiner Wallet… und liegt einfach nur rum.
+Du hast etwas Krypto gekauft. Es liegt in deiner [Wallet](/de/glossary/#wallet)… und liegt einfach nur rum.
 
-Dabei könnte es *arbeiten* — dir Geld verdienen, während du schläfst, arbeitest oder verreist. In der Krypto-Welt gibt es dafür zwei Hauptwerkzeuge: **Staking** und **Farming** (auch Yield Farming oder Liquidity Mining genannt).
+Dabei könnte es *arbeiten* — dir Geld verdienen, während du schläfst, arbeitest oder verreist. In der Krypto-Welt gibt es dafür zwei Hauptwerkzeuge: **[Staking](/de/glossary/#staking)** und **Farming** (auch Yield Farming oder Liquidity [Mining](/de/glossary/#mining) genannt).
 
 Auf den ersten Blick geht es bei beiden um passives Einkommen. Aber der Unterschied zwischen ihnen ist gewaltig — bei Rendite, Risiko, Komplexität und Aufwand.
 
@@ -34,11 +34,11 @@ In diesem Artikel erklären wir:
 
 ## Was ist Staking
 
-Staking bedeutet, dass du **deine Coins im Blockchain-Netzwerk sperrst** und dafür einen Prozentsatz bekommst.
+Staking bedeutet, dass du **deine Coins im [Blockchain](/de/glossary/#blockchain)-Netzwerk sperrst** und dafür einen Prozentsatz bekommst.
 
 So funktioniert es:
 
-- du wählst eine Kryptowährung, die auf **Proof-of-Stake** (PoS) basiert;
+- du wählst eine [Kryptowährung](/de/glossary/#cryptocurrency), die auf **Proof-of-Stake** (PoS) basiert;
 - du überweist deine Coins zum Staking (über eine Wallet oder Börse);
 - die Blockchain nutzt sie zur Validierung von Transaktionen;
 - du bekommst dafür Belohnungen ausgezahlt.
@@ -66,12 +66,12 @@ Du musst nichts Kompliziertes tun. Du sperrst einfach deine Coins und bekommst Z
 
 ## Was ist Farming (Yield Farming)
 
-Farming ist eine aktivere Strategie. Du **stellst Liquidität** für DeFi-Protokolle (dezentrale Finanz-Apps) bereit und verdienst damit Einkommen.
+Farming ist eine aktivere Strategie. Du **stellst [Liquidität](/de/glossary/#liquidity)** für [DeFi](/de/glossary/#defi)-Protokolle (dezentrale Finanz-Apps) bereit und verdienst damit Einkommen.
 
 So sieht das aus:
 
 - du gehst zu einem DeFi-Protokoll (z. B. Uniswap, Aave, Curve);
-- du zahlst ein Token-Paar in einen **Liquidity Pool** ein (z. B. USDT und ETH);
+- du zahlst ein [Token](/de/glossary/#token)-Paar in einen **Liquidity Pool** ein (z. B. USDT und ETH);
 - das Protokoll nutzt sie für Handelsoperationen;
 - du verdienst Händlergebühren + oft Bonus-Token.
 
@@ -170,7 +170,7 @@ Staking ist die richtige Wahl, wenn:
 
 - du ein Anfänger bist und die Grundlagen erst lernst;
 - du den Markt nicht ständig beobachten willst;
-- du Coins langfristig halten möchtest (HODL);
+- du Coins langfristig halten möchtest ([HODL](/de/glossary/#hodl));
 - eine Rendite von 5–15 % für dich ausreicht.
 
 > **Staking ist „Einrichten und vergessen."**
