@@ -5,6 +5,8 @@
 
   .burger {
     display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .mobile-menu.active {
@@ -19,6 +21,7 @@
 
   .header-right {
     gap: 8px;
+    align-items: center;
   }
 
   .header-inner {
