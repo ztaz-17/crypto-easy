@@ -4,7 +4,9 @@ title: "Крипто-налоги: что должен знать новичок
 description: "Разбираем налоги на криптовалюту для начинающих: когда платить налоги, как считать прибыль и убытки, какие документы нужны для отчётности. Простым языком."
 category: "market"
 translationKey: "crypto-taxes-beginners"
-slug: "krypto-steuern-fur-anfanger"
+aliases:
+  - /ru/market/regulation/krypto-steuern-fur-anfanger/
+slug: "kripto-nalogi"
 keywords:
   - налоги на криптовалюту
   - как платить налоги с крипты
