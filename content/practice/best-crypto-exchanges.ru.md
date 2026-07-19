@@ -21,7 +21,7 @@ keywords:
 
 ## Bybit — лучшая для старта
 
-![Bybit logo](/images/bybit-logo.svg "Bybit")
+{{< figure src="/images/bybit-logo.svg" alt="Bybit" width="200" >}}
 
 **Bybit** — биржа №1 среди наших читателей. Почему?
 
@@ -37,7 +37,7 @@ keywords:
 
 ## Kraken — максимальная безопасность
 
-![Kraken logo](/images/kraken-logo.svg "Kraken")
+{{< figure src="/images/kraken-logo.svg" alt="Kraken" width="200" >}}
 
 **Kraken** — старейшая биржа (основана в 2011), которая пережила все кризисы. Идеальный выбор для тех, кто ставит безопасность на первое место.
 
@@ -53,7 +53,7 @@ keywords:
 
 ## Coinbase — лучший UX для новичков
 
-![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
+{{< figure src="/images/coinbase-logo.svg" alt="Coinbase" width="200" >}}
 
 **Coinbase** — самая популярная биржа в США с простым интерфейсом. Подходит для первого знакомства с криптой.
 
@@ -84,7 +84,7 @@ keywords:
 
 ### Ledger 
 
-![Ledger logo](/images/ledger-logo.svg "Ledger")
+{{< figure src="/images/ledger-logo.svg" alt="Ledger" width="200" >}}
 — Стандарт индустрии
 
 **Ledger** — самый надёжный бренд аппаратных кошельков (продано 6M+ устройств). Поддерживает 5 500+ монет, имеет встроенный обменник через Ledger Live.
@@ -99,7 +99,7 @@ keywords:
 
 ### Trezor 
 
-![Trezor logo](/images/trezor-logo.svg "Trezor")
+{{< figure src="/images/trezor-logo.svg" alt="Trezor" width="200" >}}
 — Полностью открытый код
 
 **Trezor** (от SatoshiLabs) имеет полностью открытый исходный код — каждая строка кода может быть проверена независимо. Идеально для тех, кто ценит приватность.

@@ -21,7 +21,7 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 
 ## Bybit — Best for Getting Started
 
-![Bybit logo](/images/bybit-logo.svg "Bybit")
+{{< figure src="/images/bybit-logo.svg" alt="Bybit" width="200" >}}
 
 **Bybit** is the #1 exchange among our readers. Here's why:
 
@@ -37,7 +37,7 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 
 ## Kraken — Maximum Security
 
-![Kraken logo](/images/kraken-logo.svg "Kraken")
+{{< figure src="/images/kraken-logo.svg" alt="Kraken" width="200" >}}
 
 **Kraken** is the oldest exchange (founded 2011) that has survived every crisis. The ideal choice for those who prioritize security above all.
 
@@ -53,7 +53,7 @@ Downside: no direct support for some local payment methods.
 
 ## Coinbase — Best UX for Beginners
 
-![Coinbase logo](/images/coinbase-logo.svg "Coinbase")
+{{< figure src="/images/coinbase-logo.svg" alt="Coinbase" width="200" >}}
 
 **Coinbase** is the most popular exchange in the US with a simple interface. Great for your first crypto purchase.
 
@@ -83,7 +83,7 @@ If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not 
 
 ### Ledger — The Industry Standard
 
-![Ledger logo](/images/ledger-logo.svg "Ledger")
+{{< figure src="/images/ledger-logo.svg" alt="Ledger" width="200" >}}
 
 **Ledger** is the most trusted hardware wallet brand (sold 6M+ devices). Supports 5,500+ coins, has a built-in exchange through Ledger Live, and recently launched Ledger Stax with a curved E Ink display.
 
@@ -97,7 +97,7 @@ If you own more than $500 in crypto, get a hardware wallet. "Not your keys, not 
 
 ### Trezor — Fully Open Source
 
-![Trezor logo](/images/trezor-logo.svg "Trezor")
+{{< figure src="/images/trezor-logo.svg" alt="Trezor" width="200" >}}
 
 **Trezor** (by SatoshiLabs) is completely open-source — every line of code can be audited independently. Ideal for privacy-conscious users.
 
