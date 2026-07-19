@@ -4,7 +4,7 @@ title: "Beste Krypto-Börsen 2026: Vergleich und Leitfaden"
 description: "Vergleiche die besten Krypto-Börsen 2026: Bybit, Kraken, Coinbase. Gebühren, Sicherheit, Lizenzen und Boni für Anfänger. Finde deine erste Börse."
 category: "practice"
 translationKey: "exchanges"
-slug: "exchanges"
+slug: "beste-krypto-borsen"
 keywords:
   - beste Krypto-Börsen
   - Krypto-Börse auswählen

@@ -4,7 +4,7 @@ title: "Mejores Exchanges de Cripto 2026: Comparación y Guía"
 description: "Compara los mejores exchanges de criptomonedas 2026: Bybit, Kraken, Coinbase. Comisiones, seguridad, licencias y bonos para principiantes. Encuentra tu primer exchange."
 category: "practice"
 translationKey: "exchanges"
-slug: "exchanges"
+slug: "mejores-exchanges-cripto"
 keywords:
   - mejores exchanges cripto
   - cómo elegir un exchange cripto

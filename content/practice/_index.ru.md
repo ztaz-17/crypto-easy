@@ -55,10 +55,10 @@ menu: main
 - [Транзакции на бирже (CEX)](/ru/practice/kak-proverit-tranzakciyu/#как-проверить-транзакцию-на-бирже-cex)
 - [Что делать, если зависла](/ru/practice/kak-proverit-tranzakciyu/#что-делать-если-транзакция-зависла)
 
-### [Лучшие криптобиржи 2026: сравнение и выбор](/ru/exchanges/)
-- [Bybit — лучшая для старта](/ru/exchanges/#bybit--лучшая-для-старта)
-- [Kraken — максимальная безопасность](/ru/exchanges/#kraken--максимальная-безопасность)
-- [Coinbase — лучший UX для новичков](/ru/exchanges/#coinbase--лучший-ux-для-новичков)
-- [Сравнительная таблица](/ru/exchanges/#сравнительная-таблица)
-- [Какую биржу выбрать новичку?](/ru/exchanges/#какую-биржу-выбрать-новичку)
+### [Лучшие криптобиржи 2026: сравнение и выбор](/ru/practice/luchshie-kriptobirzhi/)
+- [Bybit — лучшая для старта](/ru/practice/luchshie-kriptobirzhi/#bybit--лучшая-для-старта)
+- [Kraken — максимальная безопасность](/ru/practice/luchshie-kriptobirzhi/#kraken--максимальная-безопасность)
+- [Coinbase — лучший UX для новичков](/ru/practice/luchshie-kriptobirzhi/#coinbase--лучший-ux-для-новичков)
+- [Сравнительная таблица](/ru/practice/luchshie-kriptobirzhi/#сравнительная-таблица)
+- [Какую биржу выбрать новичку?](/ru/practice/luchshie-kriptobirzhi/#какую-биржу-выбрать-новичку)
 
