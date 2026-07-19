@@ -1,0 +1,54 @@
+<!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width" data-next-head=""/><link rel="shortcut icon" type="image/x-icon" href="https://www.kraken.com/favicon.ico"/><link rel="apple-touch-icon" sizes="180x180" href="https://www.kraken.com/_assets/icons/apple-touch-icon.png"/><link rel="icon" type="image/png" sizes="32x32" href="https://www.kraken.com/_assets/icons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="https://www.kraken.com/_assets/icons/favicon-16x16.png"/><link rel="preconnect" href="https://api.segment.io"/><link rel="preconnect" href="https://cdn.segment.com"/><link rel="preconnect" href="https://a.clarity.ms/collect"/><link rel="preconnect" href="https://o552333.ingest.sentry.io"/><link rel="preconnect" href="https://assets.kraken.com"/><link rel="preload" href="/accounts/_next/static/chunks/6c3d241a919564e4.css" as="style"/><link rel="stylesheet" href="https://assets.kraken.com/fonts/celias.css"/><link rel="stylesheet" href="https://assets.kraken.com/fonts/ibm.css"/><link rel="stylesheet" href="https://assets.kraken.com/fonts/kraken.css"/><link rel="stylesheet" href="/accounts/_next/static/chunks/6c3d241a919564e4.css" data-n-g=""/><noscript data-n-css=""></noscript><script src="/accounts/_next/static/chunks/e2f2650bcd8dbd50.js" defer=""></script><script src="/accounts/_next/static/chunks/1e7e697c09908c88.js" defer=""></script><script src="/accounts/_next/static/chunks/53522eb3596ac281.js" defer=""></script><script src="/accounts/_next/static/chunks/9d617dfc9e25f5c1.js" defer=""></script><script src="/accounts/_next/static/chunks/fe81ef582e0659e3.js" defer=""></script><script src="/accounts/_next/static/chunks/d04cfac42c921dff.js" defer=""></script><script src="/accounts/_next/static/chunks/5bd76fcda79b283e.js" defer=""></script><script src="/accounts/_next/static/chunks/7d9f56ea91505eff.js" defer=""></script><script src="/accounts/_next/static/chunks/3e44f80a2822bd41.js" defer=""></script><script src="/accounts/_next/static/chunks/3429fc9f66dffcad.js" defer=""></script><script src="/accounts/_next/static/chunks/949928a5ae3f8847.js" defer=""></script><script src="/accounts/_next/static/chunks/ea1c5555fb66ec6b.js" defer=""></script><script src="/accounts/_next/static/chunks/ae35581628e97f70.js" defer=""></script><script src="/accounts/_next/static/chunks/0d7f571617f18a0e.js" defer=""></script><script src="/accounts/_next/static/chunks/turbopack-5f6e0dc1c77a1339.js" defer=""></script><script src="/accounts/_next/static/chunks/45782700a0f5a07b.js" defer=""></script><script src="/accounts/_next/static/chunks/6c82a1c12a627df1.js" defer=""></script><script src="/accounts/_next/static/chunks/78519e84ec04e229.js" defer=""></script><script src="/accounts/_next/static/chunks/c7958986d65e71b7.js" defer=""></script><script src="/accounts/_next/static/chunks/26c037552183ddd4.js" defer=""></script><script src="/accounts/_next/static/chunks/1548a66005745f10.js" defer=""></script><script src="/accounts/_next/static/chunks/3dbbda354b48f506.js" defer=""></script><script src="/accounts/_next/static/chunks/c632b62a81e6a25d.js" defer=""></script><script src="/accounts/_next/static/chunks/f35c6f51667b297b.js" defer=""></script><script src="/accounts/_next/static/chunks/854c05c07d8399d3.js" defer=""></script><script src="/accounts/_next/static/chunks/turbopack-201c0c3aca38019d.js" defer=""></script><script src="/accounts/_next/static/accounts-Dmml48hyk2qOfXkMQHbKt/_ssgManifest.js" defer=""></script><script src="/accounts/_next/static/accounts-Dmml48hyk2qOfXkMQHbKt/_buildManifest.js" defer=""></script></head><body><script>
+(function () {
+  try {
+    var THEMES = ["light","dark","trade-light","trade-dark","pro-dark","pro-light","magic-light","magic-dark","pay-light","pay-dark","onchain-light","onchain-dark","krak-light","krak-dark","ninjatrader-light","ninjatrader-dark","breakout-light","breakout-dark","pro-fe-light","pro-fe-dark","payward-dark","payward-light","pws-dark","pws-light"];
+    var MAX_AGE = 1200000;
+    var DEFAULT_THEME = "light";
+
+    var read = function (key) {
+      try {
+        var raw = window.localStorage.getItem(key);
+        if (raw == null) {
+          return null;
+        }
+        try {
+          return JSON.parse(raw);
+        } catch (e) {
+          return raw;
+        }
+      } catch (e) {
+        return null;
+      }
+    };
+
+    var isValidTheme = function (value) {
+      return typeof value === 'string' && THEMES.indexOf(value) !== -1;
+    };
+
+    var theme;
+
+    var param = new URLSearchParams(window.location.search).get('preferTheme');
+    if (isValidTheme(param)) {
+      theme = param;
+    }
+
+    if (!theme) {
+      var stored = read("kds-theme-preference");
+      var storedTime = Number(read("kds-theme-preference-storage-time")) || 0;
+      var isExpired = storedTime > 0 && Date.now() - storedTime >= MAX_AGE;
+      if (isValidTheme(stored) && !isExpired) {
+        theme = stored;
+      }
+    }
+
+    if (!theme) {
+      var prefersDark =
+        typeof window.matchMedia === 'function' && window.matchMedia('(prefers-color-scheme: dark)').matches;
+      theme = prefersDark ? 'dark' : DEFAULT_THEME;
+    }
+
+    document.body.classList.add(theme + '-theme', 'ds-' + theme + '-bg');
+    document.body.setAttribute('data-theme', theme);
+  } catch (e) {}
+})();
+</script><div id="__next"></div><script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"language":"en-us","titleKey":"StarboardErrorPage.404.Title"},"__N_SSG":true},"page":"/404","query":{},"buildId":"accounts-Dmml48hyk2qOfXkMQHbKt","assetPrefix":"/accounts","isFallback":false,"gsp":true,"scriptLoader":[]}</script></body></html>
