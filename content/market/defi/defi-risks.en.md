@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Picture this: you find a DeFi protocol promising **500% APY**. You deposit your savings — and a week later the pool balance is zero. The "withdraw" button doesn't work anymore.
+Picture this: you find a [DeFi](/en/glossary/#defi) protocol promising **500% APY**. You deposit your savings — and a week later the pool balance is zero. The "withdraw" button doesn't work anymore.
 
 Or another scenario: you take out a loan backed by ETH, the market takes a sharp downturn, and the smart contract instantly sells your collateral at the lowest price. You're left with neither collateral nor loan.
 
@@ -42,7 +42,7 @@ A **rug pull** is exactly what it sounds like — the protocol creators pull the
 
 Here's how it plays out:
 
-- the team launches a new token and liquidity pool;
+- the team launches a new [token](/en/glossary/#token) and [liquidity](/en/glossary/#liquidity) pool;
 - they promise insane returns (1000%+ APY);
 - users deposit their funds;
 - the devs use a hidden function in the smart contract that lets them drain all the money;
@@ -75,7 +75,7 @@ A single line of bad code can cost millions. And unlike banks — in DeFi **ther
 
 | Incident | Year | Loss | Cause |
 |----------|------|------|-------|
-| **Ronin Bridge** | 2022 | $624M | Bridge validator vulnerability |
+| **Ronin [Bridge](/en/glossary/#bridge)** | 2022 | $624M | Bridge validator vulnerability |
 | **Wormhole Bridge** | 2022 | $326M | Signature verification bug |
 | **Nomad Bridge** | 2022 | $190M | Bridge contract bug |
 | **Cream Finance** | 2021 | $130M | Lending logic flaw |
@@ -98,7 +98,7 @@ A smart contract audit is a code review by security experts. But:
 
 ## Impermanent Loss: Losing Out When Prices Move
 
-**Impermanent loss (IL)** is what happens when you provide liquidity to a DEX pool and end up with less value than if you'd just held the tokens.
+**Impermanent loss (IL)** is what happens when you provide liquidity to a [DEX](/en/glossary/#dex) pool and end up with less value than if you'd just held the tokens.
 
 ### How It Works
 
@@ -128,7 +128,7 @@ You deposit into an ETH/USDC pool:
 
 **IL hurts most with:**
 
-- pairs that mix a stablecoin (USDC/DAI) with a volatile asset (ETH, SOL);
+- pairs that mix a [stablecoin](/en/glossary/#stablecoin) (USDC/DAI) with a volatile asset (ETH, SOL);
 - strong one-direction price trends;
 - long lock-in periods in the pool.
 
@@ -177,7 +177,7 @@ DeFi isn't a casino if you approach it smartly. Here are the basic safety princi
 Use this checklist:
 
 - [ ] Has it been audited by a reputable firm? (CertiK, Trail of Bits, OpenZeppelin, Hacken)
-- [ ] What's the TVL (total value locked)? Low TVL (< $1M) means high risk
+- [ ] What's the [TVL](/en/glossary/#tvl) (total value locked)? Low TVL (< $1M) means high risk
 - [ ] How long has the protocol been running? (6+ months is better)
 - [ ] Is the code open source? Can you verify it?
 - [ ] Is liquidity locked?
@@ -201,7 +201,7 @@ Don't put all your money in one protocol. Spread it across:
 
 ### 4. Use a Cold Wallet for Large Amounts
 
-For anything over $1,000, consider using a hardware wallet (Ledger, Trezor) instead of a browser extension.
+For anything over $1,000, consider using a hardware [wallet](/en/glossary/#wallet) (Ledger, Trezor) instead of a browser extension.
 
 ### 5. Start Small
 
@@ -219,7 +219,7 @@ Deposit a small amount ($50–100) in a new protocol. Try withdrawing it after a
 | **Liquidation** | Forced sale of collateral when prices drop | Keep 200%+ collateral ratio; use stablecoins as collateral; don't max out loans |
 | **Protocol token dump** | Reward token crashes, your yield goes negative | Don't hold reward tokens long; convert to stablecoins |
 | **High gas fees** | Network fees eat your profits | Use L2s (Arbitrum, Optimism, Polygon); deposit larger amounts |
-| **Lost access** | Lost seed phrase or key means permanent loss | Store seed phrase securely (metal, safe); never in the cloud or on screenshots |
+| **Lost access** | Lost [seed phrase](/en/glossary/#seed-phrase) or key means permanent loss | Store seed phrase securely (metal, safe); never in the cloud or on screenshots |
 
 ---
 

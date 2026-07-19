@@ -68,7 +68,7 @@ The problem is that the market is designed **against our intuition**:
 
 In crypto trading, there are two emotional states that reliably wipe out a beginner's deposit.
 
-**The first is FOMO.**  
+**The first is [FOMO](/en/glossary/#fomo).**  
 **The second is panic.**
 
 And they work as a pair.
@@ -104,7 +104,7 @@ But here's the truth:
 
 > **when everyone is shouting "buy" — the smart money is usually already selling.**
 
-Whales and market makers use the crowd's FOMO to **unload coins at the highest price**. You're buying from them.
+[Whales](/en/glossary/#whale) and market makers use the crowd's FOMO to **unload coins at the highest price**. You're buying from them.
 
 ---
 

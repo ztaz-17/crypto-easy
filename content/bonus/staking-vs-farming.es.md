@@ -17,9 +17,9 @@ keywords:
 
 ---
 
-Compraste algo de crypto. Está en tu cartera y… solo está ahí.
+Compraste algo de crypto. Está en tu [cartera](/es/glossary/#wallet) y… solo está ahí.
 
-Pero podría estar *trabajando* — generándote dinero mientras duermes, trabajas o viajas. En el mundo crypto, hay dos herramientas principales para eso: **staking** y **farming** (también conocido como yield farming / liquidity mining).
+Pero podría estar *trabajando* — generándote dinero mientras duermes, trabajas o viajas. En el mundo crypto, hay dos herramientas principales para eso: **[staking](/es/glossary/#staking)** y **farming** (también conocido como yield farming / liquidity mining).
 
 A simple vista, ambos se tratan de ingresos pasivos. Pero la diferencia entre ellos es enorme — en rendimientos, riesgos, complejidad y esfuerzo.
 
@@ -34,11 +34,11 @@ En este artículo, desglosaremos:
 
 ## Qué Es el Staking
 
-El staking es cuando **bloqueas tus monedas** en la blockchain y ganas un porcentaje sobre ellas.
+El staking es cuando **bloqueas tus monedas** en la [blockchain](/es/glossary/#blockchain) y ganas un porcentaje sobre ellas.
 
 Así funciona:
 
-- eliges una criptomoneda que funcione con **Prueba de Participación** (PoS, por sus siglas en inglés);
+- eliges una [criptomoneda](/es/glossary/#cryptocurrency) que funcione con **[Prueba de Participación](/es/glossary/#proof-of-stake)** (PoS, por sus siglas en inglés);
 - transfieres tus monedas al staking (a través de una cartera o exchange);
 - la blockchain las usa para validar transacciones;
 - recibes recompensas pagadas.
@@ -66,12 +66,12 @@ No tienes que hacer nada complicado. Solo bloqueas tus monedas y ganas intereses
 
 ## Qué Es el Farming (Yield Farming)
 
-El farming es una estrategia más activa. **Aportas liquidez** a protocolos DeFi (aplicaciones financieras descentralizadas) y obtienes ingresos.
+El farming es una estrategia más activa. **Aportas [liquidez](/es/glossary/#liquidity)** a protocolos [DeFi](/es/glossary/#defi) (aplicaciones financieras descentralizadas) y obtienes ingresos.
 
 Así se ve:
 
 - vas a un protocolo DeFi (ej. Uniswap, Aave, Curve);
-- depositas un par de tokens en un **pool de liquidez** (ej. USDT y ETH);
+- depositas un par de [tokens](/es/glossary/#token) en un **pool de liquidez** (ej. USDT y ETH);
 - el protocolo los usa para operaciones de trading;
 - ganas comisiones de traders + a menudo tokens de bonificación.
 
@@ -165,7 +165,7 @@ El staking es una buena opción si:
 
 - eres principiante y estás empezando a aprender los conceptos básicos;
 - no quieres estar monitoreando el mercado constantemente;
-- planeas mantener monedas a largo plazo (HODL);
+- planeas mantener monedas a largo plazo ([HODL](/es/glossary/#hodl));
 - un rendimiento del 5–15 % es suficiente para ti.
 
 > **El staking es "lo configuras y te olvidas".**

@@ -27,11 +27,11 @@ In der Krypto-Welt heißt dieser „Schlüssel" **Private Key**. Und er ist wirk
 
 ## Was ist ein Private Key
 
-Ein **Private Key** ist eine lange Zeichenkette (Ziffern und Buchstaben), die dir vollen Zugriff auf deine Kryptowährung gibt. Einfach gesagt:
+Ein **Private Key** ist eine lange Zeichenkette (Ziffern und Buchstaben), die dir vollen Zugriff auf deine [Kryptowährung](/de/glossary/#cryptocurrency) gibt. Einfach gesagt:
 
 > Ein Private Key ist deine Unterschrift. Eine Unterschrift, die der Blockchain beweist: „Diese Coins gehören mir, und ich autorisiere ihre Übertragung."
 
-Auf einer Blockchain gibt es kein „Konto" mit Login und Passwort. Da sitzt niemand und prüft, ob du es wirklich bist. Das ganze System basiert auf Kryptografie: Du hast ein Schlüsselpaar – **öffentlich** (den kannst du allen zeigen) und **privat** (den zeigst du niemandem).
+Auf einer [Blockchain](/de/glossary/#blockchain) gibt es kein „Konto" mit Login und Passwort. Da sitzt niemand und prüft, ob du es wirklich bist. Das ganze System basiert auf Kryptografie: Du hast ein Schlüsselpaar – **öffentlich** (den kannst du allen zeigen) und **privat** (den zeigst du niemandem).
 
 Öffentlicher Schlüssel – wie deine Kontonummer. Du gibst sie weiter, damit Leute dir Geld senden können.
 
@@ -51,9 +51,9 @@ Viele Anfänger denken: „Ich habe mich an einer Börse registriert, ein starke
 | Vergessen? | Zurücksetzen | **Alles verloren** |
 | Änderbar? | Firma kann es ändern | Nur du kontrollierst ihn |
 
-Ein Passwort hat eine „Hintertür": „Passwort vergessen?" – du klickst, bekommst einen Code per E-Mail, legst ein neues fest. **Private Keys haben so etwas nicht**. Kryptowährung ist so konzipiert, dass niemand – keine Börse, keine Entwickler, keine Polizei – deinen Private Key wiederherstellen kann, wenn du ihn verlierst. Das ist der Kern der Dezentralisierung.
+Ein Passwort hat eine „Hintertür": „Passwort vergessen?" – du klickst, bekommst einen Code per E-Mail, legst ein neues fest. **Private Keys haben so etwas nicht**. Kryptowährung ist so konzipiert, dass niemand – keine Börse, keine Entwickler, keine Polizei – deinen Private Key wiederherstellen kann, wenn du ihn verlierst. Das ist der Kern der [Dezentralisierung](/de/glossary/#decentralization).
 
-Wahre Geschichte: 2013 warf der britische IT-Spezialist James Howells versehentlich eine Festplatte weg, die den Private Key zu einem Wallet mit 7.500 Bitcoin enthielt. Damals waren das etwa 7,5 Millionen Dollar. Heute – **hunderte Millionen Euro**. Die Festplatte liegt auf einer Mülldeponie, der Zugang wird von den Stadtwerken verweigert, und die Chance auf Wiederherstellung liegt bei null.
+Wahre Geschichte: 2013 warf der britische IT-Spezialist James Howells versehentlich eine Festplatte weg, die den Private Key zu einem [Wallet](/de/glossary/#wallet) mit 7.500 Bitcoin enthielt. Damals waren das etwa 7,5 Millionen Dollar. Heute – **hunderte Millionen Euro**. Die Festplatte liegt auf einer Mülldeponie, der Zugang wird von den Stadtwerken verweigert, und die Chance auf Wiederherstellung liegt bei null.
 
 Ein Passwort wäre in fünf Minuten zurückgesetzt gewesen. Ein Private Key – nicht.
 
@@ -71,7 +71,7 @@ E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
 
 Jedes Zeichenpaar ist ein Byte an Information. Insgesamt 32 Bytes. Diese 32 Bytes kontrollieren deine Coins.
 
-**Aber es gibt einen einfacheren Weg** – eine Seed-Phrase. Das sind 12 oder 24 gängige englische Wörter, aus denen dein Wallet automatisch deinen Private Key generiert. Zum Beispiel:
+**Aber es gibt einen einfacheren Weg** – eine [Seed-Phrase](/de/glossary/#seed-phrase). Das sind 12 oder 24 gängige englische Wörter, aus denen dein Wallet automatisch deinen Private Key generiert. Zum Beispiel:
 
 ```
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
@@ -97,7 +97,7 @@ Deshalb:
 
 - Mach niemals ein Foto von deiner Seed-Phrase.
 - Speichere sie niemals in den Notizen deines Handys.
-- Gib deinen Private Key niemals auf Webseiten ein, die versprechen, „dein Wallet zu verifizieren" oder „nach Airdrops zu suchen".
+- Gib deinen Private Key niemals auf Webseiten ein, die versprechen, „dein Wallet zu verifizieren" oder „nach [Airdrops](/de/glossary/#airdrop) zu suchen".
 - Sende ihn niemals an irgendjemanden in Messengern.
 - Speichere ihn niemals in der Cloud (Google Drive, iCloud, Dropbox).
 

@@ -37,7 +37,7 @@ In this article we'll cover:
 
 ### How It Works
 
-The price of any cryptocurrency is just like the price of tomatoes at the market.
+The price of any [cryptocurrency](/en/glossary/#cryptocurrency) is just like the price of tomatoes at the market.
 
 If there are few tomatoes and lots of buyers — the price goes up.
 If there are piles of tomatoes and no one's buying — the price goes down.
@@ -64,7 +64,7 @@ And as more and more people learn about Bitcoin, demand keeps growing while supp
 
 ### Liquidity — the Third Factor
 
-Here's another important piece: **liquidity**.
+Here's another important piece: **[liquidity](/en/glossary/#liquidity)**.
 
 Liquidity means how quickly you can buy or sell an asset without moving the price too much.
 
@@ -82,7 +82,7 @@ News can change prices in minutes. Here are the main types of news that move the
 
 ### Halving
 
-Every 4 years the mining reward for Bitcoin is cut in half. That's called a **halving**.
+Every 4 years the [mining](/en/glossary/#mining) reward for Bitcoin is cut in half. That's called a **halving**.
 
 Fewer new coins hit the market → supply shrinks. If demand stays the same — the price goes up.
 
@@ -113,7 +113,7 @@ Examples:
 
 ### Technical Upgrades
 
-Major blockchain upgrades also affect price. For example, Ethereum's transition to Proof-of-Stake (The Merge) triggered a significant rise in ETH.
+Major [blockchain](/en/glossary/#blockchain) upgrades also affect price. For example, Ethereum's transition to Proof-of-Stake (The Merge) triggered a significant rise in ETH.
 
 👉 **Important:** Market reactions to news can be illogical. Sometimes good news pushes the price down ("buy the rumor, sell the news").
 
@@ -139,7 +139,7 @@ Fear, uncertainty, doubt.
 
 Spreading negative information (often deliberately) to trigger panic and a price dump.
 
-Common FUD:
+Common [FUD](/en/glossary/#fud):
 - "Bitcoin is dead";
 - "Crypto is a bubble about to burst";
 - "Regulators are going to ban everything."
@@ -161,7 +161,7 @@ This is one reason why **you should never jump into coins based on Telegram chan
 
 ## Big Players: Whales
 
-Whales are holders of massive amounts of cryptocurrency.
+[Whales](/en/glossary/#whale) are holders of massive amounts of cryptocurrency.
 
 If a person or fund owns 10,000 Bitcoin (hundreds of millions of dollars), their actions alone can move the market.
 
@@ -203,7 +203,7 @@ Sometimes whales deliberately manipulate the price.
 | Liquidity             | Market        | Low liquidity → high volatility             | Short-term         |
 | News                  | Event-driven  | Depends on context                          | Instant            |
 | Regulatory decisions  | Event-driven  | Approval = rise, ban = drop                 | Medium-term        |
-| FOMO / FUD            | Psychological | Emotions move the price                     | Short-term         |
+| [FOMO](/en/glossary/#fomo) / FUD            | Psychological | Emotions move the price                     | Short-term         |
 | Pump & Dump           | Manipulation  | Artificial spike then crash                 | Short-term         |
 | Whales                | Market        | Large trades move the market                | Any                |
 | Corporate adoption    | Fundamental   | Growing trust → price growth                | Long-term          |

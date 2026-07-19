@@ -26,9 +26,9 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 **Bybit** is the #1 exchange among our readers. Here's why:
 
 - **Low fees**: 0.1% spot, 0.02% futures
-- **P2P trading**: buy crypto with local payment methods
+- **[P2P](/en/glossary/#p2p) trading**: buy crypto with local payment methods
 - **User-friendly interface**: beginner mode available
-- **Security**: cold wallets, 2FA, $700M+ insurance fund
+- **Security**: [cold [wallets](/en/glossary/#wallet)](/en/glossary/#cold-wallet), 2FA, $700M+ insurance fund
 - **Education**: built-in courses and trading simulator
 
 **Welcome bonus**: up to $100 on first deposit of $50+.
@@ -44,7 +44,7 @@ We've put together an objective comparison of the three best exchanges in 2026. 
 - **Licenses**: US (FinCEN), Japan, UK, Canada
 - **Low fees**: 0.16% maker, 0.26% taker
 - **Wide selection**: 200+ trading pairs
-- **Staking**: up to 12% APY directly on the exchange
+- **[Staking](/en/glossary/#staking)**: up to 12% APY directly on the exchange
 - **Kraken Education**: built-in learning hub (launched July 2026)
 
 Downside: no direct support for some local payment methods.

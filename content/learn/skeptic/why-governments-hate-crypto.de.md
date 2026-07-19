@@ -48,7 +48,7 @@ Geld ist nicht nur Papier oder Zahlen auf einem Bildschirm. In der modernen Welt
 Über das Geldsystem kann die Regierung:
 
 - Steuern erheben;
-- Inflation regulieren;
+- [Inflation](/de/glossary/#inflation) regulieren;
 - Kapital kontrollieren (was das Land verlässt und was bleibt);
 - den Haushalt finanzieren;
 - die Wirtschaft durch Geldpolitik beeinflussen.
@@ -87,13 +87,13 @@ Das ist eine direkte Bedrohung für das staatliche Geldmonopol – ein Monopol, 
 
 Die Reaktionen der Regierungen sind vorhersehbar.
 
-**China** – 2021 wurde ein vollständiges Verbot aller Crypto-Aktivitäten einschließlich Mining verhängt. Börsen wurden geschlossen, Transaktionen blockiert.
+**China** – 2021 wurde ein vollständiges Verbot aller Crypto-Aktivitäten einschließlich [Mining](/de/glossary/#mining) verhängt. Börsen wurden geschlossen, Transaktionen blockiert.
 
 **Nigeria** – 2021 verbot die Zentralbank Banken die Zusammenarbeit mit Crypto-Börsen. Grund: massive Flucht in Crypto aufgrund der Naira-Inflation.
 
 **Algerien, Nepal, Ägypten** – vollständige oder teilweise Verbote von Crypto.
 
-Aber funktioniert das? Spoiler: nein. China hat es verboten – und das Mining wanderte in die USA, nach Kasachstan und Russland ab. P2P-Handel in China ist immer noch aktiv.
+Aber funktioniert das? Spoiler: nein. China hat es verboten – und das Mining wanderte in die USA, nach Kasachstan und Russland ab. [P2P](/de/glossary/#p2p)-Handel in China ist immer noch aktiv.
 
 ---
 
@@ -115,9 +115,9 @@ Bei Crypto ist das völlig anders.
 
 ### Anonymität und Pseudonymität
 
-Kryptowährungen sind von Natur aus **pseudonym**. Du verbindest eine Wallet nicht mit deinem Pass (außer du nutzt zentralisierte Börsen).
+Kryptowährungen sind von Natur aus **pseudonym**. Du verbindest eine [Wallet](/de/glossary/#wallet) nicht mit deinem Pass (außer du nutzt zentralisierte Börsen).
 
-Ja, alle Transaktionen werden auf der Blockchain aufgezeichnet. Aber wer hinter einer bestimmten Adresse steckt – weiß niemand.
+Ja, alle Transaktionen werden auf der [Blockchain](/de/glossary/#blockchain) aufgezeichnet. Aber wer hinter einer bestimmten Adresse steckt – weiß niemand.
 
 > **Die Regierung kann nicht einfach mit einer Steuerrechnung vor deiner Tür stehen, wenn sie nicht weiß, dass du Crypto besitzt.**
 
@@ -125,9 +125,9 @@ Klar, Blockchain-Analysetools gibt es. Aber sie funktionieren nur, wenn eine Adr
 
 ### DeFi und die Schwierigkeit der Nachverfolgung
 
-Ein besonderer Kopfschmerz für Steuerbehörden kommt von **DeFi** (dezentralisierte Finanzen):
+Ein besonderer Kopfschmerz für Steuerbehörden kommt von **[DeFi](/de/glossary/#defi)** (dezentralisierte Finanzen):
 
-- Staking;
+- [Staking](/de/glossary/#staking);
 - Kreditvergabe und -aufnahme;
 - Yield Farming;
 - Swaps über DEXs.
@@ -189,7 +189,7 @@ Die meisten entwickelten Länder haben diese Empfehlungen übernommen.
 
 Einerseits – Regulierung legitimiert Crypto, macht es „offizieller".
 
-Andererseits – Regulierung tötet die eigentliche Idee der Dezentralisierung. Wenn jede Börse gezwungen ist, deine Daten zu sammeln und der Regierung zu übergeben – was ist dann anders als bei einer Bank?
+Andererseits – Regulierung tötet die eigentliche Idee der [Dezentralisierung](/de/glossary/#decentralization). Wenn jede Börse gezwungen ist, deine Daten zu sammeln und der Regierung zu übergeben – was ist dann anders als bei einer Bank?
 
 ### Börsenlizenzierung
 
@@ -325,7 +325,7 @@ Denk mal drüber nach:
 
 Regierungen mögen Crypto nicht. Und das ist normal.
 
-Kryptowährung bedroht:
+[Kryptowährung](/de/glossary/#cryptocurrency) bedroht:
 - das Monopol auf Geldemission;
 - das Steuerkontrollsystem;
 - die Fähigkeit, Kapital zu verwalten;

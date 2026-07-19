@@ -52,7 +52,7 @@ Investing is an approach where you:
 
 The term **[HODL](/en/glossary/#hodl)** was born in 2013 when a user on the Bitcointalk forum drunkenly typed "I AM HODLING" instead of "holding." The word stuck and became a symbol of the long-term holder movement.
 
-HODL isn't about laziness. It's about **confidence** that the asset will grow over several years, despite temporary dips.
+[HODL](/en/glossary/#hodl) isn't about laziness. It's about **confidence** that the asset will grow over several years, despite temporary dips.
 
 ### Pros of Investing
 

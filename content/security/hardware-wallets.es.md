@@ -20,7 +20,7 @@ keywords:
 
 ## ¿Qué es una cartera hardware?
 
-Una cartera hardware es un dispositivo físico del tamaño de una memoria USB que almacena las claves privadas en completo aislamiento de internet. Es el estándar de oro de la seguridad en el mundo cripto.
+Una [cartera](/es/glossary/#wallet) hardware es un dispositivo físico del tamaño de una memoria USB que almacena las [claves privadas](/es/glossary/#private-key) en completo aislamiento de internet. Es el estándar de oro de la seguridad en el mundo cripto.
 
 Cuando usas una cartera cripto común en el teléfono o en el navegador — tus claves están en la memoria de un dispositivo conectado a internet. Un hacker, un virus o un sitio de phishing pueden robarlas. Con una cartera hardware, las claves **físicamente nunca salen del dispositivo**.
 
@@ -59,7 +59,7 @@ Los dos principales fabricantes de carteras hardware son Ledger (Francia) y Trez
 
 ### Cuándo elegir Ledger
 
-Ledger es el líder del mercado con la mayor selección de monedas y la práctica aplicación Ledger Live. Puedes gestionar tu cartera, intercambiar monedas, hacer staking — directamente desde la app, sin conectarte a un exchange.
+Ledger es el líder del mercado con la mayor selección de monedas y la práctica aplicación Ledger Live. Puedes gestionar tu cartera, intercambiar monedas, hacer [staking](/es/glossary/#staking) — directamente desde la app, sin conectarte a un exchange.
 
 **Para quién es:** Principiantes, poseedores de altcoins (además de Bitcoin y Ethereum), quienes quieran gestionar su cripto desde el teléfono.
 
@@ -149,7 +149,7 @@ Para cantidades a partir de $1000 ya no es una opción, sino una necesidad.
 
 ### ¿Se puede restaurar la cartera sin el dispositivo?
 
-Sí. Si tu Ledger/Trezor se rompe, se pierde o se quema — compras un dispositivo nuevo (de cualquier fabricante) y restauras el acceso mediante la seed phrase. Tus monedas no desaparecen porque no están «dentro» del dispositivo — están en la blockchain, y las claves se recuperan de la seed phrase.
+Sí. Si tu Ledger/Trezor se rompe, se pierde o se quema — compras un dispositivo nuevo (de cualquier fabricante) y restauras el acceso mediante la seed phrase. Tus monedas no desaparecen porque no están «dentro» del dispositivo — están en la [blockchain](/es/glossary/#blockchain), y las claves se recuperan de la seed phrase.
 
 ### ¿Qué pasa si pierdo la seed phrase?
 
@@ -163,7 +163,7 @@ Ambos dispositivos ofrecen seguridad de nivel bancario. Trezor tiene el código 
 
 Subjetivamente: si la cantidad es menor a $300, puedes empezar con una cartera móvil (Trust Wallet, MetaMask) siempre que:
 - No hagas clic en enlaces sospechosos
-- No conectes tu cartera a dApps dudosas
+- No conectes tu cartera a [dApps](/es/glossary/#dapp) dudosas
 - Guardes tu seed phrase offline
 
 Pero en cuanto la cantidad supere los $500 — piensa en una cartera hardware.

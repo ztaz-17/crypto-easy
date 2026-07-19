@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-You've probably seen the ads: "1000% APY!", "Earn crypto with zero effort!", "DeFi is the new oil!"
+You've probably seen the ads: "1000% APY!", "Earn crypto with zero effort!", "[DeFi](/en/glossary/#defi) is the new oil!"
 
 Sounds too good to be true. But behind those numbers there's actually a working mechanism — **Yield Farming**. And yes, some people really do make money.
 
@@ -34,7 +34,7 @@ In this article we'll cover:
 
 ## What Is Yield Farming
 
-**Yield Farming** (also called **liquidity mining**) means lending your crypto assets to liquidity pools on decentralized protocols (DEXs, lending platforms) in exchange for rewards.
+**Yield Farming** (also called **[liquidity](/en/glossary/#liquidity) [mining](/en/glossary/#mining)**) means lending your crypto assets to liquidity pools on [decentralized](/en/glossary/#decentralization) protocols (DEXs, lending platforms) in exchange for rewards.
 
 In simple terms:
 
@@ -48,7 +48,7 @@ Returns are measured in **APY** (Annual Percentage Yield) — the yearly interes
 
 ### 1. You pick a protocol
 
-For example, **Uniswap**, **Curve**, **Aave**, **Compound**, or **PancakeSwap**. Each offers pools for different token pairs.
+For example, **Uniswap**, **Curve**, **Aave**, **Compound**, or **PancakeSwap**. Each offers pools for different [token](/en/glossary/#token) pairs.
 
 ### 2. You deposit liquidity
 
@@ -77,7 +77,7 @@ It's made up of three components:
 |-----------|-------------|
 | Pool fees | Real trading fees collected from traders |
 | Reward tokens | The protocol prints its own tokens and gives them to liquidity providers |
-| Inflation | The more tokens are emitted, the higher the APY (but the token price may drop) |
+| [Inflation](/en/glossary/#inflation) | The more tokens are emitted, the higher the APY (but the token price may drop) |
 
 > **Important:** High APY is often driven by aggressive token emissions. If the token's price drops faster than you earn, you're still in the red.
 
@@ -87,7 +87,7 @@ It's made up of three components:
 
 ### Classic (Liquidity Mining)
 
-You deposit a token pair into a DEX pool (Uniswap, PancakeSwap) and earn fees plus protocol tokens.
+You deposit a token pair into a [DEX](/en/glossary/#dex) pool (Uniswap, PancakeSwap) and earn fees plus protocol tokens.
 
 ### Lending
 
@@ -118,7 +118,7 @@ Why is it "impermanent"? Because if the price goes back, the loss disappears. Bu
 **When IL is especially dangerous:**
 
 - high volatility;
-- a pool pairing a stablecoin with a volatile asset;
+- a pool pairing a [stablecoin](/en/glossary/#stablecoin) with a volatile asset;
 - holding the position for a long time.
 
 ### 2. Rug Pull
@@ -133,7 +133,7 @@ The developers set up a pool, lure users in with sky-high yields, then pull the 
 
 ### 3. Smart Contract Bugs
 
-Even audited protocols can have bugs. Examples: the Nomad Bridge hack ($190M), incidents with Cream Finance.
+Even audited protocols can have bugs. Examples: the Nomad [Bridge](/en/glossary/#bridge) hack ($190M), incidents with Cream Finance.
 
 ### 4. Token Price Drops
 
@@ -180,7 +180,7 @@ A checklist before you deposit:
 
 - [ ] Does the protocol have an audit? (from CertiK, Trail of Bits, OpenZeppelin)
 - [ ] How long has the project been around?
-- [ ] How much liquidity is in the pool? (TVL — total value locked)
+- [ ] How much liquidity is in the pool? ([TVL](/en/glossary/#tvl) — total value locked)
 - [ ] What's the trading volume?
 - [ ] Who's on the project team? Is there any info about them?
 - [ ] How much of the APY comes from reward tokens vs actual fees?

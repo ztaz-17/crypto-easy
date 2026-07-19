@@ -121,7 +121,7 @@ Modern banks use algorithms that:
 
 - track transactions;  
 - look for suspicious patterns;  
-- automatically block operations.
+- automatically [block](/en/glossary/#block) operations.
 
 What can trigger **an account freeze**:
 
@@ -185,7 +185,7 @@ The review took **12 days**.
 
 The entire time:  
 - I couldn't pay my rent and had to borrow cash from friends;  
-- my card was useless, so I could only buy groceries with whatever cash I had left in my wallet;  
+- my card was useless, so I could only buy groceries with whatever cash I had left in my [wallet](/en/glossary/#wallet);  
 - I couldn't transfer my own money.
 
 👉 The money was in my account. But I had no access to it.
@@ -242,7 +242,7 @@ And there's no way around it.
 
 ## A Real Story
 
-A friend of mine decided to buy a small amount of cryptocurrency for the first time.  
+A friend of mine decided to buy a small amount of [cryptocurrency](/en/glossary/#cryptocurrency) for the first time.  
 She picked a reputable exchange and funded her account with a bank transfer.
 
 Five minutes after sending:

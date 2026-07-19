@@ -44,7 +44,7 @@ In this article, we'll cover:
 
 This is the number one reason.
 
-Every blockchain transaction is a request for a spot in a block. Block space is limited. Miners (Bitcoin) or validators (Ethereum) choose which transactions to include first.
+Every [blockchain](/en/glossary/#blockchain) transaction is a request for a spot in a [block](/en/glossary/#block). Block space is limited. Miners (Bitcoin) or validators (Ethereum) choose which transactions to include first.
 
 The rule is simple: **whoever pays more goes first.**
 
@@ -58,7 +58,7 @@ Learn more about how fees are determined: [Why Sending Crypto Sometimes Costs $3
 
 Even with a decent fee, your transaction can get stuck during peak hours.
 
-When thousands of transactions are being sent at the same time (e.g., during a memecoin hype cycle, an NFT mint, or a major event), the mempool gets flooded. Block size stays the same, but the number of people trying to get in is 10 times higher than usual.
+When thousands of transactions are being sent at the same time (e.g., during a memecoin hype cycle, an [NFT](/en/glossary/#nft) mint, or a major event), the mempool gets flooded. Block size stays the same, but the number of people trying to get in is 10 times higher than usual.
 
 At times like this, miners only pick the juiciest transactions — everyone else waits.
 
@@ -68,7 +68,7 @@ At times like this, miners only pick the juiciest transactions — everyone else
 
 ### 3. Stuck Because of a Wallet Bug
 
-Sometimes the problem isn't the network — it's your wallet:
+Sometimes the problem isn't the network — it's your [wallet](/en/glossary/#wallet):
 
 - gas was calculated incorrectly (on Ethereum — gas limit below 21,000);
 - the wallet didn't update the transaction status;
@@ -146,7 +146,7 @@ Wallets that support RBF:
 
 **Works in:** Bitcoin (limited)
 
-Some mining pools offer transaction acceleration services. You submit the hash of your stuck transaction, pay a fee — and the pool includes it in the next block they mine.
+Some [mining](/en/glossary/#mining) pools offer transaction acceleration services. You submit the hash of your stuck transaction, pay a fee — and the pool includes it in the next block they mine.
 
 Popular services:
 

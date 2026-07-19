@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Saca tu cartera. Mira un billete.
+Saca tu [cartera](/es/glossary/#wallet). Mira un billete.
 
 Tiene un retrato, marcas de agua, un escudo, un número de serie. Se arruga, lo puedes doblar, romper (aunque probablemente no deberías). Desde pequeños nos enseñan que esto es dinero. Algo real. Tangible.
 
@@ -120,7 +120,7 @@ Cada país tiene un banco principal — el **banco central** (Banco Popular de C
 - **Imprime dinero** — decide cuánto dinero nuevo entra al sistema.
 - **Fija la tasa clave** — la tasa de interés a la que presta a los bancos comerciales. Cuanto más alta la tasa, más caros son los préstamos y más lenta es la economía. Cuanto más baja, más barato es el dinero y mayor tiende a ser la [inflación](/es/glossary/#inflacion).
 - **Regula los bancos comerciales** — otorga y revoca licencias, audita informes, establece requisitos.
-- **Controla la inflación** — intenta evitar que los precios suban demasiado rápido.
+- **Controla la [inflación](/es/glossary/#inflation)** — intenta evitar que los precios suban demasiado rápido.
 
 ### Bancos comerciales
 
@@ -163,7 +163,7 @@ Esto ya ha pasado antes: hiperinflación en la República de Weimar, en Zimbabue
 
 ### ¿Y qué pasa con las criptomonedas?
 
-Las criptomonedas funcionan bajo el mismo principio — **la confianza**. Pero hay una diferencia clave.
+Las [criptomonedas](/es/glossary/#cryptocurrency) funcionan bajo el mismo principio — **la confianza**. Pero hay una diferencia clave.
 
 En el sistema [fiat](/es/glossary/#fiat), confías en **personas y organizaciones**: el banco central, el gobierno, los bancos comerciales. Confías en que no imprimirán demasiado dinero, congelarán tu cuenta o cambiarán las reglas.
 

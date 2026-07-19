@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Abres tu cartera, pones la dirección del destinatario, introduces el importe — y pulsas «Enviar».
+Abres tu [cartera](/es/glossary/#wallet), pones la dirección del destinatario, introduces el importe — y pulsas «Enviar».
 
 ¿El dinero ya se fue? Todavía no.
 
@@ -50,7 +50,7 @@ La transacción aún no se ha enviado. Es solo un borrador — un conjunto de da
 
 Tu cartera no «saca» dinero de una cuenta. En cambio, revisa todo el historial de transacciones anteriores que alguna vez llegaron a tu dirección y selecciona los saldos no gastados.
 
-Piensa que es como tener varios billetes diferentes en el bolsillo, y eliges con cuál pagar. En cripto, esos «billetes» son registros en la blockchain.
+Piensa que es como tener varios billetes diferentes en el bolsillo, y eliges con cuál pagar. En cripto, esos «billetes» son registros en la [blockchain](/es/glossary/#blockchain).
 
 > Para más información sobre cómo funcionan las direcciones y las claves, consulta el glosario: [dirección pública](/es/glossary/#direccion-publica), [clave privada](/es/glossary/#clave-privada).
 
@@ -60,7 +60,7 @@ Piensa que es como tener varios billetes diferentes en el bolsillo, y eliges con
 
 Ahora viene la parte más importante.
 
-Tu cartera toma los datos de la transacción y los firma con tu **clave privada**. Es como poner tu sello digital personal — uno que no se puede falsificar.
+Tu cartera toma los datos de la transacción y los firma con tu **[clave privada](/es/glossary/#private-key)**. Es como poner tu sello digital personal — uno que no se puede falsificar.
 
 ### Por qué las firmas no se pueden falsificar
 
@@ -99,7 +99,7 @@ Si todo está en orden — el nodo añade la transacción al **mempool** (abrevi
 
 ### El mempool — una sala de espera
 
-Piensa en una estación de tren. Tu transacción es un pasajero esperando subir a un tren (un bloque). Hay muchos pasajeros, el tren sale solo cada 10 minutos (en el caso de Bitcoin), y los asientos son limitados.
+Piensa en una estación de tren. Tu transacción es un pasajero esperando subir a un tren (un [bloque](/es/glossary/#block)). Hay muchos pasajeros, el tren sale solo cada 10 minutos (en el caso de Bitcoin), y los asientos son limitados.
 
 ¿Quién sube al tren? Los que pagaron un boleto — es decir, la comisión. Cuanto más alta sea la comisión, antes será seleccionada tu transacción para un bloque.
 
@@ -117,7 +117,7 @@ La transacción está en el mempool. Ahora necesita ser confirmada por un **mine
 
 Los mineros recogen transacciones del mempool y las empaquetan en un bloque. La prioridad depende de la comisión — cuanto más alta es la comisión, mayor es la prioridad.
 
-Una vez montado el bloque, el minero empieza a resolver un rompecabezas matemático (Prueba de Trabajo) para sellar el bloque. Esto requiere una potencia de cálculo masiva. Quien lo resuelva primero recibe:
+Una vez montado el bloque, el minero empieza a resolver un rompecabezas matemático ([Prueba de Trabajo](/es/glossary/#proof-of-work)) para sellar el bloque. Esto requiere una potencia de cálculo masiva. Quien lo resuelva primero recibe:
 
 - la recompensa del bloque (monedas recién acuñadas);
 - todas las comisiones de las transacciones incluidas.

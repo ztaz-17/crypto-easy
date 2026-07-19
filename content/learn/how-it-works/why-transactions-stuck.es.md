@@ -44,7 +44,7 @@ En este artículo veremos:
 
 Esta es la razón número uno.
 
-Cada transacción en blockchain es una solicitud para ocupar un lugar en un bloque. El espacio en los bloques es limitado. Los mineros (Bitcoin) o validadores (Ethereum) eligen qué transacciones incluir primero.
+Cada transacción en [blockchain](/es/glossary/#blockchain) es una solicitud para ocupar un lugar en un [bloque](/es/glossary/#block). El espacio en los bloques es limitado. Los mineros (Bitcoin) o validadores (Ethereum) eligen qué transacciones incluir primero.
 
 La regla es simple: **el que paga más, va primero.**
 
@@ -58,7 +58,7 @@ Aprende más sobre cómo se determinan las comisiones: [Por qué enviar crypto a
 
 Incluso con una comisión decente, tu transacción puede atascarse en horas pico.
 
-Cuando miles de transacciones se envían al mismo tiempo (por ejemplo, durante un ciclo de hype de memecoins, un NFT mint o un evento importante), el mempool se inunda. El tamaño del bloque sigue siendo el mismo, pero la cantidad de personas tratando de entrar es 10 veces mayor de lo normal.
+Cuando miles de transacciones se envían al mismo tiempo (por ejemplo, durante un ciclo de hype de memecoins, un [NFT](/es/glossary/#nft) mint o un evento importante), el mempool se inunda. El tamaño del bloque sigue siendo el mismo, pero la cantidad de personas tratando de entrar es 10 veces mayor de lo normal.
 
 En esos momentos, los mineros solo eligen las transacciones más jugosas — todos los demás esperan.
 
@@ -144,7 +144,7 @@ Wallets que soportan RBF:
 
 **Funciona en:** Bitcoin (limitado)
 
-Algunos pools de minería ofrecen servicios de aceleración de transacciones. Envías el hash de tu transacción atascada, pagas una comisión — y el pool la incluye en el siguiente bloque que minen.
+Algunos pools de [minería](/es/glossary/#mining) ofrecen servicios de aceleración de transacciones. Envías el hash de tu transacción atascada, pagas una comisión — y el pool la incluye en el siguiente bloque que minen.
 
 Servicios populares:
 

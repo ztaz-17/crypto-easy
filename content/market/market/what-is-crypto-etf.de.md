@@ -21,11 +21,11 @@ Am 18. Juli 2026 geschah etwas, worauf viele jahrelang gewartet hatten: Die SEC 
 
 Ein ETF (Exchange Traded Fund) ist ein Investmentfonds, dessen Anteile wie normale Aktien an einer Börse gehandelt werden können. Stell dir einen Obstkorb vor: Anstatt jedes Obst einzeln zu kaufen, kaufst du den ganzen Korb.
 
-**Ein Krypto-ETF** ist der gleiche Korb, aber statt Obst enthält er Bitcoin, Ethereum oder Solana. Du kaufst einen Anteil des Fonds, und der Fonds besitzt die echte Kryptowährung.
+**Ein Krypto-ETF** ist der gleiche Korb, aber statt Obst enthält er Bitcoin, Ethereum oder Solana. Du kaufst einen Anteil des Fonds, und der Fonds besitzt die echte [Kryptowährung](/de/glossary/#cryptocurrency).
 
 Der Hauptunterschied zum direkten Krypto-Kauf:
-- Kein Wallet nötig
-- Keine Seed-Phrase nötig
+- Kein [Wallet](/de/glossary/#wallet) nötig
+- Keine [Seed-Phrase](/de/glossary/#seed-phrase) nötig
 - Kein Umgang mit Gas-Gebühren und Netzwerk-Komplexität
 - Alles über ein normales Broker-Konto
 
@@ -45,7 +45,7 @@ Was das bedeutet:
 
 1. **Institutioneller Kapitalzufluss**. Große Fonds (Pensionen, Versicherungen, Universitätsstiftungen) können Krypto aufgrund regulatorischer Beschränkungen nicht direkt kaufen. ETFs lösen dieses Problem — jetzt können sie über ein vertrautes Instrument investieren.
 
-2. **Legitimierung von Solana als Anlagewert**. Die SEC ist die ochste US-Regulierungsbehörde. Ihre Genehmigung bedeutet, dass Solana als legitimer Anlagewert anerkannt wird, nicht nur als «Token». Dies reduziert das regulatorische Risiko für alle SOL-Inhaber.
+2. **Legitimierung von Solana als Anlagewert**. Die SEC ist die ochste US-Regulierungsbehörde. Ihre Genehmigung bedeutet, dass Solana als legitimer Anlagewert anerkannt wird, nicht nur als «[Token](/de/glossary/#token)». Dies reduziert das regulatorische Risiko für alle SOL-Inhaber.
 
 3. **Ein Präzedenzfall für andere Altcoins**. Solanas Genehmigung öffnet die Tür für ETFs auf andere Kryptowährungen: BNB, XRP, Cardano, Avalanche. Wenn die SEC zuvor alle Altcoins außer BTC und ETH als Wertpapiere betrachtete, ändert der Solana-Präzedenzfall diese Position.
 

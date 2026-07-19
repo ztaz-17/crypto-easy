@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Picture this: you need money fast, but the bank turns you down because of a bad credit score. Or maybe you want to take out a loan but don't feel like going through KYC and filling out endless forms.
+Picture this: you need money fast, but the bank turns you down because of a bad credit score. Or maybe you want to take out a loan but don't feel like going through [KYC](/en/glossary/#kyc) and filling out endless forms.
 
-In DeFi, that's not a problem.
+In [DeFi](/en/glossary/#defi), that's not a problem.
 
 > **A crypto loan** is money you borrow against your crypto as collateral — without a single question about your credit history.
 
@@ -52,13 +52,13 @@ DeFi works completely differently:
 The process is simple:
 
 1. You deposit crypto (say, ETH) into a smart contract;
-2. The smart contract lets you borrow a different cryptocurrency (like USDC);
+2. The smart contract lets you borrow a different [cryptocurrency](/en/glossary/#cryptocurrency) (like USDC);
 3. You use the borrowed funds;
 4. When you pay back the loan plus interest — your collateral is unlocked.
 
 > The key difference: **a loan is issued not by a person or a company, but by code.**
 
-Nobody asks where you work or how much you earn. Just connect your wallet and deposit collateral.
+Nobody asks where you work or how much you earn. Just connect your [wallet](/en/glossary/#wallet) and deposit collateral.
 
 ---
 
@@ -121,7 +121,7 @@ A **penalty** is added to the liquidation amount — typically 5–15% of the su
 
 1. **Don't borrow the max.** If you can take $75 on $100 — borrow $40–50. The smaller the debt, the bigger your safety margin.
 2. **Watch the price.** On volatile days, check your health factor every few hours.
-3. **Add more collateral.** If ETH drops — top up with more ETH (or stablecoins) to raise your health factor.
+3. **Add more collateral.** If ETH drops — top up with more ETH (or [stablecoins](/en/glossary/#stablecoin)) to raise your health factor.
 4. **Use alerts.** There are services that notify you when your health factor gets low (e.g., DeBank or Aave's built-in notifications).
 
 ---
@@ -204,7 +204,7 @@ If you lose access to your wallet or simply don't have the funds to repay — yo
 
 ### 5. "Junk" Collateral Assets
 
-Some protocols let you deposit obscure tokens with low liquidity as collateral. A sharp drop in such an asset can liquidate your entire position in minutes.
+Some protocols let you deposit obscure [tokens](/en/glossary/#token) with low [liquidity](/en/glossary/#liquidity) as collateral. A sharp drop in such an asset can liquidate your entire position in minutes.
 
 > Only use reliable assets with high liquidity (ETH, WBTC, USDC, DAI).
 

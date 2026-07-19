@@ -23,8 +23,8 @@ Todos cometemos errores. En cripto, el precio de un error puede ser alto, pero *
 Aquí están los 4 errores más comunes de principiantes:
 
 - Enviar a la red equivocada
-- Perder la frase semilla
-- Dar aprobación ilimitada de tokens a un contrato
+- Perder la [frase semilla](/es/glossary/#seed-phrase)
+- Dar aprobación ilimitada de [tokens](/es/glossary/#token) a un contrato
 - Caer en una estafa
 
 Cada uno: situación real, consecuencias y un plan de acción paso a paso.
@@ -35,7 +35,7 @@ Cada uno: situación real, consecuencias y un plan de acción paso a paso.
 
 ### La situación
 
-Transferiste USDT de Binance a MetaMask. Elegiste **BEP-20** (BSC). Pero tu MetaMask solo estaba configurada para **Ethereum (ERC-20)**. La transacción se completó, pero los tokens **no aparecieron** en tu billetera.
+Transferiste USDT de Binance a MetaMask. Elegiste **BEP-20** (BSC). Pero tu MetaMask solo estaba configurada para **Ethereum (ERC-20)**. La transacción se completó, pero los tokens **no aparecieron** en tu [billetera](/es/glossary/#wallet).
 
 ### Por qué sucede
 
@@ -53,7 +53,7 @@ Redes no coincidentes. Enviaste tokens a la dirección correcta pero a la red eq
 
 ### Cuándo no tiene remedio
 
-Solo si enviaste a una **dirección que no es tuya** (error al escribir la dirección). Las transacciones en blockchain son irreversibles.
+Solo si enviaste a una **dirección que no es tuya** (error al escribir la dirección). Las transacciones en [blockchain](/es/glossary/#blockchain) son irreversibles.
 
 > **Regla:** siempre verifica tres veces la red y la dirección antes de enviar.
 
@@ -93,13 +93,13 @@ Sin copia de la frase semilla + sin billetera instalada con contraseña guardada
 
 ### La situación
 
-Probaste un nuevo proyecto DeFi. Sitio web de aspecto profesional, whitepaper, ticker del token. Conectaste MetaMask, hiciste clic en "Confirmar" en la ventana de approve — no revisaste el límite.
+Probaste un nuevo proyecto [DeFi](/es/glossary/#defi). Sitio web de aspecto profesional, whitepaper, ticker del token. Conectaste MetaMask, hiciste clic en "Confirmar" en la ventana de approve — no revisaste el límite.
 
 Una semana después: todo el USDT desapareció. El contrato era malicioso: aprobaste gasto ilimitado (MAX_UINT_256) y el atacante vació todo.
 
 ### Por qué sucedió
 
-Al usar dApps, firmas un `approve` — permitiendo que un contrato gaste tus tokens. La mayoría de los proyectos piden **ilimitado** por conveniencia. Si el contrato es malicioso, el atacante puede tomar **todos** tus tokens.
+Al usar [dApps](/es/glossary/#dapp), firmas un `approve` — permitiendo que un contrato gaste tus tokens. La mayoría de los proyectos piden **ilimitado** por conveniencia. Si el contrato es malicioso, el atacante puede tomar **todos** tus tokens.
 
 ### Cómo solucionarlo
 
@@ -116,7 +116,7 @@ Al usar dApps, firmas un `approve` — permitiendo que un contrato gaste tus tok
 ### Prevención
 - Nunca firmes approve sin revisar el monto
 - Usa Rabby Wallet — advierte sobre aprobaciones ilimitadas
-- Mantén los fondos principales en una billetera fría; usa una dirección separada para DeFi
+- Mantén los fondos principales en una [billetera fría](/es/glossary/#cold-wallet); usa una dirección separada para DeFi
 - Revisa las aprobaciones mensualmente con Revoke.cash
 
 ---
@@ -127,7 +127,7 @@ Al usar dApps, firmas un `approve` — permitiendo que un contrato gaste tus tok
 Recibes un mensaje de Telegram de "Soporte de Binance": "Cuenta bloqueada, verifica mediante este enlace". El enlace lleva a un sitio que se ve **exactamente como Binance**. Ingresas usuario, contraseña, 2FA — y 5 minutos después, todos los fondos desaparecieron.
 
 ### Escenario 2: Airdrop falso
-Una publicación en Twitter: "¡Airdrop urgente de $PEPE — conecta tu billetera!" Conectas MetaMask y firmas, pensando que estás recibiendo tokens. En realidad firmaste un `approve` para un contrato malicioso — y todo el ETH fue robado.
+Una publicación en Twitter: "¡[Airdrop](/es/glossary/#airdrop) urgente de $PEPE — conecta tu billetera!" Conectas MetaMask y firmas, pensando que estás recibiendo tokens. En realidad firmaste un `approve` para un contrato malicioso — y todo el ETH fue robado.
 
 ### Qué hacer si ya fuiste estafado
 
@@ -159,7 +159,7 @@ Una publicación en Twitter: "¡Airdrop urgente de $PEPE — conecta tu billeter
 
 | Error | Consecuencia | Solución |
 |---------|------------|-----|
-| Red equivocada | Tokens "invisibles" | Agrega la red a la billetera o usa un puente |
+| Red equivocada | Tokens "invisibles" | Agrega la red a la billetera o usa un [puente](/es/glossary/#bridge) |
 | Frase semilla perdida | Sin acceso a la billetera | Busca respaldos, usa recuperación por contraseña si la billetera está abierta, servicio profesional |
 | Approve ilimitado | Todos los tokens pueden ser vaciados | Revoke.cash (si los tokens aún están) |
 | Phishing/estafa | Fondos drenados | Mueve los restantes, revoca aprobaciones, cambia contraseñas, billetera nueva |

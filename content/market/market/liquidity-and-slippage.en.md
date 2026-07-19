@@ -25,7 +25,7 @@ You lower the price to $99. Then $98. Only when you get down to $95 does someone
 
 Or the other way around: you want to buy an altcoin. You see the price at $10, hit "Buy" — and the order fills at $12. How is that possible?
 
-It all comes down to **liquidity**.
+It all comes down to **[liquidity](/en/glossary/#liquidity)**.
 
 In this article we'll cover:
 >- what liquidity means in simple terms;
@@ -49,7 +49,7 @@ In this article we'll cover:
 Same thing in crypto:
 
 - **Bitcoin on Binance** — high liquidity. You can sell $50,000 in seconds and the price barely moves.
-- **An obscure token on a small exchange** — low liquidity. Even a $1,000 sell order can move the price by 10-20%.
+- **An obscure [token](/en/glossary/#token) on a small exchange** — low liquidity. Even a $1,000 sell order can move the price by 10-20%.
 
 ### Why it matters
 
@@ -113,7 +113,7 @@ If you see a spread of 5-10% on an exchange — that's a red flag. Buying that c
 
 ### What slippage is
 
-**Slippage** is the difference between the price you expected and the price your order actually filled at.
+**[Slippage](/en/glossary/#slippage)** is the difference between the price you expected and the price your order actually filled at.
 
 It happens because there isn't enough liquidity at the level you wanted.
 
@@ -170,17 +170,17 @@ Everyone wants to sell — nobody wants to buy. The spread blows out to ridiculo
 
 ### 3. Price manipulation
 
-On low-liquidity coins, it's easy to manipulate the price. A large player (whale) can:
+On low-liquidity coins, it's easy to manipulate the price. A large player ([whale](/en/glossary/#whale)) can:
 
 - boost the price 50% with a single order;
-- wait for newcomers to pile in on FOMO;
+- wait for newcomers to pile in on [FOMO](/en/glossary/#fomo);
 - sell everything at the high price — and the price crashes back down.
 
 This is the classic **Pump & Dump** scheme, and it only works on coins with low liquidity.
 
 ### 4. Unpredictable fees
 
-On some decentralized exchanges, when liquidity is low, transaction fees can be higher than the trade itself. Or the trade simply fails — there isn't enough pool depth.
+On some [decentralized](/en/glossary/#decentralization) exchanges, when liquidity is low, transaction fees can be higher than the trade itself. Or the trade simply fails — there isn't enough pool depth.
 
 ---
 

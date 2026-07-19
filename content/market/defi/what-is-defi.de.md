@@ -42,7 +42,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist DeFi
 
-**DeFi** (Decentralized Finance) bezeichnet Finanzdienstleistungen, die auf einer Blockchain mit **Smart Contracts** laufen.
+**[DeFi](/de/glossary/#defi)** (Decentralized Finance) bezeichnet Finanzdienstleistungen, die auf einer [Blockchain](/de/glossary/#blockchain) mit **Smart Contracts** laufen.
 
 Statt Banken, Maklern und Versicherungen — Code.
 
@@ -85,7 +85,7 @@ Niemand kann diese Operation rückgängig machen — der Code führt sie genau s
 
 ### 3. Wallet
 
-Nutzer verbinden sich über eine nicht-verwahrende Wallet (MetaMask, WalletConnect, Rabby) mit DeFi. Eine Wallet ist wie ein Bankkonto, aber **du hast die volle Kontrolle über dein Geld**.
+Nutzer verbinden sich über eine nicht-verwahrende [Wallet](/de/glossary/#wallet) (MetaMask, WalletConnect, Rabby) mit DeFi. Eine Wallet ist wie ein Bankkonto, aber **du hast die volle Kontrolle über dein Geld**.
 
 ---
 
@@ -93,7 +93,7 @@ Nutzer verbinden sich über eine nicht-verwahrende Wallet (MetaMask, WalletConne
 
 ### Uniswap — Dezentrale Börse
 
-**Uniswap** ermöglicht es dir, Token ohne Mittelsmänner zu tauschen.
+**Uniswap** ermöglicht es dir, [Token](/de/glossary/#token) ohne Mittelsmänner zu tauschen.
 
 So funktioniert's:
 
@@ -103,7 +103,7 @@ So funktioniert's:
 
 Kein „Orderbuch" wie an einer traditionellen Börse. Kein „Ihre Order wird bearbeitet." Einfach senden und empfangen.
 
-👉 Uniswap ist die größte DEX (dezentrale Börse) mit Milliardenumsätzen pro Tag.
+👉 Uniswap ist die größte [DEX](/de/glossary/#dex) (dezentrale Börse) mit Milliardenumsätzen pro Tag.
 
 ---
 
@@ -129,7 +129,7 @@ Keine Bonitätsauskunft, kein Einkommensnachweis, keine Anrufe von der Bank.
 
 ### MakerDAO — Dezentrale Stablecoin
 
-**MakerDAO** ist das Protokoll hinter **DAI** — einer Stablecoin, die an den US-Dollar gekoppelt ist.
+**MakerDAO** ist das Protokoll hinter **DAI** — einer [Stablecoin](/de/glossary/#stablecoin), die an den US-Dollar gekoppelt ist.
 
 So funktioniert's:
 
@@ -149,7 +149,7 @@ Der entscheidende Punkt: DAI wird nicht von einer Bank oder einem Unternehmen au
 | Kriterium              | Traditionelle Finanzen        | DeFi                             |
 |------------------------|-------------------------------|----------------------------------|
 | Kontrolle              | Bank / Staat                  | Nutzer (selbst)                  |
-| Zugang                 | Ausweis, KYC, Mindestalter    | Nur Internet nötig               |
+| Zugang                 | Ausweis, [KYC](/de/glossary/#kyc), Mindestalter    | Nur Internet nötig               |
 | Öffnungszeiten         | Geschäftszeiten, Wochenende zu| 24/7, keine freien Tage          |
 | Überweisungsdauer      | Stunden–Tage (international)  | Sekunden–Minuten                 |
 | Gebühren               | Oft versteckt                 | Transparent (Gas + Poolgebühr)   |
@@ -173,7 +173,7 @@ Smart Contracts werden von Menschen geschrieben. Menschen machen Fehler. Enthäl
 
 ### Verlust des Zugriffs
 
-Du kontrollierst dein Geld über den privaten Schlüssel deiner Wallet. Verlierst du deinen Schlüssel oder deine Seed-Phrase, ist dein Geld für immer weg. Die Bank wird dir nicht helfen.
+Du kontrollierst dein Geld über den [privaten Schlüssel](/de/glossary/#private-key) deiner Wallet. Verlierst du deinen Schlüssel oder deine [Seed-Phrase](/de/glossary/#seed-phrase), ist dein Geld für immer weg. Die Bank wird dir nicht helfen.
 
 ### Kurseinbrüche (Liquidationen)
 

@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Encontraste una gran oferta en Binance P2P. Un vendedor ofrece USDT un 5% por debajo del precio de mercado. Rápidamente te escribe en el chat: "Te estoy enviando la transferencia ahora, espera". Un minuto después te manda una captura de pantalla de una transferencia bancaria y te exige que liberes las criptos.
+Encontraste una gran oferta en Binance [P2P](/es/glossary/#p2p). Un vendedor ofrece USDT un 5% por debajo del precio de mercado. Rápidamente te escribe en el chat: "Te estoy enviando la transferencia ahora, espera". Un minuto después te manda una captura de pantalla de una transferencia bancaria y te exige que liberes las criptos.
 
 Revisas tu saldo en la app del banco — no hay dinero. Pero la captura se ve real. El vendedor te presiona: "La transferencia ya está enviada, el banco la está procesando, ¡libera los USDT o voy a presentar una queja!"
 
@@ -39,7 +39,7 @@ P2P (peer-to-peer) es el intercambio directo entre personas. Sin intermediarios:
 
 - te pones de acuerdo con el vendedor;
 - le transfieres dinero a su tarjeta;
-- él te envía la criptomoneda.
+- él te envía la [criptomoneda](/es/glossary/#cryptocurrency).
 
 La plataforma (Binance P2P, Bybit P2P, OKX P2P) actúa solo como **árbitro** — retiene las criptos del vendedor en garantía hasta que confirmes el pago.
 

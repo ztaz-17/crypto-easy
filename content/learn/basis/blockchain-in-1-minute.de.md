@@ -26,7 +26,7 @@ Und jetzt das Beste:
 
 Selbst wenn jemand eine Million Euro dazu dichten wollte — müsste er alle 10.000 Kopien gleichzeitig ändern. Alle anderen würden den Betrug sofort bemerken und die unehrliche Version ablehnen.
 
-Das ist **Blockchain**.
+Das ist **[Blockchain](/de/glossary/#blockchain)**.
 
 Nur statt einem "Heft" — ein digitales Hauptbuch. Statt "Freunden" — Computer auf der ganzen Welt. Und statt "handschriftlichen Notizen" — mathematische Formeln, die man nicht täuschen kann.
 
@@ -62,7 +62,7 @@ In einer normalen Schule hat der Lehrer das Klassenbuch. Wenn der Lehrer eine No
 
 ### Wie ein Block funktioniert
 
-Blockchain besteht aus Blöcken. Jeder Block ist wie eine Seite im gemeinsamen Heft. Er enthält:
+Blockchain besteht aus Blöcken. Jeder [Block](/de/glossary/#block) ist wie eine Seite im gemeinsamen Heft. Er enthält:
 
 - **mehrere Transaktionen** (wer hat wem was geschickt);
 - **einen Zeitstempel** (wann der Block erstellt wurde);
@@ -119,7 +119,7 @@ Das Netzwerk läuft, solange auch nur ein Teilnehmer am Leben ist.
 
 > **Bitcoin läuft seit 2009 und wurde noch nie gehackt.**
 
-In über 16 Jahren konnte niemand Einträge fälschen oder Coins durch "Netzwerk-Hacking" stehlen. Alle Crypto-Vorfälle betrafen Börsen und Wallets — wo Menschen **selbst** den Zugriff auf ihre Schlüssel verloren. Die Blockchain selbst blieb unberührt.
+In über 16 Jahren konnte niemand Einträge fälschen oder Coins durch "Netzwerk-Hacking" stehlen. Alle Crypto-Vorfälle betrafen Börsen und [Wallets](/de/glossary/#wallet) — wo Menschen **selbst** den Zugriff auf ihre Schlüssel verloren. Die Blockchain selbst blieb unberührt.
 
 ---
 

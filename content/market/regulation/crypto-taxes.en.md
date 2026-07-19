@@ -19,7 +19,7 @@ keywords:
 
 Crypto gives you financial freedom. But it doesn't cancel taxes.
 
-A lot of people think: "crypto is anonymous, the taxman won't know." That's a dangerous myth. Exchanges hand over data to regulators, the blockchain is public, and tax authorities are tracking crypto assets more aggressively than ever.
+A lot of people think: "crypto is anonymous, the taxman won't know." That's a dangerous myth. Exchanges hand over data to regulators, the [blockchain](/en/glossary/#blockchain) is public, and tax authorities are tracking crypto assets more aggressively than ever.
 
 > **Reality:** crypto taxes aren't a matter of "if" — they're a matter of "when."
 
@@ -34,7 +34,7 @@ In this article we'll cover:
 
 ## Crypto Is an Asset. Taxes Are a Fact of Life
 
-Legally speaking, most countries treat cryptocurrency as **property** or **an asset** — not as money.
+Legally speaking, most countries treat [cryptocurrency](/en/glossary/#cryptocurrency) as **property** or **an asset** — not as money.
 
 That means:
 
@@ -53,7 +53,7 @@ The most obvious case. You sold Bitcoin for dollars, euros, or rubles — you ma
 
 ### Swapping One Crypto for Another
 
-In some countries (like the US) **trading BTC for ETH** is also a taxable event. Even if you never cashed out to fiat.
+In some countries (like the US) **trading BTC for ETH** is also a taxable event. Even if you never cashed out to [fiat](/en/glossary/#fiat).
 
 The calculation works like this:
 
@@ -104,7 +104,7 @@ This is called **capital gains tax**. Rates depend on how long you held:
 
 ## Where to Pay Taxes: Residency Principle
 
-You pay taxes where you're a **tax resident** — not where the exchange or wallet is located.
+You pay taxes where you're a **tax resident** — not where the exchange or [wallet](/en/glossary/#wallet) is located.
 
 > **If you're a Russian tax resident** — you report to the Russian tax service even if you trade on Binance and live in Thailand on a tourist visa.
 
@@ -172,7 +172,7 @@ Crypto is legal in Russia, but regulated:
 | USA | Up to 37% (short-term), up to 20% (long-term) | 1 year | Even coin-to-coin swaps are taxable |
 | Germany | 0% if held >1 year, up to 45% if under 1 year | 1 year | One of the best for HODLers |
 | Portugal | 0% if held >1 year, 28% if under 1 year | 1 year | Former crypto haven, now moderate |
-| Russia | 13–15% (PIT) | None | Mining legalized, ELR for selling |
+| Russia | 13–15% (PIT) | None | [Mining](/en/glossary/#mining) legalized, ELR for selling |
 | UAE | 0% | — | No capital gains tax |
 | Singapore | 0% | — | No capital gains tax |
 

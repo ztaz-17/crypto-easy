@@ -42,7 +42,7 @@ In this article, we'll cover:
 
 ## What Is DeFi
 
-**DeFi** (Decentralized Finance) refers to financial services that run on a blockchain using **smart contracts**.
+**[DeFi](/en/glossary/#defi)** ([Decentralized](/en/glossary/#decentralization) Finance) refers to financial services that run on a [blockchain](/en/glossary/#blockchain) using **smart contracts**.
 
 Instead of banks, brokers, and insurance companies — code.
 
@@ -85,7 +85,7 @@ No one can cancel this operation — the code executes it exactly as written.
 
 ### 3. Wallet
 
-Users connect to DeFi through a non-custodial wallet (MetaMask, WalletConnect, Rabby). A wallet is like a bank account, but **you have full control over your funds**.
+Users connect to DeFi through a non-custodial [wallet](/en/glossary/#wallet) (MetaMask, WalletConnect, Rabby). A wallet is like a bank account, but **you have full control over your funds**.
 
 ---
 
@@ -93,17 +93,17 @@ Users connect to DeFi through a non-custodial wallet (MetaMask, WalletConnect, R
 
 ### Uniswap — Decentralized Exchange
 
-**Uniswap** lets you swap tokens without middlemen.
+**Uniswap** lets you swap [tokens](/en/glossary/#token) without middlemen.
 
 How it works:
 
-- users create **liquidity pools** — they deposit pairs of tokens (e.g., ETH and USDC);
+- users create **[liquidity](/en/glossary/#liquidity) pools** — they deposit pairs of tokens (e.g., ETH and USDC);
 - other users trade directly through these pools;
 - each swap charges a small fee that's distributed to liquidity providers.
 
 No "order books" like on a traditional exchange. No "your order is pending." Just send and receive.
 
-👉 Uniswap is the largest DEX (decentralized exchange) with billions of dollars in daily trading volume.
+👉 Uniswap is the largest [DEX](/en/glossary/#dex) (decentralized exchange) with billions of dollars in daily trading volume.
 
 ---
 
@@ -129,7 +129,7 @@ No credit history, no proof of income, no bank calls.
 
 ### MakerDAO — Decentralized Stablecoin
 
-**MakerDAO** is the protocol behind **DAI** — a stablecoin pegged to the US dollar.
+**MakerDAO** is the protocol behind **DAI** — a [stablecoin](/en/glossary/#stablecoin) pegged to the US dollar.
 
 How it works:
 
@@ -149,7 +149,7 @@ The key point: DAI isn't issued by a bank or company. Users create it themselves
 | Criteria                  | Traditional Finance         | DeFi                             |
 |---------------------------|-----------------------------|----------------------------------|
 | Control                   | Bank / Government           | User (self)                      |
-| Access                    | Need ID, KYC, minimum age   | Just need internet               |
+| Access                    | Need ID, [KYC](/en/glossary/#kyc), minimum age   | Just need internet               |
 | Operating hours           | Business hours, weekends off| 24/7, no days off                |
 | Transfer speed            | Hours–days (international)  | Seconds–minutes                  |
 | Fees                      | Often hidden                | Transparent (gas + pool fee)     |
@@ -173,7 +173,7 @@ Smart contracts are written by people. People make mistakes. If the code has a v
 
 ### Loss of Access
 
-You control your funds through your wallet's private key. If you lose your key or seed phrase, your money is gone forever. The bank won't help you.
+You control your funds through your wallet's [private key](/en/glossary/#private-key). If you lose your key or [seed phrase](/en/glossary/#seed-phrase), your money is gone forever. The bank won't help you.
 
 ### Price Crashes (Liquidations)
 
@@ -196,7 +196,7 @@ DeFi is an alternative financial system run by code, not banks.
 | Pros                              | Cons                              |
 |-----------------------------------|-----------------------------------|
 | Accessible to anyone with internet| Risk of hacks and loss of funds   |
-| No blocks or censorship           | No customer support               |
+| No [blocks](/en/glossary/#block) or censorship           | No customer support               |
 | Transparency (everything on-chain)| You need to learn the ropes       |
 | Interest rates often higher than banks | High gas during congestion   |
 

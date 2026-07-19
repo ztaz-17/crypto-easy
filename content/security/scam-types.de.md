@@ -24,7 +24,7 @@ Anonyme Transaktionen, unwiderrufliche Überweisungen und die Tatsache, dass es 
 
 > **Niemand wird dir dein gestohlenes Crypto zurückgeben.**
 
-Nicht die Bank. Nicht die Polizei. Nicht die Blockchain-Entwickler.
+Nicht die Bank. Nicht die Polizei. Nicht die [Blockchain](/de/glossary/#blockchain)-Entwickler.
 
 Deshalb muss jeder Nutzer selbst wissen, wie man Gefahren erkennt.
 
@@ -44,7 +44,7 @@ In diesem Artikel behandeln wir:
 
 Das Ziel – dich dazu zu bringen, Folgendes einzugeben:
 
-- deine Seed-Phrase;
+- deine [Seed-Phrase](/de/glossary/#seed-phrase);
 - deinen Private Key;
 - dein Exchange-Passwort.
 
@@ -52,7 +52,7 @@ Sobald du das tust – sind deine Gelder in Sekunden weg.
 
 ### Echte Beispiele
 
-- **Fake MetaMask** – eine Seite wie `metamask-login.com` bittet dich, „dein Wallet zu verifizieren";
+- **Fake MetaMask** – eine Seite wie `metamask-login.com` bittet dich, „dein [Wallet](/de/glossary/#wallet) zu verifizieren";
 - **Offiziell aussehende E-Mail von „Binance"** – „Dein Konto wurde gesperrt, klicke hier";
 - **SMS von „der Börse"** – der Link führt zu einer gefälschten Login-Seite;
 - **Google Ads** – das oberste Suchergebnis für „Uniswap" kann ein Klon sein.
@@ -95,7 +95,7 @@ Du landest auf einer solchen Seite über eine Anzeige, eine E-Mail oder eine Soc
 
 ### Wie es funktioniert
 
-Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüger missbrauchen dieses System:
+Ein [Airdrop](/de/glossary/#airdrop) ist eine kostenlose [Token](/de/glossary/#token)-Verteilung, um Nutzer anzulocken. Betrüger missbrauchen dieses System:
 
 1. Sie versprechen kostenlose Tokens – du musst nur „dein Wallet verbinden."
 2. Du gehst auf die Seite und klickst auf „Claim."
@@ -105,7 +105,7 @@ Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüge
 ### Echte Beispiele
 
 - **Uniswap UNI Airdrop** – Dutzende Fake-Seiten tauchten nach dem echten Uniswap-Airdrop auf;
-- **Fake-NFT-Mints** – „kostenloser NFT-Mint", der dein ETH abzieht, wenn du signierst;
+- **Fake-[NFT](/de/glossary/#nft)-Mints** – „kostenloser NFT-Mint", der dein ETH abzieht, wenn du signierst;
 - **Token-Approval-Betrug** – die Seite bittet dich, ein `approve` für einen unbegrenzten Betrag zu signieren.
 
 ### So schützt du dich
@@ -124,7 +124,7 @@ Ein Airdrop ist eine kostenlose Token-Verteilung, um Nutzer anzulocken. Betrüge
 
 ### Wie es funktioniert
 
-Betrüger erstellen gefälschte „Support"-Accounts für Börsen, Wallets und DeFi-Protokolle. Sie finden Nutzer auf Telegram, Discord oder Twitter (X) und bieten Hilfe an.
+Betrüger erstellen gefälschte „Support"-Accounts für Börsen, Wallets und [DeFi](/de/glossary/#defi)-Protokolle. Sie finden Nutzer auf Telegram, Discord oder Twitter (X) und bieten Hilfe an.
 
 Das Drehbuch:
 
@@ -243,7 +243,7 @@ Bevor du einen Link anklickst oder Daten eingibst, geh diese 5 Schritte durch:
 - **Gib niemals deine Seed-Phrase weiter.** Nicht an den „Support", nicht einmal an die Familie.
 - **Signiere nicht blind.** Jede Transaktion ist eine Aktion mit echtem Geld.
 - **Klicke keine Links aus sozialen Medien** – Betrüger geben sich als offizielle Projekt-Accounts aus.
-- **Halte den Großteil deiner Gelder in einem Cold Wallet.** Wenn du das Geld nicht anfasst, lass es auf einem Ledger oder Trezor liegen.
+- **Halte den Großteil deiner Gelder in einem [Cold Wallet](/de/glossary/#cold-wallet).** Wenn du das Geld nicht anfasst, lass es auf einem Ledger oder Trezor liegen.
 - **Nutze ein separates Wallet für Experimente.** Signiere verdächtige Transaktionen nur auf einem Wallet mit minimalem Guthaben.
 - **Aktiviere die Zwei-Faktor-Authentifizierung (2FA)** auf Börsen – verwende Google Authenticator, nicht SMS.
 

@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Klar, du hast schon die Anzeigen gesehen: „1000 % APY!“, „Verdiene Krypto mit null Aufwand!“, „DeFi ist das neue Öl!“
+Klar, du hast schon die Anzeigen gesehen: „1000 % APY!“, „Verdiene Krypto mit null Aufwand!“, „[DeFi](/de/glossary/#defi) ist das neue Öl!“
 
 Klingt zu schön, um wahr zu sein. Aber hinter diesen Zahlen steckt tatsächlich ein funktionierendes Prinzip – **Yield Farming**. Und ja, einige Leute verdienen damit wirklich Geld.
 
@@ -34,7 +34,7 @@ In diesem Artikel erfährst du:
 
 ## Was ist Yield Farming
 
-**Yield Farming** (auch **Liquiditäts-Mining** genannt) bedeutet, dass du deine Krypto-Assets an Liquiditätspools auf dezentralen Protokollen (DEXs, Kreditplattformen) verleihst und dafür Belohnungen bekommst.
+**Yield Farming** (auch **Liquiditäts-[Mining](/de/glossary/#mining)** genannt) bedeutet, dass du deine Krypto-Assets an Liquiditätspools auf dezentralen Protokollen (DEXs, Kreditplattformen) verleihst und dafür Belohnungen bekommst.
 
 Einfach gesagt:
 
@@ -48,7 +48,7 @@ Die Rendite wird in **APY** (Annual Percentage Yield) gemessen – der jährlich
 
 ### 1. Du wählst ein Protokoll
 
-Zum Beispiel **Uniswap**, **Curve**, **Aave**, **Compound** oder **PancakeSwap**. Jedes bietet Pools für verschiedene Token-Paare an.
+Zum Beispiel **Uniswap**, **Curve**, **Aave**, **Compound** oder **PancakeSwap**. Jedes bietet Pools für verschiedene [Token](/de/glossary/#token)-Paare an.
 
 ### 2. Du zahlst Liquidität ein
 
@@ -75,7 +75,7 @@ Sie setzt sich aus drei Komponenten zusammen:
 
 - **Poolgebühren** – echte Handelsgebühren von Tradern
 - **Belohnungs-Token** – das Protokoll druckt eigene Token und gibt sie an Liquiditätsanbieter
-- **Inflation** – je mehr Token ausgegeben werden, desto höher der APY (aber der Token-Kurs kann fallen)
+- **[Inflation](/de/glossary/#inflation)** – je mehr Token ausgegeben werden, desto höher der APY (aber der Token-Kurs kann fallen)
 
 > **Wichtig:** Ein hoher APY wird oft durch aggressive Token-Ausschüttung angetrieben. Wenn der Token-Kurs schneller fällt, als du verdienst, machst du trotzdem Verlust.
 
@@ -85,7 +85,7 @@ Sie setzt sich aus drei Komponenten zusammen:
 
 ### Klassisch (Liquiditäts-Mining)
 
-Du zahlst ein Token-Paar in einen DEX-Pool (Uniswap, PancakeSwap) ein und verdienst Gebühren plus Protokoll-Token.
+Du zahlst ein Token-Paar in einen [DEX](/de/glossary/#dex)-Pool (Uniswap, PancakeSwap) ein und verdienst Gebühren plus Protokoll-Token.
 
 ### Verleihen
 
@@ -116,12 +116,12 @@ Warum „impermanent“? Weil der Verlust verschwindet, wenn der Kurs zurückgeh
 **Wann IL besonders gefährlich ist:**
 
 - bei hoher Volatilität;
-- bei einem Pool, der einen Stablecoin mit einem volatilen Asset kombiniert;
+- bei einem Pool, der einen [Stablecoin](/de/glossary/#stablecoin) mit einem volatilen Asset kombiniert;
 - bei langer Haltedauer.
 
 ### 2. Rug Pull
 
-Die Entwickler erstellen einen Pool, locken Nutzer mit extrem hohen Renditen an, ziehen dann die Liquidität ab – und weg ist das Geld.
+Die Entwickler erstellen einen Pool, locken Nutzer mit extrem hohen Renditen an, ziehen dann die [Liquidität](/de/glossary/#liquidity) ab – und weg ist das Geld.
 
 **So schützt du dich:**
 
@@ -131,7 +131,7 @@ Die Entwickler erstellen einen Pool, locken Nutzer mit extrem hohen Renditen an,
 
 ### 3. Smart-Contract-Fehler
 
-Selbst geprüfte Protokolle können Bugs haben. Beispiele: der Nomad-Bridge-Hack (190 Mio. $), Vorfälle mit Cream Finance.
+Selbst geprüfte Protokolle können Bugs haben. Beispiele: der Nomad-[Bridge](/de/glossary/#bridge)-Hack (190 Mio. $), Vorfälle mit Cream Finance.
 
 ### 4. Kursverfall der Token
 
@@ -176,7 +176,7 @@ Eine Checkliste vor der Einzahlung:
 
 - [ ] Hat das Protokoll ein Audit? (von CertiK, Trail of Bits, OpenZeppelin)
 - [ ] Wie lange existiert das Projekt schon?
-- [ ] Wie viel Liquidität steckt im Pool? (TVL – Total Value Locked)
+- [ ] Wie viel Liquidität steckt im Pool? ([TVL](/de/glossary/#tvl) – Total Value Locked)
 - [ ] Wie hoch ist das Handelsvolumen?
 - [ ] Wer steckt hinter dem Projekt? Gibt es Infos über das Team?
 - [ ] Wie viel des APY stammt aus Belohnungs-Token und wie viel aus echten Gebühren?

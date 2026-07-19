@@ -41,7 +41,7 @@ This article covers real stories from countries where crypto became not a way to
 
 ### What Happened
 
-Starting in 2016, Venezuela entered one of the worst hyperinflations in human history. By some estimates, inflation reached **1,000,000%** per year.
+Starting in 2016, Venezuela entered one of the worst hyperinflations in human history. By some estimates, [inflation](/en/glossary/#inflation) reached **1,000,000%** per year.
 
 Prices rose every hour. People ran to stores right after getting paid — if you were a couple of hours late, the same amount bought half as much.
 
@@ -56,14 +56,14 @@ Holding money in **bolivars** (the national currency) was pointless:
 Venezuela became one of the largest crypto markets in Latin America. Why?
 
 1. **Bitcoin and stablecoins** — people bought [USDT](/en/glossary/#usdt) and [USDC](/en/glossary/#usdc), which are pegged to the dollar, to preserve the value of their savings.
-2. **Peer-to-peer (P2P) exchanges** — the main infrastructure. The banking system was almost destroyed, but the internet was still there.
-3. **Remittances** — Venezuelans abroad sent crypto home instead of fiat.
+2. **Peer-to-peer ([P2P](/en/glossary/#p2p)) exchanges** — the main infrastructure. The banking system was almost destroyed, but the internet was still there.
+3. **Remittances** — Venezuelans abroad sent crypto home instead of [fiat](/en/glossary/#fiat).
 
 > **When banks don't work and the currency is worthless — crypto becomes the only bridge.**
 
 ### The Petro Story and the Real Picture
 
-The government tried to launch its own cryptocurrency called **Petro** (backed by oil). In practice, it was a fiasco — nobody used Petro seriously. Real demand was for Bitcoin and stablecoins.
+The government tried to launch its own [cryptocurrency](/en/glossary/#cryptocurrency) called **Petro** (backed by oil). In practice, it was a fiasco — nobody used Petro seriously. Real demand was for Bitcoin and [stablecoins](/en/glossary/#stablecoin).
 
 | What people chose     | Why                                           |
 |-----------------------|-----------------------------------------------|
@@ -144,7 +144,7 @@ Argentinians found a way out: **USDT**.
 Instead of standing in bank queues for dollars (which they wouldn't get anyway), people:
 
 1. buy [USDT](/en/glossary/#usdt) on P2P platforms;
-2. keep savings in crypto wallets;
+2. keep savings in crypto [wallets](/en/glossary/#wallet);
 3. use crypto for large purchases and transfers.
 
 > **USDT in Argentina is simply a dollar that moves faster than banks.**
@@ -197,7 +197,7 @@ People:
 
 According to Chainalysis (2023):
 - Nigeria ranks 2nd in the world by P2P crypto transaction volume;
-- Kenya is in the top 10 for DeFi usage;
+- Kenya is in the top 10 for [DeFi](/en/glossary/#defi) usage;
 - total crypto remittance volume in Africa exceeds $100 billion per year.
 
 ---

@@ -28,7 +28,7 @@ Now here's the kicker:
 
 Even if someone wanted to add a million dollars to their balance — they'd have to change all 10,000 copies simultaneously. Everyone else would spot the fraud immediately and reject the dishonest version.
 
-That's **blockchain**.
+That's **[blockchain](/en/glossary/#blockchain)**.
 
 Except instead of a "notebook" — it's a digital ledger. Instead of "friends" — computers around the world. And instead of "handwritten notes" — mathematical formulas that can't be fooled.
 
@@ -64,7 +64,7 @@ In a normal school, the teacher keeps the gradebook. If the teacher wants to cha
 
 ### How a block works
 
-Blockchain is made of blocks. Each block is like a page in the shared notebook. It contains:
+Blockchain is made of [blocks](/en/glossary/#block). Each block is like a page in the shared notebook. It contains:
 
 - **several transactions** (who sent what to whom);
 - **a timestamp** (when the block was created);
@@ -121,7 +121,7 @@ The network runs as long as even one participant is alive.
 
 > **Bitcoin has been running since 2009 and has never been hacked.**
 
-In 16+ years, nobody has been able to fake records or steal coins by "breaking the network." Every crypto incident has been about exchanges and wallets — where people **themselves** lost access to their keys. The blockchain itself remained untouched.
+In 16+ years, nobody has been able to fake records or steal coins by "breaking the network." Every crypto incident has been about exchanges and [wallets](/en/glossary/#wallet) — where people **themselves** lost access to their keys. The blockchain itself remained untouched.
 
 ---
 

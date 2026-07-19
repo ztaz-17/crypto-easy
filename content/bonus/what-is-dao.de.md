@@ -30,7 +30,7 @@ Klingt nach Science-Fiction?
 
 > **DAO (Dezentrale Autonome Organisation)** — genau darum geht es.
 
-Eine DAO ist eine dezentrale autonome Organisation, die nicht von Menschen, sondern von **Code und Mitgliederabstimmungen** gesteuert wird.
+Eine [DAO](/de/glossary/#dao) ist eine dezentrale autonome Organisation, die nicht von Menschen, sondern von **Code und Mitgliederabstimmungen** gesteuert wird.
 
 In diesem Artikel erfährst du:
 
@@ -44,7 +44,7 @@ In diesem Artikel erfährst du:
 
 ### Definition
 
-Eine DAO ist eine Organisation, die auf einer Blockchain lebt und von **Smart Contracts** betrieben wird.
+Eine DAO ist eine Organisation, die auf einer [Blockchain](/de/glossary/#blockchain) lebt und von **Smart Contracts** betrieben wird.
 
 Statt Managern — **in Code geschriebene Regeln**.
 Statt Anweisungen — **tokengewichtete Abstimmungen**.
@@ -59,7 +59,7 @@ Jedes DAO-Mitglied kann:
 
 | Kriterium              | Normales Unternehmen        | DAO                                    |
 |------------------------|-----------------------------|----------------------------------------|
-| Wer hat das Sagen?     | CEO / Vorstand              | Community der Token-Inhaber            |
+| Wer hat das Sagen?     | CEO / Vorstand              | Community der [Token](/de/glossary/#token)-Inhaber            |
 | Regeln                 | In Dokumenten               | In Smart Contracts (Code)              |
 | Transparenz            | Geschlossene Berichterstattung | Alle Entscheidungen und Transaktionen On-Chain |
 | Teilnahme              | Nur Angestellte             | Jeder Token-Inhaber                    |
@@ -129,7 +129,7 @@ Beispiele für Governance-Token:
 
 Was sie gemacht haben:
 
-- den **DAI**-Stablecoin geschaffen, der an den US-Dollar gekoppelt ist;
+- den **DAI**-[Stablecoin](/de/glossary/#stablecoin) geschaffen, der an den US-Dollar gekoppelt ist;
 - das Protokoll durch Abstimmungen der **MKR**-Token-Inhaber verwalten.
 
 Wie es funktioniert:
@@ -142,7 +142,7 @@ Wie es funktioniert:
 
 ### Uniswap
 
-**Uniswap** ist eine dezentrale Börse (DEX), die ebenfalls als DAO funktioniert.
+**Uniswap** ist eine dezentrale Börse ([DEX](/de/glossary/#dex)), die ebenfalls als DAO funktioniert.
 
 Was per Abstimmung entschieden wird:
 
@@ -165,7 +165,7 @@ Jeder UNI-Inhaber kann:
 ### Vorteile
 
 - **Transparenz** — alle Entscheidungen sind auf der Blockchain sichtbar;
-- **Dezentralisierung** — kein einzelner Ausfallpunkt;
+- **[Dezentralisierung](/de/glossary/#decentralization)** — kein einzelner Ausfallpunkt;
 - **Globale Teilnahme** — jeder kann mitmachen;
 - **Automatisierung** — Code führt Entscheidungen ohne Mittelsmänner aus.
 

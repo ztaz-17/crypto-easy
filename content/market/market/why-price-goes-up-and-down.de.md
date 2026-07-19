@@ -37,7 +37,7 @@ In diesem Artikel erfährst du:
 
 ### Wie es funktioniert
 
-Der Preis einer Kryptowährung ist im Grunde nichts anderes als der Preis von Tomaten auf dem Markt.
+Der Preis einer [Kryptowährung](/de/glossary/#cryptocurrency) ist im Grunde nichts anderes als der Preis von Tomaten auf dem Markt.
 
 Wenn es wenige Tomaten gibt und viele Käufer – steigt der Preis.
 Wenn es Berge von Tomaten gibt und niemand kauft – fällt der Preis.
@@ -64,7 +64,7 @@ Und je mehr Menschen von Bitcoin erfahren, desto mehr steigt die Nachfrage, wäh
 
 ### Liquidität – der dritte Faktor
 
-Hier kommt noch ein wichtiger Punkt: **Liquidität**.
+Hier kommt noch ein wichtiger Punkt: **[Liquidität](/de/glossary/#liquidity)**.
 
 Liquidität bedeutet, wie schnell du einen Vermögenswert kaufen oder verkaufen kannst, ohne den Preis zu stark zu beeinflussen.
 
@@ -82,7 +82,7 @@ Nachrichten können Preise innerhalb von Minuten verändern. Hier sind die wicht
 
 ### Halving
 
-Alle vier Jahre wird die Mining-Belohnung für Bitcoin halbiert. Das nennt man **Halving**.
+Alle vier Jahre wird die [Mining](/de/glossary/#mining)-Belohnung für Bitcoin halbiert. Das nennt man **Halving**.
 
 Weniger neue Coins kommen auf den Markt → das Angebot schrumpft. Bleibt die Nachfrage gleich, steigt der Preis.
 
@@ -113,7 +113,7 @@ Beispiele:
 
 ### Technische Upgrades
 
-Auch große Blockchain-Upgrades beeinflussen den Preis. Die Umstellung von Ethereum auf Proof-of-Stake (The Merge) zum Beispiel löste einen deutlichen Anstieg von ETH aus.
+Auch große [Blockchain](/de/glossary/#blockchain)-Upgrades beeinflussen den Preis. Die Umstellung von Ethereum auf Proof-of-Stake (The Merge) zum Beispiel löste einen deutlichen Anstieg von ETH aus.
 
 👉 **Wichtig:** Die Reaktionen des Marktes auf Nachrichten können völlig unlogisch sein. Manchmal drücken gute Nachrichten den Preis nach unten („buy the rumor, sell the news").
 
@@ -139,7 +139,7 @@ Angst, Unsicherheit, Zweifel.
 
 Hier werden negative Informationen (oft absichtlich) gestreut, um Panik und einen Preisverfall auszulösen.
 
-Typische FUD:
+Typische [FUD](/de/glossary/#fud):
 - „Bitcoin ist tot";
 - „Crypto ist eine Blase, die bald platzt";
 - „Die Behörden werden alles verbieten."
@@ -161,7 +161,7 @@ Das ist ein Grund, warum du **nie blind auf Tipps aus Telegram-Kanälen springen
 
 ## Große Spieler: Wale
 
-Wale sind Besitzer riesiger Mengen an Kryptowährung.
+[Wale](/de/glossary/#whale) sind Besitzer riesiger Mengen an Kryptowährung.
 
 Wenn eine Person oder ein Fonds 10.000 Bitcoin besitzt (Hunderte Millionen Dollar), können allein ihre Aktionen den Markt bewegen.
 
@@ -201,7 +201,7 @@ Manchmal manipulieren Wale den Preis bewusst.
 - **Liquidität** – Markt – Geringe Liquidität → hohe Volatilität – Kurzfristig
 - **Nachrichten** – Ereignisgesteuert – Kommt auf den Kontext an – Sofort
 - **Regulierungsentscheidungen** – Ereignisgesteuert – Zustimmung = Anstieg, Verbot = Fall – Mittelfristig
-- **FOMO / FUD** – Psychologisch – Emotionen bewegen den Preis – Kurzfristig
+- **[FOMO](/de/glossary/#fomo) / FUD** – Psychologisch – Emotionen bewegen den Preis – Kurzfristig
 - **Pump & Dump** – Manipulation – Künstlicher Anstieg, dann Absturz – Kurzfristig
 - **Wale** – Markt – Große Trades bewegen den Markt – Jederzeit
 - **Unternehmensadoption** – Grundlegend – Wachsendes Vertrauen → Preiswachstum – Langfristig

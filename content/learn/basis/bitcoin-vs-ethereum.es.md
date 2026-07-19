@@ -41,21 +41,21 @@ Bitcoin es **simple por diseño**. Hace una cosa y la hace bien.
 
 - Creado: 2009 por Satoshi Nakamoto
 - Oferta: limitada a 21 millones
-- Consenso: Proof of Work (intensivo en energía, muy seguro)
+- Consenso: [Proof of Work](/es/glossary/#proof-of-work) (intensivo en energía, muy seguro)
 - Transacciones: ~7 por segundo
-- Tiempo medio de bloque: 10 minutos
+- Tiempo medio de [bloque](/es/glossary/#block): 10 minutos
 
 ---
 
 ## Ethereum — petróleo digital
 
-Ethereum se lanzó en 2015 como un **ordenador mundial** — una plataforma para aplicaciones descentralizadas (dApps).
+Ethereum se lanzó en 2015 como un **ordenador mundial** — una plataforma para aplicaciones descentralizadas ([dApps](/es/glossary/#dapp)).
 
 Su propósito principal:
 
 - **Contratos inteligentes** — programas que se ejecutan exactamente como fueron programados, sin interrupciones ni fraudes.
-- **dApps** — aplicaciones descentralizadas (DeFi, NFTs, juegos, redes sociales).
-- **Dinero programable** — tokens, préstamos, trading — todo automatizado.
+- **dApps** — aplicaciones descentralizadas ([DeFi](/es/glossary/#defi), [NFTs](/es/glossary/#nft), juegos, redes sociales).
+- **Dinero programable** — [tokens](/es/glossary/#token), préstamos, trading — todo automatizado.
 
 Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 
@@ -65,7 +65,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 
 - Creado: 2015 por Vitalik Buterin
 - Oferta: sin límite (pero tiene mecanismo de quema)
-- Consenso: Proof of Stake (eficiente en energía)
+- Consenso: [Proof of Stake](/es/glossary/#proof-of-stake) (eficiente en energía)
 - Transacciones: ~15-30 por segundo
 - Tiempo medio de bloque: ~12 segundos
 
@@ -90,7 +90,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 ### Elige Bitcoin si:
 
 - Quieres una **reserva de valor** — como el oro pero digital
-- Quieres **máxima seguridad** y descentralización
+- Quieres **máxima seguridad** y [descentralización](/es/glossary/#decentralization)
 - Inviertes a largo plazo (3+ años)
 - Quieres **simplicidad** — comprar y mantener
 
@@ -98,7 +98,7 @@ Ethereum es **complejo por diseño**. Es una plataforma, no solo una moneda.
 
 - Quieres **usar crypto** — DeFi, NFTs, apps
 - Te interesa el **dinero programable**
-- Quieres **generar rendimiento** mediante staking o DeFi
+- Quieres **generar rendimiento** mediante [staking](/es/glossary/#staking) o DeFi
 - Crees en el **futuro de las aplicaciones descentralizadas**
 
 ### Ambos, si:

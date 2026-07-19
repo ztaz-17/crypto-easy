@@ -42,7 +42,7 @@ En este artículo veremos:
 
 ## ¿Qué es DeFi?
 
-**DeFi** (Finanzas Descentralizadas) se refiere a servicios financieros que funcionan sobre una blockchain usando **contratos inteligentes**.
+**[DeFi](/es/glossary/#defi)** (Finanzas Descentralizadas) se refiere a servicios financieros que funcionan sobre una [blockchain](/es/glossary/#blockchain) usando **contratos inteligentes**.
 
 En lugar de bancos, corredores y aseguradoras — código.
 
@@ -85,7 +85,7 @@ Nadie puede cancelar esta operación — el código la ejecuta exactamente como 
 
 ### 3. Cartera (Wallet)
 
-Los usuarios se conectan a DeFi a través de una cartera no custodia (MetaMask, WalletConnect, Rabby). Una cartera es como una cuenta bancaria, pero **tú tienes control total sobre tus fondos**.
+Los usuarios se conectan a DeFi a través de una [cartera](/es/glossary/#wallet) no custodia (MetaMask, WalletConnect, Rabby). Una cartera es como una cuenta bancaria, pero **tú tienes control total sobre tus fondos**.
 
 ---
 
@@ -93,17 +93,17 @@ Los usuarios se conectan a DeFi a través de una cartera no custodia (MetaMask, 
 
 ### Uniswap — Exchange Descentralizado
 
-**Uniswap** te permite intercambiar tokens sin intermediarios.
+**Uniswap** te permite intercambiar [tokens](/es/glossary/#token) sin intermediarios.
 
 Cómo funciona:
 
-- los usuarios crean **fondos de liquidez** — depositan pares de tokens (por ejemplo, ETH y USDC);
+- los usuarios crean **fondos de [liquidez](/es/glossary/#liquidity)** — depositan pares de tokens (por ejemplo, ETH y USDC);
 - otros usuarios intercambian directamente a través de estos fondos;
 - cada intercambio cobra una pequeña comisión que se reparte entre los proveedores de liquidez.
 
 No hay «libros de órdenes» como en un exchange tradicional. No hay «tu orden está pendiente». Solo enviar y recibir.
 
-👉 Uniswap es el DEX (exchange descentralizado) más grande, con miles de millones de dólares en volumen diario de operaciones.
+👉 Uniswap es el [DEX](/es/glossary/#dex) (exchange descentralizado) más grande, con miles de millones de dólares en volumen diario de operaciones.
 
 ---
 
@@ -129,7 +129,7 @@ Sin historial crediticio, sin comprobante de ingresos, sin llamadas del banco.
 
 ### MakerDAO — Stablecoin Descentralizada
 
-**MakerDAO** es el protocolo detrás de **DAI** — una stablecoin vinculada al dólar estadounidense.
+**MakerDAO** es el protocolo detrás de **DAI** — una [stablecoin](/es/glossary/#stablecoin) vinculada al dólar estadounidense.
 
 Cómo funciona:
 
@@ -149,7 +149,7 @@ Lo clave: DAI no lo emite un banco ni una empresa. Los propios usuarios lo crean
 | Criterio              | Finanzas tradicionales      | DeFi                             |
 |-----------------------|-----------------------------|----------------------------------|
 | Control               | Banco / Gobierno            | Usuario (tú mismo)               |
-| Acceso                | Necesitas ID, KYC, edad mín | Solo necesitas internet          |
+| Acceso                | Necesitas ID, [KYC](/es/glossary/#kyc), edad mín | Solo necesitas internet          |
 | Horario               | Horas hábiles, fines libres | 24/7, sin días festivos          |
 | Velocidad de envío    | Horas–días (internacional)  | Segundos–minutos                 |
 | Comisiones            | A menudo ocultas            | Transparentes (gas + comisión)   |
@@ -173,7 +173,7 @@ Los contratos inteligentes los escriben personas. Las personas se equivocan. Si 
 
 ### Pérdida de Acceso
 
-Tú controlas tus fondos mediante la clave privada de tu cartera. Si pierdes tu clave o frase semilla, tu dinero desaparece para siempre. El banco no te va a ayudar.
+Tú controlas tus fondos mediante la [clave privada](/es/glossary/#private-key) de tu cartera. Si pierdes tu clave o [frase semilla](/es/glossary/#seed-phrase), tu dinero desaparece para siempre. El banco no te va a ayudar.
 
 ### Caídas de Precio (Liquidaciones)
 

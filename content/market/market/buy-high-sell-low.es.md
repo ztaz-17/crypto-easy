@@ -50,7 +50,7 @@ Nuestro cerebro se formó durante miles de años en un entorno donde la superviv
 |- **recurso escaso → agarrarlo**;
 |- **la manada se mueve → moverse con la manada**.
 
-En la sabana, eso nos mantenía vivos. En cripto, destruye tu cartera.
+En la sabana, eso nos mantenía vivos. En cripto, destruye tu [cartera](/es/glossary/#wallet).
 
 El problema es que el mercado está diseñado **en contra de nuestra intuición**:
 
@@ -68,7 +68,7 @@ El problema es que el mercado está diseñado **en contra de nuestra intuición*
 
 En el trading de cripto, hay dos estados emocionales que acaban de forma fiable con el depósito de un principiante.
 
-**El primero es el FOMO.**  
+**El primero es el [FOMO](/es/glossary/#fomo).**  
 **El segundo es el pánico.**
 
 Y funcionan como un par.
@@ -104,7 +104,7 @@ Pero aquí está la verdad:
 
 > **cuando todo el mundo grita "compra" — el dinero listo normalmente ya está vendiendo.**
 
-Las ballenas y los creadores de mercado usan el FOMO de la multitud para **soltar monedas al precio más alto**. Tú les estás comprando a ellos.
+Las [ballenas](/es/glossary/#whale) y los creadores de mercado usan el FOMO de la multitud para **soltar monedas al precio más alto**. Tú les estás comprando a ellos.
 
 ---
 

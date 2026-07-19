@@ -23,7 +23,7 @@ keywords:
 
 En el mundo cripto, Bitcoin y Ether son solo la punta del iceberg. Hay docenas de otras monedas, cada una con su propia idea, tecnología y audiencia. Algunas están hechas para transferencias rápidas, otras para el anonimato, y otras para juegos y aplicaciones.
 
-Echemos un vistazo a las criptomonedas más grandes por capitalización de mercado (datos de mayo de 2026). Las he ordenado de mayor a menor para que veas quién está en la cima hoy.
+Echemos un vistazo a las [criptomonedas](/es/glossary/#cryptocurrency) más grandes por capitalización de mercado (datos de mayo de 2026). Las he ordenado de mayor a menor para que veas quién está en la cima hoy.
 
 ---
 
@@ -31,11 +31,11 @@ Echemos un vistazo a las criptomonedas más grandes por capitalización de merca
 
 XRP no es solo una criptomoneda — es toda una plataforma para transferencias bancarias internacionales. Una transferencia SWIFT normal tarda de 3 a 5 días; XRP lo hace en segundos con comisiones casi nulas.
 
-**Principal ventaja:** RippleNet — una red donde los bancos usan XRP como moneda puente para liquidaciones.
+**Principal ventaja:** RippleNet — una red donde los bancos usan XRP como moneda [puente](/es/glossary/#bridge) para liquidaciones.
 
 **Eventos clave en 2025–2026:**
 - La SEC finalmente cerró su caso de años — XRP fue declarado oficialmente como no valor. Esto provocó un fuerte repunte y el regreso de los inversores institucionales estadounidenses.
-- Ripple lanzó su propia stablecoin RLUSD en XRP Ledger — la emisión superó los $100 millones en el primer mes.
+- Ripple lanzó su propia [stablecoin](/es/glossary/#stablecoin) RLUSD en XRP Ledger — la emisión superó los $100 millones en el primer mes.
 - Grandes bancos estadounidenses comenzaron a integrar Ripple para pagos transfronterizos.
 
 > XRP no se trata de «ganar dinero con la volatilidad». Es una tecnología para el sistema bancario, y su éxito está fuertemente ligado a los reguladores.
@@ -44,14 +44,14 @@ XRP no es solo una criptomoneda — es toda una plataforma para transferencias b
 
 ## Binance Coin (BNB) — La Moneda del Exchange Más Grande
 
-BNB es el token nativo de Binance, el exchange de criptomonedas más grande del mundo. Inicialmente daba descuento en las comisiones de trading, pero con el tiempo creció hasta convertirse en un ecosistema completo: BNB se usa en la red BNB Chain, para gas, staking y participación en Launchpad.
+BNB es el [token](/es/glossary/#token) nativo de Binance, el exchange de criptomonedas más grande del mundo. Inicialmente daba descuento en las comisiones de trading, pero con el tiempo creció hasta convertirse en un ecosistema completo: BNB se usa en la red BNB Chain, para gas, [staking](/es/glossary/#staking) y participación en Launchpad.
 
-**Principal ventaja:** BNB Chain es una de las redes más populares para DeFi y NFTs — barata y rápida. Además, Binance quema una parte de los tokens cada trimestre, reduciendo la oferta.
+**Principal ventaja:** BNB Chain es una de las redes más populares para [DeFi](/es/glossary/#defi) y [NFTs](/es/glossary/#nft) — barata y rápida. Además, Binance quema una parte de los tokens cada trimestre, reduciendo la oferta.
 
 **Eventos clave en 2025–2026:**
-- La actualización BNB Chain v2.2 (hard fork «Prague») redujo el tiempo de bloque a 1 segundo y bajó las comisiones un 40%.
+- La actualización BNB Chain v2.2 (hard [fork](/es/glossary/#fork) «Prague») redujo el tiempo de [bloque](/es/glossary/#block) a 1 segundo y bajó las comisiones un 40%.
 - Binance obtuvo licencias VASP completas en EAU y Turquía.
-- Se actualizó el mecanismo de auto-quema — la fórmula ahora considera el volumen de DEX y CEX, eliminando el factor humano.
+- Se actualizó el mecanismo de auto-quema — la fórmula ahora considera el volumen de [DEX](/es/glossary/#dex) y [CEX](/es/glossary/#cex), eliminando el factor humano.
 
 > BNB es una apuesta por Binance como empresa y por BNB Chain como ecosistema.
 
@@ -59,7 +59,7 @@ BNB es el token nativo de Binance, el exchange de criptomonedas más grande del 
 
 ## Solana (SOL) — La L1 Más Rápida
 
-Solana es una blockchain diseñada desde cero para la velocidad. Maneja decenas de miles de transacciones por segundo con comisiones de centavos. Esto la convierte en un entorno ideal para exchanges DeFi, juegos y aplicaciones masivas.
+Solana es una [blockchain](/es/glossary/#blockchain) diseñada desde cero para la velocidad. Maneja decenas de miles de transacciones por segundo con comisiones de centavos. Esto la convierte en un entorno ideal para exchanges DeFi, juegos y aplicaciones masivas.
 
 **Principal ventaja:** Firedancer — un nuevo cliente validador que elevó el rendimiento a 50,000 TPS.
 
@@ -96,7 +96,7 @@ Dogecoin empezó como una broma en 2013 — una criptomoneda con un perro de un 
 **Eventos clave en 2025–2026:**
 - X (Twitter) integró oficialmente Dogecoin para propinas y compras dentro de la app en EE.UU.
 - La Dogecoin Foundation lanzó «Dogebox» — software de nodo con un clic para comerciantes.
-- La comunidad votó para reducir la inflación de ~4% a 2.5% anual.
+- La comunidad votó para reducir la [inflación](/es/glossary/#inflation) de ~4% a 2.5% anual.
 
 > Dogecoin todavía se mina (Proof-of-Work), igual que Bitcoin. Su inflación es fija — 5 mil millones de monedas al año — lo que reduce el incentivo para mantenerla especulativamente.
 
@@ -185,7 +185,7 @@ Sui es una blockchain de nueva generación construida en el lenguaje Move (desar
 
 **Eventos clave en 2025–2026:**
 - Consenso Mysticeti — 390 ms hasta la finalidad, convirtiendo a Sui oficialmente en la L1 más rápida.
-- BlackRock lanzó un fondo BUIDL en Sui — $200 millones en TVL en el primer mes.
+- BlackRock lanzó un fondo BUIDL en Sui — $200 millones en [TVL](/es/glossary/#tvl) en el primer mes.
 - MoveGPT — el primer framework de agentes de IA en Sui, permitiendo desplegar bots de trading y minteadores de NFTs directamente en la cadena.
 
 > Sui es un caballo oscuro. Menor capitalización de mercado, pero una de las tecnologías más avanzadas del momento. Parte del ecosistema Move (Aptos, Sui).
@@ -214,7 +214,7 @@ Toncoin es una blockchain creada por el equipo de Telegram (originalmente Telegr
 **Principal ventaja:** TON es la única blockchain integrada en una app de mensajería con 900 millones de usuarios.
 
 **Eventos clave en 2025–2026:**
-- 100 millones de carteras activas al mes — una tasa de crecimiento récord.
+- 100 millones de [carteras](/es/glossary/#wallet) activas al mes — una tasa de crecimiento récord.
 - Las «Estrellas» de Telegram (moneda dentro de la app) migraron a la blockchain TON — 900 millones de usuarios obtuvieron una experiencia en cadena.
 - TON Society + DWF Labs lanzaron un fondo de $500 millones para DeFi, juegos y agentes de IA en TON.
 

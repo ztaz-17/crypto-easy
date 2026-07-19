@@ -31,7 +31,7 @@ But most of the time, it's a **trap**.
 
 ---
 
-In the crypto world, an airdrop is a distribution of free tokens to a large number of wallets. But so many myths, scams, and fakes have piled up around this term that it's easy for a beginner to lose money.
+In the crypto world, an [airdrop](/en/glossary/#airdrop) is a distribution of free [tokens](/en/glossary/#token) to a large number of [wallets](/en/glossary/#wallet). But so many myths, scams, and fakes have piled up around this term that it's easy for a beginner to lose money.
 
 In this article, we'll cover:
 
@@ -95,13 +95,13 @@ Many airdrops go to people who've already used the protocol:
 
 - made swaps on Uniswap;
 - bridged assets to Arbitrum;
-- provided liquidity.
+- provided [liquidity](/en/glossary/#liquidity).
 
 It's a way of saying, "Thanks for sticking with us!"
 
 ### 3. Decentralized Governance
 
-Projects need tokens to be held by **lots of different people**, not just one team. That's how governance becomes truly decentralized.
+Projects need tokens to be held by **lots of different people**, not just one team. That's how governance becomes truly [decentralized](/en/glossary/#decentralization).
 
 | Airdrop goal | Why it matters to the project |
 |---|---|
@@ -124,7 +124,7 @@ Requirements:
 
 - you just had to make at least one trade on Uniswap before a certain date;
 - no connecting wallets through random links;
-- no seed phrase requests.
+- no [seed phrase](/en/glossary/#seed-phrase) requests.
 
 > **Result:** thousands of people received real money. Tokens were traded on exchanges from day one.
 
@@ -209,7 +209,7 @@ Remember these simple rules:
 - **Airdrop is publicly announced** — if nobody's talking about it except a random Telegram channel, it's a scam;
 - **You don't have to pay anything** — if they ask you to send money "for gas," it's 100% fraud;
 - **They never ask for your seed phrase** — remember this once and for all: **a legitimate project will never ask for your seed phrase**;
-- **The token can be verified on the blockchain** — a real token will show up on Etherscan or a similar explorer.
+- **The token can be verified on the [blockchain](/en/glossary/#blockchain)** — a real token will show up on Etherscan or a similar explorer.
 
 ### ❌ Signs of a Scam
 

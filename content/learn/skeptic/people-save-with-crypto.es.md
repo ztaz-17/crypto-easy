@@ -41,7 +41,7 @@ Este artículo cubre historias reales de países donde las cripto no fueron una 
 
 ### ¿Qué Pasó?
 
-A partir de 2016, Venezuela entró en una de las peores hiperinflaciones de la historia humana. Según algunas estimaciones, la inflación alcanzó el **1,000,000%** anual.
+A partir de 2016, Venezuela entró en una de las peores hiperinflaciones de la historia humana. Según algunas estimaciones, la [inflación](/es/glossary/#inflation) alcanzó el **1,000,000%** anual.
 
 Los precios subían cada hora. La gente corría a las tiendas justo después de cobrar — si llegabas un par de horas tarde, el mismo dinero compraba la mitad.
 
@@ -56,14 +56,14 @@ Tener dinero en **bolívares** (la moneda nacional) no tenía sentido:
 Venezuela se convirtió en uno de los mercados cripto más grandes de América Latina. ¿Por qué?
 
 1. **Bitcoin y stablecoins** — la gente compraba [USDT](/es/glossary/#usdt) y [USDC](/es/glossary/#usdc), que están vinculados al dólar, para preservar el valor de sus ahorros.
-2. **Intercambios peer-to-peer (P2P)** — la infraestructura principal. El sistema bancario estaba casi destruido, pero el internet aún funcionaba.
-3. **Remesas** — los venezolanos en el extranjero enviaban cripto a casa en lugar de dinero fiduciario.
+2. **Intercambios peer-to-peer ([P2P](/es/glossary/#p2p))** — la infraestructura principal. El sistema bancario estaba casi destruido, pero el internet aún funcionaba.
+3. **Remesas** — los venezolanos en el extranjero enviaban cripto a casa en lugar de [dinero fiduciario](/es/glossary/#fiat).
 
 > **Cuando los bancos no funcionan y la moneda no vale nada — las cripto se convierten en el único puente.**
 
 ### La Historia del Petro y el Panorama Real
 
-El gobierno intentó lanzar su propia criptomoneda llamada **Petro** (respaldada por petróleo). En la práctica, fue un fiasco — nadie usó Petro en serio. La demanda real era por Bitcoin y stablecoins.
+El gobierno intentó lanzar su propia [criptomoneda](/es/glossary/#cryptocurrency) llamada **Petro** (respaldada por petróleo). En la práctica, fue un fiasco — nadie usó Petro en serio. La demanda real era por Bitcoin y [stablecoins](/es/glossary/#stablecoin).
 
 | Qué elegía la gente | Por qué |
 |---|---|
@@ -144,7 +144,7 @@ Los argentinos encontraron una salida: **USDT**.
 En lugar de hacer filas en los bancos por dólares (que de todos modos no conseguían), la gente:
 
 1. compra [USDT](/es/glossary/#usdt) en plataformas P2P;
-2. guarda sus ahorros en billeteras cripto;
+2. guarda sus ahorros en [billeteras](/es/glossary/#wallet) cripto;
 3. usa cripto para compras grandes y transferencias.
 
 > **El USDT en Argentina es simplemente un dólar que se mueve más rápido que los bancos.**
@@ -200,7 +200,7 @@ La gente:
 Según Chainalysis (2023):
 
 - Nigeria ocupa el 2° lugar del mundo en volumen de transacciones P2P de cripto;
-- Kenia está entre los 10 primeros en uso de DeFi;
+- Kenia está entre los 10 primeros en uso de [DeFi](/es/glossary/#defi);
 - el volumen total de remesas en cripto en África supera los $100 mil millones al año.
 
 ---

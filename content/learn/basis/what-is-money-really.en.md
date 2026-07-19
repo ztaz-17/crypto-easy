@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-Pull out your wallet. Look at a banknote.
+Pull out your [wallet](/en/glossary/#wallet). Look at a banknote.
 
 It's got a portrait, watermarks, a coat of arms, a serial number. It crinkles, you can fold it, tear it (though you probably shouldn't). From childhood we're taught that this is money. Something real. Tangible.
 
@@ -105,7 +105,7 @@ That's why banks love lending and don't want you holding large sums in deposits.
 Once you realize banks are not safes but factories that produce numbers, you start seeing the risks:
 
 - Your money isn't "sitting" in the bank. It's "recorded" on a ledger.
-- The bank can limit your access to it (freeze your card, block a transaction).
+- The bank can limit your access to it (freeze your card, [block](/en/glossary/#block) a transaction).
 - If the bank has problems — anyone holding money above the insured amount risks losing it.
 - You trust the bank, but the bank trusts your money to borrowers you never chose.
 
@@ -120,7 +120,7 @@ Every country has a main bank — the **central bank** (People's Bank of China, 
 - **Prints money** — decides how much new money enters the system.
 - **Sets the key rate** — the interest rate at which it lends to commercial banks. The higher the rate, the more expensive loans are and the slower the economy. The lower it is, the cheaper money is and the higher [inflation](/en/glossary/#inflation) tends to be.
 - **Regulates commercial banks** — issues and revokes licenses, audits reports, sets requirements.
-- **Controls inflation** — tries to keep prices from rising too fast.
+- **Controls [inflation](/en/glossary/#inflation)** — tries to keep prices from rising too fast.
 
 ### Commercial banks
 
@@ -163,13 +163,13 @@ This has happened before: hyperinflation in the Weimar Republic, in Zimbabwe, in
 
 ### And what about cryptocurrency?
 
-Cryptocurrency runs on the same principle — **trust**. But there's a key difference.
+[Cryptocurrency](/en/glossary/#cryptocurrency) runs on the same principle — **trust**. But there's a key difference.
 
 In the [fiat](/en/glossary/#fiat) system, you trust **people and organizations**: the central bank, the government, commercial banks. You trust they won't print too much money, freeze your account, or change the rules.
 
 With [cryptocurrency](/en/glossary/#cryptocurrency), you trust **math**: open-source code, cryptography, network consensus. Nobody can "print" more bitcoin than the protocol allows. Nobody can freeze your funds if you hold your own [private keys](/en/glossary/#private-key).
 
-Bitcoin is worth $X not because a president said so, but because millions of people around the world agree to buy and sell it at that price. **Decentralized trust** instead of centralized trust.
+Bitcoin is worth $X not because a president said so, but because millions of people around the world agree to buy and sell it at that price. **[Decentralized](/en/glossary/#decentralization) trust** instead of centralized trust.
 
 ---
 

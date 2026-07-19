@@ -33,7 +33,7 @@ De un lado — Binance, Bybit, OKX: gigantes con millones de usuarios, libros de
 
 ## Qué es un CEX (Exchange Centralizado)
 
-**CEX** es un exchange de cripto en el sentido tradicional. El mismo modelo que una bolsa de valores convencional, pero con cripto en lugar de acciones.
+**[CEX](/es/glossary/#cex)** es un exchange de cripto en el sentido tradicional. El mismo modelo que una bolsa de valores convencional, pero con cripto en lugar de acciones.
 
 Ejemplos: **Binance**, **Bybit**, **OKX**, **KuCoin**, **Coinbase**, **Gate.io**.
 
@@ -45,7 +45,7 @@ Cada par de trading (por ejemplo, BTC/USDT) tiene un libro de órdenes — una l
 
 Este mecanismo te da **precios precisos**: puedes colocar una orden a un precio específico y esperar a que alguien la tome (orden límite), o comprar/vender al instante al mejor precio disponible (orden de mercado).
 
-**KYC (Conoce a tu Cliente)**
+**[KYC](/es/glossary/#kyc) (Conoce a tu Cliente)**
 
 Los exchanges centralizados deben cumplir con las leyes de los países donde operan. Así que antes de operar, necesitas:
 
@@ -57,7 +57,7 @@ Sin KYC no puedes retirar más de cierto límite (normalmente 1–2 BTC al día)
 
 **Almacenamiento Custodial**
 
-Tus activos cripto viven en las wallets del exchange. No tienes acceso directo a las claves privadas. En la práctica, le estás confiando tu dinero al exchange.
+Tus activos cripto viven en las wallets del exchange. No tienes acceso directo a las [claves privadas](/es/glossary/#private-key). En la práctica, le estás confiando tu dinero al exchange.
 
 > Cuando depositas 1 BTC en Binance, Binance lo acredita en tu "cuenta". Pero en la blockchain, ese BTC está en una wallet que controla Binance, no tú.
 
@@ -65,15 +65,15 @@ Tus activos cripto viven en las wallets del exchange. No tienes acceso directo a
 
 ## Qué es un DEX (Exchange Descentralizado)
 
-**DEX** es un conjunto de contratos inteligentes que te permiten intercambiar tokens directamente, sin intermediarios. Sin empresa, sin servidor — solo código en la blockchain.
+**[DEX](/es/glossary/#dex)** es un conjunto de contratos inteligentes que te permiten intercambiar [tokens](/es/glossary/#token) directamente, sin intermediarios. Sin empresa, sin servidor — solo código en la [blockchain](/es/glossary/#blockchain).
 
-Ejemplos: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multicadena), **Curve** (stablecoins).
+Ejemplos: **Uniswap** (Ethereum), **PancakeSwap** (BNB Chain), **Raydium** (Solana), **Jupiter** (Solana), **SushiSwap** (multicadena), **Curve** ([stablecoins](/es/glossary/#stablecoin)).
 
 ### Cómo Funcionan los DEX
 
 **AMM (Creador de Mercado Automatizado)**
 
-En lugar de un libro de órdenes — **pools de liquidez**. Cualquiera puede depositar un par de tokens (p. ej., ETH y USDC) en un pool y convertirse en **proveedor de liquidez (LP)**.
+En lugar de un libro de órdenes — **pools de [liquidez](/es/glossary/#liquidity)**. Cualquiera puede depositar un par de tokens (p. ej., ETH y USDC) en un pool y convertirse en **proveedor de liquidez (LP)**.
 
 Los intercambios funcionan mediante una fórmula matemática:
 
@@ -81,7 +81,7 @@ Los intercambios funcionan mediante una fórmula matemática:
 
 Donde x es la cantidad del token A en el pool, y es la cantidad del token B, y k es una constante. Cuando compras token A, su cantidad en el pool baja y la del token B sube. El precio se desplaza proporcionalmente al saldo.
 
-Cuanto más profundo es el pool — menos deslizamiento (slippage) en tu intercambio.
+Cuanto más profundo es el pool — menos [deslizamiento](/es/glossary/#slippage) (slippage) en tu intercambio.
 
 **No Custodial**
 
@@ -106,10 +106,10 @@ Nada de pasaportes ni registros. Conecta tu wallet — empieza a operar. Todo lo
 | **Liquidez** | Alta (los exchanges reúnen a millones de traders) | Media (depende de la profundidad del pool) |
 | **Comisiones** | 0.02–0.1% (maker/taker) | 0.05–1% (comisión del pool) + gas de red |
 | **Velocidad** | Instantánea (sistema interno) | Depende de la blockchain (segundos–minutos) |
-| **Pares disponibles** | Fiat + cripto, muchos pares | Solo cripto a cripto |
+| **Pares disponibles** | [Fiat](/es/glossary/#fiat) + cripto, muchos pares | Solo cripto a cripto |
 | **Entrada de fiat** | Sí (tarjetas, transferencias bancarias) | No (solo cripto) |
 | **Cantidad de activos** | Cientos–miles (decidido por el exchange) | Todo lo que esté en la blockchain (cualquier token) |
-| **Herramientas avanzadas** | Futuros, margen, staking, P2P | Servicio básico — swap |
+| **Herramientas avanzadas** | Futuros, margen, [staking](/es/glossary/#staking), [P2P](/es/glossary/#p2p) | Servicio básico — swap |
 | **Regulación** | Cumple con las leyes locales | De facto no regulado |
 | **Riesgos** | Hackeos al exchange, congelación de cuenta, bloqueo de retiros | Bugs en contratos, rug pulls, pérdida de claves |
 
@@ -161,7 +161,7 @@ Tu dinero — tuyo. El exchange no puede congelar tu cuenta, limitar retiros ni 
 
 ### 4️⃣ Trabajas con Protocolos DeFi
 
-Si quieres hacer farming, staking o préstamos — estas operaciones ocurren dentro de la blockchain. Los DEX son la interfaz natural para DeFi.
+Si quieres hacer farming, staking o préstamos — estas operaciones ocurren dentro de la blockchain. Los DEX son la interfaz natural para [DeFi](/es/glossary/#defi).
 
 > Puedes intercambiar tokens en Uniswap y luego enviarlos directamente a Aave para prestarlos — todo en una misma transacción, sin mover fondos a un exchange.
 

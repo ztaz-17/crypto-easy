@@ -19,9 +19,9 @@ keywords:
 
 ---
 
-Imagina esto: necesitas dinero urgente, pero el banco te rechaza por mal historial crediticio. O quizás quieres pedir un préstamo pero no te apetece pasar por KYC ni llenar formularios interminables.
+Imagina esto: necesitas dinero urgente, pero el banco te rechaza por mal historial crediticio. O quizás quieres pedir un préstamo pero no te apetece pasar por [KYC](/es/glossary/#kyc) ni llenar formularios interminables.
 
-En DeFi, eso no es un problema.
+En [DeFi](/es/glossary/#defi), eso no es un problema.
 
 > **Un préstamo cripto** es dinero que pides prestado dejando tus criptos como garantía — sin que nadie pregunte por tu historial crediticio.
 
@@ -52,13 +52,13 @@ DeFi funciona de una forma completamente distinta:
 El proceso es simple:
 
 1. Depositas cripto (por ejemplo, ETH) en un contrato inteligente;
-2. El contrato inteligente te permite pedir prestada otra criptomoneda (como USDC);
+2. El contrato inteligente te permite pedir prestada otra [criptomoneda](/es/glossary/#cryptocurrency) (como USDC);
 3. Usas los fondos prestados;
 4. Cuando devuelves el préstamo más los intereses — tu garantía se libera.
 
 > La diferencia clave: **el préstamo no lo concede una persona ni una empresa, sino el código.**
 
-Nadie pregunta dónde trabajas ni cuánto ganas. Solo conecta tu cartera y deposita la garantía.
+Nadie pregunta dónde trabajas ni cuánto ganas. Solo conecta tu [cartera](/es/glossary/#wallet) y deposita la garantía.
 
 ---
 
@@ -121,7 +121,7 @@ Se añade una **penalización** al monto liquidado — normalmente del 5–15%. 
 
 1. **No pidas el máximo.** Si puedes pedir $75 por cada $100 — pide $40–50. Cuanto menor la deuda, mayor tu margen de seguridad.
 2. **Vigila el precio.** En días volátiles, revisa tu factor de salud cada pocas horas.
-3. **Añade más garantía.** Si ETH baja — agrega más ETH (o stablecoins) para subir tu factor de salud.
+3. **Añade más garantía.** Si ETH baja — agrega más ETH (o [stablecoins](/es/glossary/#stablecoin)) para subir tu factor de salud.
 4. **Usa alertas.** Hay servicios que te notifican cuando tu factor de salud está bajo (por ejemplo, DeBank o las notificaciones integradas de Aave).
 
 ---
@@ -204,7 +204,7 @@ Si pierdes el acceso a tu cartera o simplemente no tienes fondos para devolver e
 
 ### 5. Activos de Garantía «Basura»
 
-Algunos protocolos permiten depositar tokens oscuros con baja liquidez como garantía. Una caída brusca de ese activo puede liquidar toda tu posición en cuestión de minutos.
+Algunos protocolos permiten depositar [tokens](/es/glossary/#token) oscuros con baja [liquidez](/es/glossary/#liquidity) como garantía. Una caída brusca de ese activo puede liquidar toda tu posición en cuestión de minutos.
 
 > Usa solo activos confiables con alta liquidez (ETH, WBTC, USDC, DAI).
 

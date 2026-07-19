@@ -25,7 +25,7 @@ Compraste USDT en un exchange, copiaste la dirección de tu amigo e hiciste la t
 
 Una hora después tu amigo te escribe: **"No hay dinero."**
 
-Revisas la transacción en la blockchain — estado: "Exitosa." Tu amigo revisa su saldo — cero. Como si el dinero se hubiera esfumado en el aire.
+Revisas la transacción en la [blockchain](/es/glossary/#blockchain) — estado: "Exitosa." Tu amigo revisa su saldo — cero. Como si el dinero se hubiera esfumado en el aire.
 
 ¿Te suena?
 
@@ -64,7 +64,7 @@ El problema es que USDT (Tether) vive en varias blockchains al mismo tiempo:
 | Solana | SPL | ... |
 | Avalanche | C-Chain | 0x... |
 
-Todo parece el mismo USDT. Pero técnicamente, son **tokens diferentes** en **blockchains diferentes**. No son compatibles entre sí.
+Todo parece el mismo USDT. Pero técnicamente, son **[tokens](/es/glossary/#token) diferentes** en **blockchains diferentes**. No son compatibles entre sí.
 
 👉 **ERC20 USDT** ≠ **TRC20 USDT** ≠ **BEP-20 USDT**
 
@@ -93,7 +93,7 @@ Copias la dirección, envías USDT por BSC, pero el destinatario espera ERC20.
 Formalmente:
 - la dirección coincide;
 - la transacción se completó;
-- pero el destinatario revisa su cartera ERC20 — vacía.
+- pero el destinatario revisa su [cartera](/es/glossary/#wallet) ERC20 — vacía.
 
 Los fondos **no se pierden para siempre**, pero tendrás que recuperarlos. Y eso es otra historia aparte.
 
@@ -172,9 +172,9 @@ Si la dirección pertenece a otro exchange o servicio — contacta con su soport
 
 ### Si Enviaste de Cartera a Cartera
 
-Esto es más complicado. Si enviaste tokens en la red equivocada pero tienes la clave privada de la dirección receptora, puedes:
+Esto es más complicado. Si enviaste tokens en la red equivocada pero tienes la [clave privada](/es/glossary/#private-key) de la dirección receptora, puedes:
 
-- importar tu frase semilla / clave privada en una cartera que soporte la red correcta;
+- importar tu [frase semilla](/es/glossary/#seed-phrase) / clave privada en una cartera que soporte la red correcta;
 - o usar una cartera multired (por ejemplo, MetaMask con la red BSC agregada).
 
 ### Si Enviaste a un Exchange en la Red Equivocada

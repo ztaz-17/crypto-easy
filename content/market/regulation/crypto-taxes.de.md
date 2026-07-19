@@ -19,7 +19,7 @@ keywords:
 
 Krypto gibt dir finanzielle Freiheit. Aber Steuern fallen trotzdem an.
 
-Viele denken: „Krypto ist anonym, das Finanzamt erfährt nichts." Ein gefährlicher Mythos. Börsen geben Daten an Aufsichtsbehörden weiter, die Blockchain ist öffentlich, und die Steuerbehörden verfolgen Krypto-Assets aggressiver denn je.
+Viele denken: „Krypto ist anonym, das Finanzamt erfährt nichts." Ein gefährlicher Mythos. Börsen geben Daten an Aufsichtsbehörden weiter, die [Blockchain](/de/glossary/#blockchain) ist öffentlich, und die Steuerbehörden verfolgen Krypto-Assets aggressiver denn je.
 
 > **Realität:** Krypto-Steuern sind keine Frage des „ob" — sondern des „wann."
 
@@ -53,7 +53,7 @@ Der offensichtlichste Fall. Du hast Bitcoin gegen Dollar, Euro oder Rubel verkau
 
 ### Tausch einer Krypto gegen eine andere
 
-In manchen Ländern (wie den USA) ist der **Tausch von BTC gegen ETH** ebenfalls ein steuerpflichtiges Ereignis — selbst wenn du nie in Fiat ausgestiegen bist.
+In manchen Ländern (wie den USA) ist der **Tausch von BTC gegen ETH** ebenfalls ein steuerpflichtiges Ereignis — selbst wenn du nie in [Fiat](/de/glossary/#fiat) ausgestiegen bist.
 
 Die Berechnung funktioniert so:
 
@@ -104,7 +104,7 @@ Das nennt man **Kapitalertragsteuer**. Die Sätze hängen von der Haltedauer ab:
 
 ## Wo Steuern zahlen: Wohnsitzprinzip
 
-Du zahlst Steuern dort, wo du **steuerlich ansässig** bist — nicht wo die Börse oder das Wallet sitzt.
+Du zahlst Steuern dort, wo du **steuerlich ansässig** bist — nicht wo die Börse oder das [Wallet](/de/glossary/#wallet) sitzt.
 
 > **Wenn du in Russland steuerlich ansässig bist** — meldest du dem russischen Finanzamt, selbst wenn du auf Binance handelst und mit Touristenvisum in Thailand lebst.
 
@@ -172,7 +172,7 @@ Krypto ist in Russland legal, aber reguliert:
 | USA | Bis 37 % (kurzfristig), bis 20 % (langfristig) | 1 Jahr | Selbst Coin-zu-Coin-Tausch ist steuerpflichtig |
 | Deutschland | 0 % bei Haltung >1 Jahr, bis 45 % unter 1 Jahr | 1 Jahr | Eines der besten Länder für HODLer |
 | Portugal | 0 % bei Haltung >1 Jahr, 28 % unter 1 Jahr | 1 Jahr | Ehemaliges Krypto-Paradies, jetzt moderat |
-| Russland | 13–15 % (Einkommensteuer) | Keine | Mining legalisiert, ELR für Verkäufe |
+| Russland | 13–15 % (Einkommensteuer) | Keine | [Mining](/de/glossary/#mining) legalisiert, ELR für Verkäufe |
 | VAE | 0 % | — | Keine Kapitalertragsteuer |
 | Singapur | 0 % | — | Keine Kapitalertragsteuer |
 

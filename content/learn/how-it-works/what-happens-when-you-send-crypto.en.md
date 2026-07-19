@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-You open your wallet, type in the recipient's address, enter the amount — and hit "Send."
+You open your [wallet](/en/glossary/#wallet), type in the recipient's address, enter the amount — and hit "Send."
 
 Did the money go? Not yet.
 
@@ -50,7 +50,7 @@ The transaction hasn't been sent yet. It's just a draft — a bundle of data tha
 
 Your wallet doesn't "pull" money from some account. Instead, it looks through the entire history of previous transactions that ever came to your address and picks out unspent balances.
 
-Think of it like having several different bills in your pocket, and you choose which one to pay with. In crypto, those "bills" are records on the blockchain.
+Think of it like having several different bills in your pocket, and you choose which one to pay with. In crypto, those "bills" are records on the [blockchain](/en/glossary/#blockchain).
 
 > For more on how addresses and keys work, check the glossary: [public address](/en/glossary/#public-address), [private key](/en/glossary/#private-key).
 
@@ -60,7 +60,7 @@ Think of it like having several different bills in your pocket, and you choose w
 
 Now for the most important part.
 
-Your wallet takes the transaction data and signs it with your **private key**. It's like putting your personal digital stamp on it — one that can't be forged.
+Your wallet takes the transaction data and signs it with your **[private key](/en/glossary/#private-key)**. It's like putting your personal digital stamp on it — one that can't be forged.
 
 ### Why signatures can't be faked
 
@@ -99,7 +99,7 @@ If everything checks out — the node adds the transaction to the **mempool** (s
 
 ### The mempool — a waiting room
 
-Think of a train station. Your transaction is a passenger waiting to board a train (a block). There are lots of passengers, the train leaves only once every 10 minutes (in Bitcoin's case), and seats are limited.
+Think of a train station. Your transaction is a passenger waiting to board a train (a [block](/en/glossary/#block)). There are lots of passengers, the train leaves only once every 10 minutes (in Bitcoin's case), and seats are limited.
 
 Who gets on the train? The ones who paid for a ticket — that is, the fee. The higher the fee, the sooner your transaction gets picked for a block.
 
@@ -117,7 +117,7 @@ The transaction is in the mempool. Now it needs to be confirmed by a **miner** (
 
 Miners collect transactions from the mempool and package them into a block. Priority depends on the fee — the higher the fee, the higher the priority.
 
-Once the block is assembled, the miner starts solving a mathematical puzzle (Proof of Work) to seal the block. This requires massive computing power. Whoever solves it first gets:
+Once the block is assembled, the miner starts solving a mathematical puzzle ([Proof of Work](/en/glossary/#proof-of-work)) to seal the block. This requires massive computing power. Whoever solves it first gets:
 
 - the block reward (newly minted coins);
 - all the fees from the included transactions.

@@ -68,7 +68,7 @@ Das Problem ist, dass der Markt **gegen unsere Intuition** ausgelegt ist:
 
 Beim Krypto-Trading gibt es zwei emotionale Zustände, die zuverlässig das Depot eines Anfängers ausradieren.
 
-**Die erste ist FOMO.**  
+**Die erste ist [FOMO](/de/glossary/#fomo).**  
 **Die zweite ist Panik.**
 
 Und sie treten als Paar auf.
@@ -104,7 +104,7 @@ Aber hier ist die Wahrheit:
 
 > **wenn alle "kaufen" schreien — verkauft das kluge Geld meist schon längst.**
 
-Wale und Market Maker nutzen die FOMO der Masse, um **Coins zum Höchstpreis abzuladen**. Du kaufst von ihnen.
+[Wale](/de/glossary/#whale) und Market Maker nutzen die FOMO der Masse, um **Coins zum Höchstpreis abzuladen**. Du kaufst von ihnen.
 
 ---
 

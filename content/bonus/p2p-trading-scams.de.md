@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-Du hast ein super Angebot auf Binance P2P gefunden. Ein Verkäufer bietet USDT 5 % unter dem Marktpreis an. Er schreibt dir schnell im Chat: „Überweise jetzt, warte kurz." Eine Minute später schickt er einen Screenshot einer Banküberweisung und verlangt, dass du die Krypto freigibst.
+Du hast ein super Angebot auf Binance [P2P](/de/glossary/#p2p) gefunden. Ein Verkäufer bietet USDT 5 % unter dem Marktpreis an. Er schreibt dir schnell im Chat: „Überweise jetzt, warte kurz." Eine Minute später schickt er einen Screenshot einer Banküberweisung und verlangt, dass du die Krypto freigibst.
 
 Du checkst dein Konto in der Banking-App – kein Geld da. Aber der Screenshot sieht echt aus. Der Verkäufer macht Druck: „Die Überweisung ist schon raus, die Bank bearbeitet sie, gib die USDT frei, sonst melde ich dich!"
 
@@ -38,7 +38,7 @@ P2P (Peer-to-Peer) ist direkter Handel zwischen Menschen. Keine Zwischenhändler
 
 - du einigst dich mit dem Verkäufer;
 - du überweist Geld auf seine Karte;
-- er schickt dir Kryptowährung.
+- er schickt dir [Kryptowährung](/de/glossary/#cryptocurrency).
 
 Die Plattform (Binance P2P, Bybit P2P, OKX P2P) fungiert nur als **Schiedsrichter** – sie hält die Krypto des Verkäufers treuhänderisch zurück, bis du die Zahlung bestätigst.
 

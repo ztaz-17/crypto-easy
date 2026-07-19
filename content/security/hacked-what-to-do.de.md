@@ -18,15 +18,15 @@ keywords:
 
 ---
 
-Du öffnest deine Wallet-App — und erkennst deinen Kontostand nicht wieder.
+Du öffnest deine [Wallet](/de/glossary/#wallet)-App — und erkennst deinen Kontostand nicht wieder.
 
-Die Tokens, die in deinem Account waren, sind weg. Oder du siehst ein paar seltsame ausgehende Transaktionen, die du nie getätigt hast.
+Die [Tokens](/de/glossary/#token), die in deinem Account waren, sind weg. Oder du siehst ein paar seltsame ausgehende Transaktionen, die du nie getätigt hast.
 
 Es könnte noch schlimmer sein: Du siehst live zu, wie jemand dein Guthaben abzieht.
 
 > **Bei Crypto bekommst du dein gestohlenes Geld von niemandem zurück.**
 
-Keine Bank. Nicht die Polizei. Nicht die Blockchain-Entwickler.
+Keine Bank. Nicht die Polizei. Nicht die [Blockchain](/de/glossary/#blockchain)-Entwickler.
 
 Aber das heißt nicht, dass du nichts tun kannst. Dieser Artikel gibt dir einen klaren Aktionsplan für die ersten Minuten nach der Entdeckung eines Hacks.
 
@@ -39,7 +39,7 @@ Dein größter Feind in dieser Situation ist Panik. Sie bringt dich dazu, Fehler
 - deine restlichen Gelder in eine »sichere« Wallet zu verschieben, die tatsächlich dem Betrüger gehört;
 - auf dubiose Nachrichten wie »Gelder zurückholen« zu klicken;
 - »Gas-Gebühren« zu bezahlen, um dein gestohlenes Geld zurückzubekommen;
-- deinen Seed-Phrase dem »Support-Personal« zu geben.
+- deinen [Seed-Phrase](/de/glossary/#seed-phrase) dem »Support-Personal« zu geben.
 
 All das sind Fallen, die die Sache nur noch schlimmer machen.
 
@@ -68,7 +68,7 @@ Wenn sich noch Gelder in der Wallet befinden — handle schnell:
 - Öffne eine neue, saubere Wallet (frischer Seed-Phrase, neue Adresse).
 - Übertrage **alle verbliebenen Tokens** dorthin.
 - Beginne mit den wertvollsten Assets.
-- Stelle sicher, dass die alte Wallet keine beanspruchbaren Tokens hat (Staking, Farming-Belohnungen).
+- Stelle sicher, dass die alte Wallet keine beanspruchbaren Tokens hat ([Staking](/de/glossary/#staking), Farming-Belohnungen).
 
 Wichtig: Der Betrüger könnte ein Skript eingerichtet haben, das eingehende Transfers automatisch abfängt. Deshalb:
 
@@ -156,7 +156,7 @@ Die Chancen sind nicht groß, aber sie sind nicht Null — besonders wenn der Be
 
 ## Schritt 7. Die Community warnen
 
-Wenn du Opfer eines bestimmten Betrugs, einer Phishing-Seite oder einer bösartigen dApp geworden bist:
+Wenn du Opfer eines bestimmten Betrugs, einer Phishing-Seite oder einer bösartigen [dApp](/de/glossary/#dapp) geworden bist:
 
 - melde es auf [Scam Sniffer](https://scamsniffer.io) (einer Datenbank bekannter Betrugsmaschen);
 - poste auf X (Twitter) und tagge das beteiligte Projekt oder Wallet;

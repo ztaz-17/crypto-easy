@@ -19,7 +19,7 @@ keywords:
 
 ---
 
-You've created a wallet. Now the logical question: **how do you put crypto in it?**
+You've created a [wallet](/en/glossary/#wallet). Now the logical question: **how do you put crypto in it?**
 
 You can buy on an exchange. Directly from another person. Through an instant swap service. Or not buy at all — we'll cover that too.
 
@@ -36,12 +36,12 @@ The most popular and convenient way. Register on an exchange, fund your account,
 | **Coinbase** | Easiest start — buy directly with card, licensed in US and EU |
 | **Binance** | Largest, lowest fees |
 | **Bybit** | Clean interface, popular in Europe and Asia |
-| **KuCoin** | Many altcoins, no KYC for small amounts |
-| **OKX** | Good P2P marketplace |
+| **KuCoin** | Many altcoins, no [KYC](/en/glossary/#kyc) for small amounts |
+| **OKX** | Good [P2P](/en/glossary/#p2p) marketplace |
 
 ### Pros ✅
 - Huge selection of coins
-- High liquidity
+- High [liquidity](/en/glossary/#liquidity)
 - P2P markets — buy directly from other people
 - Direct card purchase (Visa, Mastercard)
 
@@ -162,7 +162,7 @@ Physical terminals where you insert cash and get BTC. **High fees (10-15%), limi
 
 ## Can you get crypto for free?
 
-Yes — **airdrops**. Projects give away tokens for simple actions (following, registering). But you need a wallet and a little gas. Start with $10-20 USDT first.
+Yes — **[airdrops](/en/glossary/#airdrop)**. Projects give away [tokens](/en/glossary/#token) for simple actions (following, registering). But you need a wallet and a little gas. Start with $10-20 USDT first.
 
 ---
 
@@ -187,10 +187,10 @@ Buying your first crypto is easier than it seems.
 $10-20. Enough to test everything.
 
 ### Which crypto to buy first?
-**USDT** — stablecoin, pegged to $1. Or **Bitcoin** for the classic.
+**USDT** — [stablecoin](/en/glossary/#stablecoin), pegged to $1. Or **Bitcoin** for the classic.
 
 ### Can I buy with a card?
 Yes. Coinbase, Binance, and swap services (Mercuryo, MoonPay) take Visa/Mastercard.
 
 ### What after buying?
-Withdraw to your non-custodial wallet, write down your seed phrase, keep it safe.
+Withdraw to your non-custodial wallet, write down your [seed phrase](/en/glossary/#seed-phrase), keep it safe.

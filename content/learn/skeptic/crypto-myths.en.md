@@ -43,7 +43,7 @@ This is probably the most popular one. People think that if you send Bitcoin, yo
 
 ### Reality: Bitcoin Is Pseudonymous, Not Anonymous
 
-Bitcoin works differently. Every transaction gets recorded on a **public blockchain** — an open ledger that anyone can download and analyze.
+Bitcoin works differently. Every transaction gets recorded on a **public [blockchain](/en/glossary/#blockchain)** — an open ledger that anyone can download and analyze.
 
 Here's what's visible:
 
@@ -53,7 +53,7 @@ Here's what's visible:
 - date and time.
 
 You don't see a name or surname. You see a string like [`17SkEw2md5avVNyYgj6RiXuQKNwkXaxFyQ`](https://bitaps.com/a1075db55d416d3ca199f55b6084e2115b9345e16c5cf302fc80e9d5fbf5d48d/1XPTgDRhN8RFnzniWCddobD9iKZatrvH4) (Yep — that's the famous address that sent **10,000 Bitcoin** for two pizzas).  
-But if that address ever gets linked to your identity (through an exchange, wallet, or store) — **your entire transaction history becomes public**.
+But if that address ever gets linked to your identity (through an exchange, [wallet](/en/glossary/#wallet), or store) — **your entire transaction history becomes public**.
 
 ### How Chain Analysis Works
 
@@ -104,7 +104,7 @@ If you send $10,000 in Bitcoin — that record stays on the blockchain forever. 
 Most users are ordinary people:
 
 - someone sending money to family in another country without bank fees;
-- someone preserving savings against inflation;
+- someone preserving savings against [inflation](/en/glossary/#inflation);
 - someone investing for the long term;
 - someone just paying for purchases.
 
@@ -136,7 +136,7 @@ Bitcoin, on the other hand:
 
 - has a working network with thousands of nodes worldwide;
 - is used by millions of people;
-- has a developed infrastructure (exchanges, wallets, DeFi);
+- has a developed infrastructure (exchanges, wallets, [DeFi](/en/glossary/#defi));
 - is recognized by institutional investors (ETFs in the US, major company investments).
 
 > The difference between tulips and Bitcoin: Bitcoin has functionality, utility, and infrastructure. Tulips — just beauty.
@@ -182,7 +182,7 @@ It takes less time than opening a bank account.
 Five years ago, buying crypto meant:
 
 - signing up on an exchange;
-- going through KYC (with a passport photo);
+- going through [KYC](/en/glossary/#kyc) (with a passport photo);
 - waiting for approval;
 - figuring out order types.
 
@@ -194,7 +194,7 @@ Now: download an app → buy → use it.
 
 It's hard — if you want to:
 
-- build a mining rig;
+- build a [mining](/en/glossary/#mining) rig;
 - write smart contracts in Solidity (Ethereum's programming language);
 - run your own blockchain node.
 
@@ -218,7 +218,7 @@ These are fundamentally different things:
 Most of the people who "lost everything":
 
 - jumped into crypto during the hype;
-- bought at the peak (FOMO);
+- bought at the peak ([FOMO](/en/glossary/#fomo));
 - sold in a panic (when everything crashed);
 - had no idea what they were buying.
 
@@ -255,13 +255,13 @@ People lose money not because crypto is a casino. They lose because:
 
 ### What Backs Regular Money
 
-The dollar, euro, yuan — these are **fiat currencies**. They aren't backed by gold (not since the gold standard was abandoned in 1971). They're backed by **trust** in the government that issues them and the law that requires them to be accepted for tax payments.
+The dollar, euro, yuan — these are **[fiat](/en/glossary/#fiat) currencies**. They aren't backed by gold (not since the gold standard was abandoned in 1971). They're backed by **trust** in the government that issues them and the law that requires them to be accepted for tax payments.
 
 > Trust *is* the backing.
 
 ### What Backs Crypto
 
-Cryptocurrency is also backed by trust. But not trust in a government — trust in:
+[Cryptocurrency](/en/glossary/#cryptocurrency) is also backed by trust. But not trust in a government — trust in:
 
 - **the network** — thousands of nodes worldwide processing transactions;
 - **the code** — an algorithm that no one can unilaterally change;

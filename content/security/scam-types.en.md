@@ -24,7 +24,7 @@ Anonymous transactions, irreversible transfers, and the fact that there's no "cu
 
 > **Nobody will return your stolen crypto.**
 
-Not the bank. Not the police. Not the blockchain creators.
+Not the bank. Not the police. Not the [blockchain](/en/glossary/#blockchain) creators.
 
 That's why every user needs to know how to spot threats themselves.
 
@@ -44,15 +44,15 @@ In this article we'll cover:
 
 The goal — trick you into entering:
 
-- your seed phrase;
-- your private key;
+- your [seed phrase](/en/glossary/#seed-phrase);
+- your [private key](/en/glossary/#private-key);
 - your exchange password.
 
 The moment you do — your funds are gone in seconds.
 
 ### Real-World Examples
 
-- **Fake MetaMask** — a site like `metamask-login.com` asks you to "verify your wallet";
+- **Fake MetaMask** — a site like `metamask-login.com` asks you to "verify your [wallet](/en/glossary/#wallet)";
 - **Official-looking email from "Binance"** — "Your account has been locked, click here";
 - **Text from "the exchange"** — the link leads to a fake login page;
 - **Google ads** — the top search result for "Uniswap" can be a clone.
@@ -95,7 +95,7 @@ You land on one of these through an ad, an email, or a social media message. The
 
 ### How It Works
 
-An airdrop is a free token giveaway meant to attract users. Scammers abuse this mechanism:
+An [airdrop](/en/glossary/#airdrop) is a free [token](/en/glossary/#token) giveaway meant to attract users. Scammers abuse this mechanism:
 
 1. They promise free tokens — you just need to "connect your wallet."
 2. You go to the site and hit "Claim."
@@ -105,7 +105,7 @@ An airdrop is a free token giveaway meant to attract users. Scammers abuse this 
 ### Real-World Examples
 
 - **Uniswap UNI airdrop** — dozens of fake sites popped up after the real Uniswap airdrop;
-- **Fake NFT mints** — "free NFT mint" that drains your ETH when you sign;
+- **Fake [NFT](/en/glossary/#nft) mints** — "free NFT mint" that drains your ETH when you sign;
 - **Token approval scam** — the site asks you to sign an `approve` for an unlimited amount.
 
 ### How to Protect Yourself
@@ -124,7 +124,7 @@ An airdrop is a free token giveaway meant to attract users. Scammers abuse this 
 
 ### How It Works
 
-Scammers create fake "support" accounts for exchanges, wallets, and DeFi protocols. They find users on Telegram, Discord, or Twitter (X) and offer help.
+Scammers create fake "support" accounts for exchanges, wallets, and [DeFi](/en/glossary/#defi) protocols. They find users on Telegram, Discord, or Twitter (X) and offer help.
 
 The script:
 
@@ -143,7 +143,7 @@ The script:
 ### How to Protect Yourself
 
 - ignore all DMs from "support";
-- on Telegram, adjust your privacy settings to block messages from strangers;
+- on Telegram, adjust your privacy settings to [block](/en/glossary/#block) messages from strangers;
 - contact support **only through official channels** (the Help page on the website);
 - use official bots (e.g., @BinanceHelpBot) and verify them through the website.
 
@@ -243,7 +243,7 @@ Before clicking any link or entering your data, run through these 5 steps:
 - **Never share your seed phrase.** Not with "support," not even with family.
 - **Don't sign blindly.** Every transaction is an action with real money.
 - **Don't click links from social media** — scammers impersonate official project accounts.
-- **Keep most of your funds on a cold wallet.** If you're not touching the money, let it sit on a Ledger or Trezor.
+- **Keep most of your funds on a [cold wallet](/en/glossary/#cold-wallet).** If you're not touching the money, let it sit on a Ledger or Trezor.
 - **Use a separate wallet for experiments.** Only sign suspicious transactions on a wallet with a minimal balance.
 - **Enable two-factor authentication (2FA)** on exchanges — use Google Authenticator, not SMS.
 

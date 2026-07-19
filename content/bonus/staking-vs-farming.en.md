@@ -17,9 +17,9 @@ keywords:
 
 ---
 
-You bought some crypto. It's sitting in your wallet and… just sitting.
+You bought some crypto. It's sitting in your [wallet](/en/glossary/#wallet) and… just sitting.
 
-But it could be *working* — earning you money while you sleep, work, or travel. In the crypto world, there are two main tools for that: **staking** and **farming** (also known as yield farming / liquidity mining).
+But it could be *working* — earning you money while you sleep, work, or travel. In the crypto world, there are two main tools for that: **[staking](/en/glossary/#staking)** and **farming** (also known as yield farming / [liquidity](/en/glossary/#liquidity) [mining](/en/glossary/#mining)).
 
 At first glance, they're both about passive income. But the difference between them is massive — in returns, risks, complexity, and effort.
 
@@ -34,11 +34,11 @@ In this article, we'll break down:
 
 ## What Is Staking
 
-Staking is when you **lock up your coins** in the blockchain and earn a percentage on them.
+Staking is when you **lock up your coins** in the [blockchain](/en/glossary/#blockchain) and earn a percentage on them.
 
 Here's how it works:
 
-- you pick a cryptocurrency that runs on **Proof-of-Stake** (PoS);
+- you pick a [cryptocurrency](/en/glossary/#cryptocurrency) that runs on **Proof-of-Stake** (PoS);
 - you transfer your coins into staking (via a wallet or exchange);
 - the blockchain uses them to validate transactions;
 - you get rewards paid out.
@@ -66,12 +66,12 @@ You don't have to do anything complicated. You just lock up your coins and earn 
 
 ## What Is Farming (Yield Farming)
 
-Farming is a more active strategy. You **provide liquidity** to DeFi protocols (decentralized finance apps) and earn income.
+Farming is a more active strategy. You **provide liquidity** to [DeFi](/en/glossary/#defi) protocols ([decentralized](/en/glossary/#decentralization) finance apps) and earn income.
 
 Here's how it looks:
 
 - you go to a DeFi protocol (e.g., Uniswap, Aave, Curve);
-- you deposit a pair of tokens into a **liquidity pool** (e.g., USDT and ETH);
+- you deposit a pair of [tokens](/en/glossary/#token) into a **liquidity pool** (e.g., USDT and ETH);
 - the protocol uses them for trading operations;
 - you earn trader fees + often bonus tokens.
 
@@ -170,7 +170,7 @@ Staking is a good fit if:
 
 - you're a beginner just starting to learn the ropes;
 - you don't want to constantly monitor the market;
-- you plan to hold coins long-term (HODL);
+- you plan to hold coins long-term ([HODL](/en/glossary/#hodl));
 - a 5–15 % return is enough for you.
 
 > **Staking is "set it and forget it."**

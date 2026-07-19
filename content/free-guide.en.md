@@ -14,7 +14,7 @@ slug: "free-guide"
 weight: 10
 ---
 
-Welcome to the world of cryptocurrency. You can make money here — or lose everything.  
+Welcome to the world of [cryptocurrency](/en/glossary/#cryptocurrency). You can make money here — or lose everything.  
 The difference comes down to knowledge and discipline.
 
 This free guide covers **the 5 most common mistakes** that beginners make.  
@@ -28,7 +28,7 @@ Each one has cost real people real money. We'll show you how to avoid them.
 But history shows dozens of cases where exchanges lost user funds: hacks, account freezes, bankruptcies.
 
 The rule is simple: **not your keys, not your coins**.  
-In the guide, we explain how to set up a personal wallet and transfer your funds in 5 minutes.
+In the guide, we explain how to set up a personal [wallet](/en/glossary/#wallet) and transfer your funds in 5 minutes.
 
 ---
 
@@ -37,13 +37,13 @@ In the guide, we explain how to set up a personal wallet and transfer your funds
 You bought Bitcoin — it dropped. You sold in panic — it went up. Sound familiar?
 
 Emotional decisions are the #1 enemy of beginner crypto investors.  
-The guide breaks down a simple capital management strategy that protects you from panic selling and FOMO.
+The guide breaks down a simple capital management strategy that protects you from panic selling and [FOMO](/en/glossary/#fomo).
 
 ---
 
 ## 🚫 Mistake #3: Putting Money Into Shady Projects
 
-"New token just launched, promised x100, everyone in the chat bought it" — the classic trap.  
+"New [token](/en/glossary/#token) just launched, promised x100, everyone in the chat bought it" — the classic trap.  
 Scam projects, pump-and-dump schemes, and outright pyramids masquerade as "innovations."
 
 In the guide: **3 simple criteria** to tell a promising project from a scam in under 2 minutes.
@@ -64,7 +64,7 @@ We break down what fees exist, how to minimize them, and what you need to know a
 
 The most expensive mistake of all. Billions of dollars in Bitcoin are permanently lost exactly this way.
 
-Storing your seed phrase on your phone? In the cloud? In notes?  
+Storing your [seed phrase](/en/glossary/#seed-phrase) on your phone? In the cloud? In notes?  
 The guide includes a step-by-step seed phrase security checklist used by professionals.
 
 ---

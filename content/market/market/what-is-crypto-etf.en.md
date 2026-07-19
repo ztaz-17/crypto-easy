@@ -21,11 +21,11 @@ On July 18, 2026, something happened that many had been waiting years for: the S
 
 An ETF (Exchange Traded Fund) is an investment fund whose shares can be traded on a stock exchange just like regular stocks. Imagine a fruit basket: instead of buying each fruit separately, you buy the whole basket.
 
-**A crypto ETF** is the same basket, but instead of fruit, it holds bitcoin, ethereum, or Solana. You buy a share of the fund, and the fund actually owns the real cryptocurrency.
+**A crypto ETF** is the same basket, but instead of fruit, it holds bitcoin, ethereum, or Solana. You buy a share of the fund, and the fund actually owns the real [cryptocurrency](/en/glossary/#cryptocurrency).
 
 The main difference from buying crypto directly:
-- No need to create a wallet
-- No need to remember a seed phrase
+- No need to create a [wallet](/en/glossary/#wallet)
+- No need to remember a [seed phrase](/en/glossary/#seed-phrase)
 - No need to deal with gas fees and network complexities
 - Everything is done through a regular brokerage account
 
@@ -45,7 +45,7 @@ What this means:
 
 1. **Institutional capital inflow**. Large funds (pension, insurance, university endowments) can't buy crypto directly due to regulatory restrictions. ETFs solve this — now they can invest through a familiar instrument.
 
-2. **Legitimization of Solana as an asset**. The SEC is the top US regulator. Their approval means Solana is recognized as a legitimate investment asset, not just a "token." This reduces regulatory risk for all SOL holders.
+2. **Legitimization of Solana as an asset**. The SEC is the top US regulator. Their approval means Solana is recognized as a legitimate investment asset, not just a "[token](/en/glossary/#token)." This reduces regulatory risk for all SOL holders.
 
 3. **A precedent for other altcoins**. Solana's approval opens the door for ETFs on other cryptocurrencies: BNB, XRP, Cardano, Avalanche. If the SEC previously considered all altcoins besides BTC and ETH as securities, the Solana precedent changes that position.
 
@@ -85,7 +85,7 @@ Crypto ETFs aren't a magic solution. Here's what to keep in mind:
 
 July 2026 is a turning point for the crypto market. After years of resistance, the SEC is softening its stance on altcoins. Spot Solana ETFs are the first swallow. If you're not in crypto yet, now is a good time to start learning — the tools for entry are becoming simpler and more accessible.
 
-Crypto is transitioning from a "Wild West for geeks" into a full-fledged asset class. ETFs are one of the main bridges between traditional finance and the crypto world.
+Crypto is transitioning from a "Wild West for geeks" into a full-fledged asset class. ETFs are one of the main [bridges](/en/glossary/#bridge) between traditional finance and the crypto world.
 
 ---
 

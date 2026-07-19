@@ -29,7 +29,7 @@ Bienvenido al mundo de las **meme coins** — el rincón más salvaje y arriesga
 
 ## ¿Qué es una Meme Coin?
 
-Una **meme coin** es una criptomoneda con utilidad cero.
+Una **meme coin** es una [criptomoneda](/es/glossary/#cryptocurrency) con utilidad cero.
 
 No resuelve ningún problema. No tiene:
 - tecnología única;
@@ -39,7 +39,7 @@ No resuelve ningún problema. No tiene:
 
 El único valor de estas monedas es el **meme** (la broma) alrededor del cual se ha formado una comunidad.
 
-👉 En esencia, una meme coin no es un proyecto — es una tendencia viral envuelta en un token.
+👉 En esencia, una meme coin no es un proyecto — es una tendencia viral envuelta en un [token](/es/glossary/#token).
 
 ---
 
@@ -103,7 +103,7 @@ No hay razones fundamentales para que las meme coins suban. Solo psicología.
 
 Cada meme coin tiene un ejército de fans en Twitter, Telegram, Reddit y TikTok. Ellos:
 - publican memes;
-- se convencen mutuamente de «HODL»;
+- se convencen mutuamente de «[HODL](/es/glossary/#hodl)»;
 - atacan a cualquiera que venda.
 
 Esto crea la sensación de que «estamos juntos en esto» y «vamos a ganar».
@@ -139,9 +139,9 @@ Y nadie puede explicar por qué. El precio lo determina únicamente la demanda. 
 
 El esquema es simple:
 
-1. Los grandes jugadores (ballenas) compran en el suelo;
+1. Los grandes jugadores ([ballenas](/es/glossary/#whale)) compran en el suelo;
 2. Inflan la moneda con redes sociales, anuncios pagados e influencers;
-3. Los compradores minoristas entran por FOMO;
+3. Los compradores minoristas entran por [FOMO](/es/glossary/#fomo);
 4. Las ballenas venden — el precio se desploma;
 5. Los pequeños inversores se quedan con tokens sin valor.
 
@@ -181,7 +181,7 @@ Señales de una meme coin fraudulenta:
 - **Promesas de crecimiento «garantizado»** — no hay garantías en crypto;
 - **Publicidad agresiva** — «compra ahora», «última oportunidad»;
 - **Sistema de referidos** — te pagan por traer amigos;
-- **Liquidez drenable** — los creadores pueden llevarse todo el dinero;
+- **[Liquidez](/es/glossary/#liquidity) drenable** — los creadores pueden llevarse todo el dinero;
 - **Sin auditoría** — el código no ha sido revisado por nadie.
 
 > **Si algo promete un 1000 % en una semana — es 100 % una estafa.**
@@ -194,7 +194,7 @@ Si aún quieres intentarlo:
 
 - Invierte solo lo que estés completamente dispuesto a perder;
 - No compres en el pico del hype;
-- Usa una billetera separada, no guardes todo en un exchange;
+- Usa una [billetera](/es/glossary/#wallet) separada, no guardes todo en un exchange;
 - Estudia la tokenómica: quién tiene la mayor parte del suministro;
 - Verifica si el contrato inteligente ha sido auditado.
 
@@ -208,7 +208,7 @@ Y la regla de oro:
 
 - **¿Tiene tecnología?** — Bitcoin / Ethereum: Sí | Meme Coin: No (o casi nada)
 - **¿Tiene equipo?** — Bitcoin / Ethereum: Sí | Meme Coin: A menudo anónimo
-- **¿Tiene uso real?** — Bitcoin / Ethereum: Sí (pagos, DeFi, contratos inteligentes) | Meme Coin: No
+- **¿Tiene uso real?** — Bitcoin / Ethereum: Sí (pagos, [DeFi](/es/glossary/#defi), contratos inteligentes) | Meme Coin: No
 - **Riesgo** — Bitcoin / Ethereum: Alto | Meme Coin: Extremo
 - **Rendimiento esperado** — Bitcoin / Ethereum: Moderado | Meme Coin: 0 % o -100 %
 - **Valor a largo plazo** — Bitcoin / Ethereum: Crece con la adopción | Meme Coin: Rara vez sobrevive un año

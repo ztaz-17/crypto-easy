@@ -44,7 +44,7 @@ In diesem Artikel erfährst du:
 
 Das ist der häufigste Grund.
 
-Jede Blockchain-Transaktion ist eine Anfrage auf einen Platz in einem Block. Der Platz im Block ist begrenzt. Miner (Bitcoin) oder Validatoren (Ethereum) entscheiden, welche Transaktionen zuerst aufgenommen werden.
+Jede [Blockchain](/de/glossary/#blockchain)-Transaktion ist eine Anfrage auf einen Platz in einem [Block](/de/glossary/#block). Der Platz im Block ist begrenzt. Miner (Bitcoin) oder Validatoren (Ethereum) entscheiden, welche Transaktionen zuerst aufgenommen werden.
 
 Die Regel ist einfach: **Wer mehr zahlt, kommt zuerst.**
 
@@ -58,7 +58,7 @@ Mehr zur Gebührenermittlung: [Warum Krypto zu versenden manchmal 30 $ kostet](
 
 Selbst mit einer angemessenen Gebühr kann deine Transaktion zu Stoßzeiten hängen bleiben.
 
-Wenn tausende Transaktionen gleichzeitig gesendet werden (z. B. bei einem Memecoin-Hype, einem NFT-Mint oder einem Großereignis), wird der Mempool überschwemmt. Die Blockgröße bleibt gleich, aber die Anzahl der Leute, die reinwollen, ist zehnmal höher als sonst.
+Wenn tausende Transaktionen gleichzeitig gesendet werden (z. B. bei einem Memecoin-Hype, einem [NFT](/de/glossary/#nft)-Mint oder einem Großereignis), wird der Mempool überschwemmt. Die Blockgröße bleibt gleich, aber die Anzahl der Leute, die reinwollen, ist zehnmal höher als sonst.
 
 In solchen Zeiten picken sich Miner nur die fettesten Transaktionen heraus — alle anderen warten.
 
@@ -68,7 +68,7 @@ In solchen Zeiten picken sich Miner nur die fettesten Transaktionen heraus — a
 
 ### 3. Feststecken wegen eines Wallet-Fehlers
 
-Manchmal liegt das Problem nicht am Netzwerk — sondern an deinem Wallet:
+Manchmal liegt das Problem nicht am Netzwerk — sondern an deinem [Wallet](/de/glossary/#wallet):
 
 - Gas wurde falsch berechnet (bei Ethereum — Gas-Limit unter 21.000);
 - das Wallet hat den Transaktionsstatus nicht aktualisiert;
@@ -146,7 +146,7 @@ Wallets mit RBF-Unterstützung:
 
 **Funktioniert bei:** Bitcoin (eingeschränkt)
 
-Einige Mining-Pools bieten Transaktionsbeschleunigungsdienste an. Du reichst den Hash deiner steckengebliebenen Transaktion ein, zahlst eine Gebühr — und der Pool nimmt sie in den nächsten Block auf, den er schürft.
+Einige [Mining](/de/glossary/#mining)-Pools bieten Transaktionsbeschleunigungsdienste an. Du reichst den Hash deiner steckengebliebenen Transaktion ein, zahlst eine Gebühr — und der Pool nimmt sie in den nächsten Block auf, den er schürft.
 
 Beliebte Dienste:
 

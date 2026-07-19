@@ -185,7 +185,7 @@ La revisión tardó **12 días**.
 
 Todo ese tiempo:  
 - no pude pagar el alquiler y tuve que pedir prestado efectivo a mis amigos;  
-- mi tarjeta era inútil, así que solo podía comprar comida con el efectivo que me quedaba en la cartera;  
+- mi tarjeta era inútil, así que solo podía comprar comida con el efectivo que me quedaba en la [cartera](/es/glossary/#wallet);  
 - no podía transferir mi propio dinero.
 
 👉 El dinero estaba en mi cuenta. Pero no tenía acceso a él.
@@ -242,7 +242,7 @@ Y no hay forma de evitarlo.
 
 ## Una historia real
 
-Una amiga decidió comprar una pequeña cantidad de criptomoneda por primera vez.  
+Una amiga decidió comprar una pequeña cantidad de [criptomoneda](/es/glossary/#cryptocurrency) por primera vez.  
 Escogió un exchange de buena reputación y fondeó su cuenta con una transferencia bancaria.
 
 Cinco minutos después de enviar:

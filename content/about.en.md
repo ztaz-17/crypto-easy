@@ -7,23 +7,23 @@ layout: "single"
 
 ## About Crypto Easy
 
-Crypto Easy is a non-profit educational project about cryptocurrencies and blockchain. We explain complex things in simple language — no fluff, no jargon.
+Crypto Easy is a non-profit educational project about cryptocurrencies and [blockchain](/en/glossary/#blockchain). We explain complex things in simple language — no fluff, no jargon.
 
 **Our goal** is to make crypto understandable and accessible to everyone.
 
 ## Why we do this
 
-Cryptocurrency is no longer a niche technology. Millions of people already use it for transfers, savings, and investments. But most materials are either too technical or downright misleading.
+[Cryptocurrency](/en/glossary/#cryptocurrency) is no longer a niche technology. Millions of people already use it for transfers, savings, and investments. But most materials are either too technical or downright misleading.
 
 We write the way we wish someone had explained it to us.
 
 ## What's here
 
-- **[Learn](/en/learn/)** — blockchain, bitcoin, DeFi, crypto for skeptics
-- **[Practice](/en/practice/)** — create a wallet, buy crypto, send a transaction
+- **[Learn](/en/learn/)** — blockchain, bitcoin, [DeFi](/en/glossary/#defi), crypto for skeptics
+- **[Practice](/en/practice/)** — create a [wallet](/en/glossary/#wallet), buy crypto, send a transaction
 - **[Market](/en/market/)** — prices, DeFi, loans, taxes
-- **[Security](/en/security/)** — scams, seed phrases, cold wallets
-- **[Bonus](/en/bonus/)** — NFTs, DAOs, memecoins, staking
+- **[Security](/en/security/)** — scams, [seed phrases](/en/glossary/#seed-phrase), [cold wallets](/en/glossary/#cold-wallet)
+- **[Bonus](/en/bonus/)** — [NFTs](/en/glossary/#nft), [DAOs](/en/glossary/#dao), memecoins, [staking](/en/glossary/#staking)
 
 ## Who writes this
 

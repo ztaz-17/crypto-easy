@@ -24,12 +24,12 @@ En el mundo bancario, solo esperas un SMS o una notificación push. En cripto, l
 
 > **Cada transacción es un registro público que cualquiera puede verificar.**
 
-Y no necesitas soporte bancario ni acceso a la cuenta de otro. Solo necesitas una herramienta — un **explorador de blockchain**.
+Y no necesitas soporte bancario ni acceso a la cuenta de otro. Solo necesitas una herramienta — un **explorador de [blockchain](/es/glossary/#blockchain)**.
 
 En este artículo cubriremos:
 - cómo encontrar cualquier transacción por su ID;
 - qué significan los estados Éxito, Pendiente y Fallido;
-- cómo leer los detalles: bloque, comisión, de dónde a dónde;
+- cómo leer los detalles: [bloque](/es/glossary/#block), comisión, de dónde a dónde;
 - qué exploradores funcionan para diferentes redes;
 - cómo configurar el monitoreo de wallets.
 
@@ -58,7 +58,7 @@ Necesitas un explorador cuando:
 
 ## Etherscan: El Explorador Principal de Ethereum
 
-**Etherscan** ([etherscan.io](https://etherscan.io)) es el explorador de blockchain más popular. Funciona para la red Ethereum y todos los tokens del estándar ERC-20.
+**Etherscan** ([etherscan.io](https://etherscan.io)) es el explorador de blockchain más popular. Funciona para la red Ethereum y todos los [tokens](/es/glossary/#token) del estándar ERC-20.
 
 ### Hash de Transacción (TxID)
 
@@ -191,9 +191,9 @@ No tienes que revisar cada transacción manualmente. Los exploradores pueden not
 
 ### Servicios de Monitoreo de Terceros
 
-- **Dextools** ([dextools.io](https://dextools.io)) — rastrea transacciones por token y pool de liquidez.
+- **Dextools** ([dextools.io](https://dextools.io)) — rastrea transacciones por token y pool de [liquidez](/es/glossary/#liquidity).
 - **Nansen** ([nansen.ai](https://nansen.ai)) — herramienta profesional de análisis de wallets (de pago).
-- **Bots de Telegram** — un montón de bots rastrean "ballenas" y grandes transacciones en tiempo real.
+- **Bots de Telegram** — un montón de bots rastrean "[ballenas](/es/glossary/#whale)" y grandes transacciones en tiempo real.
 
 > Consejo: si esperas una transferencia importante, configura una alerta en el explorador. Recibirás la notificación **antes** de que el destinatario diga "llegó."
 
@@ -226,7 +226,7 @@ El estado **Pendiente** puede durar desde unos segundos hasta varios días. Esto
 ### Por Qué se Atascan las Transacciones
 
 - **Comisión de gas baja.** En redes como Ethereum, los mineros procesan primero las transacciones con comisiones más altas. Si pusiste el gas demasiado bajo — la transacción se queda en la cola.
-- **Congestión de la red.** En momentos de furor (como un lanzamiento popular de NFT), la cola se vuelve enorme.
+- **Congestión de la red.** En momentos de furor (como un lanzamiento popular de [NFT](/es/glossary/#nft)), la cola se vuelve enorme.
 - **Problemas de nodo.** Raro, pero a veces un validador específico ralentiza las cosas.
 
 ### Qué Puedes Hacer

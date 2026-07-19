@@ -21,17 +21,17 @@ Imagina que tienes una caja fuerte. Le pones una contraseña — 8 caracteres, l
 
 Ahora imagina que esa caja fuerte viene con una **llave única** que abre no solo tu caja, sino todas las cajas fuertes del mundo donde está guardado tu dinero. Y si pierdes esa llave — tu contraseña no te ayudará. El dinero se habrá ido para siempre.
 
-En el mundo cripto, esa "llave" se llama **clave privada**. Y sí, es más importante que cualquier contraseña.
+En el mundo cripto, esa "llave" se llama **[clave privada](/es/glossary/#private-key)**. Y sí, es más importante que cualquier contraseña.
 
 ---
 
 ## Qué es una clave privada
 
-Una **clave privada** es una cadena larga de caracteres (dígitos y letras) que te da acceso total a tus criptomonedas. En palabras simples:
+Una **clave privada** es una cadena larga de caracteres (dígitos y letras) que te da acceso total a tus [criptomonedas](/es/glossary/#cryptocurrency). En palabras simples:
 
 > Una clave privada es tu firma. Una firma que le demuestra a la blockchain: "estas monedas son mías y autorizo su transferencia".
 
-En una blockchain no existe una "cuenta" con usuario y contraseña. No hay nadie sentado verificando si eres realmente tú. Todo el sistema se basa en criptografía: tienes un par de claves — **pública** (se la puedes mostrar a todos) y **privada** (no se la muestras a nadie).
+En una [blockchain](/es/glossary/#blockchain) no existe una "cuenta" con usuario y contraseña. No hay nadie sentado verificando si eres realmente tú. Todo el sistema se basa en criptografía: tienes un par de claves — **pública** (se la puedes mostrar a todos) y **privada** (no se la muestras a nadie).
 
 Clave pública — como tu número de cuenta bancaria. La compartes para que te puedan enviar dinero.
 
@@ -51,9 +51,9 @@ Muchos principiantes piensan: "Me registré en un exchange, puse una contraseña
 | ¿La olvidaste? | La restableces | **Lo perdiste todo** |
 | ¿Se puede cambiar? | La empresa puede | Solo tú la controlas |
 
-Una contraseña tiene una "vía de escape": "¿olvidaste tu contraseña?" — haces clic, recibes un código en tu correo, pones una nueva. **Las claves privadas no tienen nada de eso**. Las criptomonedas están diseñadas para que nadie — ni un exchange, ni los desarrolladores, ni la policía — pueda recuperar tu clave privada si la pierdes. Esa es la esencia de la descentralización.
+Una contraseña tiene una "vía de escape": "¿olvidaste tu contraseña?" — haces clic, recibes un código en tu correo, pones una nueva. **Las claves privadas no tienen nada de eso**. Las criptomonedas están diseñadas para que nadie — ni un exchange, ni los desarrolladores, ni la policía — pueda recuperar tu clave privada si la pierdes. Esa es la esencia de la [descentralización](/es/glossary/#decentralization).
 
-Historia real: en 2013, el especialista en TI británico James Howells tiró accidentalmente un disco duro que contenía la clave privada de una billetera con 7,500 Bitcoin. En ese momento, eso valía unos $7.5 millones de dólares. Hoy — **cientos de millones de dólares**. El disco está en un vertedero, las autoridades municipales niegan el acceso y la probabilidad de recuperación es cero.
+Historia real: en 2013, el especialista en TI británico James Howells tiró accidentalmente un disco duro que contenía la clave privada de una [billetera](/es/glossary/#wallet) con 7,500 Bitcoin. En ese momento, eso valía unos $7.5 millones de dólares. Hoy — **cientos de millones de dólares**. El disco está en un vertedero, las autoridades municipales niegan el acceso y la probabilidad de recuperación es cero.
 
 Una contraseña se habría restablecido en cinco minutos. Una clave privada — no.
 
@@ -71,7 +71,7 @@ E9873D79C6D87DC0FB6A5778633389F4453213303DA61F20BD67FC233AA33262
 
 Cada par de caracteres es un byte de información. 32 bytes en total. Esos 32 bytes controlan tus monedas.
 
-**Pero hay una forma más simple** — la frase semilla. Son 12 o 24 palabras comunes en inglés a partir de las cuales tu billetera genera automáticamente tu clave privada. Por ejemplo:
+**Pero hay una forma más simple** — la [frase semilla](/es/glossary/#seed-phrase). Son 12 o 24 palabras comunes en inglés a partir de las cuales tu billetera genera automáticamente tu clave privada. Por ejemplo:
 
 ```
 abandon amount liar lizard atom adjust arrow asset basket barrel batch airport
@@ -97,7 +97,7 @@ Por lo tanto:
 
 - Nunca tomes una foto de tu frase semilla.
 - Nunca la guardes en las notas de tu teléfono.
-- Nunca ingreses tu clave privada en sitios que prometen "verificar tu billetera" o "revisar airdrops".
+- Nunca ingreses tu clave privada en sitios que prometen "verificar tu billetera" o "revisar [airdrops](/es/glossary/#airdrop)".
 - Nunca la envíes a nadie por mensajería.
 - Nunca la almacenes en la nube (Google Drive, iCloud, Dropbox).
 

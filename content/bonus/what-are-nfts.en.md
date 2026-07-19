@@ -17,9 +17,9 @@ keywords:
 
 ---
 
-You've probably heard this story: in 2021, a digital image — a collage of 5,000 pictures — sold for **$69 million**. The buyer didn't get a physical canvas; they got a file and a record on the blockchain. The world gasped: "Why?"
+You've probably heard this story: in 2021, a digital image — a collage of 5,000 pictures — sold for **$69 million**. The buyer didn't get a physical canvas; they got a file and a record on the [blockchain](/en/glossary/#blockchain). The world gasped: "Why?"
 
-That was an **NFT** — a non-fungible token.
+That was an **[NFT](/en/glossary/#nft)** — a non-fungible [token](/en/glossary/#token).
 
 But reducing NFTs to just expensive pictures is like reducing the internet to email. Let's break down what this technology actually is and where it's already being used.
 
@@ -61,7 +61,7 @@ Standards:
 - **ERC-721** (Ethereum) — the most popular;
 - **ERC-1155** — lets you create both unique and fungible tokens in a single contract.
 
-👉 Important: the actual file (image, music, video) is usually not stored on the blockchain itself, but in a decentralized storage system (IPFS) or on a regular server. The blockchain only holds a link.
+👉 Important: the actual file (image, music, video) is usually not stored on the blockchain itself, but in a [decentralized](/en/glossary/#decentralization) storage system (IPFS) or on a regular server. The blockchain only holds a link.
 
 ---
 
@@ -79,7 +79,7 @@ Benefits:
 
 - **authenticity** — blockchain records can't be forged;
 - **secondary market** — resales are controlled, and organizers can earn royalties;
-- **keepsake** — the ticket stays in your wallet as a souvenir with history.
+- **keepsake** — the ticket stays in your [wallet](/en/glossary/#wallet) as a souvenir with history.
 
 Example: European football clubs like FC Barcelona issue NFT tickets for matches.
 
@@ -105,7 +105,7 @@ An NFT can work as a **digital pass**:
 
 - access to a private club or chat;
 - discounts with project partners;
-- voting rights in a DAO (decentralized autonomous organization).
+- voting rights in a [DAO](/en/glossary/#dao) (decentralized autonomous organization).
 
 Example: Bored Ape Yacht Club — NFT holders get access to exclusive events, merchandise, and community.
 

@@ -30,7 +30,7 @@ Y sin embargo, funciona, genera dinero y crece.
 
 > **DAO (Organización Autónoma Descentralizada)** — de eso exactamente estamos hablando.
 
-Una DAO es una organización autónoma descentralizada que no funciona por personas, sino por **código y votación de los miembros**.
+Una [DAO](/es/glossary/#dao) es una organización autónoma descentralizada que no funciona por personas, sino por **código y votación de los miembros**.
 
 En este artículo veremos:
 
@@ -44,10 +44,10 @@ En este artículo veremos:
 
 ### Definición
 
-Una DAO es una organización que vive en una blockchain y funciona mediante **contratos inteligentes**.
+Una DAO es una organización que vive en una [blockchain](/es/glossary/#blockchain) y funciona mediante **contratos inteligentes**.
 
 En lugar de gerentes — **reglas escritas en código**.
-En lugar de órdenes — **votación ponderada por tokens**.
+En lugar de órdenes — **votación ponderada por [tokens](/es/glossary/#token)**.
 
 Cada miembro de una DAO puede:
 
@@ -129,7 +129,7 @@ Ejemplos de tokens de gobernanza:
 
 Lo que hicieron:
 
-- crearon la stablecoin **DAI**, vinculada al dólar estadounidense;
+- crearon la [stablecoin](/es/glossary/#stablecoin) **DAI**, vinculada al dólar estadounidense;
 - gobiernan el protocolo mediante votaciones de los tenedores de **MKR**.
 
 Cómo funciona:
@@ -142,7 +142,7 @@ Cómo funciona:
 
 ### Uniswap
 
-**Uniswap** es un exchange descentralizado (DEX) que también opera como DAO.
+**Uniswap** es un exchange descentralizado ([DEX](/es/glossary/#dex)) que también opera como DAO.
 
 Qué se decide mediante votación:
 
@@ -165,7 +165,7 @@ Cualquier tenedor de UNI puede:
 ### Ventajas
 
 - **Transparencia** — todas las decisiones son visibles en la blockchain;
-- **Descentralización** — no hay un solo punto de fallo;
+- **[Descentralización](/es/glossary/#decentralization)** — no hay un solo punto de fallo;
 - **Participación global** — cualquiera puede unirse;
 - **Automatización** — el código ejecuta decisiones sin intermediarios.
 

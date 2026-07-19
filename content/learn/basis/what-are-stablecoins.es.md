@@ -22,9 +22,9 @@ keywords:
 
 Acabas de comprar tu primer Bitcoin. Una hora después, el precio cae un 15%. Entras en pánico y abres el gráfico — todo en rojo. Al día siguiente — menos 30%. ¿Te suena familiar?
 
-Las criptomonedas son una montaña rusa. Bitcoin puede caer un 50% en una semana, y alguna altcoin puede perder el 90% en un día. Genial para especular. Terrible para ahorrar.
+Las [criptomonedas](/es/glossary/#cryptocurrency) son una montaña rusa. Bitcoin puede caer un 50% en una semana, y alguna altcoin puede perder el 90% en un día. Genial para especular. Terrible para ahorrar.
 
-Entran las **stablecoins**.
+Entran las **[stablecoins](/es/glossary/#stablecoin)**.
 
 > **Una stablecoin** es una criptomoneda cuyo precio está anclado a algo estable: un dólar, un euro o el oro.
 
@@ -59,8 +59,8 @@ Compraste Bitcoin a $30,000, subió a $70,000. Quieres tomar ganancias pero no q
 ### Puente entre dinero fiat y cripto
 
 La mayoría de los exchanges no intercambian Bitcoin directamente por efectivo. La ruta habitual:
-1. Compras USDT por P2P o con tarjeta.
-2. Intercambias USDT por Bitcoin en un exchange centralizado (CEX) o descentralizado (DEX).
+1. Compras USDT por [P2P](/es/glossary/#p2p) o con tarjeta.
+2. Intercambias USDT por Bitcoin en un exchange centralizado ([CEX](/es/glossary/#cex)) o descentralizado ([DEX](/es/glossary/#dex)).
 
 USDT es el "centro de tránsito" universal entre el dinero tradicional y las cripto.
 
@@ -70,13 +70,13 @@ USDT es el "centro de tránsito" universal entre el dinero tradicional y las cri
 
 ### Qué es
 
-**USDT** (Tether) — la stablecoin más popular del mundo. Capitalización de mercado a abril de 2026: $190 mil millones. Está en todos los exchanges, todas las billeteras, todos los protocolos DeFi.
+**USDT** (Tether) — la stablecoin más popular del mundo. Capitalización de mercado a abril de 2026: $190 mil millones. Está en todos los exchanges, todas las [billeteras](/es/glossary/#wallet), todos los protocolos [DeFi](/es/glossary/#defi).
 
 USDT funciona en múltiples blockchains: Ethereum (ERC-20), Tron (TRC-20 — la más popular, comisiones bajas), BSC (BEP-20), Solana, Polygon, Avalanche y más.
 
 ### Cómo funciona
 
-Tether Limited — la empresa detrás de USDT — afirma que cada token está respaldado por dólares reales y activos. Le das $1 a Tether, ellos crean 1 USDT. Devuelves 1 USDT — queman el token y te devuelven $1.
+Tether Limited — la empresa detrás de USDT — afirma que cada [token](/es/glossary/#token) está respaldado por dólares reales y activos. Le das $1 a Tether, ellos crean 1 USDT. Devuelves 1 USDT — queman el token y te devuelven $1.
 
 > **Principio: 1 USDT = $1 en las reservas de Tether.**
 
@@ -137,8 +137,8 @@ Ejemplo: depositas $200 de ETH. El contrato te permite crear 150 DAI (ratio de g
 
 ### Ventajas
 
-- **Descentralización.** Nadie puede congelar tu DAI ni prohibir su emisión.
-- **Transparencia.** Todas las transacciones y garantías son visibles en la blockchain.
+- **[Descentralización](/es/glossary/#decentralization).** Nadie puede congelar tu DAI ni prohibir su emisión.
+- **Transparencia.** Todas las transacciones y garantías son visibles en la [blockchain](/es/glossary/#blockchain).
 - **Independencia.** No necesitas confiar en Tether o Circle — confías en el código.
 
 ### Desventajas

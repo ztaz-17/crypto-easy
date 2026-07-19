@@ -23,7 +23,7 @@ Er ist intelligent. Er befolgt Anweisungen perfekt. Aber er hat keine Ahnung, wa
 
 > **Ein Smart Contract ist genau so ein Roboter.**
 
-Er lebt innerhalb einer Blockchain und kann nur mit dem interagieren, was bereits auf der Chain ist. Daten aus der Außenwelt — Preise, Wechselkurse, Sportergebnisse — sind tabu.
+Er lebt innerhalb einer [Blockchain](/de/glossary/#blockchain) und kann nur mit dem interagieren, was bereits auf der Chain ist. Daten aus der Außenwelt — Preise, Wechselkurse, Sportergebnisse — sind tabu.
 
 Wie bringt man also einen Smart Contract dazu, dir den aktuellen Bitcoin-Preis zu verraten?
 
@@ -149,11 +149,11 @@ Ein Smart Contract kann zum Beispiel einfach die **ETH/USD Price Feed**-Adresse 
 
 Chainlink verwendet mehrere Schutzebenen:
 
-1. **Dezentralisierung** — Daten werden von vielen unabhängigen Knoten gesammelt;
+1. **[Dezentralisierung](/de/glossary/#decentralization)** — Daten werden von vielen unabhängigen Knoten gesammelt;
 2. **Aggregation** — der endgültige Preis ist der Median aller Quellen;
 3. **Anreize** — Knoten erhalten Belohnungen für ehrliche Arbeit und verlieren ihre Hinterlegung bei Betrug.
 
-👉 Dadurch ist Chainlink der De-facto-Standard für DeFi-Anwendungen.
+👉 Dadurch ist Chainlink der De-facto-Standard für [DeFi](/de/glossary/#defi)-Anwendungen.
 
 ---
 
@@ -183,7 +183,7 @@ Orakel sind ein unsichtbarer, aber essenzieller Teil der Kryptowelt.
 
 Ohne Orakel würde nichts davon funktionieren:
 - DeFi-Protokolle (Aave, Compound);
-- Stablecoins (DAI prüft Sicherheitenpreise);
+- [Stablecoins](/de/glossary/#stablecoin) (DAI prüft Sicherheitenpreise);
 - Versicherungs-Smart-Contracts;
 - Prognosemärkte.
 
@@ -203,7 +203,7 @@ Kannst du, aber es ist riskant. Ein zentralisiertes Orakel ist ein einzelner Aus
 
 ### Muss ich für Orakel bezahlen?
 
-Ja. Ein Smart Contract zahlt eine Gebühr an Orakel-Knoten für die Bereitstellung von Daten. Bei Chainlink wird die Gebühr in LINK-Token bezahlt.
+Ja. Ein Smart Contract zahlt eine Gebühr an Orakel-Knoten für die Bereitstellung von Daten. Bei Chainlink wird die Gebühr in LINK-[Token](/de/glossary/#token) bezahlt.
 
 ### Kann ein Orakel falsch liegen?
 

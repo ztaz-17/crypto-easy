@@ -24,7 +24,7 @@ Imagina: compraste Bitcoin en un exchange. El dinero salió de tu cuenta, y apar
 **Y aquí surge la pregunta principal: ¿dónde lo guardas ahora?**
 
 ¿Dejarlo en el exchange? Da miedo — los exchanges son hackeados, quiebran, congelan retiros.
-¿Pasarlo a una cartera? ¿Y cuál elegir?
+¿Pasarlo a una [cartera](/es/glossary/#wallet)? ¿Y cuál elegir?
 
 En cripto hay dos enfoques fundamentalmente diferentes para el almacenamiento:
 
@@ -42,7 +42,7 @@ En este artículo veremos:
 
 ### Qué son
 
-Una **billetera caliente** es un programa que está constantemente conectado a internet.
+Una **[billetera caliente](/es/glossary/#hot-wallet)** es un programa que está constantemente conectado a internet.
 
 Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para firmar transacciones en tiempo real.
 
@@ -51,7 +51,7 @@ Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para 
 | Cartera             | Tipo                | Característica                          |
 |---------------------|----------------------|----------------------------------------|
 | **MetaMask**        | Extensión de navegador | La más popular para Ethereum y redes EVM |
-| **Trust Wallet**    | Aplicación móvil       | Cómoda, multimoneda, navegador DApp integrado |
+| **Trust Wallet**    | Aplicación móvil       | Cómoda, multimoneda, navegador [DApp](/es/glossary/#dapp) integrado |
 | **Exodus**          | Escritorio / móvil   | Interfaz bonita, intercambio integrado |
 | **Phantom**         | Navegador / móvil    | Optimizada para Solana                 |
 | **Coinbase Wallet** | Móvil / extensión    | Integración con el exchange, no custodial |
@@ -62,7 +62,7 @@ Tus claves se almacenan en el dispositivo (teléfono, ordenador) y se usan para 
 
 1. Instalas la aplicación o extensión.
 2. La cartera genera una **[frase semilla](/es/glossary/#seed-phrase)** (12 o 24 palabras).
-3. De la frase semilla se crean las claves privadas.
+3. De la [frase semilla](/es/glossary/#seed-phrase) se crean las [claves privadas](/es/glossary/#private-key).
 4. Cada vez que envías cripto, la cartera firma la transacción **directamente en tu dispositivo**.
 5. La transacción firmada se envía a la red.
 
@@ -72,7 +72,7 @@ Todo esto ocurre en segundos. ¿Cómodo? Mucho.
 
 - transacciones rápidas;
 - acceso cómodo desde el teléfono u ordenador;
-- integración con DApps, DeFi, NFT;
+- integración con DApps, [DeFi](/es/glossary/#defi), [NFT](/es/glossary/#nft);
 - gratuitas (excepto comisiones de red);
 - ideales para uso diario.
 
@@ -89,7 +89,7 @@ Todo esto ocurre en segundos. ¿Cómodo? Mucho.
 
 ### Qué son
 
-Una **billetera fría** es un dispositivo físico (o un papel) donde las claves **nunca entran en contacto con internet**.
+Una **[billetera fría](/es/glossary/#cold-wallet)** es un dispositivo físico (o un papel) donde las claves **nunca entran en contacto con internet**.
 
 La opción más popular es la **billetera hardware** (hardware wallet).
 
@@ -97,7 +97,7 @@ La opción más popular es la **billetera hardware** (hardware wallet).
 
 | Dispositivo           | Característica                              |
 |-----------------------|--------------------------------------------|
-| **Ledger Nano S Plus** | Económica, fiable, soporta más de 100 tokens |
+| **Ledger Nano S Plus** | Económica, fiable, soporta más de 100 [tokens](/es/glossary/#token) |
 | **Ledger Nano X**     | Con Bluetooth, se puede conectar al teléfono |
 | **Trezor Model One**  | Primera billetera hardware, open-source    |
 | **Trezor Model T**    | Con pantalla táctil, más cómoda            |
@@ -127,7 +127,7 @@ Aunque el ordenador esté infectado con un virus, el atacante no podrá robar la
 - las claves no contactan con internet;
 - protección contra virus, phishing, keyloggers;
 - se pueden conectar de forma segura a un ordenador infectado;
-- soporte para muchas criptomonedas.
+- soporte para muchas [criptomonedas](/es/glossary/#cryptocurrency).
 
 ### Desventajas de las billeteras frías
 
@@ -176,7 +176,7 @@ Tú:
 
 Tú:
 - compraste Bitcoin y no piensas venderlo en 2 o 3 años;
-- guardas ahorros en stablecoins;
+- guardas ahorros en [stablecoins](/es/glossary/#stablecoin);
 - temes que el exchange sea hackeado.
 
 👉 Necesitas una **billetera fría** (Ledger, Trezor). Guarda allí el 80–90% de tus activos.
@@ -226,7 +226,7 @@ Sí. La frase semilla es universal.
 
 ### ¿Qué pasa si el Ledger se rompe?
 
-No pasa nada. El dispositivo es solo una «llave». Las monedas en sí se almacenan en la blockchain.
+No pasa nada. El dispositivo es solo una «llave». Las monedas en sí se almacenan en la [blockchain](/es/glossary/#blockchain).
 
 Compra un Ledger nuevo (o cualquier otra cartera compatible con BIP39) y restaura el acceso con tu frase semilla.
 

@@ -55,7 +55,7 @@ Here's what it looks like in practice:
 - BNB Smart Chain has **BSC Testnet**.
 - Bitcoin has **Testnet** (yes, Bitcoin has a testnet too).
 
-Every one of these networks follows the same rules as the main one. You create a wallet, get an address, send coins, and pay fees (also test fees). There's only one difference:
+Every one of these networks follows the same rules as the main one. You create a [wallet](/en/glossary/#wallet), get an address, send coins, and pay fees (also test fees). There's only one difference:
 
 > **If you mess up — you lose nothing.**
 
@@ -76,7 +76,7 @@ Here's how it works:
 
 The most popular ones:
 
-- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no need to sign up on third-party platforms; you can get ETH, tokens (PYUSD, WBTC, etc.) and NFTs. Just need a Google account.
+- **[Google Cloud Faucet](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)** — no need to sign up on third-party platforms; you can get ETH, [tokens](/en/glossary/#token) (PYUSD, WBTC, etc.) and [NFTs](/en/glossary/#nft). Just need a Google account.
 - **sepoliafaucet.com** — one of the most reliable.
 - **infura.io/faucet/sepolia** — requires an Infura account, but gives regular drips.
 - **alchemy.com/faucets/ethereum-sepolia** — from Alchemy, also after registration.
@@ -122,7 +122,7 @@ Now let's get some coins into your crypto wallet:
 
 ### Gimme More! Let's Get USD
 
-Ethereum is a blockchain that became popular because of smart contracts.
+Ethereum is a [blockchain](/en/glossary/#blockchain) that became popular because of smart contracts.
 
 Put simply, a smart contract is a program that can issue any kind of token, NFT, define their economics, rules, and so on. And it all runs on gas (Gwei — the fuel of the Ethereum system).
 
@@ -162,7 +162,7 @@ Try sending ETH and tokens from one account to another:
 3. Switch back to the first account, select the **Sepolia** network.
 4. On the **Tokens** tab, select PYUSD (or any token you received) **&rarr;** click **Send** **&rarr;** paste the second account's address **&rarr;** enter an amount (e.g., 10 PYUSD).
 
-Watch how the gas fee is deducted and how the transaction shows up on the block explorer: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
+Watch how the gas fee is deducted and how the transaction shows up on the [block](/en/glossary/#block) explorer: **[sepolia.etherscan.io](https://sepolia.etherscan.io/address/0xd36D4Ed7d4Ed7414190cCDF3159E7eF561683128#tokentxns)**.
 
 
 #### 2. Send a Transfer to a Friend
@@ -199,7 +199,7 @@ The biggest advantage of testnets:
 You can:
 
 - send coins to the wrong address (and lose nothing);
-- lose the seed phrase for your test wallet (just create a new one);
+- lose the [seed phrase](/en/glossary/#seed-phrase) for your test wallet (just create a new one);
 - click a phishing link (test coins are worthless anyway);
 - deploy a broken contract (free practice).
 
@@ -264,4 +264,4 @@ No. If you're only working with the testnet — there are zero real coins there.
 
 ### Why do testnets exist?
 
-To test smart contracts and dApps before launch. A bug in a mainnet contract can cost millions of dollars. On a testnet — nothing.
+To test smart contracts and [dApps](/en/glossary/#dapp) before launch. A bug in a mainnet contract can cost millions of dollars. On a testnet — nothing.

@@ -32,7 +32,7 @@ Short answer: If you **bought and held** — no. Tax kicks in when you **realize
 Here's what to do right now if you're already trading:
 
 1. **Set up a tracking spreadsheet** — Google Sheets or Excel. Log every trade: date, purchase amount, sale amount, exchange rate.
-2. **Save screenshots** — of orders, transfers between wallets, transaction confirmations.
+2. **Save screenshots** — of orders, transfers between [wallets](/en/glossary/#wallet), transaction confirmations.
 3. **Connect a crypto tax calculator** — services like Koinly, CoinTracking, or CoinLedger pull data directly from exchanges.
 4. **Find out your country's filing deadline** — they're different everywhere.
 
@@ -70,18 +70,18 @@ Example:
 
 This includes:
 - Salary paid in crypto
-- Staking rewards (Ethereum 2.0, Solana, etc.)
-- Mining
-- Airdrops
-- DeFi yields (lending, farming)
+- [Staking](/en/glossary/#staking) rewards (Ethereum 2.0, Solana, etc.)
+- [Mining](/en/glossary/#mining)
+- [Airdrops](/en/glossary/#airdrop)
+- [DeFi](/en/glossary/#defi) yields (lending, farming)
 
 All of this counts as **income** and is taxed just like your regular salary. The rate is your ordinary income tax rate.
 
 ### You Bought an NFT or Played GameFi
 
-If you bought an NFT with crypto — that may be a taxable event (depends on the country). If you sold the NFT for more than you paid — the profit is taxable.
+If you bought an [NFT](/en/glossary/#nft) with crypto — that may be a taxable event (depends on the country). If you sold the NFT for more than you paid — the profit is taxable.
 
-In GameFi (games like Axie Infinity), token rewards are considered income when you receive them.
+In GameFi (games like Axie Infinity), [token](/en/glossary/#token) rewards are considered income when you receive them.
 
 ---
 
@@ -91,8 +91,8 @@ Not everything triggers a tax bill:
 
 | Transaction | Tax? | Explanation |
 |------------|------|-------------|
-| Just bought and holding (HODL) | ❌ No | Until you sell — no tax |
-| Transfer between your own wallets | ❌ No | Moving from exchange to cold wallet isn't a sale |
+| Just bought and holding ([HODL](/en/glossary/#hodl)) | ❌ No | Until you sell — no tax |
+| Transfer between your own wallets | ❌ No | Moving from exchange to [cold wallet](/en/glossary/#cold-wallet) isn't a sale |
 | Gifted crypto (within limits) | ❌ No in some countries | Varies by country |
 | Bought crypto and lost access | ❌ No | It's a loss, not profit |
 
@@ -147,9 +147,9 @@ Prepare in advance, and tax filing won't be scary.
 The minimum set of documents you should have ready:
 
 1. **Exchange trade history** — a CSV file with dates, trading pairs, volumes, and prices. Every major exchange (Binance, Bybit, OKX, Kraken) can export this.
-2. **Fiat deposit/withdrawal confirmations** — bank statements, screenshots of card-to-exchange transfers.
+2. **[Fiat](/en/glossary/#fiat) deposit/withdrawal confirmations** — bank statements, screenshots of card-to-exchange transfers.
 3. **Staking and mining records** — how much and when you received rewards, the exchange rate at that time.
-4. **P2P transaction records** — if you bought crypto directly from people (Binance P2P, LocalBitcoins), save screenshots of the listings.
+4. **[P2P](/en/glossary/#p2p) transaction records** — if you bought crypto directly from people (Binance P2P, LocalBitcoins), save screenshots of the listings.
 5. **Tax calculator report** — if you use Koinly, CoinTracking, etc., they generate ready-to-file reports for the IRS, HMRC, or your local tax authority.
 
 ### How Long to Keep Documents?
@@ -186,7 +186,7 @@ Here's what usually goes wrong:
 
 ### Mistake 1: "Crypto is anonymous, the taxman won't know"
 
-This is the most dangerous myth. All major exchanges share data with regulators. Binance, Coinbase, Kraken — all comply with KYC. If you withdrew money to your bank — the bank already knows. The blockchain is a public ledger, and specialized software tracks suspicious transactions.
+This is the most dangerous myth. All major exchanges share data with regulators. Binance, Coinbase, Kraken — all comply with [KYC](/en/glossary/#kyc). If you withdrew money to your bank — the bank already knows. The [blockchain](/en/glossary/#blockchain) is a public ledger, and specialized software tracks suspicious transactions.
 
 ### Mistake 2: "I only swapped BTC for USDT — that's not a sale"
 

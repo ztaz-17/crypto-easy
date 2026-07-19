@@ -52,7 +52,7 @@ Most importantly — we'll show you what alternatives exist and how to take back
 
 ### Official vs. Real inflation
 
-When they say "inflation is 6%," it sounds tolerable.
+When they say "[inflation](/en/glossary/#inflation) is 6%," it sounds tolerable.
 Central banks have gotten virtuously good at juggling the numbers. Governments calculate inflation based on a consumer basket that includes hundreds of items:
 
 * bread;
@@ -133,7 +133,7 @@ Imagine you bought a kilogram of gold, put it in a safe, and a year later opened
 
 > **Frustrating? Insanely so.**
 
-But that's exactly what happens with fiat money, except we don't notice it because the bills look the same. What changes is what they're worth.
+But that's exactly what happens with [fiat](/en/glossary/#fiat) money, except we don't notice it because the bills look the same. What changes is what they're worth.
 
 > **Key thought:** If your income or deposit returns are growing slower than gas and food prices, you're not "saving" money.
 > You're financing whoever produces those goods, voluntarily giving up your share in the future.
@@ -297,11 +297,11 @@ She had to close the gap with a loan.
 
 ### Deposit, cash, cryptocurrency
 
-| Criteria | Deposit | Cash | Cryptocurrency |
+| Criteria | Deposit | Cash | [Cryptocurrency](/en/glossary/#cryptocurrency) |
 | --- | --- | --- | --- |
 | Nominal rate | 3–6% | 0% | 0–15%+ (depends on strategy) |
 | Real return | Negative | Strongly negative | Can be positive |
-| Liquidity | High | Maximum | High |
+| [Liquidity](/en/glossary/#liquidity) | High | Maximum | High |
 | Inflation protection | No | No | Partial (depends on asset) |
 | Potential profit | Low | None | High |
 
@@ -313,7 +313,7 @@ A deposit is like:
 > holding ice in a warm room and being happy it's melting slowly
 
 Cryptocurrency as a deposit alternative:
-* gives access to yield (staking, DeFi);
+* gives access to yield ([staking](/en/glossary/#staking), [DeFi](/en/glossary/#defi));
 * doesn't require intermediaries;
 * gives you **control over your money**.
 

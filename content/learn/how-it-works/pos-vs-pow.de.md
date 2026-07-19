@@ -18,11 +18,11 @@ keywords:
 
 ---
 
-Bitcoin verbraucht so viel Strom wie ein kleines Land. Früher galt das auch für Ethereum — bis es auf Staking umstellte. Solana bestätigt tausende Transaktionen pro Sekunde mit fast null Gebühren.
+Bitcoin verbraucht so viel Strom wie ein kleines Land. Früher galt das auch für Ethereum — bis es auf [Staking](/de/glossary/#staking) umstellte. Solana bestätigt tausende Transaktionen pro Sekunde mit fast null Gebühren.
 
-Warum ist das so? Alles hängt vom **Konsensmechanismus** ab — der Regel, die entscheidet, wer neue Blöcke zur Kette hinzufügen darf.
+Warum ist das so? Alles hängt vom **Konsensmechanismus** ab — der Regel, die entscheidet, wer neue [Blöcke](/de/glossary/#block) zur Kette hinzufügen darf.
 
-Die zwei wichtigsten Mechanismen sind **Proof of Work (PoW)** und **Proof of Stake (PoS)**. Sie treiben fast jede Kryptowährung an, funktionieren jedoch grundlegend unterschiedlich.
+Die zwei wichtigsten Mechanismen sind **[Proof of Work](/de/glossary/#proof-of-work) (PoW)** und **[Proof of Stake](/de/glossary/#proof-of-stake) (PoS)**. Sie treiben fast jede [Kryptowährung](/de/glossary/#cryptocurrency) an, funktionieren jedoch grundlegend unterschiedlich.
 
 > In diesem Artikel erklären wir: wie Mining und Staking funktionieren, die wichtigsten Unterschiede, was für den Nutzer besser ist und ob PoW eine Zukunft hat.
 
@@ -32,7 +32,7 @@ Die zwei wichtigsten Mechanismen sind **Proof of Work (PoW)** und **Proof of Sta
 
 ### Wie es funktioniert
 
-Proof of Work ist genau das, wonach es klingt: Du musst **echte Rechenarbeit leisten**, um einen neuen Block zur Blockchain hinzuzufügen.
+Proof of Work ist genau das, wonach es klingt: Du musst **echte Rechenarbeit leisten**, um einen neuen Block zur [Blockchain](/de/glossary/#blockchain) hinzuzufügen.
 
 Stell dir einen Safe mit einem Zahlenschloss vor, das eine Milliarde mögliche Codes hat. Du probierst eine Kombination nach der anderen — Stunden, Tage, Wochen vergehen. Sobald du den Code geknackt hast, kann jeder überprüfen, dass er stimmt.
 
@@ -62,7 +62,7 @@ Miner sind keine Programmierer oder Entwickler. Sie sind **Hardware-Betreiber**.
 
 - kaufen und installieren ASIC-Miner;
 - suchen günstigen Strom (nahe Wasserkraftwerken, in sonnigen Regionen);
-- schließen sich Mining-Pools an, um ein stabiles Einkommen zu haben;
+- schließen sich [Mining](/de/glossary/#mining)-Pools an, um ein stabiles Einkommen zu haben;
 - verkaufen die geminten Coins, um die Stromrechnung zu bezahlen.
 
 > Solo-Mining ist heute fast unmöglich — alle arbeiten in **Pools** (F2Pool, Antpool, ViaBTC), wo die Belohnungen proportional zur eingebrachten Hashrate aufgeteilt werden.
@@ -141,7 +141,7 @@ PoS gewinnt bei **Effizienz** und **Skalierbarkeit**. Der Wechsel von Ethereum z
 
 ### Für den Investor
 
-Wenn du bereits Krypto besitzt, kannst du durch Staking **damit verdienen**, indem du es einfach in deiner Wallet behältst. Du verkaufst deine Coins nicht — sie generieren Einkommen.
+Wenn du bereits Krypto besitzt, kannst du durch Staking **damit verdienen**, indem du es einfach in deiner [Wallet](/de/glossary/#wallet) behältst. Du verkaufst deine Coins nicht — sie generieren Einkommen.
 
 Beispiel:
 
@@ -210,4 +210,4 @@ PoS ist eindeutig grüner. Der Wechsel von Ethereum zu PoS senkte den Energiever
 
 ### Könnte Bitcoin auf PoS umsteigen?
 
-Theoretisch — ja. In der Praxis — äußerst unwahrscheinlich. Die Bitcoin-Community ist konservativ und betrachtet PoW als den einzig wirklich kampferprobten Mechanismus. Ein Wechsel würde einen Hard Fork und Konsens aller Teilnehmer erfordern, was so gut wie unmöglich ist.
+Theoretisch — ja. In der Praxis — äußerst unwahrscheinlich. Die Bitcoin-Community ist konservativ und betrachtet PoW als den einzig wirklich kampferprobten Mechanismus. Ein Wechsel würde einen Hard [Fork](/de/glossary/#fork) und Konsens aller Teilnehmer erfordern, was so gut wie unmöglich ist.

@@ -17,9 +17,9 @@ keywords:
 
 ---
 
-Seguro has escuchado esta historia: en 2021, una imagen digital — un collage de 5.000 fotos — se vendió por **$69 millones**. El comprador no recibió un lienzo físico; obtuvo un archivo y un registro en la blockchain. El mundo se quedó boquiabierto: "¿Por qué?"
+Seguro has escuchado esta historia: en 2021, una imagen digital — un collage de 5.000 fotos — se vendió por **$69 millones**. El comprador no recibió un lienzo físico; obtuvo un archivo y un registro en la [blockchain](/es/glossary/#blockchain). El mundo se quedó boquiabierto: "¿Por qué?"
 
-Eso fue un **NFT** — un token no fungible.
+Eso fue un **[NFT](/es/glossary/#nft)** — un [token](/es/glossary/#token) no fungible.
 
 Pero reducir los NFTs a solo imágenes caras es como reducir internet al correo electrónico. Vamos a desglosar qué es realmente esta tecnología y dónde ya se está usando.
 
@@ -79,7 +79,7 @@ Ventajas:
 
 - **autenticidad** — los registros en la blockchain no se pueden falsificar;
 - **mercado secundario** — las reventas están controladas y los organizadores pueden cobrar regalías;
-- **recuerdo** — el boleto queda en tu cartera como souvenir con historial.
+- **recuerdo** — el boleto queda en tu [cartera](/es/glossary/#wallet) como souvenir con historial.
 
 Ejemplo: clubes de fútbol europeos como el FC Barcelona emiten boletos NFT para sus partidos.
 
@@ -105,7 +105,7 @@ Un NFT puede funcionar como un **pase digital**:
 
 - acceso a un club privado o chat;
 - descuentos con socios del proyecto;
-- derecho a voto en una DAO (organización autónoma descentralizada).
+- derecho a voto en una [DAO](/es/glossary/#dao) (organización autónoma descentralizada).
 
 Ejemplo: Bored Ape Yacht Club — los poseedores de NFTs acceden a eventos exclusivos, mercancía y comunidad.
 
@@ -165,7 +165,7 @@ En 2021–2022, el mercado de NFTs se sobrecalentó. Imágenes sin valor real se
 
 Comprar un NFT es fácil. Venderlo suele ser difícil.
 
-A diferencia de las criptomonedas (que siempre tienen mercado), los NFTs son objetos únicos. Tu token puede esperar meses por un comprador.
+A diferencia de las [criptomonedas](/es/glossary/#cryptocurrency) (que siempre tienen mercado), los NFTs son objetos únicos. Tu token puede esperar meses por un comprador.
 
 ---
 
@@ -212,7 +212,7 @@ No. Un NFT puede ser cualquier cosa: música, texto, un objeto de videojuego, un
 Sí, el archivo se puede abrir en un navegador. Pero el dueño es la persona que tiene el token en su cartera.
 
 ### ¿Los NFTs son malos para el medio ambiente?
-En Ethereum solía consumir mucha energía, pero después del cambio a Prueba de Participación (septiembre de 2022), el consumo energético se redujo ~99.9%.
+En Ethereum solía consumir mucha energía, pero después del cambio a [Prueba de Participación](/es/glossary/#proof-of-stake) (septiembre de 2022), el consumo energético se redujo ~99.9%.
 
 ### ¿Debería comprar un NFT ahora mismo?
 Como cualquier activo — solo si entiendes por qué lo quieres. Para especular, hay instrumentos más líquidos.

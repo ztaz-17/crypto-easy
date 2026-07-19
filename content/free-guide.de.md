@@ -28,7 +28,7 @@ Jeder davon hat echten Menschen echtes Geld gekostet. Wir zeigen dir, wie du sie
 Aber die Geschichte kennt Dutzende Fälle, in denen Börsen Kundengelder verloren haben: Hacks, Kontosperrungen, Pleiten.
 
 Die Regel ist einfach: **nicht deine Schlüssel, nicht deine Münzen**.  
-Im Leitfaden erklären wir, wie du in 5 Minuten eine persönliche Wallet einrichtest und deine Gelder überweist.
+Im Leitfaden erklären wir, wie du in 5 Minuten eine persönliche [Wallet](/de/glossary/#wallet) einrichtest und deine Gelder überweist.
 
 ---
 
@@ -37,13 +37,13 @@ Im Leitfaden erklären wir, wie du in 5 Minuten eine persönliche Wallet einrich
 Du hast Bitcoin gekauft — er fiel. Du hast aus Panik verkauft — er stieg. Kommt dir bekannt vor?
 
 Emotionale Entscheidungen sind der größte Feind von Krypto-Anfängern.  
-Der Leitfaden zeigt eine einfache Kapitalmanagement-Strategie, die vor Panikverkäufen und FOMO schützt.
+Der Leitfaden zeigt eine einfache Kapitalmanagement-Strategie, die vor Panikverkäufen und [FOMO](/de/glossary/#fomo) schützt.
 
 ---
 
 ## 🚫 Fehler #3: Geld in Fragwürdige Projekte Stecken
 
-"Neuer Token gerade gestartet, verspricht x100, alle im Chat haben gekauft" — die klassische Falle.  
+"Neuer [Token](/de/glossary/#token) gerade gestartet, verspricht x100, alle im Chat haben gekauft" — die klassische Falle.  
 Betrugsprojekte, Pump-and-Dump-Schemata und Pyramidensysteme tarnen sich als "Innovationen."
 
 Im Leitfaden: **3 einfache Kriterien**, um in unter 2 Minuten ein vielversprechendes Projekt von einem Betrug zu unterscheiden.
@@ -64,7 +64,7 @@ Wir erklären, welche Gebühren es gibt, wie du sie minimierst und was du über 
 
 Der teuerste Fehler von allen. Milliarden Dollar in Bitcoin wurden genau so für immer verloren.
 
-Hebst du deine Seed-Phrase auf dem Handy auf? In der Cloud? In Notizen?  
+Hebst du deine [Seed-Phrase](/de/glossary/#seed-phrase) auf dem Handy auf? In der Cloud? In Notizen?  
 Der Leitfaden enthält eine Schritt-für-Schritt-Sicherheitscheckliste für die Seed-Phrase, die von Profis verwendet wird.
 
 ---

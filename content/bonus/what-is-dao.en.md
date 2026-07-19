@@ -30,7 +30,7 @@ Sounds like science fiction?
 
 > **DAO (Decentralized Autonomous Organization)** — that's exactly what we're talking about.
 
-A DAO is a decentralized autonomous organization run not by people, but by **code and member voting**.
+A [DAO](/en/glossary/#dao) is a [decentralized](/en/glossary/#decentralization) autonomous organization run not by people, but by **code and member voting**.
 
 In this article we'll cover:
 
@@ -44,10 +44,10 @@ In this article we'll cover:
 
 ### Definition
 
-A DAO is an organization that lives on a blockchain and is run by **smart contracts**.
+A DAO is an organization that lives on a [blockchain](/en/glossary/#blockchain) and is run by **smart contracts**.
 
 Instead of managers — **rules written in code**.
-Instead of orders — **token-weighted voting**.
+Instead of orders — **[token](/en/glossary/#token)-weighted voting**.
 
 Every DAO member can:
 
@@ -129,7 +129,7 @@ Examples of governance tokens:
 
 What they did:
 
-- created the **DAI** stablecoin, pegged to the US dollar;
+- created the **DAI** [stablecoin](/en/glossary/#stablecoin), pegged to the US dollar;
 - govern the protocol through votes by **MKR** token holders.
 
 How it works:
@@ -142,7 +142,7 @@ How it works:
 
 ### Uniswap
 
-**Uniswap** is a decentralized exchange (DEX) that also operates as a DAO.
+**Uniswap** is a decentralized exchange ([DEX](/en/glossary/#dex)) that also operates as a DAO.
 
 What gets decided through voting:
 

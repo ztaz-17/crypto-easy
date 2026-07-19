@@ -18,13 +18,13 @@ keywords:
 
 ---
 
-You found a new DeFi protocol. Fancy website, low fees, promising 500% APY.
+You found a new [DeFi](/en/glossary/#defi) protocol. Fancy website, low fees, promising 500% APY.
 
 One question pops up:
 
 > **Is it safe to put money in?**
 
-One of the main tools to answer that is **TVL** (Total Value Locked).
+One of the main tools to answer that is **[TVL](/en/glossary/#tvl)** (Total Value Locked).
 
 Here's what we'll cover:
 
@@ -44,10 +44,10 @@ In simple terms:
 > **how much money users have trusted this protocol with.**
 
 TVL includes:
-- tokens in liquidity pools (like on Uniswap);
+- [tokens](/en/glossary/#token) in [liquidity](/en/glossary/#liquidity) pools (like on Uniswap);
 - deposits in lending protocols (like Aave);
-- collateral in stablecoin protocols (like MakerDAO);
-- staking in liquid staking protocols (like Lido).
+- collateral in [stablecoin](/en/glossary/#stablecoin) protocols (like MakerDAO);
+- [staking](/en/glossary/#staking) in liquid staking protocols (like Lido).
 
 The higher the TVL — the more liquidity in the protocol, the harder it is to manipulate.
 
@@ -94,7 +94,7 @@ What you can do:
 - check any protocol's TVL;
 - compare TVL across multiple protocols;
 - see **TVL history** — how it changed over time;
-- filter by blockchain (Ethereum, Solana, Arbitrum, etc.).
+- filter by [blockchain](/en/glossary/#blockchain) (Ethereum, Solana, Arbitrum, etc.).
 
 DefiLlama's biggest advantage — it's **independent**. Data comes straight from the blockchain, via smart contracts.
 
@@ -184,9 +184,9 @@ TVL is an important metric, but not the only one.
 **TVL does not show:**
 
 - code security (audits, bugs);
-- decentralization (who controls the protocol);
+- [decentralization](/en/glossary/#decentralization) (who controls the protocol);
 - yield (APY can be high while TVL is low);
-- real user count (10 wallets with $1M each isn't mass adoption);
+- real user count (10 [wallets](/en/glossary/#wallet) with $1M each isn't mass adoption);
 - custodial risks (some protocols inflate TVL with their own deposits).
 
 > **TVL is an indicator, not a guarantee.**

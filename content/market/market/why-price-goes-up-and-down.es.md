@@ -54,7 +54,7 @@ Suena sencillo, ¿verdad? Pero hay algunos detalles.
 
 ### Oferta limitada
 
-La mayoría de las criptomonedas tienen un **límite máximo de emisión**.
+La mayoría de las [criptomonedas](/es/glossary/#cryptocurrency) tienen un **límite máximo de emisión**.
 
 Por ejemplo, nunca habrá más de 21 millones de Bitcoin. Está grabado en el código.
 
@@ -64,7 +64,7 @@ Y cuanta más gente conoce Bitcoin, más crece la demanda mientras la oferta est
 
 ### Liquidez — el tercer factor
 
-Aquí hay otra pieza importante: la **liquidez**.
+Aquí hay otra pieza importante: la **[liquidez](/es/glossary/#liquidity)**.
 
 La liquidez es qué tan rápido compras o vendes un activo sin mover mucho el precio.
 
@@ -82,7 +82,7 @@ Las noticias cambian los precios en minutos. Estos son los tipos que más mueven
 
 ### Halving
 
-Cada 4 años la recompensa de minería de Bitcoin se reduce a la mitad. Eso se llama **halving**.
+Cada 4 años la recompensa de [minería](/es/glossary/#mining) de Bitcoin se reduce a la mitad. Eso se llama **halving**.
 
 Llegan menos monedas al mercado → la oferta baja. Si la demanda sigue igual, el precio sube.
 
@@ -139,7 +139,7 @@ Miedo, incertidumbre, duda.
 
 Difundir información negativa (a menudo a propósito) para provocar pánico y una caída del precio.
 
-FUD común:
+[FUD](/es/glossary/#fud) común:
 - "Bitcoin está muerto";
 - "Las cripto son una burbuja a punto de estallar";
 - "Los reguladores van a prohibirlo todo".
@@ -161,7 +161,7 @@ Por eso **nunca compres monedas solo por consejos de Telegram**.
 
 ## Los grandes jugadores: las Ballenas
 
-Las ballenas son poseedores de cantidades masivas de cripto.
+Las [ballenas](/es/glossary/#whale) son poseedores de cantidades masivas de cripto.
 
 Si alguien posee 10,000 Bitcoin (cientos de millones de dólares), sus acciones por sí solas mueven el mercado.
 
@@ -203,7 +203,7 @@ A veces las ballenas manipulan el precio deliberadamente.
 | Liquidez              | Mercado       | Baja liquidez → alta volatilidad              | Corto plazo        |
 | Noticias              | Eventos       | Depende del contexto                          | Instantáneo        |
 | Decisiones regulatorias | Eventos     | Aprobación = subida, prohibición = caída      | Medio plazo        |
-| FOMO / FUD            | Psicológico   | Las emociones mueven el precio                | Corto plazo        |
+| [FOMO](/es/glossary/#fomo) / FUD            | Psicológico   | Las emociones mueven el precio                | Corto plazo        |
 | Pump & Dump           | Manipulación  | Pico artificial y luego desplome              | Corto plazo        |
 | Ballenas              | Mercado       | Grandes órdenes mueven el mercado             | Cualquier plazo    |
 | Adopción corporativa  | Fundamental   | Mayor confianza → crecimiento del precio      | Largo plazo        |

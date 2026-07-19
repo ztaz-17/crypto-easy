@@ -18,9 +18,9 @@ keywords:
 
 ---
 
-You bought your first crypto. Your wallet is set up. The coins are there.
+You bought your first crypto. Your [wallet](/en/glossary/#wallet) is set up. The coins are there.
 
-Now for the exciting part: **sending cryptocurrency to another person**.
+Now for the exciting part: **sending [cryptocurrency](/en/glossary/#cryptocurrency) to another person**.
 
 If you're used to bank transfers where all you need is a card number or phone, crypto is different. One wrong character and your money vanishes. Pick the wrong network and the coins are gone forever.
 
@@ -183,7 +183,7 @@ Your wallet will show:
 
 ### How to Check Using the Explorer
 
-A blockchain explorer is a public "search engine" for the blockchain.  \
+A [blockchain](/en/glossary/#blockchain) explorer is a public "search engine" for the blockchain.  \
 Each network has its own:
 
 | Network | Explorer |
@@ -203,7 +203,7 @@ To verify:
 
 | Status | Meaning |
 |--------|---------|
-| **Pending** | In queue, waiting to be included in a block |
+| **Pending** | In queue, waiting to be included in a [block](/en/glossary/#block) |
 | **Confirmed** | Recorded on the blockchain |
 | **Failed** | Error (low gas or insufficient funds for the fee) |
 

@@ -48,7 +48,7 @@ Money isn't just paper or numbers on a screen. In the modern world, **money is a
 Through the monetary system, the government:
 
 - collects taxes;
-- regulates inflation;
+- regulates [inflation](/en/glossary/#inflation);
 - controls capital (what leaves the country and what stays);
 - funds the budget;
 - influences the economy through monetary policy.
@@ -87,13 +87,13 @@ That's a direct threat to the state's monopoly on money — a monopoly that has 
 
 Governments' reactions are predictable.
 
-**China** — in 2021 it completely banned all crypto operations, including mining. Exchanges were shut down, transactions were blocked.
+**China** — in 2021 it completely banned all crypto operations, including [mining](/en/glossary/#mining). Exchanges were shut down, transactions were blocked.
 
 **Nigeria** — in 2021 the central bank banned banks from serving crypto exchanges. Reason: massive flight to crypto due to naira inflation.
 
 **Algeria, Nepal, Egypt** — full or partial bans on crypto.
 
-But does it work? Spoiler: no. China banned it — and mining moved to the US, Kazakhstan, and Russia. P2P trading in China is still active.
+But does it work? Spoiler: no. China banned it — and mining moved to the US, Kazakhstan, and Russia. [P2P](/en/glossary/#p2p) trading in China is still active.
 
 ---
 
@@ -115,9 +115,9 @@ In crypto, it's completely different.
 
 ### Anonymity and Pseudonymity
 
-Cryptocurrencies are **pseudonymous** by nature. You don't tie a wallet to your passport (unless you use centralized exchanges).
+Cryptocurrencies are **pseudonymous** by nature. You don't tie a [wallet](/en/glossary/#wallet) to your passport (unless you use centralized exchanges).
 
-Yes, all transactions are recorded on the blockchain. But who stands behind a given address — nobody knows.
+Yes, all transactions are recorded on the [blockchain](/en/glossary/#blockchain). But who stands behind a given address — nobody knows.
 
 > **The government can't just show up at your door with a tax bill if it doesn't know you have crypto.**
 
@@ -125,9 +125,9 @@ Sure, blockchain analysis tools exist. But they only work if an address can be l
 
 ### DeFi and the Difficulty of Tracking
 
-A special headache for tax authorities comes from **DeFi** (decentralized finance):
+A special headache for tax authorities comes from **[DeFi](/en/glossary/#defi)** ([decentralized](/en/glossary/#decentralization) finance):
 
-- staking;
+- [staking](/en/glossary/#staking);
 - lending and borrowing;
 - yield farming;
 - swaps through DEXs.
@@ -295,7 +295,7 @@ Blocking all these channels is physically impossible.
 
 ### Nodes Around the World
 
-At the time of writing, Bitcoin's network has tens of thousands of nodes in hundreds of countries. To block the network, all those countries would have to simultaneously ban running nodes — which is highly unlikely.
+At the time of writing, Bitcoin's network has tens of thousands of nodes in hundreds of countries. To [block](/en/glossary/#block) the network, all those countries would have to simultaneously ban running nodes — which is highly unlikely.
 
 ### Crypto Is a Protocol, Like the Internet
 
@@ -325,7 +325,7 @@ Think about it:
 
 Governments don't like crypto. And that's normal.
 
-Cryptocurrency threatens:
+[Cryptocurrency](/en/glossary/#cryptocurrency) threatens:
 - the monopoly on money issuance;
 - the tax control system;
 - the ability to manage capital;
