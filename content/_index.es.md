@@ -95,7 +95,7 @@ Guías cortas y noticias en nuestro Telegram:
 
 👉 [@crypto_easy_es](https://t.me/crypto_easy_es)
 
-O [📥 descarga la guía gratis "5 Errores de Principiante en Crypto" →](/es/free-guide/)
+O [📥 descarga la guía gratis "5 Errores de Principiante en Crypto" →](/es/bonus/free-guide/)
 
 ---
 
@@ -111,7 +111,7 @@ Comienza tu viaje crypto en **Bybit** — un exchange confiable usado por millon
 
 Los errores más comunes que arruinan los depósitos de principiantes — y cómo evitarlos.
 
-👉 [📥 Descarga la guía gratis →](/es/free-guide/)
+👉 [📥 Descarga la guía gratis →](/es/bonus/free-guide/)
 
 ---
 
