@@ -81,6 +81,14 @@ keywords:
 - [Чем отличаются](/ru/learn/basis/chto-takoe-stabilcoiny/#осторожно-не-все-стейблкоины-одинаковы)
 - [Риски](/ru/learn/basis/chto-takoe-stabilcoiny/#стейблкоины-это-надёжно)
 
+### [Смарт-контракты: что это и как они работают](/ru/learn/basis/chto-takoe-smart-kontrakty/)
+- [Как работает смарт-контракт](/ru/learn/basis/chto-takoe-smart-kontrakty/#как-работает-смарт-контракт--простой-пример)
+- [Где применяются](/ru/learn/basis/chto-takoe-smart-kontrakty/#где-применяются-смарт-контракты)
+- [Смарт-контракты на Ethereum](/ru/learn/basis/chto-takoe-smart-kontrakty/#смарт-контракты-на-ethereum)
+- [Преимущества](/ru/learn/basis/chto-takoe-smart-kontrakty/#преимущества-смарт-контрактов)
+- [Риски](/ru/learn/basis/chto-takoe-smart-kontrakty/#риски-смарт-контрактов)
+- [Главное запомнить](/ru/learn/basis/chto-takoe-smart-kontrakty/#главное-запомнить)
+
 ### [Другие сети и монеты: обзор топовых криптовалют](/ru/learn/basis/drugie-seti-solana-bnb-doge/)
 - [XRP (Ripple)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#xrp-ripple--для-банковских-переводов)
 - [BNB (Binance Coin)](/ru/learn/basis/drugie-seti-solana-bnb-doge/#binance-coin-bnb--монета-крупнейшей-биржи)
