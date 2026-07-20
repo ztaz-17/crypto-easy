@@ -18,7 +18,7 @@ html[lang="ru"] body {
 
 /* LAYOUT */
 .container {
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0px auto;
-  padding: 0 5px;
+ padding: 20px 5px 90px 5px;
 }
