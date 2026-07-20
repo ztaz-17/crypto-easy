@@ -32,7 +32,7 @@
 {{ $kw := .Params.keywords | default .Site.Params.keywords }}
 {{ with $kw }}
   {{ if reflect.IsSlice . }}
-    <meta name="keywords" content="{{ delimit . ", " }}">
+    <meta name="keywords" content='{{ delimit . ", " }}'>
   {{ else }}
     <meta name="keywords" content="{{ . }}">
   {{ end }}
