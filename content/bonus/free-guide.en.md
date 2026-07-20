@@ -88,4 +88,7 @@ No spam, no subscriptions — just useful content.
 
 👉 **[Get the guide →](https://forms.gle/vNuTk45g3Tw84fV69)**
 
+**Or get it instantly via Telegram:**  
+👉 **Send `/guide` to [@stt_analytics_bot](https://t.me/stt_analytics_bot)** — no form, no email needed.
+
 Right now. Don't repeat other people's mistakes.
