@@ -8,7 +8,6 @@ keywords:
   - Krypto-Glossar
   - Kryptowährungsbegriffe
   - Blockchain-Wörterbuch
-menu: main
 ---
 
 ## Krypto-Glossar

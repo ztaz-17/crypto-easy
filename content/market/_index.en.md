@@ -9,7 +9,6 @@ keywords:
   - DeFi
   - cryptocurrency investing
   - crypto taxes
-menu: main
 ---
 
 ## Markets & Prices

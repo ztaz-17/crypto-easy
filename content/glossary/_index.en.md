@@ -8,7 +8,6 @@ keywords:
   - crypto glossary
   - cryptocurrency terms
   - blockchain dictionary
-menu: main
 ---
 
 ## Crypto Glossary

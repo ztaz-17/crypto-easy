@@ -9,7 +9,6 @@ keywords:
   - evitar estafas crypto
   - proteger wallet crypto
   - guía seguridad crypto
-menu: main
 ---
 
 ## Seguridad

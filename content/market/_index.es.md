@@ -9,7 +9,6 @@ keywords:
   - DeFi
   - inversión en criptomonedas
   - impuestos crypto
-menu: main
 ---
 
 ## Mercados y Precios

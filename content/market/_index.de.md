@@ -9,7 +9,6 @@ keywords:
   - DeFi
   - Kryptowährungsinvestitionen
   - Crypto Steuern
-menu: main
 ---
 
 ## Märkte und Preise

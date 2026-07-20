@@ -9,7 +9,6 @@ keywords:
   - calculadora bitcoin
   - wallet crypto
   - exchanges
-menu: main
 ---
 
 ## Herramientas

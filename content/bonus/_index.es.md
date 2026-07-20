@@ -10,7 +10,6 @@ keywords:
   - meme coins
   - airdrop
   - staking
-menu: main
 ---
 
 ## Bonus

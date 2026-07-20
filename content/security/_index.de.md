@@ -9,7 +9,6 @@ keywords:
   - Crypto Betrug vermeiden
   - Wallet schützen
   - Sicherheitsleitfaden Crypto
-menu: main
 ---
 
 ## Sicherheit

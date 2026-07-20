@@ -9,7 +9,6 @@ keywords:
   - Bitcoin Rechner
   - Crypto Wallet
   - Börsen
-menu: main
 ---
 
 ## Werkzeuge

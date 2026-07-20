@@ -9,7 +9,6 @@ keywords:
   - avoid crypto scams
   - protect crypto wallet
   - crypto safety guide
-menu: main
 ---
 
 ## Security

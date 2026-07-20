@@ -9,9 +9,6 @@ keywords:
   - Blockchain für Anfänger
   - was ist Kryptowährung
   - Crypto Kurs
-menu: main
-prev: ""
-next: ""
 ---
 
 ---

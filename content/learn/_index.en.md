@@ -9,9 +9,6 @@ keywords:
   - blockchain for beginners
   - what is cryptocurrency
   - crypto course
-menu: main
-prev: ""
-next: ""
 ---
 
 ---

@@ -9,7 +9,6 @@ keywords:
   - Crypto kaufen Anleitung
   - Wallet erstellen
   - Testnet Anleitung
-menu: main
 ---
 
 ## Üben

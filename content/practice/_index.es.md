@@ -9,7 +9,6 @@ keywords:
   - cómo comprar crypto
   - crear wallet crypto
   - guía testnet crypto
-menu: main
 ---
 
 ## Practicar

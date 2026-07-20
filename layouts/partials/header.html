@@ -2,15 +2,12 @@
   <div class="header-inner">
   <div class="logo">
     <a href="{{ .Site.Home.RelPermalink }}">
-      <img src="/logo.jpg" alt="Crypto Easy logo">
-      <span>Crypto is Easy!</span>
+      <span></span>
     </a>
   </div>
 
   <!-- DESKTOP NAV -->
   <nav class="nav">
-    {{ $lang := .Site.Language.Lang }}
-    {{ $menu := index site.Data.menu $lang }}
     {{ range .Site.Menus.main }}
       <a href="{{ .URL | relLangURL }}">
         {{ i18n .Identifier }}
@@ -21,11 +18,7 @@
   <!-- RIGHT SIDE -->
   <div class="header-right">
     <!-- BURGER -->
-    <button class="burger" id="burger">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+    <button class="burger" id="burger"></button>
     {{ partial "language-switcher.html" . }}
   </div>
   </div>
