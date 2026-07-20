@@ -95,7 +95,7 @@ Kurze Guides und News in unserem Telegram:
 
 👉 [@crypto_easy_de](https://t.me/crypto_easy_de)
 
-Oder [📥 lade den kostenlosen Guide "5 Anfängerfehler bei Krypto" herunter →](/de/free-guide/)
+Oder [📥 lade den kostenlosen Guide "5 Anfängerfehler bei Krypto" herunter →](/de/bonus/free-guide/)
 
 ---
 
@@ -111,7 +111,7 @@ Starte deine Crypto-Reise auf **Bybit** — einer vertrauenswürdigen Börse, di
 
 Die häufigsten Fehler, die Einzahlungen von Anfängern vernichten — und wie du sie vermeidest.
 
-👉 [📥 Hol dir den kostenlosen Guide →](/de/free-guide/)
+👉 [📥 Hol dir den kostenlosen Guide →](/de/bonus/free-guide/)
 
 ---
 
