@@ -72,7 +72,7 @@ li {
   width: 100%;
 }
 
-.container :is(p, table, nav) a {
+.container :is(ol li, p, table, nav) a {
   color: #000;
   font-weight: 600;
   text-decoration: none;
@@ -81,11 +81,11 @@ li {
   border-bottom: 2px solid rgba(240, 192, 64, .7);
 }
 
-.container :is(p, table, nav) a:hover {
+.container :is(ol li, p, table, nav) a:hover {
   /* background: #f0c040; */
 }
 
-.container :is(p, table, nav) a::after {
+.container :is(ol li, p, table, nav) a::after {
   content: "";
   position: absolute;
   left: 0;
@@ -96,7 +96,7 @@ li {
   transition: width 0.2s ease;
 }
 
-.container :is(p, table, nav) a:hover::after {
+.container :is(ol li, p, table, nav) a:hover::after {
   width: 100%;
 }
 
