@@ -81,6 +81,14 @@ keywords:
 - [USDT (Tether)](/de/learn/basis/was-sind-stablecoins/#usdt-tether)
 - [USDC (USD Coin)](/de/learn/basis/was-sind-stablecoins/#usdc-usd-coin)
 
+### [Smart Contracts: Was sie sind und wie sie funktionieren](/de/learn/basis/was-sind-smart-contracts/)
+- [Wie ein Smart Contract funktioniert](/de/learn/basis/was-sind-smart-contracts/#wie-ein-smart-contract-funktioniert--ein-einfaches-beispiel)
+- [Wo werden Smart Contracts eingesetzt](/de/learn/basis/was-sind-smart-contracts/#wo-werden-smart-contracts-eingesetzt)
+- [Smart Contracts auf Ethereum](/de/learn/basis/was-sind-smart-contracts/#smart-contracts-auf-ethereum)
+- [Vorteile](/de/learn/basis/was-sind-smart-contracts/#vorteile-von-smart-contracts)
+- [Risiken](/de/learn/basis/was-sind-smart-contracts/#risiken-von-smart-contracts)
+- [Wichtige Erkenntnisse](/de/learn/basis/was-sind-smart-contracts/#wichtige-erkenntnisse)
+
 ### [Private Key: warum er wichtiger ist als ein Passwort](/de/learn/basis/privater-schluessel/)
 - [Private Key vs Passwort — der Unterschied](/de/learn/basis/privater-schluessel/#private-key-vs-passwort--der-unterschied)
 - [Wie man einen Private Key aufbewahrt](/de/learn/basis/privater-schluessel/#wie-man-einen-private-key-aufbewahrt)

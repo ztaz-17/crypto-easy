@@ -81,6 +81,14 @@ keywords:
 - [USDT (Tether)](/es/learn/basis/que-son-stablecoins/#usdt-tether)
 - [USDC (USD Coin)](/es/learn/basis/que-son-stablecoins/#usdc-usd-coin)
 
+### [Contratos Inteligentes: Qué Son y Cómo Funcionan](/es/learn/basis/que-son-los-contratos-inteligentes/)
+- [Cómo funciona un contrato inteligente](/es/learn/basis/que-son-los-contratos-inteligentes/#cómo-funciona-un-contrato-inteligente--ejemplo-sencillo)
+- [Dónde se usan](/es/learn/basis/que-son-los-contratos-inteligentes/#dónde-se-usan-los-contratos-inteligentes)
+- [Contratos inteligentes en Ethereum](/es/learn/basis/que-son-los-contratos-inteligentes/#contratos-inteligentes-en-ethereum)
+- [Ventajas](/es/learn/basis/que-son-los-contratos-inteligentes/#ventajas-de-los-contratos-inteligentes)
+- [Riesgos](/es/learn/basis/que-son-los-contratos-inteligentes/#riesgos-de-los-contratos-inteligentes)
+- [Ideas clave](/es/learn/basis/que-son-los-contratos-inteligentes/#ideas-clave)
+
 ### [Clave privada: por qué es más importante que una contraseña](/es/learn/basis/clave-privada/)
 - [Clave privada vs contraseña — la diferencia](/es/learn/basis/clave-privada/#clave-privada-vs-contraseña--la-diferencia)
 - [Cómo almacenar una clave privada](/es/learn/basis/clave-privada/#cómo-almacenar-una-clave-privada)
