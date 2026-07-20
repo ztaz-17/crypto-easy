@@ -1,6 +1,9 @@
 ---
 title: "Guía Gratuita: 5 Errores de Principiante en Cripto"
 description: "Descarga la guía gratuita '5 Errores de Principiante en Cripto' y aprende cómo no perder dinero en tus primeras operaciones. Consejos prácticos sin jerga complicada."
+category: "bonus"
+translationKey: "free-guide"
+slug: "free-guide"
 keywords:
   - errores de principiante cripto
   - cómo no perder dinero en cripto
@@ -8,10 +11,8 @@ keywords:
   - consejos de seguridad cripto
   - gestión de riesgos cripto
   - primeros pasos en criptomonedas
-category: "bonus"
-translationKey: "free-guide"
-slug: "free-guide"
-weight: 10
+build:
+  list: never
 ---
 
 Bienvenido al mundo de las [criptomonedas](/es/glossary/#cryptocurrency). Aquí se puede ganar dinero — o perderlo todo.  

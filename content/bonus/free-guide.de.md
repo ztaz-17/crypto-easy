@@ -1,6 +1,9 @@
 ---
 title: "Kostenloser Leitfaden: 5 Anfängerfehler bei Krypto"
 description: "Lade den kostenlosen Leitfaden '5 Anfängerfehler bei Krypto' herunter und erfahre, wie du bei deinen ersten Trades kein Geld verlierst. Praktische Tipps ohne kompliziertes Fachchinesisch."
+category: "bonus"
+translationKey: "free-guide"
+slug: "free-guide"
 keywords:
   - Anfängerfehler Krypto
   - wie man bei Krypto kein Geld verliert
@@ -8,10 +11,8 @@ keywords:
   - Krypto Sicherheitstipps
   - Risikomanagement Krypto
   - erste Schritte in Kryptowährungen
-category: "bonus"
-translationKey: "free-guide"
-slug: "free-guide"
-weight: 10
+build:
+  list: never
 ---
 
 Willkommen in der Welt der Kryptowährungen. Hier kann man Geld verdienen — oder alles verlieren.  
