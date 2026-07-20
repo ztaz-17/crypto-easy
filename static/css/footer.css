@@ -1,0 +1,55 @@
+/* FOOTER */
+.footer {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  width: 100%;
+  max-width: 1000px;
+  z-index: 100;
+  background: #111;
+  text-align: center;
+  color: #777;
+}
+
+.footer::before {
+  content: '';
+  display: block;
+  height: 5px;
+  background: #f0c040;
+}
+.footer-links {
+  padding-top: 8px;
+}
+
+.footer-links a {
+  margin: 0 20px;
+  color: #ddd;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: #f0c040;
+}
+
+.footer-copy {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 12px;
+  padding: 5px;
+}
+
+.footer-copy p {
+  margin: 0;
+}
+
+.footer-copy a {
+  color: #777;
+  text-decoration: none;
+}
+
+.footer-copy a:hover {
+  color: #f0c040;
+}
+

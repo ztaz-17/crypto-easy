@@ -13,12 +13,6 @@
     display: flex;
   }
 
-  .logo img {
-    height: 60px;
-    width: 60px;
-    border-radius: 60px;
-  }
-
   .header-right {
     gap: 8px;
     align-items: center;
