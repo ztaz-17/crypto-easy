@@ -88,4 +88,7 @@ weight: 10
 
 👉 **[Получить гайд →](https://forms.gle/vNuTk45g3Tw84fV69)**
 
+**Или получите мгновенно через Telegram:**  
+👉 **Отправьте `/guide` боту [@stt_analytics_bot](https://t.me/stt_analytics_bot)** — без формы, без почты, сразу.
+
 Уже сейчас. Не повторяйте чужих ошибок.

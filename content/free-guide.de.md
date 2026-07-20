@@ -87,4 +87,7 @@ Kein Spam, keine Abos — nur nützlicher Inhalt.
 
 👉 **[Leitfaden herunterladen →](https://forms.gle/vNuTk45g3Tw84fV69)**
 
+**Oder hol ihn dir sofort per Telegram:**  
+👉 **Sende `/guide` an [@stt_analytics_bot](https://t.me/stt_analytics_bot)** — kein Formular, keine E-Mail, sofort.
+
 Jetzt gleich. Wiederhole nicht die Fehler anderer.
