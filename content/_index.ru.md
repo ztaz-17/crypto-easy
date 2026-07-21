@@ -28,6 +28,7 @@ keywords:
 - [Почему государства не любят крипту](/ru/learn/skeptic/pochemu-gosudarstva-ne-lubiat-kriptu/)
 - [Почему перевод стоит 30$](/ru/learn/how-it-works/pochemu-perevod-stoit-30-dollarov/)
 - [Главные мифы о крипте](/ru/learn/skeptic/glavnye-mify-o-kripte/)
+- [Смарт-контракты: что это и как они работают](/ru/learn/basis/chto-takoe-smart-kontrakty/)
 - [Все статьи](/ru/learn/)
 
 ---

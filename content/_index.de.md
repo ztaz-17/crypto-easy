@@ -28,6 +28,7 @@ Blockchain, Bitcoin, DeFi — in einfachen Worten.
 - [Warum Regierungen Crypto nicht mögen](/de/learn/skeptic/warum-regierungen-crypto-nicht-moegen/)
 - [Warum eine Überweisung $30 kostet](/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann/)
 - [Crypto-Mythen, an die Anfänger glauben](/de/learn/skeptic/krypto-mythen-an-die-anfaenger-glauben/)
+- [Smart Contracts: Was sie sind und wie sie funktionieren](/de/learn/basis/was-sind-smart-contracts/)
 - [Alle Artikel](/de/learn/)
 
 ---

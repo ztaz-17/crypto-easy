@@ -28,6 +28,7 @@ Blockchain, Bitcoin, DeFi — in simple words.
 - [Why governments don't like crypto](/en/learn/skeptic/why-governments-hate-crypto/)
 - [Why a transfer can cost $30](/en/learn/how-it-works/why-a-transfer-can-cost-30/)
 - [Crypto myths beginners believe](/en/learn/skeptic/crypto-myths-beginners-believe/)
+- [Smart Contracts: What They Are and How They Work](/en/learn/basis/what-are-smart-contracts/)
 - [All articles](/en/learn/)
 
 ---
