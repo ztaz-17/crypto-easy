@@ -96,8 +96,6 @@ Guías cortas y noticias en nuestro Telegram:
 
 👉 [@crypto_easy_es](https://t.me/crypto_easy_es)
 
-O [📥 descarga la guía gratis "5 Errores de Principiante en Crypto" →](/es/bonus/free-guide/)
-
 ---
 
 ## 🏆 Exchange Recomendado

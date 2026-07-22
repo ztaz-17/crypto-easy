@@ -96,8 +96,6 @@ Kurze Guides und News in unserem Telegram:
 
 👉 [@crypto_easy_de](https://t.me/crypto_easy_de)
 
-Oder [📥 lade den kostenlosen Guide "5 Anfängerfehler bei Krypto" herunter →](/de/bonus/free-guide/)
-
 ---
 
 ## 🏆 Empfohlene Börse
