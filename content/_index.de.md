@@ -41,7 +41,7 @@ Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 - [Seed-Phrase: Häufige Fehler](/de/practice/seed-phrase-mistakes/)
 - [Erste Transaktion Ohne Fehler](/de/practice/first-transaction-without-mistakes/)
 - [Wie man eine Transaktion prüft](/de/practice/transaktion-ueberpruefen-blockchain/)
-- [Beste Krypto-Börsen 2026: Vergleich](/de/exchanges/)
+- [Beste Krypto-Börsen 2026: Vergleich](/de/practice/beste-krypto-borsen/)
 - [Alle Anleitungen](/de/practice/)
 
 ---
