@@ -3,8 +3,6 @@ title: "Guía Gratuita: 5 Errores de Principiante en Cripto"
 description: "Descarga la guía gratuita '5 Errores de Principiante en Cripto' y aprende cómo no perder dinero en tus primeras operaciones. Consejos prácticos sin jerga complicada."
 category: "bonus"
 translationKey: "free-guide"
-aliases:
-  - /es/free-guide/
 slug: "free-guide"
 keywords:
   - errores de principiante cripto

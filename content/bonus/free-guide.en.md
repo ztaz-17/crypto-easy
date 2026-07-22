@@ -3,8 +3,6 @@ title: "Free Guide: 5 Beginner Mistakes in Crypto"
 description: "Download the free guide '5 Beginner Mistakes in Crypto' and learn how to avoid losing money on your first trades. Practical advice without complex jargon."
 category: "bonus"
 translationKey: "free-guide"
-aliases:
-  - /en/free-guide/
 slug: "free-guide"
 keywords:
   - beginner crypto mistakes
