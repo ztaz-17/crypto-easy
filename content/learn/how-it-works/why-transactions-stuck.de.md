@@ -50,7 +50,7 @@ Die Regel ist einfach: **Wer mehr zahlt, kommt zuerst.**
 
 Wenn du deine Gebühr unter dem aktuellen Marktpreis ansetzt — bleibt deine Transaktion im Mempool und wartet darauf, dass das Netzwerk sich leert.
 
-Mehr zur Gebührenermittlung: [Warum Krypto zu versenden manchmal 30 $ kostet](/de/learn/how-it-works/why-transaction-costs-30).
+Mehr zur Gebührenermittlung: [Warum Krypto zu versenden manchmal 30 $ kostet](/de/learn/how-it-works/warum-eine-uberweisung-30-kosten-kann/).
 
 ---
 

@@ -50,7 +50,7 @@ La regla es simple: **el que paga más, va primero.**
 
 Si configuras tu comisión por debajo de la tarifa actual del mercado — tu transacción se queda en el mempool, esperando a que la red se despeje.
 
-Aprende más sobre cómo se determinan las comisiones: [Por qué enviar crypto a veces cuesta $30](/es/learn/how-it-works/por-que-cuestan-30-las-comisiones).
+Aprende más sobre cómo se determinan las comisiones: [Por qué enviar crypto a veces cuesta $30](/es/learn/how-it-works/por-que-transferencia-puede-costar-30/).
 
 ---
 
