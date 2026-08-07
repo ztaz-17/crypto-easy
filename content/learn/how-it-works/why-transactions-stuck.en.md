@@ -50,7 +50,7 @@ The rule is simple: **whoever pays more goes first.**
 
 If you set your fee below the current market rate — your transaction sits in the mempool, waiting for the network to clear up.
 
-Learn more about how fees are determined: [Why Sending Crypto Sometimes Costs $30](/en/learn/how-it-works/why-transaction-costs-30).
+Learn more about how fees are determined: [Why Sending Crypto Sometimes Costs $30](/en/learn/how-it-works/why-a-transfer-can-cost-30/).
 
 ---
 
