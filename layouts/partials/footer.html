@@ -1,22 +1,19 @@
 <footer class="footer">
-  <!-- LINKS -->
-  <div class="footer-links">
-    <a href='{{ "/about/" | relLangURL }}'>{{ i18n "about" }}</a>
-    <a href='{{ "/contacts/" | relLangURL }}'>{{ i18n "contacts" }}</a>
-    <a href='{{ "/glossary/" | relLangURL }}'>{{ i18n "glossary" }}</a>
-    <a href='{{ "/privacy/" | relLangURL }}'>{{ i18n "privacy" }}</a>
+  <div class="footer-top">
+    <a class="footer-logo" href='{{ "/" | relLangURL }}'>CRYPTO<span>EASY</span></a>
+
+    <nav class="footer-nav">
+      <a href='{{ "/about/" | relLangURL }}'>{{ i18n "about" }}</a>
+      <a href='{{ "/contacts/" | relLangURL }}'>{{ i18n "contacts" }}</a>
+      <a href='{{ "/glossary/" | relLangURL }}'>{{ i18n "glossary" }}</a>
+      <a href='{{ "/privacy/" | relLangURL }}'>{{ i18n "privacy" }}</a>
+    </nav>
   </div>
 
-  <!-- COPYRIGHT -->
-  <div class="footer-copy">
-	<p>
-		&copy; {{ now.Year }}
-		<a href='{{ "/" | relLangURL }}'>Crypto Easy</a>.
-		{{ i18n "all_rights" }}
-	</p>
-	<p class="disclaimer">
-		{{ i18n "disclaimer" }}
-	</p>
+  <div class="footer-bottom">
+    <p class="footer-copy">
+      &copy; {{ now.Year }} <a href='{{ "/" | relLangURL }}'>Crypto Easy</a>. {{ i18n "all_rights" }}
+    </p>
+    <p class="disclaimer">{{ i18n "disclaimer" }}</p>
   </div>
-
 </footer>
