@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-## 📘 Aprender
+## Aprender
 
 Blockchain, Bitcoin, DeFi — en palabras simples.
 
@@ -33,7 +33,7 @@ Blockchain, Bitcoin, DeFi — en palabras simples.
 
 ---
 
-## 🛠 Practicar
+## Practicar
 
 Guías paso a paso para tus primeros pasos.
 
@@ -46,7 +46,7 @@ Guías paso a paso para tus primeros pasos.
 
 ---
 
-## 📈 Mercado
+## Mercado
 
 Mercados crypto, DeFi, impuestos y regulación.
 
@@ -59,7 +59,7 @@ Mercados crypto, DeFi, impuestos y regulación.
 
 ---
 
-## 🔐 Seguridad
+## Seguridad
 
 Cómo proteger tu dinero y evitar estafadores.
 
@@ -72,7 +72,7 @@ Cómo proteger tu dinero y evitar estafadores.
 
 ---
 
-## 🎁 Bonus
+## Bonus
 
 NFTs, DAOs, meme coins, staking y más.
 
@@ -84,37 +84,37 @@ NFTs, DAOs, meme coins, staking y más.
 
 ---
 
-## 📚 Glosario
+## Glosario
 
 [Diccionario crypto](/es/glossary/) — 50+ términos explicados de forma simple.
 
 ---
 
-## 📬 Mantente al día
+## Mantente al día
 
 Guías cortas y noticias en nuestro Telegram:
 
-👉 [@crypto_easy_es](https://t.me/crypto_easy_es)
+[@crypto_easy_es](https://t.me/crypto_easy_es)
 
 ---
 
-## 🏆 Exchange Recomendado
+## Exchange Recomendado
 
 Comienza tu viaje crypto en **Bybit** — un exchange confiable usado por millones.
 
-👉 [Regístrate y recibe un bono de hasta **6,135 USDT** →](https://www.bybit.com/invite?ref=DVPQELB)
+[Regístrate y recibe un bono de hasta **6,135 USDT** →](https://www.bybit.com/invite?ref=DVPQELB)
 
 ---
 
-## 🎁 Guía Gratuita: 5 Errores de Principiante en Crypto
+## Guía Gratuita: 5 Errores de Principiante en Crypto
 
 Los errores más comunes que arruinan los depósitos de principiantes — y cómo evitarlos.
 
-👉 [📥 Descarga la guía gratis →](/es/bonus/free-guide/)
+[Descarga la guía gratis →](/es/bonus/free-guide/)
 
 ---
 
-## 🎯 Nuestra Misión
+## Nuestra Misión
 
 Hacer las crypto comprensibles y accesibles para todos.
 
