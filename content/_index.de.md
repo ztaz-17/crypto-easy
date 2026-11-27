@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-## 📘 Lernen
+## Lernen
 
 Blockchain, Bitcoin, DeFi — in einfachen Worten.
 
@@ -33,7 +33,7 @@ Blockchain, Bitcoin, DeFi — in einfachen Worten.
 
 ---
 
-## 🛠 Üben
+## Üben
 
 Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 
@@ -46,7 +46,7 @@ Schritt-für-Schritt-Anleitungen für deine ersten Schritte.
 
 ---
 
-## 📈 Märkte
+## Märkte
 
 Crypto-Märkte, DeFi, Steuern und Regulierung.
 
@@ -59,7 +59,7 @@ Crypto-Märkte, DeFi, Steuern und Regulierung.
 
 ---
 
-## 🔐 Sicherheit
+## Sicherheit
 
 Wie du dein Geld schützt und Betrug vermeidest.
 
@@ -72,7 +72,7 @@ Wie du dein Geld schützt und Betrug vermeidest.
 
 ---
 
-## 🎁 Bonus
+## Bonus
 
 NFTs, DAOs, Meme-Coins, Staking und mehr.
 
@@ -84,37 +84,37 @@ NFTs, DAOs, Meme-Coins, Staking und mehr.
 
 ---
 
-## 📚 Glossar
+## Glossar
 
 [Crypto-Wörterbuch](/de/glossary/) — 50+ Begriffe einfach erklärt.
 
 ---
 
-## 📬 Bleib auf dem Laufenden
+## Bleib auf dem Laufenden
 
 Kurze Guides und News in unserem Telegram:
 
-👉 [@crypto_easy_de](https://t.me/crypto_easy_de)
+[@crypto_easy_de](https://t.me/crypto_easy_de)
 
 ---
 
-## 🏆 Empfohlene Börse
+## Empfohlene Börse
 
 Starte deine Crypto-Reise auf **Bybit** — einer vertrauenswürdigen Börse, die von Millionen genutzt wird.
 
-👉 [Melde dich an und erhalte einen Bonus von bis zu **6,135 USDT** →](https://www.bybit.com/invite?ref=DVPQELB)
+[Melde dich an und erhalte einen Bonus von bis zu **6,135 USDT** →](https://www.bybit.com/invite?ref=DVPQELB)
 
 ---
 
-## 🎁 Kostenloser Guide: 5 Anfängerfehler bei Krypto
+## Kostenloser Guide: 5 Anfängerfehler bei Krypto
 
 Die häufigsten Fehler, die Einzahlungen von Anfängern vernichten — und wie du sie vermeidest.
 
-👉 [📥 Hol dir den kostenlosen Guide →](/de/bonus/free-guide/)
+[Hol dir den kostenlosen Guide →](/de/bonus/free-guide/)
 
 ---
 
-## 🎯 Unsere Mission
+## Unsere Mission
 
 Crypto verständlich und zugänglich für alle machen.
 

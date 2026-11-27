@@ -18,7 +18,7 @@ keywords:
 
 ---
 
-## 📘 Learn
+## Learn
 
 Blockchain, Bitcoin, DeFi — in simple words.
 
@@ -33,7 +33,7 @@ Blockchain, Bitcoin, DeFi — in simple words.
 
 ---
 
-## 🛠 Practice
+## Practice
 
 Step-by-step guides for your first moves.
 
@@ -46,7 +46,7 @@ Step-by-step guides for your first moves.
 
 ---
 
-## 📈 Market
+## Market
 
 Crypto markets, DeFi, taxes and regulation.
 
@@ -59,7 +59,7 @@ Crypto markets, DeFi, taxes and regulation.
 
 ---
 
-## 🔐 Security
+## Security
 
 How to protect your money and avoid scammers.
 
@@ -72,7 +72,7 @@ How to protect your money and avoid scammers.
 
 ---
 
-## 🎁 Bonus
+## Bonus
 
 NFTs, DAOs, meme coins, staking and more.
 
@@ -84,37 +84,37 @@ NFTs, DAOs, meme coins, staking and more.
 
 ---
 
-## 📚 Glossary
+## Glossary
 
 [Crypto dictionary](/en/glossary/) — 50+ terms explained simply.
 
 ---
 
-## 📬 Stay updated
+## Stay updated
 
 Follow our Telegram for short guides and news:
 
-👉 [@crypto_easy_en](https://t.me/crypto_easy_en)
+[@crypto_easy_en](https://t.me/crypto_easy_en)
 
 ---
 
-## 🏆 Recommended Exchange
+## Recommended Exchange
 
 Start your crypto journey on **Bybit** — a trusted exchange used by millions.
 
-👉 [Sign up and get up to **6,135 USDT** bonus →](https://www.bybit.com/invite?ref=DVPQELB)
+[Sign up and get up to **6,135 USDT** bonus →](https://www.bybit.com/invite?ref=DVPQELB)
 
 ---
 
-## 🎁 Free Guide: 5 Beginner Mistakes in Crypto
+## Free Guide: 5 Beginner Mistakes in Crypto
 
 The most common mistakes that drain beginners' deposits — and how to avoid them.
 
-👉 [📥 Download the free guide →](/en/bonus/free-guide/)
+[Download the free guide →](/en/bonus/free-guide/)
 
 ---
 
-## 🎯 Our Mission
+## Our Mission
 
 Make crypto understandable and accessible for everyone.
 
