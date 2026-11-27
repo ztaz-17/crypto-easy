@@ -1,21 +1,14 @@
 {{ define "main" }}
 
 <article class="post">
-  <hr>
   <!-- CONTENT -->
   <section class="post-content">
     {{ .Content }}
   </section>
 
   {{ $pages := .CurrentSection.Pages.ByWeight.Reverse }}
-  {{/*
-  {{ range $index, $page := $pages }}
-    {{ #{{ $index }}: {{ .Weight }} - {{ .Title }}<br> }}
-  {{ end }}
-  */}}
-  
+
   {{ if and .Weight (or ($pages.Prev .) ($pages.Next .)) }}
-    <hr>
     <nav class="post-nav">
       {{ with $pages.Prev . }}
         <a href="{{ .RelPermalink }}" class="prev">{{ i18n "prev" }}</a>
@@ -26,6 +19,9 @@
     </nav>
   {{ end }}
 
+  <div class="post-back">
+    <a href="{{ .CurrentSection.RelPermalink }}">&larr; {{ .CurrentSection.Title }}</a>
+  </div>
 
 </article>
 

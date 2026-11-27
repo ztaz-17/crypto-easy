@@ -139,10 +139,6 @@ li::marker {
   background: #f7f8fa;
 }
 
-.container {
-  overflow-x: auto;
-}
-
 .container td:first-child {
   font-weight: 600;
   color: var(--ink);
@@ -190,6 +186,83 @@ li::marker {
 .post-nav a.next {
   margin-left: auto;
 }
+
+/* the article title is the first heading inside the content */
+.post-content > h2:first-child {
+  font-size: clamp(26px, 3.3vw, 33px);
+  line-height: 1.16;
+  letter-spacing: -0.028em;
+  margin-top: 0;
+}
+
+/* ARTICLE BODY */
+.post-content blockquote {
+  margin: 26px 0;
+  padding: 16px 18px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  font-size: 16px;
+  color: var(--ink-soft);
+}
+
+.post-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 26px auto;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+}
+
+.post-content pre {
+  margin: 22px 0;
+  padding: 14px 16px;
+  background: #f4f5f7;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  overflow-x: auto;
+  font-size: 13.5px;
+  line-height: 1.55;
+}
+
+.post-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  background: #f4f5f7;
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.post-content pre code {
+  background: none;
+  padding: 0;
+}
+
+.post-content li {
+  margin-bottom: 6px;
+}
+
+.post-back {
+  margin-top: 26px;
+  font-size: 14px;
+}
+
+.container .post-back a {
+  color: var(--muted);
+  border-bottom: 0;
+  font-weight: 500;
+}
+
+.container .post-back a:hover {
+  color: var(--ink);
+}
+
 
 /* SECTION CARDS — рамка + чёрная тень (стиль без изменения контента внутри) */
 .section-card {
