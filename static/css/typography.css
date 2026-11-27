@@ -263,24 +263,6 @@ li::marker {
   color: var(--ink);
 }
 
-.container .post-nav a {
-  font-size: 14.5px;
-  padding: 7px 14px;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  background: var(--panel);
-  transition: border-color 0.15s ease, background 0.15s ease;
-}
-
-.container .post-nav a:hover {
-  border-color: var(--line-strong);
-  border-bottom-color: var(--line-strong);
-  background: #fcfcfb;
-}
-
-.post-nav a.next {
-  margin-left: auto;
-}
 
 /* SECTION CARDS — рамка + чёрная тень (стиль без изменения контента внутри) */
 .section-card {
