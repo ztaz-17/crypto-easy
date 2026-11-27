@@ -34,4 +34,13 @@
   .mobile-menu {
     padding: 4px 16px 10px;
   }
+
+  /* wide tables scroll inside their own box instead of the whole page */
+  .container table {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
