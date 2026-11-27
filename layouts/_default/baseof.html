@@ -13,6 +13,7 @@
   <link rel="stylesheet" href="/css/footer.css?v={{ $ver }}">
   <link rel="stylesheet" href="/css/typography.css?v={{ $ver }}">
   <link rel="stylesheet" href="/css/responsive.css?v={{ $ver }}">
+  {{ if .IsHome }}<link rel="stylesheet" href="/css/home.css?v={{ $ver }}">{{ end }}
   {{ partial "analytics.html" . }}
 
 
